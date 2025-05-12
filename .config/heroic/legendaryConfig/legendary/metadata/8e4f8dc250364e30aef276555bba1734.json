@@ -1,0 +1,267 @@
+{
+  "app_name": "8e4f8dc250364e30aef276555bba1734",
+  "app_title": "The Lord of The Rings: Return to Moria\u2122",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "8e4f8dc250364e30aef276555bba1734",
+      "asset_id": "8e4f8dc250364e30aef276555bba1734",
+      "build_version": "197822",
+      "catalog_item_id": "b55e326929b44a7b913693ea8ae79d00",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "221e69055bf041448b6bfb4f42e1d743",
+        "update_type": "PATCH"
+      },
+      "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45676D8KrRWuq2NgCxLeDHWN6vSI",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-02-14T16:24:23.839Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Moria/Saved/SaveGamesEpic/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ReturnToMoria"
+      }
+    },
+    "description": "The Lord of The Rings: Return to Moria\u2122",
+    "developer": "North Beach Games",
+    "developerId": "o-nwx4cr9ugyq97j23tjkxj5mbdw86qw",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-23T14:49:40.675Z",
+        "customAttributes": {},
+        "description": "\u00a1Abraza el legado de los rohirrim con el DLC: Paquete de Rohan!",
+        "developer": "North Beach Games",
+        "developerId": "o-nwx4cr9ugyq97j23tjkxj5mbdw86qw",
+        "endOfSupport": false,
+        "entitlementName": "c681529ad9df45bf8334802a7f961b93",
+        "entitlementType": "EXECUTABLE",
+        "id": "c681529ad9df45bf8334802a7f961b93",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "The Lord of The Rings Return to Moria The Lord of the Rings: Return to Moria\u2122 Rohan Pack DLC Offer",
+            "height": 1440,
+            "md5": "5adc5d4820e13ca03ba3eea918c8c3df",
+            "size": 482425,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-12-12T04:25:24.109Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-1tg1n.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download The Lord of The Rings Return to Moria The Lord of the Rings: Return to Moria\u2122 Rohan Pack DLC Offer",
+            "height": 1600,
+            "md5": "dbe64a5f36406da1cae3fddcf872d6f7",
+            "size": 343288,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-12-12T04:25:23.935Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-edkxx.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-26T17:17:55.430Z",
+        "mainGameItem": {
+          "id": "b55e326929b44a7b913693ea8ae79d00",
+          "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b55e326929b44a7b913693ea8ae79d00",
+            "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Lord of the Rings: Return to Moria\u2122, DLC: Paquete de Rohan",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-11-15T06:23:01.484Z",
+        "customAttributes": {},
+        "description": "Acurr\u00facate junto al fuego y celebra el Yuletide bajo la monta\u00f1a.",
+        "developer": "North Beach Games",
+        "developerId": "o-nwx4cr9ugyq97j23tjkxj5mbdw86qw",
+        "endOfSupport": false,
+        "entitlementName": "ac75638a13454c4f996388d2062ee189",
+        "entitlementType": "EXECUTABLE",
+        "id": "ac75638a13454c4f996388d2062ee189",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "The Lord of The Rings Return to Moria The Lord of the Rings: Return to Moria DLC 2 - Holiday Pack Offer",
+            "height": 1440,
+            "md5": "2f6a4d2550d4070627b163ababde88f3",
+            "size": 2904555,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-15T06:27:58.452Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-zu08d.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download The Lord of The Rings Return to Moria The Lord of the Rings: Return to Moria DLC 2 - Holiday Pack Offer",
+            "height": 1600,
+            "md5": "da6b801c095c9b879087835f1c4f4365",
+            "size": 2768391,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-15T06:28:03.020Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-mm17c.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-26T17:17:55.430Z",
+        "mainGameItem": {
+          "id": "b55e326929b44a7b913693ea8ae79d00",
+          "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b55e326929b44a7b913693ea8ae79d00",
+            "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Lord of the Rings: Return to Moria\u2122, Paquete de Yuletide",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-03-26T17:17:55.459Z",
+        "description": "\u00a1Insp\u00edrate en los grandes ents pastores de la Tierra Media!",
+        "developer": "North Beach Games",
+        "developerId": "o-nwx4cr9ugyq97j23tjkxj5mbdw86qw",
+        "endOfSupport": false,
+        "entitlementName": "9c5f9d475c66412b9d6ee36a829e6998",
+        "entitlementType": "EXECUTABLE",
+        "id": "9c5f9d475c66412b9d6ee36a829e6998",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "The Lord of The Rings Return to Moria The Lord of the Rings: Return to Moria\u2122 Ent-craft Pack Offer",
+            "height": 1440,
+            "md5": "2d9cff65bb9a1ecba3454b4b0a296758",
+            "size": 1568899,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-03-24T03:54:19.981Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-qnaob.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download The Lord of The Rings Return to Moria The Lord of the Rings: Return to Moria\u2122 Ent-craft Pack Offer",
+            "height": 1600,
+            "md5": "104d522e98bf5a6d8ac8d7a6761da295",
+            "size": 2852420,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-03-24T03:54:24.793Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-g6zzx.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-26T17:17:55.459Z",
+        "mainGameItem": {
+          "id": "b55e326929b44a7b913693ea8ae79d00",
+          "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b55e326929b44a7b913693ea8ae79d00",
+            "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Return to Moria\u2122, Paquete de artesan\u00eda ent",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "b55e326929b44a7b913693ea8ae79d00",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "b55e326929b44a7b913693ea8ae79d00",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "The Lord of The Rings Return to Moria Offer",
+        "height": 1440,
+        "md5": "2f6a4d2550d4070627b163ababde88f3",
+        "size": 2904555,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-07-11T21:13:43.249Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-tcss2.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download The Lord of The Rings Return to Moria Offer",
+        "height": 1600,
+        "md5": "da6b801c095c9b879087835f1c4f4365",
+        "size": 2768391,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-07-11T21:14:05.367Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-13b88.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-26T17:17:56.527Z",
+    "mainGameItemList": [],
+    "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+    "releaseInfo": [
+      {
+        "appId": "8e4f8dc250364e30aef276555bba1734",
+        "id": "0377f31630c74a72afa44da45c1c0dec",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Lord of The Rings: Return to Moria\u2122",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

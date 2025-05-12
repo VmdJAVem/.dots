@@ -1,0 +1,696 @@
+{
+  "app_name": "93228a1a7b2b4205811d8edf930a0c18",
+  "app_title": "RAWMEN: Food Fighter Arena \ud83c\udf5c",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "93228a1a7b2b4205811d8edf930a0c18",
+      "asset_id": "93228a1a7b2b4205811d8edf930a0c18",
+      "build_version": "v20250417_0155",
+      "catalog_item_id": "f630390312144c1f84314e61319c4779",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9396c093672246e285e77fb8b4e2734a",
+        "update_type": "MINOR"
+      },
+      "namespace": "b9665613f2b94636bf4536a411002d22",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-04-14T08:19:01.498Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "RAWMEN"
+      }
+    },
+    "description": "RAWMEN: Food Fighter Arena \ud83c\udf5c",
+    "developer": "tinyBuild Games",
+    "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-12T15:40:43.126Z",
+        "description": "Streamer Package_ConsumableAudience",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "0a069bc6036644ed92919680e0b7da85",
+        "entitlementType": "AUDIENCE",
+        "id": "0a069bc6036644ed92919680e0b7da85",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-17T08:14:17.922Z",
+        "mainGameItem": {
+          "id": "f630390312144c1f84314e61319c4779",
+          "namespace": "b9665613f2b94636bf4536a411002d22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f630390312144c1f84314e61319c4779",
+            "namespace": "b9665613f2b94636bf4536a411002d22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b9665613f2b94636bf4536a411002d22",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Streamer Package_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-20T00:34:39.054Z",
+        "description": "Twitch Drop Hat_ConsumableAudience",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "eac8b6fce5aa4f8c9b4fc9f84b9c7731",
+        "entitlementType": "AUDIENCE",
+        "id": "eac8b6fce5aa4f8c9b4fc9f84b9c7731",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-17T08:14:17.922Z",
+        "mainGameItem": {
+          "id": "f630390312144c1f84314e61319c4779",
+          "namespace": "b9665613f2b94636bf4536a411002d22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f630390312144c1f84314e61319c4779",
+            "namespace": "b9665613f2b94636bf4536a411002d22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b9665613f2b94636bf4536a411002d22",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Twitch Drop Hat_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-20T00:33:52.262Z",
+        "description": "Twitch Drop Ladle_ConsumableAudience",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "43b8c8b2458542bc901338be5ecc1e33",
+        "entitlementType": "AUDIENCE",
+        "id": "43b8c8b2458542bc901338be5ecc1e33",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-17T08:14:18.871Z",
+        "mainGameItem": {
+          "id": "f630390312144c1f84314e61319c4779",
+          "namespace": "b9665613f2b94636bf4536a411002d22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f630390312144c1f84314e61319c4779",
+            "namespace": "b9665613f2b94636bf4536a411002d22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b9665613f2b94636bf4536a411002d22",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Twitch Drop Ladle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-06-07T03:22:55.932Z",
+        "description": "currency_premium_13000_ConsumableAudience",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "c21f27e09c7a4fdfb5bb77488131c347",
+        "entitlementType": "AUDIENCE",
+        "id": "c21f27e09c7a4fdfb5bb77488131c347",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-17T08:14:17.922Z",
+        "mainGameItem": {
+          "id": "f630390312144c1f84314e61319c4779",
+          "namespace": "b9665613f2b94636bf4536a411002d22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f630390312144c1f84314e61319c4779",
+            "namespace": "b9665613f2b94636bf4536a411002d22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b9665613f2b94636bf4536a411002d22",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "currency_premium_13000_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-06-07T03:22:02.413Z",
+        "description": "currency_premium_6000_ConsumableAudience",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "634f2841ab59452aaeddd09b3217628b",
+        "entitlementType": "AUDIENCE",
+        "id": "634f2841ab59452aaeddd09b3217628b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-17T08:14:17.922Z",
+        "mainGameItem": {
+          "id": "f630390312144c1f84314e61319c4779",
+          "namespace": "b9665613f2b94636bf4536a411002d22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f630390312144c1f84314e61319c4779",
+            "namespace": "b9665613f2b94636bf4536a411002d22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b9665613f2b94636bf4536a411002d22",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "currency_premium_6000_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-06-07T03:19:20.988Z",
+        "description": "currency_premium_1000_ConsumableAudience",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "37688f6c1346454088c41a3d2082f676",
+        "entitlementType": "AUDIENCE",
+        "id": "37688f6c1346454088c41a3d2082f676",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-17T08:14:17.922Z",
+        "mainGameItem": {
+          "id": "f630390312144c1f84314e61319c4779",
+          "namespace": "b9665613f2b94636bf4536a411002d22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f630390312144c1f84314e61319c4779",
+            "namespace": "b9665613f2b94636bf4536a411002d22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b9665613f2b94636bf4536a411002d22",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "currency_premium_1000_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-20T00:33:38.648Z",
+        "description": "Twitch Drop Mitt_ConsumableAudience",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "6e71fd534950464b97e0fde4ab1d35dc",
+        "entitlementType": "AUDIENCE",
+        "id": "6e71fd534950464b97e0fde4ab1d35dc",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-17T08:14:17.922Z",
+        "mainGameItem": {
+          "id": "f630390312144c1f84314e61319c4779",
+          "namespace": "b9665613f2b94636bf4536a411002d22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f630390312144c1f84314e61319c4779",
+            "namespace": "b9665613f2b94636bf4536a411002d22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b9665613f2b94636bf4536a411002d22",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Twitch Drop Mitt_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-06-07T03:21:07.248Z",
+        "description": "currency_premium_2200_ConsumableAudience",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "cb7e4265b89f4ede918f505f349a5f53",
+        "entitlementType": "AUDIENCE",
+        "id": "cb7e4265b89f4ede918f505f349a5f53",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-17T08:14:17.922Z",
+        "mainGameItem": {
+          "id": "f630390312144c1f84314e61319c4779",
+          "namespace": "b9665613f2b94636bf4536a411002d22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f630390312144c1f84314e61319c4779",
+            "namespace": "b9665613f2b94636bf4536a411002d22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b9665613f2b94636bf4536a411002d22",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "currency_premium_2200_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-20T00:34:06.362Z",
+        "description": "Twitch Drop Pot_ConsumableAudience",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "7e6dbdaed7124986a38f3d7799c5dbb4",
+        "entitlementType": "AUDIENCE",
+        "id": "7e6dbdaed7124986a38f3d7799c5dbb4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-17T08:14:18.871Z",
+        "mainGameItem": {
+          "id": "f630390312144c1f84314e61319c4779",
+          "namespace": "b9665613f2b94636bf4536a411002d22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f630390312144c1f84314e61319c4779",
+            "namespace": "b9665613f2b94636bf4536a411002d22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b9665613f2b94636bf4536a411002d22",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Twitch Drop Pot_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-06T09:22:19.186Z",
+        "description": "currency_premium_500_ConsumableAudience",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "f4221e999c81472d985412f742cde56d",
+        "entitlementType": "AUDIENCE",
+        "id": "f4221e999c81472d985412f742cde56d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-17T08:14:17.922Z",
+        "mainGameItem": {
+          "id": "f630390312144c1f84314e61319c4779",
+          "namespace": "b9665613f2b94636bf4536a411002d22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f630390312144c1f84314e61319c4779",
+            "namespace": "b9665613f2b94636bf4536a411002d22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b9665613f2b94636bf4536a411002d22",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "currency_premium_500_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-20T00:34:21.381Z",
+        "description": "Twitch Drop Potpal_ConsumableAudience",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "9bb9bae2f6fc401a93608197bc0a0e24",
+        "entitlementType": "AUDIENCE",
+        "id": "9bb9bae2f6fc401a93608197bc0a0e24",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-17T08:14:18.871Z",
+        "mainGameItem": {
+          "id": "f630390312144c1f84314e61319c4779",
+          "namespace": "b9665613f2b94636bf4536a411002d22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f630390312144c1f84314e61319c4779",
+            "namespace": "b9665613f2b94636bf4536a411002d22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b9665613f2b94636bf4536a411002d22",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Twitch Drop Potpal_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-20T00:33:22.180Z",
+        "description": "Twitch Drop Apron_ConsumableAudience",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "6178470caac34af1b63ca0048651dcba",
+        "entitlementType": "AUDIENCE",
+        "id": "6178470caac34af1b63ca0048651dcba",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-17T08:14:18.871Z",
+        "mainGameItem": {
+          "id": "f630390312144c1f84314e61319c4779",
+          "namespace": "b9665613f2b94636bf4536a411002d22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f630390312144c1f84314e61319c4779",
+            "namespace": "b9665613f2b94636bf4536a411002d22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b9665613f2b94636bf4536a411002d22",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Twitch Drop Apron_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-07-20T00:55:52.645Z",
+        "description": "Twitch Drop Full Set_ConsumableAudience",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "6b683b7142ee4f6680dc9ecbdc4a794f",
+        "entitlementType": "AUDIENCE",
+        "id": "6b683b7142ee4f6680dc9ecbdc4a794f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-17T08:14:18.871Z",
+        "mainGameItem": {
+          "id": "f630390312144c1f84314e61319c4779",
+          "namespace": "b9665613f2b94636bf4536a411002d22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f630390312144c1f84314e61319c4779",
+            "namespace": "b9665613f2b94636bf4536a411002d22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b9665613f2b94636bf4536a411002d22",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Twitch Drop Full Set_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-11-13T04:11:56.643Z",
+        "customAttributes": {},
+        "description": "RAWMEN Seasoning's Greetings Bundle",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "9cd48632b7eb4280b23d660c519dfd02",
+        "entitlementType": "EXECUTABLE",
+        "id": "9cd48632b7eb4280b23d660c519dfd02",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "RAWMEN RAWMEN Seasoning's Greetings Bundle Offer",
+            "height": 1440,
+            "md5": "069711c9666aa5ead377fb45faed8ea0",
+            "size": 2455047,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-25T19:33:38.202Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-1n0gw.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download RAWMEN RAWMEN Seasoning's Greetings Bundle Offer",
+            "height": 1600,
+            "md5": "d27acc31adde0516a3fc22a435e39b7d",
+            "size": 1345703,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-25T19:33:32.433Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-1on1n.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-12-12T17:23:56.578Z",
+        "mainGameItem": {
+          "id": "f630390312144c1f84314e61319c4779",
+          "namespace": "b9665613f2b94636bf4536a411002d22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f630390312144c1f84314e61319c4779",
+            "namespace": "b9665613f2b94636bf4536a411002d22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b9665613f2b94636bf4536a411002d22",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RAWMEN Seasoning's Greetings Bundle",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-04-11T11:03:25.375Z",
+        "description": "RAWMEN Sakura Gusoku Cosmetic Set",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "1c0e783913b4486fb4aa3adf8b9d1b03",
+        "entitlementType": "EXECUTABLE",
+        "id": "1c0e783913b4486fb4aa3adf8b9d1b03",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "RAWMEN RAWMEN Sakura Gusoku Cosmetic Set Offer",
+            "height": 1440,
+            "md5": "c6cc8155745a57d312e73dfff8a4cb89",
+            "size": 2395035,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-04-03T06:47:21.606Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-1ot88.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download RAWMEN RAWMEN Sakura Gusoku Cosmetic Set Offer",
+            "height": 1600,
+            "md5": "6ef22287337f19d8715a512eea31e908",
+            "size": 1654508,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-04-03T06:47:21.364Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-1w512.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-11T11:03:25.375Z",
+        "mainGameItem": {
+          "id": "f630390312144c1f84314e61319c4779",
+          "namespace": "b9665613f2b94636bf4536a411002d22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f630390312144c1f84314e61319c4779",
+            "namespace": "b9665613f2b94636bf4536a411002d22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b9665613f2b94636bf4536a411002d22",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RAWMEN Sakura Gusoku Cosmetic Set",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "f630390312144c1f84314e61319c4779",
+    "entitlementType": "EXECUTABLE",
+    "id": "f630390312144c1f84314e61319c4779",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "RAWMEN Offer",
+        "height": 1440,
+        "md5": "4478ae9b95a80e9d59589bd83a9cd2a5",
+        "size": 2822875,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-08-08T04:27:21.728Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-14zyp.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download RAWMEN Offer",
+        "height": 1600,
+        "md5": "3dd617bb9f2c8cf6c092542317642381",
+        "size": 1875354,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-08-08T04:27:19.762Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-z1x0r.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-11T11:03:25.595Z",
+    "mainGameItemList": [],
+    "namespace": "b9665613f2b94636bf4536a411002d22",
+    "releaseInfo": [
+      {
+        "appId": "93228a1a7b2b4205811d8edf930a0c18",
+        "id": "68ddf0c2dd314514ad148b65ced3323f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "RAWMEN: Food Fighter Arena \ud83c\udf5c",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

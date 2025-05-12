@@ -1,0 +1,109 @@
+{
+  "app_name": "6278dd278d714aeb88239a423fa0f8be",
+  "app_title": "Call of the Sea",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "6278dd278d714aeb88239a423fa0f8be",
+      "asset_id": "6278dd278d714aeb88239a423fa0f8be",
+      "build_version": "1.5.4.10",
+      "catalog_item_id": "7af64df31e274da5b78adbb056c9ebed",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5e427319eea1401ab20c6cd78a4163c4",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-04-01T03:44:04.542Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "CallOfTheSea"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "5e427319eea1401ab20c6cd78a4163c4"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Call of the Sea",
+    "developer": "Raw Fury",
+    "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "endOfSupport": false,
+    "entitlementName": "7af64df31e274da5b78adbb056c9ebed",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7af64df31e274da5b78adbb056c9ebed",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "204699c6410deef9c18be0ee392f8335",
+        "size": 315038,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-09-30T17:19:15.912Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CalloftheSea_OutoftheBlue_S1_2560x1440-204699c6410deef9c18be0ee392f8335",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "db63acf0c479c185e0ef8f8e73c8f0d8",
+        "size": 1007715,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-09-30T17:19:20.436Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CalloftheSea_OutoftheBlue_S2_1200x1600-db63acf0c479c185e0ef8f8e73c8f0d8",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-03-02T05:38:53.896Z",
+    "mainGameItemList": [],
+    "namespace": "5e427319eea1401ab20c6cd78a4163c4",
+    "releaseInfo": [
+      {
+        "appId": "6278dd278d714aeb88239a423fa0f8be",
+        "id": "81dd503918f740808cd1c9b151de3cd6",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Call of the Sea",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

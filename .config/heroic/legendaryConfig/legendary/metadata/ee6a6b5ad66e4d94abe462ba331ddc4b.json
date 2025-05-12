@@ -1,0 +1,89 @@
+{
+  "app_name": "ee6a6b5ad66e4d94abe462ba331ddc4b",
+  "app_title": "LISA: The Painful - Definitive Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ee6a6b5ad66e4d94abe462ba331ddc4b",
+      "asset_id": "ee6a6b5ad66e4d94abe462ba331ddc4b",
+      "build_version": "1.5_2",
+      "catalog_item_id": "98fccaa4f62145f295203ee8389af8c5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "a6765150693049d891cb74f2d87527dc"
+      },
+      "namespace": "2052c58b9f64498386cbbbc85df90bbf",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-28T09:47:39.388Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "LISAThePainfulHmBJi"
+      }
+    },
+    "description": "LISA: The Painful - Definitive Edition",
+    "developer": "Serenity Forge",
+    "developerId": "o-256f2bc2a35049a39ceae0f57d01bb",
+    "endOfSupport": false,
+    "entitlementName": "98fccaa4f62145f295203ee8389af8c5",
+    "entitlementType": "EXECUTABLE",
+    "id": "98fccaa4f62145f295203ee8389af8c5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "LISA - The Painful Offer",
+        "height": 1440,
+        "md5": "d96aa5adb25cc955fe0610ff0f4e9843",
+        "size": 962549,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-10-04T16:11:43.600Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/0e0c921cacb34d6fa7c5922fad2232b9/lisa--the-painful-1wn7n.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download LISA - The Painful Offer",
+        "height": 1600,
+        "md5": "1261e46c6a54f77be4dffd562cf04a5b",
+        "size": 561921,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-10-04T16:11:45.742Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/0e0c921cacb34d6fa7c5922fad2232b9/lisa--the-painful-bgxoo.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T15:59:22.963Z",
+    "mainGameItemList": [],
+    "namespace": "2052c58b9f64498386cbbbc85df90bbf",
+    "releaseInfo": [
+      {
+        "appId": "ee6a6b5ad66e4d94abe462ba331ddc4b",
+        "id": "cda1f24547bc4d25974b9b0a04da2e4f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "LISA: The Painful - Definitive Edition",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "3e1bf5ad987e45fe9db371ae621e88e9"
+    },
+    "rev": 1
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "app_name": "bc2c95c6ff564a16b26644f1d3ac3c55",
+  "app_title": "BioShock Remastered",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "bc2c95c6ff564a16b26644f1d3ac3c55",
+      "asset_id": "bc2c95c6ff564a16b26644f1d3ac3c55",
+      "build_version": "1.0.0_BN-188_CL-17677",
+      "catalog_item_id": "c7934d31d2ed473cb4b000c24e049927",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "e9e3ee13329f434f94105e6ec63435e0",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [
+    "https://download.epicgames.com/Builds/Org/o-37m6jbj5wcvrcvm4wusv7nazdfvbjk/ad341110e65148e18d9115e5dc12d47e/default",
+    "https://epicgames-download1.akamaized.net/Builds/Org/o-37m6jbj5wcvrcvm4wusv7nazdfvbjk/ad341110e65148e18d9115e5dc12d47e/default",
+    "https://fastly-download.epicgames.com/Builds/Org/o-37m6jbj5wcvrcvm4wusv7nazdfvbjk/ad341110e65148e18d9115e5dc12d47e/default",
+    "https://cloudflare.epicgamescdn.com/Builds/Org/o-37m6jbj5wcvrcvm4wusv7nazdfvbjk/ad341110e65148e18d9115e5dc12d47e/default"
+  ],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567oOarOydLE06TnsFSYV1THytH",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-10-01T18:29:30.750Z",
+    "customAttributes": {
+      "BackgroundProcessNames": {
+        "type": "STRING",
+        "value": "LauncherPatcher.exe"
+      },
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "BioshockRemastered"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "e9e3ee13329f434f94105e6ec63435e0"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "BioShock Remastered",
+    "developer": "2K Games, Inc.",
+    "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "endOfSupport": false,
+    "entitlementName": "c7934d31d2ed473cb4b000c24e049927",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "c7934d31d2ed473cb4b000c24e049927",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "cb7067c24252c5602497ab42fc488eed",
+        "size": 911418,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-04-20T13:27:11.789Z",
+        "url": "https://cdn1.epicgames.com/item/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S1_2560x1440-cb7067c24252c5602497ab42fc488eed",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "1a3c51f042c7023b711f36ec866ea90b",
+        "size": 924694,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-04-20T13:27:20.279Z",
+        "url": "https://cdn1.epicgames.com/item/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S2_1200x1600-1a3c51f042c7023b711f36ec866ea90b",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-05-26T20:36:12.570Z",
+    "mainGameItemList": [],
+    "namespace": "e9e3ee13329f434f94105e6ec63435e0",
+    "releaseInfo": [
+      {
+        "appId": "bc2c95c6ff564a16b26644f1d3ac3c55",
+        "id": "00429643939d43e9a30351693b5643b3",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "BioShock Remastered",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,378 @@
+{
+  "app_name": "4a4ffcf1a8354008bcc3b28280dd2419",
+  "app_title": "EARTHLOCK",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "4a4ffcf1a8354008bcc3b28280dd2419",
+      "asset_id": "4a4ffcf1a8354008bcc3b28280dd2419",
+      "build_version": "Windows.0.1.1_dev_7_Win64",
+      "catalog_item_id": "7cadfcd8bc9845e7a5016d71ffa843e3",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3898a8706c954ae88690aa906b198f45"
+      },
+      "namespace": "5c82c05d2978489090d30c05e17e6e12",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-08-30T07:00:24.598Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "EARTHLOCKofSSb"
+      }
+    },
+    "description": "Non farti ingannare dalla grafica carina. EARTHLOCK \u00e8 un JRPG impegnativo amato dai veri fan. I giocatori casuali dovrebbero cercare altrove. Con dedizione, regala un gameplay complesso, sfidando anche i migliori strategisti.",
+    "developer": "Snowcastle Games",
+    "developerId": "o-bpprrrleujjcdbcm85kdtuu6q6fm2e",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-15T09:39:56.972Z",
+        "description": "EARTHLOCK - Comic Book #1 - The Storm Dog & The Clay Orchid",
+        "developer": "Snowcastle Games",
+        "developerId": "o-bpprrrleujjcdbcm85kdtuu6q6fm2e",
+        "endOfSupport": false,
+        "entitlementName": "67805712851a40e89d13bef7c2ee5a31",
+        "entitlementType": "EXECUTABLE",
+        "id": "67805712851a40e89d13bef7c2ee5a31",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "EARTHLOCK EARTHLOCK - Comic Book #1 - The Storm Dog & The Clay Orchid Offer",
+            "height": 1440,
+            "md5": "28d6999c83b34765a52f07741195c9cc",
+            "size": 3098132,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-09T10:26:46.818Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-1iyjy.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download EARTHLOCK EARTHLOCK - Comic Book #1 - The Storm Dog & The Clay Orchid Offer",
+            "height": 1600,
+            "md5": "b2d6da1dd0cfb1846bfd23baf61cab88",
+            "size": 1878598,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-09T11:04:43.281Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-132n4.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-11-21T09:40:59.659Z",
+        "mainGameItem": {
+          "id": "7cadfcd8bc9845e7a5016d71ffa843e3",
+          "namespace": "5c82c05d2978489090d30c05e17e6e12",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7cadfcd8bc9845e7a5016d71ffa843e3",
+            "namespace": "5c82c05d2978489090d30c05e17e6e12",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c82c05d2978489090d30c05e17e6e12",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "EARTHLOCK - Comic Book #1 - The Storm Dog & The Clay Orchid",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-10-04T12:16:51.039Z",
+        "customAttributes": {},
+        "description": "EARTHLOCK - Comic Book #4 - Gnart Tigermoth: The Last Ingredient",
+        "developer": "Snowcastle Games",
+        "developerId": "o-bpprrrleujjcdbcm85kdtuu6q6fm2e",
+        "endOfSupport": false,
+        "entitlementName": "4184ad3899a141b9bb748867d30faf2b",
+        "entitlementType": "EXECUTABLE",
+        "id": "4184ad3899a141b9bb748867d30faf2b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "EARTHLOCK EARTHLOCK - Comic Book #4 - Gnart Tigermoth: The Last Ingredient Offer",
+            "height": 1440,
+            "md5": "f1c1a6080b2b6c6f6674b585f901b04f",
+            "size": 3757965,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-09T11:25:58.073Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-1ooyw.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download EARTHLOCK EARTHLOCK - Comic Book #4 - Gnart Tigermoth: The Last Ingredient Offer",
+            "height": 1600,
+            "md5": "d95ba58f70293db0c249e98e231c0d05",
+            "size": 1436586,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-09T11:25:57.295Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-dsjyi.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-11-15T15:25:36.313Z",
+        "mainGameItem": {
+          "id": "7cadfcd8bc9845e7a5016d71ffa843e3",
+          "namespace": "5c82c05d2978489090d30c05e17e6e12",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7cadfcd8bc9845e7a5016d71ffa843e3",
+            "namespace": "5c82c05d2978489090d30c05e17e6e12",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c82c05d2978489090d30c05e17e6e12",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "EARTHLOCK - Comic Book #4 - Gnart Tigermoth: The Last Ingredient",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-15T11:16:19.137Z",
+        "customAttributes": {},
+        "description": "EARTHLOCK - Comic Book #3 - Gnart Tigermoth: Chaos in Konkylia",
+        "developer": "Snowcastle Games",
+        "developerId": "o-bpprrrleujjcdbcm85kdtuu6q6fm2e",
+        "endOfSupport": false,
+        "entitlementName": "8569c703b3b04eef960d9a4f26bbc7a5",
+        "entitlementType": "EXECUTABLE",
+        "id": "8569c703b3b04eef960d9a4f26bbc7a5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "EARTHLOCK EARTHLOCK - Comic Book #3 - Gnart Tigermoth: Chaos in Konkylia Offer",
+            "height": 1440,
+            "md5": "1f13b34b1053f8fde8f7e8c68c0b9ba3",
+            "size": 610580,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-15T20:10:02.140Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-65w1x.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download EARTHLOCK EARTHLOCK - Comic Book #3 - Gnart Tigermoth: Chaos in Konkylia Offer",
+            "height": 1600,
+            "md5": "c09961ce1ab569c9dd18e973a7e30608",
+            "size": 1121792,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-09T10:59:12.425Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-1hmc7.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-11-16T09:00:18.911Z",
+        "mainGameItem": {
+          "id": "7cadfcd8bc9845e7a5016d71ffa843e3",
+          "namespace": "5c82c05d2978489090d30c05e17e6e12",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7cadfcd8bc9845e7a5016d71ffa843e3",
+            "namespace": "5c82c05d2978489090d30c05e17e6e12",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c82c05d2978489090d30c05e17e6e12",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "EARTHLOCK - Comic Book #3 - Gnart Tigermoth: Chaos in Konkylia",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-10-04T12:18:03.750Z",
+        "customAttributes": {},
+        "description": "EARTHLOCK - Comic Book #5 - In the Shadow of Mephos",
+        "developer": "Snowcastle Games",
+        "developerId": "o-bpprrrleujjcdbcm85kdtuu6q6fm2e",
+        "endOfSupport": false,
+        "entitlementName": "d67f76aae4c4457bbb5da2c43bc036aa",
+        "entitlementType": "EXECUTABLE",
+        "id": "d67f76aae4c4457bbb5da2c43bc036aa",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "EARTHLOCK EARTHLOCK - Comic Book #5 - In the Shadow of Mephos Offer",
+            "height": 1440,
+            "md5": "2fe59e7ef1635f4ad7f170c560f96b84",
+            "size": 3105798,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-15T20:13:11.757Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-1oihd.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download EARTHLOCK EARTHLOCK - Comic Book #5 - In the Shadow of Mephos Offer",
+            "height": 1600,
+            "md5": "716dd79eca14f0b735b7985fe8955ef8",
+            "size": 3303648,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-09T11:22:19.393Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-fn7b7.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-11-16T09:00:18.911Z",
+        "mainGameItem": {
+          "id": "7cadfcd8bc9845e7a5016d71ffa843e3",
+          "namespace": "5c82c05d2978489090d30c05e17e6e12",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7cadfcd8bc9845e7a5016d71ffa843e3",
+            "namespace": "5c82c05d2978489090d30c05e17e6e12",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c82c05d2978489090d30c05e17e6e12",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "EARTHLOCK - Comic Book #5 - In the Shadow of Mephos",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-15T11:12:03.495Z",
+        "customAttributes": {},
+        "description": "EARTHLOCK - Comic Book #2 - Gnart Tigermoth: Trouble in Ramoo",
+        "developer": "Snowcastle Games",
+        "developerId": "o-bpprrrleujjcdbcm85kdtuu6q6fm2e",
+        "endOfSupport": false,
+        "entitlementName": "b010c33a573b4bbd8b92557c18a355b7",
+        "entitlementType": "EXECUTABLE",
+        "id": "b010c33a573b4bbd8b92557c18a355b7",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "EARTHLOCK EARTHLOCK - Comic Book #2 - Gnart Tigermoth: Trouble in Ramoo Offer",
+            "height": 1440,
+            "md5": "57135d4f27607d0c47490824fa63e85a",
+            "size": 2667128,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-09T10:49:13.826Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-m2nmr.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download EARTHLOCK EARTHLOCK - Comic Book #2 - Gnart Tigermoth: Trouble in Ramoo Offer",
+            "height": 1600,
+            "md5": "3a319b5c23a4b834e2d59a25c6955676",
+            "size": 1064887,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-09T11:03:36.476Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-1ewhm.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-11-15T15:25:36.313Z",
+        "mainGameItem": {
+          "id": "7cadfcd8bc9845e7a5016d71ffa843e3",
+          "namespace": "5c82c05d2978489090d30c05e17e6e12",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7cadfcd8bc9845e7a5016d71ffa843e3",
+            "namespace": "5c82c05d2978489090d30c05e17e6e12",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c82c05d2978489090d30c05e17e6e12",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "EARTHLOCK - Comic Book #2 - Gnart Tigermoth: Trouble in Ramoo",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "7cadfcd8bc9845e7a5016d71ffa843e3",
+    "entitlementType": "EXECUTABLE",
+    "id": "7cadfcd8bc9845e7a5016d71ffa843e3",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "EARTHLOCK Offer",
+        "height": 1440,
+        "md5": "a5694bf188457f3a1dfd95c19a88dbd0",
+        "size": 1218007,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-10-10T14:26:40.839Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-akidc.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download EARTHLOCK Offer",
+        "height": 1600,
+        "md5": "53c4b4c82357cfd5d7e018b57e34aa7d",
+        "size": 399516,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-10-10T14:26:40.401Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-jkucv.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-11-15T15:08:31.415Z",
+    "mainGameItemList": [],
+    "namespace": "5c82c05d2978489090d30c05e17e6e12",
+    "releaseInfo": [
+      {
+        "appId": "4a4ffcf1a8354008bcc3b28280dd2419",
+        "id": "b5d43e14f0c647d5a41619730eebcda1",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "EARTHLOCK",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

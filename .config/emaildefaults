@@ -1,0 +1,7 @@
+[Defaults]
+Profile=Por omisión
+
+[PROFILE_Por omisión]
+EmailClient[$e]=app.zen_browser.zen.desktop
+ServerType=
+TerminalClient=false

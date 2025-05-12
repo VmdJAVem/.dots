@@ -1,0 +1,202 @@
+{
+  "app_name": "Duckbill",
+  "app_title": "Yooka-Laylee and the Impossible Lair",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Duckbill",
+      "asset_id": "Duckbill",
+      "build_version": "1.0.28131",
+      "catalog_item_id": "fda40f57b2004437ae9be46c58aa8660",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-11-27T18:37:35.138Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../locallow/Playtonic Ltd/Yooka-Laylee and the Impossible Lair/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "YookaLaylee"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "fa11862b1cfd42e3b3c6395af46efe3e"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Yooka-Laylee and the Impossible Lair",
+    "developer": "Team17 Digital Ltd",
+    "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-03T03:31:57.486Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "TrowzersTopTonicDLC1"
+          }
+        },
+        "description": "DLC : Trowzer\u2019s Top Tonic Pack\n$3.99, \u00a32.99, 3,99\u20ac",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "0f177426ecb14d54b62b200464fa5f1c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0f177426ecb14d54b62b200464fa5f1c",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 562,
+            "md5": "72d7db719712c34aa5d5b4b25134ec8b",
+            "size": 286082,
+            "type": "DieselGameBox",
+            "uploadedDate": "2019-12-27T17:22:52.169Z",
+            "url": "https://cdn1.epicgames.com/fa11862b1cfd42e3b3c6395af46efe3e/item/YL&TIL_TonicsDLC_FeaturedCarouselDesktopHorizontal-1000x562-1000x562-72d7db719712c34aa5d5b4b25134ec8b.jpg",
+            "width": 1000
+          },
+          {
+            "height": 680,
+            "md5": "8990b899f7e2880d750597572b5c8f1d",
+            "size": 182191,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2019-12-27T17:23:00.834Z",
+            "url": "https://cdn1.epicgames.com/fa11862b1cfd42e3b3c6395af46efe3e/item/YL&TIL_TonicsDLC_FeaturedCarouselMobileVertical-510x680-8990b899f7e2880d750597572b5c8f1d.jpg",
+            "width": 510
+          }
+        ],
+        "lastModifiedDate": "2022-03-14T22:45:33.706Z",
+        "mainGameItem": {
+          "id": "fda40f57b2004437ae9be46c58aa8660",
+          "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fda40f57b2004437ae9be46c58aa8660",
+            "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
+        "releaseInfo": [
+          {
+            "appId": "DuckbillDLC1",
+            "dateAdded": "2019-12-03T00:00:00.000Z",
+            "id": "2bd6f629a4d048bcad378a8f9ed8dbf4",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Trowzer's Top Tonic Pack",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "fda40f57b2004437ae9be46c58aa8660",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "fda40f57b2004437ae9be46c58aa8660",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 766,
+        "md5": "8faccccfe9ca390483f8a177b7fccbd4",
+        "size": 496297,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-12-27T17:00:58.186Z",
+        "url": "https://cdn1.epicgames.com/fa11862b1cfd42e3b3c6395af46efe3e/item/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S3-1360x766-8faccccfe9ca390483f8a177b7fccbd4.jpg",
+        "width": 1360
+      },
+      {
+        "height": 680,
+        "md5": "5f1857ce88f7747b88c5121c674470e6",
+        "size": 394172,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-12-27T17:01:08.484Z",
+        "url": "https://cdn1.epicgames.com/fa11862b1cfd42e3b3c6395af46efe3e/item/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S4-510x680-5f1857ce88f7747b88c5121c674470e6.jpg",
+        "width": 510
+      }
+    ],
+    "lastModifiedDate": "2023-02-09T16:48:41.648Z",
+    "mainGameItemList": [],
+    "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
+    "releaseInfo": [
+      {
+        "appId": "Duckbill",
+        "id": "15ae3adec8a842c38bb98cef6189cff2",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Yooka-Laylee and the Impossible Lair",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

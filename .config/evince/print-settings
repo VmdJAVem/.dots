@@ -1,0 +1,31 @@
+[Print Settings]
+cups-ColorModel=RGB
+evince-print-setting-page-autorotate=true
+default-source=Main
+cups-OutputBin=FaceUp
+media-type=Stationery
+cups-MediaType=Stationery
+cups-job-priority=50
+cups-number-up=1
+evince-print-setting-page-size=false
+cover-before=none
+evince-print-setting-page-scale=1
+cups-InputSlot=Main
+print-at-time=
+output-bin=FaceUp
+cover-after=none
+print-at=now
+printer=LOL_endeavourOSbtw
+cups-cupsPrintQuality=Normal
+cups-job-sheets=none,none
+
+[Page Setup]
+PPDName=Letter
+DisplayName=US Letter
+Width=215.89999389648438
+Height=279.39999389648438
+MarginTop=6.3499999999999996
+MarginBottom=14.224
+MarginLeft=6.3499999999999996
+MarginRight=6.3499999999999996
+Orientation=portrait

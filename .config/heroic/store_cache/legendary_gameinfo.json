@@ -1,0 +1,64 @@
+{
+	"2e412cfcbd954e7180930e9784a47e18": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-falloutapostnuclearroleplayinggame-bethesdagamestudios-s2-1200x1600-19ec2db80d2e.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Bethesda Game Studios",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Bethesda Softworks",
+			"description": "You've just unearthed the classic post-apocalyptic role-playing game that revitalized the entire CRPG genre. The Fallout® SPECIAL system allows drastically different types of characters, meaningful decisions and development that puts you in complete control. Explore the devastated ruins of a golden age civilization. Talk, sneak or fight your way past mutants, gangsters and robotic adversaries. Make the right decisions or you could end up as another fallen hero in the wastelands...",
+			"shortDescription": "You've just unearthed the classic post-apocalyptic role-playing game that revitalized the entire CRPG genre. Make the right decisions or you could end up as another fallen hero in the wastelands…",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows",
+				"recommended": "Windows"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Pentium 90Mhz or faster",
+				"recommended": "Pentium 90Mhz or faster"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "16 MB",
+				"recommended": "16 MB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "3 GB available space",
+				"recommended": "3 GB available space"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Direct X",
+				"minimum": "Any DirectX"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "SVGA"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Other",
+				"minimum": "DirectSound or SoundBlaster Compatible"
+			}
+		],
+		"releaseDate": "1997-09-30T11:39:00",
+		"storeUrl": "https://www.epicgames.com/store/product/fallout"
+	},
+	"__timestamp": {
+		"2e412cfcbd954e7180930e9784a47e18": "Thu Apr 24 2025 16:06:20 GMT-0500 (hora estándar oriental)"
+	}
+}

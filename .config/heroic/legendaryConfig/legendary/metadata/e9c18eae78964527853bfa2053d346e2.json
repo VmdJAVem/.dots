@@ -1,0 +1,97 @@
+{
+  "app_name": "e9c18eae78964527853bfa2053d346e2",
+  "app_title": "Wildcat Gun Machine",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "e9c18eae78964527853bfa2053d346e2",
+      "asset_id": "e9c18eae78964527853bfa2053d346e2",
+      "build_version": "1.002E",
+      "catalog_item_id": "80ce94350bce414293a62d3cef420b4a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "5e9e9c12ced546dfba46268c7926aa01"
+      },
+      "namespace": "13cba1b288ec417badb9a276cbb6d819",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-01-15T00:08:56.781Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.es3"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Daedalic Entertainment GmbH/Wildcat Gun Machine/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "WildcatGunMachine"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "100"
+      }
+    },
+    "description": "Wildcat Gun Machine es un juego de calabozos e infierno de balas en el que te enfrentas a hordas de asquerosas bestias de carne y hueso utilizando un gran arsenal de armas, robots gigantes y adorables gatitos.",
+    "developer": "Daedalic Entertainment",
+    "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+    "endOfSupport": false,
+    "entitlementName": "80ce94350bce414293a62d3cef420b4a",
+    "entitlementType": "EXECUTABLE",
+    "id": "80ce94350bce414293a62d3cef420b4a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Wildcat Gun Machine Offer",
+        "height": 1440,
+        "md5": "59374cef910ed293428216fdd609665d",
+        "size": 772041,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-02-03T17:58:44.078Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/d92266115f8d4d5680562d993435daa5/wildcat-gun-machine-offer-1y94l.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Wildcat Gun Machine Offer",
+        "height": 1600,
+        "md5": "0424e2827dfb835dfec3c3f1893f5691",
+        "size": 845468,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-02-03T17:59:17.925Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/d92266115f8d4d5680562d993435daa5/download-wildcat-gun-machine-offer-6a9vx.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-05-12T20:29:16.045Z",
+    "mainGameItemList": [],
+    "namespace": "13cba1b288ec417badb9a276cbb6d819",
+    "releaseInfo": [
+      {
+        "appId": "e9c18eae78964527853bfa2053d346e2",
+        "id": "1a23323145fd4db6bac69d5416ea53fb",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Wildcat Gun Machine",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

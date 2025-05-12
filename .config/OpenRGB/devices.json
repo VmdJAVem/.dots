@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Redragon M693-RGB",
+    "type": "Mouse",
+    "vid": "25a7", // Replace with your VID
+    "pid": "fa7b", // Replace with your PID
+    "protocol": "custom",
+    "commands": [] // Add known commands if available
+  }
+]

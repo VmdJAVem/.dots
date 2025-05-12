@@ -1,0 +1,318 @@
+{
+  "app_name": "71816b992ef04030b1c58af6b9845fe5",
+  "app_title": "Dying Light The Bozak",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "71816b992ef04030b1c58af6b9845fe5",
+      "asset_id": "71816b992ef04030b1c58af6b9845fe5",
+      "build_version": "BOZ_1.50.0f2",
+      "catalog_item_id": "5821c65a103144548f3b55e8ce011292",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "aca275a3c6db4ad2a8027b41436c7119"
+      },
+      "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-06-12T22:55:48.159Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/DyingLight/out/save/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheBozak"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "2c42520d342a46d7a6e0cfa77b4715de"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Dying Light The Bozak",
+    "developer": "Techland",
+    "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+    "endOfSupport": false,
+    "entitlementName": "5821c65a103144548f3b55e8ce011292",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "5821c65a103144548f3b55e8ce011292",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "fd766225be2cad45e6e89493d9c2015a",
+        "size": 418586,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-02-28T14:31:11.040Z",
+        "url": "https://cdn1.epicgames.com/item/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightEnhancedEdition_Techland_Editions_S1_2560x1440-fd766225be2cad45e6e89493d9c2015a_2560x1440-fd766225be2cad45e6e89493d9c2015a",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "dc69fc41d834a6e69090fba163f1edd0",
+        "size": 744973,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-02-28T14:31:05.306Z",
+        "url": "https://cdn1.epicgames.com/item/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightEnhancedEdition_Techland_Editions_S2_1200x1600-dc69fc41d834a6e69090fba163f1edd0_1200x1600-dc69fc41d834a6e69090fba163f1edd0",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-09T16:50:17.649Z",
+    "mainGameItem": {
+      "ageGatings": {},
+      "applicationId": "",
+      "categories": [
+        {
+          "path": "games"
+        },
+        {
+          "path": "applications"
+        }
+      ],
+      "creationDate": "2021-03-04T21:51:42.071Z",
+      "customAttributes": {
+        "CanRunOffline": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "CanSkipKoreanIdVerification": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "CloudIncludeList": {
+          "type": "STRING",
+          "value": "*.sav"
+        },
+        "CloudSaveFolder": {
+          "type": "STRING",
+          "value": "{UserDir}/DyingLight/out/save/"
+        },
+        "FolderName": {
+          "type": "STRING",
+          "value": "DyingLight"
+        },
+        "MonitorPresence": {
+          "type": "STRING",
+          "value": "false"
+        },
+        "PresenceId": {
+          "type": "STRING",
+          "value": "2c42520d342a46d7a6e0cfa77b4715de"
+        },
+        "RequirementsJson": {
+          "type": "STRING",
+          "value": "[]"
+        },
+        "UseAccessControl": {
+          "type": "STRING",
+          "value": "false"
+        }
+      },
+      "description": "Dying Light",
+      "developer": "Techland",
+      "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+      "endOfSupport": false,
+      "entitlementName": "9421139e63f34d6281c18698b54d1e63",
+      "entitlementType": "EXECUTABLE",
+      "eulaIds": [
+        "egstore"
+      ],
+      "id": "9421139e63f34d6281c18698b54d1e63",
+      "installModes": [],
+      "itemType": "DURABLE",
+      "keyImages": [
+        {
+          "height": 1440,
+          "md5": "2967a86bdce109ba6c772176187353d1",
+          "size": 716481,
+          "type": "DieselGameBox",
+          "uploadedDate": "2024-05-08T15:16:30.639Z",
+          "url": "https://cdn1.epicgames.com/item/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightStandardEdition_Techland_Editions_S1_2560x1440-2967a86bdce109ba6c772176187353d1",
+          "width": 2560
+        },
+        {
+          "height": 1600,
+          "md5": "49546d7deaaf160596e034613a2d2a93",
+          "size": 490234,
+          "type": "DieselGameBoxTall",
+          "uploadedDate": "2024-05-08T15:16:34.490Z",
+          "url": "https://cdn1.epicgames.com/item/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightStandardEdition_Techland_Editions_S2_1200x1600-49546d7deaaf160596e034613a2d2a93",
+          "width": 1200
+        }
+      ],
+      "lastModifiedDate": "2025-01-27T12:42:09.937Z",
+      "mainGameItemList": [],
+      "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+      "releaseInfo": [
+        {
+          "appId": "04a54ed532ce4fbfbf8fd5833f60def0",
+          "id": "e54e296c3c4c4c81bebe67c2b092921a",
+          "platform": [
+            "Windows"
+          ]
+        }
+      ],
+      "requiresSecureAccount": false,
+      "status": "ACTIVE",
+      "title": "Dying Light",
+      "unsearchable": true
+    },
+    "mainGameItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-03-04T21:51:42.071Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CloudIncludeList": {
+            "type": "STRING",
+            "value": "*.sav"
+          },
+          "CloudSaveFolder": {
+            "type": "STRING",
+            "value": "{UserDir}/DyingLight/out/save/"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "DyingLight"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "2c42520d342a46d7a6e0cfa77b4715de"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Dying Light",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "9421139e63f34d6281c18698b54d1e63",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9421139e63f34d6281c18698b54d1e63",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "2967a86bdce109ba6c772176187353d1",
+            "size": 716481,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-08T15:16:30.639Z",
+            "url": "https://cdn1.epicgames.com/item/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightStandardEdition_Techland_Editions_S1_2560x1440-2967a86bdce109ba6c772176187353d1",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "49546d7deaaf160596e034613a2d2a93",
+            "size": 490234,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-08T15:16:34.490Z",
+            "url": "https://cdn1.epicgames.com/item/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightStandardEdition_Techland_Editions_S2_1200x1600-49546d7deaaf160596e034613a2d2a93",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-01-27T12:42:09.937Z",
+        "mainGameItemList": [],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [
+          {
+            "appId": "04a54ed532ce4fbfbf8fd5833f60def0",
+            "id": "e54e296c3c4c4c81bebe67c2b092921a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light",
+        "unsearchable": true
+      }
+    ],
+    "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+    "releaseInfo": [
+      {
+        "appId": "71816b992ef04030b1c58af6b9845fe5",
+        "id": "7c40f43bf6964820a697cc8fa48a45f9",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Dying Light The Bozak",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

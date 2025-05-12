@@ -1,0 +1,198 @@
+{
+  "app_name": "06b8b80d89c24a28a7e91127fcbd9542",
+  "app_title": "A Game Of Thrones: The Board Game Digital Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "06b8b80d89c24a28a7e91127fcbd9542",
+      "asset_id": "06b8b80d89c24a28a7e91127fcbd9542",
+      "build_version": "1.1.2.1570",
+      "catalog_item_id": "e41cace1786a488893898632b259ba20",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "4d8d30b0f4f1418390456229675e7672"
+      },
+      "namespace": "1b737464d3c441f8956315433be02d3b",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-03-21T17:48:27.133Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "AGameofThronesLPWt0"
+      }
+    },
+    "description": "It is the digital adaptation of the top-selling strategy board game from Fantasy Flight Games.",
+    "developer": "Asmodee Digital",
+    "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-04-25T18:30:34.185Z",
+        "description": "In A Dance with Dragons expansion, experience the era of the eponym book alongside an alternative 6-player setup and new sets of house cards for shorter and more intense game. Radically change your game with this expert scenario for A Game of Thrones, the Board Game.",
+        "developer": "Asmodee Digital",
+        "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+        "endOfSupport": false,
+        "entitlementName": "f23f940fa225409b9a496c1e9146e77f",
+        "entitlementType": "EXECUTABLE",
+        "id": "f23f940fa225409b9a496c1e9146e77f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "A Game of Thrones A Game Of Thrones - A Dance With Dragons Offer",
+            "height": 1440,
+            "md5": "0ea6eb55923f12fca67e1ddcd77add20",
+            "size": 385123,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-04-25T18:35:11.374Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/61c1413e3db0423f9ddd4a5edbee717e/a-game-of-thrones-a-game-of-thrones--a-dance-with-dragons-offer-601gw.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download A Game of Thrones A Game Of Thrones - A Dance With Dragons Offer",
+            "height": 1600,
+            "md5": "eddfe31a2b3f166069eed62992a4b001",
+            "size": 261842,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-04-25T18:35:15.507Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/61c1413e3db0423f9ddd4a5edbee717e/download-a-game-of-thrones-a-game-of-thrones--a-dance-with-dragons-offer-1ow01.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-25T18:10:51.952Z",
+        "mainGameItem": {
+          "id": "e41cace1786a488893898632b259ba20",
+          "namespace": "1b737464d3c441f8956315433be02d3b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e41cace1786a488893898632b259ba20",
+            "namespace": "1b737464d3c441f8956315433be02d3b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1b737464d3c441f8956315433be02d3b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "A Game Of Thrones - A Dance With Dragons",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-04-25T18:25:08.275Z",
+        "description": "Dive in the events of the eponym book with House Arryn entering the lists for the Iron Throne with this objective-based, 4-player scenario.",
+        "developer": "Asmodee Digital",
+        "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+        "endOfSupport": false,
+        "entitlementName": "cb64f6ba15e74759b41bc8acdfd47f65",
+        "entitlementType": "EXECUTABLE",
+        "id": "cb64f6ba15e74759b41bc8acdfd47f65",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "A Game of Thrones A Game of Thrones - A Feast For Crows Offer",
+            "height": 1440,
+            "md5": "a99eb427e1a55406122a9273a6efa8fc",
+            "size": 570982,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-04-25T18:29:44.831Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/61c1413e3db0423f9ddd4a5edbee717e/a-game-of-thrones-a-game-of-thrones--a-feast-for-crows-offer-bil9c.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download A Game of Thrones A Game of Thrones - A Feast For Crows Offer",
+            "height": 1600,
+            "md5": "9148ec637a692489a08200554208676d",
+            "size": 345243,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-04-25T18:29:47.092Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/61c1413e3db0423f9ddd4a5edbee717e/download-a-game-of-thrones-a-game-of-thrones--a-feast-for-crows-offer-ljhw5.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-25T18:10:51.919Z",
+        "mainGameItem": {
+          "id": "e41cace1786a488893898632b259ba20",
+          "namespace": "1b737464d3c441f8956315433be02d3b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e41cace1786a488893898632b259ba20",
+            "namespace": "1b737464d3c441f8956315433be02d3b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1b737464d3c441f8956315433be02d3b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "A Game of Thrones - A Feast For Crows",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "e41cace1786a488893898632b259ba20",
+    "entitlementType": "EXECUTABLE",
+    "id": "e41cace1786a488893898632b259ba20",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "A Game of Thrones Offer",
+        "height": 1440,
+        "md5": "3d99b990906d6bd8ac798d6d02392590",
+        "size": 446385,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-04-25T18:16:55.733Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/61c1413e3db0423f9ddd4a5edbee717e/a-game-of-thrones-offer-k71ow.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download A Game of Thrones Offer",
+        "height": 1600,
+        "md5": "f352db01077caa5ef1f26b04a2a29016",
+        "size": 299745,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-04-25T18:16:56.941Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/61c1413e3db0423f9ddd4a5edbee717e/download-a-game-of-thrones-offer-10hrv.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-25T18:10:51.988Z",
+    "mainGameItemList": [],
+    "namespace": "1b737464d3c441f8956315433be02d3b",
+    "releaseInfo": [
+      {
+        "appId": "06b8b80d89c24a28a7e91127fcbd9542",
+        "id": "22c16b53572b4e66b15d452a20e6c751",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "A Game Of Thrones: The Board Game Digital Edition",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

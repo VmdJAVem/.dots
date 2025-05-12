@@ -1,0 +1,113 @@
+{
+  "app_name": "78903903b1f1419bae248467f27ff470",
+  "app_title": "INDUSTRIA",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "78903903b1f1419bae248467f27ff470",
+      "asset_id": "78903903b1f1419bae248467f27ff470",
+      "build_version": "1.3.2",
+      "catalog_item_id": "6b5b887a83ea49ba9d228410ee90b8e9",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "51b1503392e04abab64364092cbfca2b",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-04-12T09:17:31.157Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Industria/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "INDUSTRIA"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "51b1503392e04abab64364092cbfca2b"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "INDUSTRIA",
+    "developer": "Headup Gmbh",
+    "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+    "endOfSupport": false,
+    "entitlementName": "6b5b887a83ea49ba9d228410ee90b8e9",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "6b5b887a83ea49ba9d228410ee90b8e9",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "6ac8f445f036547e0f7cc20dd4fd814f",
+        "size": 734769,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-09-21T18:14:29.565Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_INDUSTRIA_Bleakmill_S1_2560x1440-6ac8f445f036547e0f7cc20dd4fd814f",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "b1181c183907044fe877286351ec9905",
+        "size": 640025,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-09-21T18:14:36.968Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_INDUSTRIA_Bleakmill_S2_1200x1600-b1181c183907044fe877286351ec9905",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-17T08:26:07.880Z",
+    "mainGameItemList": [],
+    "namespace": "51b1503392e04abab64364092cbfca2b",
+    "releaseInfo": [
+      {
+        "appId": "78903903b1f1419bae248467f27ff470",
+        "id": "154e3d4d9a414146bcdc7cfef13cac04",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "INDUSTRIA",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

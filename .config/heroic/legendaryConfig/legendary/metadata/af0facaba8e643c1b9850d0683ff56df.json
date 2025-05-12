@@ -1,0 +1,211 @@
+{
+  "app_name": "af0facaba8e643c1b9850d0683ff56df",
+  "app_title": "Encased",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "af0facaba8e643c1b9850d0683ff56df",
+      "asset_id": "af0facaba8e643c1b9850d0683ff56df",
+      "build_version": "1.3.1517.1645",
+      "catalog_item_id": "06154e422cbe4a45a848c89ef2f08cf7",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "48ee23bbc7c34ac09604253e74d17b49",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567muZ1CbWiaE7xGzFypb975MPI",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-04-16T21:11:19.561Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.sav,UserName.txt,Settings.bin,Stats.bin/"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Dark Crystal Games/Encased/UserProfiles/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Encased"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "48ee23bbc7c34ac09604253e74d17b49"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Encased",
+    "developer": "Plaion",
+    "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-05-14T20:28:41.301Z",
+        "customAttributes": {},
+        "description": "wensleydale Run and Gun Kit Audience",
+        "developer": "Plaion",
+        "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+        "endOfSupport": false,
+        "entitlementName": "5dd9f5c81cc448dc8b6331136ae1091a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5dd9f5c81cc448dc8b6331136ae1091a",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-09-06T15:34:47.836Z",
+        "mainGameItem": {
+          "id": "06154e422cbe4a45a848c89ef2f08cf7",
+          "namespace": "48ee23bbc7c34ac09604253e74d17b49",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06154e422cbe4a45a848c89ef2f08cf7",
+            "namespace": "48ee23bbc7c34ac09604253e74d17b49",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "48ee23bbc7c34ac09604253e74d17b49",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "wensleydale Run and Gun Kit Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-05-14T20:27:42.755Z",
+        "customAttributes": {},
+        "description": "wensleydale Portrait Pack Audience",
+        "developer": "Plaion",
+        "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+        "endOfSupport": false,
+        "entitlementName": "6657ea0534474c30810dc109b311f94b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6657ea0534474c30810dc109b311f94b",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-09-06T15:34:07.848Z",
+        "mainGameItem": {
+          "id": "06154e422cbe4a45a848c89ef2f08cf7",
+          "namespace": "48ee23bbc7c34ac09604253e74d17b49",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "06154e422cbe4a45a848c89ef2f08cf7",
+            "namespace": "48ee23bbc7c34ac09604253e74d17b49",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "48ee23bbc7c34ac09604253e74d17b49",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "wensleydale Portrait Pack Audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "06154e422cbe4a45a848c89ef2f08cf7",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "06154e422cbe4a45a848c89ef2f08cf7",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "ec64e621befe963c25f91493a9c7fbfa",
+        "size": 488052,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-11-08T20:52:57.108Z",
+        "url": "https://cdn1.epicgames.com/item/48ee23bbc7c34ac09604253e74d17b49/EGS_Encased_DarkCrystalGames_S1_2560x1440_2560x1440-ec64e621befe963c25f91493a9c7fbfa",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "80d2ec99c08dd85288fcf6749f5c178f",
+        "size": 495029,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-11-08T20:53:03.568Z",
+        "url": "https://cdn1.epicgames.com/item/48ee23bbc7c34ac09604253e74d17b49/EGS_Encased_DarkCrystalGames_S4_1200x1600_1200x1600-80d2ec99c08dd85288fcf6749f5c178f",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-09-06T15:29:55.526Z",
+    "mainGameItemList": [],
+    "namespace": "48ee23bbc7c34ac09604253e74d17b49",
+    "releaseInfo": [
+      {
+        "appId": "af0facaba8e643c1b9850d0683ff56df",
+        "id": "97120c5d0c5b435fb4f5e4f10eec7500",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Encased",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

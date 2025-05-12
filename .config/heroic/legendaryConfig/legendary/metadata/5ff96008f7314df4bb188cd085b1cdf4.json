@@ -1,0 +1,83 @@
+{
+  "app_name": "5ff96008f7314df4bb188cd085b1cdf4",
+  "app_title": "LumbearJack",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "5ff96008f7314df4bb188cd085b1cdf4",
+      "asset_id": "5ff96008f7314df4bb188cd085b1cdf4",
+      "build_version": "1.0.4",
+      "catalog_item_id": "c94754a1de0c4bd4b7749dbb2e1d82bc",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "e2cd4b742a0d452f9ca309f2a1ee34e0"
+      },
+      "namespace": "b112cc17de8c4b43a2372993b5916fec",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-06-01T17:39:29.736Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "LumbearJack5J84F"
+      }
+    },
+    "description": "Agarra tu hacha y salva el medioambiente cortando y reciclando todo lo que se interponga en tu camino y resuelve puzles con tus encantadores amigos animales.",
+    "developer": "Armor Games Studios",
+    "developerId": "o-ttudgfyffrswppq6pflnkwfzdm6qc3",
+    "endOfSupport": false,
+    "entitlementName": "c94754a1de0c4bd4b7749dbb2e1d82bc",
+    "entitlementType": "EXECUTABLE",
+    "id": "c94754a1de0c4bd4b7749dbb2e1d82bc",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "LumbearJack Offer",
+        "height": 1440,
+        "md5": "fe925002beb49c1a1ca714a96c2fd397",
+        "size": 769010,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-06-02T15:21:02.507Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/67b80cb431834a1fa1ec3e69ef2f83f1/lumbearjack-offer-i4fn2.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download LumbearJack Offer",
+        "height": 1600,
+        "md5": "a432e46d3ac19480f91b375c111e9dc8",
+        "size": 801007,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-06-02T15:20:46.637Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/67b80cb431834a1fa1ec3e69ef2f83f1/download-lumbearjack-offer-2k50e.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-06-14T17:47:18.043Z",
+    "mainGameItemList": [],
+    "namespace": "b112cc17de8c4b43a2372993b5916fec",
+    "releaseInfo": [
+      {
+        "appId": "5ff96008f7314df4bb188cd085b1cdf4",
+        "id": "a2b07bdec36649e7b226a92e483ec146",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "LumbearJack",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

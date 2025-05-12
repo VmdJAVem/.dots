@@ -1,0 +1,108 @@
+{
+  "app_name": "d68f964c809145b682e1d768aa126f31",
+  "app_title": "RPG in a Box",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "d68f964c809145b682e1d768aa126f31",
+      "asset_id": "d68f964c809145b682e1d768aa126f31",
+      "build_version": "1.3.3",
+      "catalog_item_id": "e7873d67c5f14949978e44306867cfc8",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "0e76e53e157d416ab598342ed3a9dd5a",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "software"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-11-03T18:21:26.731Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RPGinaBox"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "0e76e53e157d416ab598342ed3a9dd5a"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "RPG in a Box",
+    "developer": "Justin Arnold",
+    "developerId": "o-y37767wpezk9bpvxpg2rmwpuzdtqvs",
+    "endOfSupport": false,
+    "entitlementName": "e7873d67c5f14949978e44306867cfc8",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "e7873d67c5f14949978e44306867cfc8",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "fef2661fad4d06cee988aa2a2c3383c7",
+        "size": 969180,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-11-16T20:34:19.116Z",
+        "url": "https://cdn1.epicgames.com/item/0e76e53e157d416ab598342ed3a9dd5a/EGS_RPGinaBox_JustinArnold_S1_2560x1440-fef2661fad4d06cee988aa2a2c3383c7",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "14578736d77be5027ee1522f41bb86d9",
+        "size": 957920,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-11-16T20:34:23.801Z",
+        "url": "https://cdn1.epicgames.com/item/0e76e53e157d416ab598342ed3a9dd5a/EGS_RPGinaBox_JustinArnold_S2_1200x1600-14578736d77be5027ee1522f41bb86d9",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-11-16T23:35:27.749Z",
+    "mainGameItemList": [],
+    "namespace": "0e76e53e157d416ab598342ed3a9dd5a",
+    "releaseInfo": [
+      {
+        "appId": "d68f964c809145b682e1d768aa126f31",
+        "id": "e5d0210d40c74b619b5b4bbe48cf7bb9",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "RPG in a Box",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,2019 @@
+{
+  "app_name": "04a54ed532ce4fbfbf8fd5833f60def0",
+  "app_title": "Dying Light",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "04a54ed532ce4fbfbf8fd5833f60def0",
+      "asset_id": "04a54ed532ce4fbfbf8fd5833f60def0",
+      "build_version": "DL_1.50.0f2",
+      "catalog_item_id": "9421139e63f34d6281c18698b54d1e63",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "aca275a3c6db4ad2a8027b41436c7119"
+      },
+      "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-03-04T21:51:42.071Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/DyingLight/out/save/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DyingLight"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "2c42520d342a46d7a6e0cfa77b4715de"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Dying Light",
+    "developer": "Techland",
+    "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:19:27.920Z",
+        "customAttributes": {},
+        "description": "siren White Death Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "0d223de8853541d69b7df1d7386f3f9c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0d223de8853541d69b7df1d7386f3f9c",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-09T16:50:17.624Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren White Death Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:21:52.210Z",
+        "customAttributes": {},
+        "description": "siren SHU Warrior Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "58608efff2a840c9917f88eb034c9339",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "58608efff2a840c9917f88eb034c9339",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-09T16:50:17.650Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren SHU Warrior Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-02-15T17:08:13.273Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Savvy Gamer Bundle audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "22708bd52e8c4faf8cc92c386086f1fd",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "22708bd52e8c4faf8cc92c386086f1fd",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-09T16:50:17.631Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Savvy Gamer Bundle audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:18:00.590Z",
+        "customAttributes": {},
+        "description": "siren Combat Armor Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "7b5c1a55dc7040b6999294bd2eff6d6f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7b5c1a55dc7040b6999294bd2eff6d6f",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-09T16:50:17.658Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren Combat Armor Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-01T20:41:09.402Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Chivalry Weapon Pack audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "1a506d9f27f9448fa26cf6f9f058e4cf",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1a506d9f27f9448fa26cf6f9f058e4cf",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-06-09T16:58:54.424Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Chivalry Weapon Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-01T20:40:30.394Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Unturned Weapon Pack audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "c64f5415d90a435a82eaf182b1f10d1c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c64f5415d90a435a82eaf182b1f10d1c",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-06-09T16:58:54.432Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Unturned Weapon Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-12T22:48:05.045Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CloudIncludeList": {
+            "type": "STRING",
+            "value": "*.sav"
+          },
+          "CloudSaveFolder": {
+            "type": "STRING",
+            "value": "{UserDir}/DyingLight/out/save/"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Hellraid"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "2c42520d342a46d7a6e0cfa77b4715de"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Dying Light Hellraid",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "3f1a46ae5f284594805c58465669fb63",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3f1a46ae5f284594805c58465669fb63",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "0aea1e40660d3f4fa70dcd61a93a34d0",
+            "size": 665770,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-02-07T10:17:23.371Z",
+            "url": "https://cdn1.epicgames.com/item/2c42520d342a46d7a6e0cfa77b4715de/EGS_2560x1440_Productlandscapeimage_2560x1440-0aea1e40660d3f4fa70dcd61a93a34d0",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "ea4f4a86c7a07cbfee630c4445ce2481",
+            "size": 909034,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-02-07T10:17:27.160Z",
+            "url": "https://cdn1.epicgames.com/item/2c42520d342a46d7a6e0cfa77b4715de/EGS_1200x1600_Productportraitimage_1200x1600-ea4f4a86c7a07cbfee630c4445ce2481",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-07T10:17:36.553Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [
+          {
+            "appId": "ab3f30c26c2746b9a86a56e5febc7d44",
+            "id": "e532fc88805d4731b54b199dd5dfe3e2",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light Hellraid",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:13:33.087Z",
+        "customAttributes": {},
+        "description": "siren Gun Psycho Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "c041bfb1c5544492b97379191c90c129",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c041bfb1c5544492b97379191c90c129",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-09T16:50:17.672Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren Gun Psycho Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:22:19.405Z",
+        "customAttributes": {},
+        "description": "siren Godfather Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "f38a585869f14e76a9995278d34d3aff",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f38a585869f14e76a9995278d34d3aff",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-09T16:50:17.680Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren Godfather Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-04-20T18:59:11.424Z",
+        "customAttributes": {},
+        "description": "Harran Inmate Bundle Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "198e2b7b3b3144028998ecc98e3aa899",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "198e2b7b3b3144028998ecc98e3aa899",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-09T16:50:17.625Z",
+        "longDescription": "Harran Inmate Bundle Audience",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Harran Inmate Bundle Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:14:20.002Z",
+        "customAttributes": {},
+        "description": "siren Harran Ranger Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "afcbbf5e8904439e9675079238c6c6f2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "afcbbf5e8904439e9675079238c6c6f2",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-09T16:50:17.668Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren Harran Ranger Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:16:07.441Z",
+        "customAttributes": {},
+        "description": "siren Vintage Gunslinger Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "67ebb80df82b463fa21ab7307e47578d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "67ebb80df82b463fa21ab7307e47578d",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-09T16:50:17.654Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren Vintage Gunslinger Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:18:42.243Z",
+        "customAttributes": {},
+        "description": "siren Raiders of Harran Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "1d4561fd4aa64846bdce4111232a69e2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1d4561fd4aa64846bdce4111232a69e2",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-09T16:50:17.626Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren Raiders of Harran Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-01T20:39:38.536Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "L4D2 Bill and Gnome Chompski Pack audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "562eec422ea04230a529bdc0f646fc23",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "562eec422ea04230a529bdc0f646fc23",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-06-09T16:58:54.429Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "L4D2 Bill and Gnome Chompski Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:12:11.780Z",
+        "customAttributes": {},
+        "description": "siren Crash Test Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "3c9e51c75c834a1c8b4e60d6b219095e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3c9e51c75c834a1c8b4e60d6b219095e",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-21T15:05:53.280Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren Crash Test Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:14:52.326Z",
+        "customAttributes": {},
+        "description": "siren Harran Tactical Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "7ce0f090816c405eacac5c58e0d0a238",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7ce0f090816c405eacac5c58e0d0a238",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-09T16:50:17.659Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren Harran Tactical Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:20:43.912Z",
+        "customAttributes": {},
+        "description": "siren Rais Elite Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "b8263fd9c74e4c11bf0f9c7d5a261c76",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b8263fd9c74e4c11bf0f9c7d5a261c76",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-09T16:50:17.670Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren Rais Elite Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-12T22:55:48.159Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CloudIncludeList": {
+            "type": "STRING",
+            "value": "*.sav"
+          },
+          "CloudSaveFolder": {
+            "type": "STRING",
+            "value": "{UserDir}/DyingLight/out/save/"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "TheBozak"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "2c42520d342a46d7a6e0cfa77b4715de"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Dying Light The Bozak",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "5821c65a103144548f3b55e8ce011292",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5821c65a103144548f3b55e8ce011292",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "fd766225be2cad45e6e89493d9c2015a",
+            "size": 418586,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-02-28T14:31:11.040Z",
+            "url": "https://cdn1.epicgames.com/item/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightEnhancedEdition_Techland_Editions_S1_2560x1440-fd766225be2cad45e6e89493d9c2015a_2560x1440-fd766225be2cad45e6e89493d9c2015a",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "dc69fc41d834a6e69090fba163f1edd0",
+            "size": 744973,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-02-28T14:31:05.306Z",
+            "url": "https://cdn1.epicgames.com/item/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightEnhancedEdition_Techland_Editions_S2_1200x1600-dc69fc41d834a6e69090fba163f1edd0_1200x1600-dc69fc41d834a6e69090fba163f1edd0",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-05-09T16:50:17.649Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [
+          {
+            "appId": "71816b992ef04030b1c58af6b9845fe5",
+            "id": "7c40f43bf6964820a697cc8fa48a45f9",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light The Bozak",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-02-15T17:07:32.804Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rust Weapon Pack audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "8044af23f1cb4550944090fb48473b66",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8044af23f1cb4550944090fb48473b66",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-06-09T16:58:54.391Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rust Weapon Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-16T20:46:06.926Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dieselpunk Bundle audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "c5db31b8fab84e21b8a2062d987e8322",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c5db31b8fab84e21b8a2062d987e8322",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-09T16:50:17.673Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dieselpunk Bundle audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-12T22:43:37.648Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CloudIncludeList": {
+            "type": "STRING",
+            "value": "*.sav"
+          },
+          "CloudSaveFolder": {
+            "type": "STRING",
+            "value": "{UserDir}/DyingLight/out/save/"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "TheFollowing"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "2c42520d342a46d7a6e0cfa77b4715de"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Dying Light The Following",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "c7475b5731fb483283651c9d67b86adb",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c7475b5731fb483283651c9d67b86adb",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "fd766225be2cad45e6e89493d9c2015a",
+            "size": 418586,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-02-28T14:30:09.439Z",
+            "url": "https://cdn1.epicgames.com/item/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightEnhancedEdition_Techland_Editions_S1_2560x1440-fd766225be2cad45e6e89493d9c2015a_2560x1440-fd766225be2cad45e6e89493d9c2015a",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "dc69fc41d834a6e69090fba163f1edd0",
+            "size": 744973,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-02-28T14:30:05.499Z",
+            "url": "https://cdn1.epicgames.com/item/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightEnhancedEdition_Techland_Editions_S2_1200x1600-dc69fc41d834a6e69090fba163f1edd0_1200x1600-dc69fc41d834a6e69090fba163f1edd0",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-05-09T16:50:17.674Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [
+          {
+            "appId": "f653266870894ee1acbb5250e3b04bd1",
+            "id": "ea05468799794cf581d57ff2437b083d",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light The Following",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-02-15T17:10:31.236Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Snow Ops Bundle audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "011b93254f494eabbec65bffbd49bb72",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "011b93254f494eabbec65bffbd49bb72",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-09T16:50:17.622Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Snow Ops Bundle audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:12:55.578Z",
+        "customAttributes": {},
+        "description": "siren Classified Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "7f5cb91cb2ec4210b269a6207d1536d6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7f5cb91cb2ec4210b269a6207d1536d6",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-09T16:50:17.660Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren Classified Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:17:07.713Z",
+        "customAttributes": {},
+        "description": "siren Volatile Hunter Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "2e56128339ec416e9d150d13829eafb2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2e56128339ec416e9d150d13829eafb2",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-09T16:50:17.634Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren Volatile Hunter Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:22:47.510Z",
+        "customAttributes": {},
+        "description": "siren Ox Warrior Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "be56d6617b0a43f4a9dd84fd7d47c5ce",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "be56d6617b0a43f4a9dd84fd7d47c5ce",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-06-09T16:58:54.409Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren Ox Warrior Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:11:21.039Z",
+        "customAttributes": {},
+        "description": "siren 5th Anniversary Bundle Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "0cc60eaa48974f3585479f9f1e348b1c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0cc60eaa48974f3585479f9f1e348b1c",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-09T16:50:17.623Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren 5th Anniversary Bundle Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:15:28.832Z",
+        "customAttributes": {},
+        "description": "siren Ultimate Survivor Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "e922b43e49034080937cb80169cd498b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e922b43e49034080937cb80169cd498b",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-21T15:05:26.099Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren Ultimate Survivor Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-12T04:21:14.471Z",
+        "customAttributes": {},
+        "description": "siren Retrowave Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "48b907006adb4758a503f2384c589c3c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "48b907006adb4758a503f2384c589c3c",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-09T16:50:17.644Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "siren Retrowave Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-02-15T17:09:01.637Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Astronaut Bundle audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "faa5143c9c6c4173b2228f91c0c3b13d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "faa5143c9c6c4173b2228f91c0c3b13d",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-09T16:50:17.681Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Astronaut Bundle audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-01T20:36:45.906Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Left 4 Dead 2 Weapon Pack audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "2da26c664de342ae9abd725218969425",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2da26c664de342ae9abd725218969425",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-06-09T16:58:54.427Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Left 4 Dead 2 Weapon Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-02-15T17:09:54.840Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Van Crane Bundle audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "948214825ae247dfaa2c9d7ddd494dce",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "948214825ae247dfaa2c9d7ddd494dce",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-09T16:50:17.663Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Van Crane Bundle audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-28T22:34:12.481Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dying LightEnhanced to Definitive Edition Upgrade audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "b4c09b5698f248d9af7d3d746a8263cb",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b4c09b5698f248d9af7d3d746a8263cb",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-29T14:38:38.783Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying LightEnhanced to Definitive Edition Upgrade audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-08T05:56:37.354Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DL2 Upgrade bundle audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "444e9b61c94d48f6a2660b5078557a9f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "444e9b61c94d48f6a2660b5078557a9f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-04-05T04:40:02.972Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DL2 Upgrade bundle audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-08T13:25:43.863Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light: Standard to Enhanced Edition Upgrade",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "abc75324a4d042d7bb252adf1d720bb5",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "abc75324a4d042d7bb252adf1d720bb5",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-29T14:24:15.571Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light: Standard to Enhanced Edition Upgrade",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-08T13:25:58.167Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light: Standard to Definitive Edition Upgrade",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "214c88ff73d041fea0b52dd7be3b4657",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "214c88ff73d041fea0b52dd7be3b4657",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-29T14:32:23.331Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light: Standard to Definitive Edition Upgrade",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-14T10:48:23.882Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dying Light: 10th Anniversary Bundle audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "e94cfa3362cb4b54813dc7c9d3e0ca31",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e94cfa3362cb4b54813dc7c9d3e0ca31",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-01-28T10:48:49.539Z",
+        "mainGameItem": {
+          "id": "9421139e63f34d6281c18698b54d1e63",
+          "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9421139e63f34d6281c18698b54d1e63",
+            "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light: 10th Anniversary Bundle audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "9421139e63f34d6281c18698b54d1e63",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "9421139e63f34d6281c18698b54d1e63",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "2967a86bdce109ba6c772176187353d1",
+        "size": 716481,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-05-08T15:16:30.639Z",
+        "url": "https://cdn1.epicgames.com/item/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightStandardEdition_Techland_Editions_S1_2560x1440-2967a86bdce109ba6c772176187353d1",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "49546d7deaaf160596e034613a2d2a93",
+        "size": 490234,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-05-08T15:16:34.490Z",
+        "url": "https://cdn1.epicgames.com/item/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightStandardEdition_Techland_Editions_S2_1200x1600-49546d7deaaf160596e034613a2d2a93",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-01-27T12:42:09.937Z",
+    "mainGameItemList": [],
+    "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+    "releaseInfo": [
+      {
+        "appId": "04a54ed532ce4fbfbf8fd5833f60def0",
+        "id": "e54e296c3c4c4c81bebe67c2b092921a",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Dying Light",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

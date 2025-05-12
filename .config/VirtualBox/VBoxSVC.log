@@ -1,0 +1,45 @@
+00:00:00.000134 main     VirtualBox XPCOM Server 7.1.8 r168469 linux.amd64 (Apr 15 2025 18:05:05) release log
+00:00:00.000135 main     Log opened 2025-04-19T22:08:19.054678000Z
+00:00:00.000136 main     Build Type: release
+00:00:00.000137 main     OS Product: Linux
+00:00:00.000137 main     OS Release: 6.14.2-arch1-1
+00:00:00.000137 main     OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 10 Apr 2025 18:43:59 +0000
+00:00:00.000156 main     DMI Product Name: MS-7E26
+00:00:00.000161 main     DMI Product Version: 1.0
+00:00:00.000164 main     Firmware type: UEFI
+00:00:00.000214 main     Secure Boot: Enabled
+00:00:00.000232 main     Host RAM: 31184MB (30.4GB) total, 28307MB (27.6GB) available
+00:00:00.000233 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000233 main     Process ID: 15928
+00:00:00.000234 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.001039 main     IPC socket path: /tmp/.vbox-vmdjavem-ipc/ipcd
+00:00:00.006568 DCon01   VirtualBox: object creation starts
+00:00:00.006601 DCon01   Home directory: '/home/vmdjavem/.config/VirtualBox'
+00:00:00.013190 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.013816 DCon01   HostDnsMonitor: initializing
+00:00:00.013886 DCon01   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.013892 DCon01   HostDnsMonitor: updating information
+00:00:00.013898 DCon01   HostDnsMonitor: old information
+00:00:00.013899 DCon01     no server entries
+00:00:00.013900 DCon01     no domain set
+00:00:00.013901 DCon01     no search string entries
+00:00:00.013902 DCon01   HostDnsMonitor: new information
+00:00:00.013903 DCon01     server 1: 192.168.0.1
+00:00:00.013904 DCon01     domain: home.lla.com
+00:00:00.013905 DCon01     search string 1: home.lla.com
+00:00:00.014660 DCon01   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.014730 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.014768 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.015137 DCon01   VirtualBox: object created
+00:00:00.390413 DCon03   Saving settings file "/home/vmdjavem/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.393729 DCon03   Finished saving settings file "/home/vmdjavem/.config/VirtualBox/VirtualBox.xml"
+00:00:00.415487 DCon03   Saving settings file "/home/vmdjavem/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.420148 DCon03   Finished saving settings file "/home/vmdjavem/.config/VirtualBox/VirtualBox.xml"
+00:00:00.430436 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:00:00.773599 DCon03   Saving settings file "/home/vmdjavem/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.777247 DCon03   Finished saving settings file "/home/vmdjavem/.config/VirtualBox/VirtualBox.xml"
+00:00:25.794477 main     VirtualBox: object deletion starts
+00:00:25.794687 main     HostDnsMonitor: shutting down ...
+00:00:25.794768 main     HostDnsMonitor: shut down
+00:00:25.805057 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:25.805089 main     VirtualBox: object deleted

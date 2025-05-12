@@ -1,0 +1,112 @@
+{
+  "app_name": "a99769d95d8f400baad1f67ab5dfe508",
+  "app_title": "Core",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a99769d95d8f400baad1f67ab5dfe508",
+      "asset_id": "a99769d95d8f400baad1f67ab5dfe508",
+      "build_version": "1.0.298-prod-s-epic-1045",
+      "catalog_item_id": "6e53bcd1b37e4e979be12620b4e01c73",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8ff186a4415d4ce6b5a287ccfd11cf04",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567yN2ZXDlOF3DmoEMxucUNajgq",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-04-03T04:20:12.125Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Core"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "8ff186a4415d4ce6b5a287ccfd11cf04"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Core",
+    "developer": "Manticore Games",
+    "developerId": "o-gef9apdv7sv2tr6vrvz6efgfv6p858",
+    "endOfSupport": false,
+    "entitlementName": "6e53bcd1b37e4e979be12620b4e01c73",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "6e53bcd1b37e4e979be12620b4e01c73",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "dd304f1615669d23722f6de52b4c9100",
+        "size": 765729,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-08-06T15:18:38.993Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/portrait_2560x1440-dd304f1615669d23722f6de52b4c9100",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "f03a54780389cfea9ea8228f982d7c39",
+        "size": 601804,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-08-06T15:18:48.586Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/landscape_1200x1600-f03a54780389cfea9ea8228f982d7c39",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-08-06T15:18:52.203Z",
+    "mainGameItemList": [],
+    "namespace": "8ff186a4415d4ce6b5a287ccfd11cf04",
+    "releaseInfo": [
+      {
+        "appId": "a99769d95d8f400baad1f67ab5dfe508",
+        "dateAdded": "2020-04-03T00:00:00.000Z",
+        "id": "d3908368c31e4a4ab8a37da3dd098367",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Core",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,217 @@
+{
+  "app_name": "098f5323a3994362b6c68503d8cf3d57",
+  "app_title": "Hood Outlaws and Legends",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "098f5323a3994362b6c68503d8cf3d57",
+      "asset_id": "098f5323a3994362b6c68503d8cf3d57",
+      "build_version": "HoodStaging2022R14Client_Win64Epic_Shipping_1601377.zip_Live",
+      "catalog_item_id": "4cc2f6113b6949cf96965d3e180929ce",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5a2108f4db804040aaf44d139bd21bd1",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567cdt2aUaVNutMqhzH52g4H1Km",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-10-22T20:30:57.573Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "HoodOutlawsandLegends"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "5a2108f4db804040aaf44d139bd21bd1"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Hood Outlaws and Legends",
+    "developer": "Focus Entertainment Publishing",
+    "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-11-20T22:25:02.327Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "ForestLordsDLCAudience",
+        "developer": "Focus Entertainment Publishing",
+        "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+        "endOfSupport": false,
+        "entitlementName": "2a7e7f43ce384f3ba7e5bdb937b3abd6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2a7e7f43ce384f3ba7e5bdb937b3abd6",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-18T16:20:56.592Z",
+        "mainGameItem": {
+          "id": "4cc2f6113b6949cf96965d3e180929ce",
+          "namespace": "5a2108f4db804040aaf44d139bd21bd1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4cc2f6113b6949cf96965d3e180929ce",
+            "namespace": "5a2108f4db804040aaf44d139bd21bd1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a2108f4db804040aaf44d139bd21bd1",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ForestLordsDLCAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-11-20T22:31:57.397Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Y1 Battle Pack",
+        "developer": "Focus Entertainment Publishing",
+        "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+        "endOfSupport": false,
+        "entitlementName": "11eba62fe7bc476995be8b3199c34a3d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "11eba62fe7bc476995be8b3199c34a3d",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-18T16:20:56.579Z",
+        "mainGameItem": {
+          "id": "4cc2f6113b6949cf96965d3e180929ce",
+          "namespace": "5a2108f4db804040aaf44d139bd21bd1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4cc2f6113b6949cf96965d3e180929ce",
+            "namespace": "5a2108f4db804040aaf44d139bd21bd1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5a2108f4db804040aaf44d139bd21bd1",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Y1 Battle Pack",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "4cc2f6113b6949cf96965d3e180929ce",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "4cc2f6113b6949cf96965d3e180929ce",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "64596c1b059d13feb5630b7c796042c1",
+        "size": 499807,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-05-06T18:23:56.060Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HoodOutlawsLegends_SumoDigital_S2_1200x1600-64596c1b059d13feb5630b7c796042c1",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "8ba1f9be04e3d0c07f9890a0bb8860c7",
+        "size": 1026710,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-05-06T18:24:11.046Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HoodOutlawsLegends_SumoDigital_S1_2560x1440-8ba1f9be04e3d0c07f9890a0bb8860c7",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2024-04-18T16:20:56.606Z",
+    "mainGameItemList": [],
+    "namespace": "5a2108f4db804040aaf44d139bd21bd1",
+    "releaseInfo": [
+      {
+        "appId": "098f5323a3994362b6c68503d8cf3d57",
+        "dateAdded": "2020-11-20T00:00:00.000Z",
+        "id": "31be56cc6e924196b267da7af0e166f8",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Hood Outlaws and Legends",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

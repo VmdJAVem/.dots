@@ -1,0 +1,113 @@
+{
+  "app_name": "Tamarind",
+  "app_title": "Brothers - A Tale of Two Sons",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Tamarind",
+      "asset_id": "Tamarind",
+      "build_version": "1.1",
+      "catalog_item_id": "77a5b453ccf2413b91985f9f39a1239b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "615659ff36244d258ef6c6a827e32c5d",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-06-03T18:45:33.245Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "BrothersATOTS"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "615659ff36244d258ef6c6a827e32c5d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Brothers - A Tale of Two Sons",
+    "developer": "505 Games",
+    "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "endOfSupport": false,
+    "entitlementName": "77a5b453ccf2413b91985f9f39a1239b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "77a5b453ccf2413b91985f9f39a1239b",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "a1455bfc980acece23a9fc9824a94e17",
+        "size": 480099,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-02-09T23:53:32.024Z",
+        "url": "https://cdn1.epicgames.com/item/615659ff36244d258ef6c6a827e32c5d/EGS_BrothersATaleofTwoSons_StarbreezeStudiosAB_S1_2560x1440-a1455bfc980acece23a9fc9824a94e17_2560x1440-a1455bfc980acece23a9fc9824a94e17",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "7a17b42675bd9d44e6ddeccd7813c593",
+        "size": 967181,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-02-09T23:53:27.026Z",
+        "url": "https://cdn1.epicgames.com/item/615659ff36244d258ef6c6a827e32c5d/EGS_BrothersATaleofTwoSons_StarbreezeStudiosAB_S2_1200x1600-7a17b42675bd9d44e6ddeccd7813c593_1200x1600-7a17b42675bd9d44e6ddeccd7813c593",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-02-17T17:06:17.161Z",
+    "mainGameItemList": [],
+    "namespace": "615659ff36244d258ef6c6a827e32c5d",
+    "releaseInfo": [
+      {
+        "appId": "Tamarind",
+        "compatibleApps": [],
+        "dateAdded": "2019-06-03T18:47:00.000Z",
+        "id": "358d9fe3cbb64afb8b3267e862436505",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Brothers - A Tale of Two Sons",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

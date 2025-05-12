@@ -1,0 +1,4308 @@
+{
+  "app_name": "a79746038c6948558274065d24f3faa3",
+  "app_title": "World of Warships",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a79746038c6948558274065d24f3faa3",
+      "asset_id": "a79746038c6948558274065d24f3faa3",
+      "build_version": "14.3.0.0.9773198-9773990-multiversion",
+      "catalog_item_id": "b9e23e5fa8e84064b356677022beb37a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "MINOR"
+      },
+      "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45676XevNF6ageHXWwXpVLFVnBZS",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-04-08T19:51:50.757Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "currentrealm.txt"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "WorldofWarships"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "84c76746bce94effb8e1047fabfd7eb7"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "World of Warships",
+    "developer": "Wargaming Group Limited",
+    "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2021-01-13T15:41:09.026Z",
+        "customAttributes": {},
+        "description": "AShiploadofCreditsAudience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "138b928c4f41485cb9b40594e32f9741",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "138b928c4f41485cb9b40594e32f9741",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-06-22T14:53:41.650Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "technicalDetails": "DLC 004",
+        "title": "AShiploadofCreditsAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-01-20T16:32:15.909Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Lunar New Year Special Pack",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "26ec0bee4d7042e8942ceec74430355f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "26ec0bee4d7042e8942ceec74430355f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-01-20T16:53:27.905Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lunar New Year Special Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-08-18T15:07:49.811Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "WoW-GSCP",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "e042ea19261e46cb88cdc1839739fe67",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e042ea19261e46cb88cdc1839739fe67",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-22T20:15:09.061Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "WoW-GSCP",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-10-25T15:20:03.415Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "MtBlackburn3750 audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "7474f11a2e6d4fb2a04b1a3c5eca0d65",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7474f11a2e6d4fb2a04b1a3c5eca0d65",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-08-04T20:01:59.319Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MtBlackburn3750 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2021-01-13T15:42:20.004Z",
+        "customAttributes": {},
+        "description": "17500DoubloonsAudience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "79b04185e3584d2d9e216a2fe1353b1a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "79b04185e3584d2d9e216a2fe1353b1a",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-06-22T14:53:41.675Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "technicalDetails": "DLC 010",
+        "title": "17500DoubloonsAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-04T14:57:43.097Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World of Warships - LLtK",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "0afcef0f2d484cfab94b1ff48c008a75",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0afcef0f2d484cfab94b1ff48c008a75",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-03-24T13:39:22.112Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships - LLtK",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-08-18T15:08:40.333Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "WoW-GCP",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "e7d91abd52124642992e0c46eb3b3d55",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e7d91abd52124642992e0c46eb3b3d55",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-22T20:15:09.065Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "WoW-GCP",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-04T14:58:15.943Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World of Warships - RT",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "c2e0809b6b4647c095669f40696b7a4c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c2e0809b6b4647c095669f40696b7a4c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-03-04T14:58:15.943Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships - RT",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2021-07-15T02:53:34.423Z",
+        "customAttributes": {},
+        "description": "50000DoubloonsAudience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "0652a6a546134807b15a4f125d0b1447",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0652a6a546134807b15a4f125d0b1447",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-06-22T14:53:41.683Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "technicalDetails": "DLC 008",
+        "title": "50000DoubloonsAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2021-11-01T18:45:53.966Z",
+        "customAttributes": {},
+        "description": "DLC 032 Audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "37ac85b753324629927ee043f62a255a",
+        "entitlementType": "ENTITLEMENT",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "37ac85b753324629927ee043f62a255a",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-11-22T15:53:53.680Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC 032 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-05-27T14:30:41.934Z",
+        "customAttributes": {},
+        "description": "DLC 040 Audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "b7fe62acde00433b967d443b0c166d11",
+        "entitlementType": "ENTITLEMENT",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b7fe62acde00433b967d443b0c166d11",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-06-02T16:56:28.941Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC 040 Audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-05T17:12:19.281Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Autobot Camo",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "4fbfb693a26146feb2ca8d0ab7f9f2a4",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4fbfb693a26146feb2ca8d0ab7f9f2a4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-07-06T21:37:04.248Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Autobot Camo",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-05-27T14:30:53.190Z",
+        "customAttributes": {},
+        "description": "DLC 041 Audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "95aa0e2e3f8349ac98145cc406a813b7",
+        "entitlementType": "ENTITLEMENT",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "95aa0e2e3f8349ac98145cc406a813b7",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-06-02T16:56:28.944Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC 041 Audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-29T13:48:28.548Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Wakatake Halloween Edition",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "565371aae09d4abbba06fa55cc39c764",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "565371aae09d4abbba06fa55cc39c764",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-10-18T14:15:43.519Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Wakatake Halloween Edition",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2021-01-13T15:42:40.576Z",
+        "customAttributes": {},
+        "description": "30000DoubloonsAudience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "6bb5fe500d834e1ebe122866a1ba25a7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6bb5fe500d834e1ebe122866a1ba25a7",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-18T00:55:11.419Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "technicalDetails": "DLC 012",
+        "title": "30000DoubloonsAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-22T13:56:23.945Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World of Warships - KPR",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "3de4e09bae8448038ec0b14bd5bdf374",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3de4e09bae8448038ec0b14bd5bdf374",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-18T20:19:31.722Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships - KPR",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2021-01-13T15:41:45.628Z",
+        "customAttributes": {},
+        "description": "5000DoubloonsAudience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "0b9229c905a94215b4708f03e41f4dd6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0b9229c905a94215b4708f03e41f4dd6",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-06-22T14:53:41.662Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "technicalDetails": "DLC 007",
+        "title": "5000DoubloonsAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2021-01-13T15:41:59.240Z",
+        "customAttributes": {},
+        "description": "7500DoubloonsAudience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "de0c3494c82744cb936ef2d99a22c20b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "de0c3494c82744cb936ef2d99a22c20b",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-06-22T14:53:41.667Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "technicalDetails": "DLC 008",
+        "title": "7500DoubloonsAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-04T14:56:45.497Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World of Warships - GO",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "e0d4cd0139684e9fbc1425f55b36a763",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e0d4cd0139684e9fbc1425f55b36a763",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-03-24T13:39:22.128Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships - GO",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-29T15:05:41.919Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Starter Pack: Ishizuchi",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "d7a0aaf082f8434d85d95aafd819a69b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d7a0aaf082f8434d85d95aafd819a69b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-10-07T12:17:22.941Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Starter Pack: Ishizuchi",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-05-27T14:31:06.114Z",
+        "customAttributes": {},
+        "description": "DLC 042 Audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "c9a4d52be6354efa9e4bcbb41b19d7ee",
+        "entitlementType": "ENTITLEMENT",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c9a4d52be6354efa9e4bcbb41b19d7ee",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-06-02T16:56:28.947Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC 042 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-10-25T15:20:41.270Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "MtBlackburn6250 audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "e4d25c6225c045c7abd38d35fb79f504",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e4d25c6225c045c7abd38d35fb79f504",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-08-04T20:02:06.444Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MtBlackburn6250 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-04-08T19:51:50.774Z",
+        "customAttributes": {},
+        "description": "YubariAudience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "9d12e15e7ddb4f9a9f7afe1aad9c571c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9d12e15e7ddb4f9a9f7afe1aad9c571c",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-02-26T10:47:13.677Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "YubariAudience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-05T17:12:50.577Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Decepticon Camo",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "f262258003944cfe9bcc15448286871d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f262258003944cfe9bcc15448286871d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-07-06T21:37:04.258Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Decepticon Camo",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2021-01-13T15:41:26.838Z",
+        "customAttributes": {},
+        "description": "1250DoubloonsAudience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "bec83a7aca5d4073a5a6bd8d66557de0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bec83a7aca5d4073a5a6bd8d66557de0",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-06-22T14:53:41.655Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "technicalDetails": "DLC 005",
+        "title": "1250DoubloonsAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-05T18:02:48.033Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "wowTransformerContainer",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "31b774149f444e20abc4dff1ce946dae",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "31b774149f444e20abc4dff1ce946dae",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-07-06T21:37:04.263Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "wowTransformerContainer",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2021-11-22T17:30:14.339Z",
+        "customAttributes": {},
+        "description": "DLC 033 Audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "b05d638e2aea44baacd7e3eea66ff060",
+        "entitlementType": "ENTITLEMENT",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b05d638e2aea44baacd7e3eea66ff060",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-12-15T15:35:07.679Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC 033 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-08T19:51:50.779Z",
+        "customAttributes": {},
+        "description": "2500DoubloonsAudience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "da8c5c0f08154124a93631e274cfa997",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "da8c5c0f08154124a93631e274cfa997",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-02-26T10:47:13.677Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "technicalDetails": "DLC 006",
+        "title": "2500DoubloonsAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2021-01-13T15:40:57.883Z",
+        "customAttributes": {},
+        "description": "OfferoftheMonthAudience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "f0bc68afae7b40c2bccdb9baed5b89a9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f0bc68afae7b40c2bccdb9baed5b89a9",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-06-22T14:53:41.646Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "technicalDetails": "DLC 003",
+        "title": "OfferoftheMonthAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2021-01-13T15:42:29.334Z",
+        "customAttributes": {},
+        "description": "25000DoubloonsAudience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "3ed5ca7ecb6f4bd280a922a365798ffd",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3ed5ca7ecb6f4bd280a922a365798ffd",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-06-22T14:53:41.680Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "technicalDetails": "DLC 011",
+        "title": "25000DoubloonsAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-08T19:51:50.756Z",
+        "customAttributes": {},
+        "description": "12500DoubloonsAudience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "b15226c1ec70472b9c5042caaa1ab876",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b15226c1ec70472b9c5042caaa1ab876",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-02-26T10:47:13.677Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "technicalDetails": "DLC 009",
+        "title": "12500DoubloonsAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-04-08T19:51:50.785Z",
+        "customAttributes": {},
+        "description": "TexasAudience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "55f3b940ca814abf9330fceed408de3c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "55f3b940ca814abf9330fceed408de3c",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-02-26T10:47:14.648Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "TexasAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2021-01-13T15:40:24.550Z",
+        "customAttributes": {},
+        "description": "SmallCreditStockAudience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "38e53a34c0524bea93a01b7ee97b8950",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "38e53a34c0524bea93a01b7ee97b8950",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-06-22T14:53:41.638Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "technicalDetails": "DLC 001",
+        "title": "SmallCreditStockAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-04T14:57:08.325Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World of Warships - WotW",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "439bbda159bf4c668a804c1f4cd6f9ef",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "439bbda159bf4c668a804c1f4cd6f9ef",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-03-24T13:39:22.121Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships - WotW",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-04T14:56:07.519Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World of Warships - AF",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "37ef41c291ec4726b81b6ba4fab24ad9",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "37ef41c291ec4726b81b6ba4fab24ad9",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-03-24T13:39:22.120Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships - AF",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2021-01-13T15:40:41.885Z",
+        "customAttributes": {},
+        "description": "WeekendPassAudience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "ccb2c038b22c4ab4a79f3b3a3227d6bc",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ccb2c038b22c4ab4a79f3b3a3227d6bc",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-06-22T14:53:41.643Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "technicalDetails": "DLC 002",
+        "title": "WeekendPassAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-22T13:57:20.648Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World of Warships - GAM",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "e2a114ca5457462ab2d38116e63d36ec",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e2a114ca5457462ab2d38116e63d36ec",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-18T20:19:31.731Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships - GAM",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-04-25T14:34:33.969Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World of Warships \u00d7 hololive production: Free Pack",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "813eb803020543979ee66f703a1181ea",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "813eb803020543979ee66f703a1181ea",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-05-04T17:09:07.358Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships \u00d7 hololive production: Free Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-31T08:56:10.810Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Warhammer 40,000: Chaos and Ork Commander Pack",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "aaa81efc29b34fb68eb061ed2c16b519",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "aaa81efc29b34fb68eb061ed2c16b519",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Warhammer 40,000: Chaos and Ork Commander Pack-626326",
+            "height": 1440,
+            "md5": "1ebfe05c15817a7d674dc3050d6ab526",
+            "size": 977140,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-04-25T14:55:01.729Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_Warhammer40000ChaosandOrkCommanderPack_Wargaming_AddOn_S1_2560x1440-1ebfe05c15817a7d674dc3050d6ab526",
+            "width": 2560
+          },
+          {
+            "alt": "Warhammer 40,000: Chaos and Ork Commander Pack-594673",
+            "height": 1600,
+            "md5": "3546da43fa1f2187d932e5d9c97e14b5",
+            "size": 578751,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-04-25T14:54:40.490Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_Warhammer40000ChaosandOrkCommanderPack_Wargaming_AddOn_S2_1200x1600-3546da43fa1f2187d932e5d9c97e14b5",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-11T08:41:02.169Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Warhammer 40,000: Chaos and Ork Commander Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-04-25T14:36:40.529Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World of Warships \u00d7 Warhammer 40,000: Free Pack",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "127789ad446a4369960075ec3940ac27",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "127789ad446a4369960075ec3940ac27",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-05-24T22:11:54.122Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships \u00d7 Warhammer 40,000: Free Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-04-25T14:37:55.664Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World of Warships \u00d7 Popeye: Free Pack",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "8a6e85e2b5594bfc979eefab84f67ecf",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8a6e85e2b5594bfc979eefab84f67ecf",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-05-31T21:02:07.898Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships \u00d7 Popeye: Free Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-31T08:56:10.811Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Warhammer 40,000: Imperium of Man Commander Pack",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "d6104ee82ce74c3dad227a697a09f7b5",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d6104ee82ce74c3dad227a697a09f7b5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Warhammer 40,000: Imperium of Man Commander Pack-964107",
+            "height": 1440,
+            "md5": "e7048be555af3757a0d6fbc0a057c63a",
+            "size": 922455,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-04-25T15:10:54.725Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_Warhammer40000ImperiumofManCommanderPack_Wargaming_AddOn_S1_2560x1440-e7048be555af3757a0d6fbc0a057c63a",
+            "width": 2560
+          },
+          {
+            "alt": "Warhammer 40,000: Imperium of Man Commander Pack-23367",
+            "height": 1600,
+            "md5": "bebadd8d35fe9aec54ab5990a2e29e63",
+            "size": 590921,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-04-25T15:10:31.581Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_Warhammer40000ImperiumofManCommanderPack_Wargaming_AddOn_S2_1200x1600-bebadd8d35fe9aec54ab5990a2e29e63",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-11T08:41:02.169Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Warhammer 40,000: Imperium of Man Commander Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T05:09:58.352Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "1,250 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "a6bcfaae3c72483e93ac28ecbee987b5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a6bcfaae3c72483e93ac28ecbee987b5",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-22T15:32:05.930Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1,250 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T05:10:04.797Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "2,500 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "4a9b8dde010c4c608110d190bed4a2f7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4a9b8dde010c4c608110d190bed4a2f7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-22T15:32:05.886Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2,500 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-06-19T05:10:09.048Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "5,000 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "e2f9f6bf4a5640c38d10eef9aaf150be",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e2f9f6bf4a5640c38d10eef9aaf150be",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-07-10T08:55:03.401Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "5,000 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T05:10:14.192Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "6,250 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "78c718245c1247ddb5ee2d988630c452",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "78c718245c1247ddb5ee2d988630c452",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-22T15:32:05.905Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "6,250 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T05:10:18.710Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "7,500 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "a6983100624748e7ba158f14cc857be4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a6983100624748e7ba158f14cc857be4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-22T15:32:05.925Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "7,500 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T05:10:23.899Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "12,500 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "2984b6a1915b41a5805b5201d2cae059",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2984b6a1915b41a5805b5201d2cae059",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-22T15:32:05.878Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "12,500 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T05:10:29.543Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "17,500 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "c45afad3165d4c4cbf63dfaef0f101d8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c45afad3165d4c4cbf63dfaef0f101d8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-22T15:32:05.939Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "17,500 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T05:10:34.489Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "25,000 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "ab55112b67984f3f9516ac2da0e3415d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ab55112b67984f3f9516ac2da0e3415d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-22T15:32:05.935Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "25,000 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T05:14:33.416Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "1,250 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "d1c4b0dfca564108abdcf934485d3fa9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d1c4b0dfca564108abdcf934485d3fa9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-22T15:32:05.943Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1,250 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T05:14:43.645Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "2,500 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "f4dff63c85324ee88b95a6decd575798",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f4dff63c85324ee88b95a6decd575798",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-22T15:32:05.952Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2,500 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-06-19T05:14:49.738Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "5,000 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "71ed86e38b334ba3aae26bba2dccb5dc",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "71ed86e38b334ba3aae26bba2dccb5dc",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-07-10T08:55:11.440Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "5,000 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T05:15:02.807Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "6,250 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "4c5580b1e3d24e1780e69475ed735cec",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4c5580b1e3d24e1780e69475ed735cec",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-22T15:32:05.890Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "6,250 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T05:15:11.964Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "7,500 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "6cb01fb9e84046b78acdcea1f1b91f87",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6cb01fb9e84046b78acdcea1f1b91f87",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-22T15:32:05.894Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "7,500 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T05:15:19.694Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "12,500 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "83eceb2f260c4b3f810d3d79ef74f6f7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "83eceb2f260c4b3f810d3d79ef74f6f7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-22T15:32:05.913Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "12,500 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T05:15:28.347Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "17,500 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "2bedf9fb63f545e5bc70a1e026385e9c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2bedf9fb63f545e5bc70a1e026385e9c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-22T15:32:05.882Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "17,500 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T05:15:36.341Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "50,000 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "8edbedf2ff75481aa4b3692511d93c22",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8edbedf2ff75481aa4b3692511d93c22",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-22T15:32:05.922Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "50,000 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T05:15:46.791Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "25,000 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "7990f2a217ec43ec897c3a52e4d62744",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7990f2a217ec43ec897c3a52e4d62744",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-22T15:32:05.909Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "25,000 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T05:17:38.238Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "50,000 Doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "89c57cbde2b64eb0b0acc3d83d9a6521",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "89c57cbde2b64eb0b0acc3d83d9a6521",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-22T15:32:05.918Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "50,000 Doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-07-21T23:06:47.678Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World of Warships x Azur Lane: Free Welcome Pack",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "4b81bc4f031048f8ba9778166c869a74",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4b81bc4f031048f8ba9778166c869a74",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-08-03T20:53:13.154Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships x Azur Lane: Free Welcome Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-07-21T23:08:19.630Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World of Warships x Azur Lane: Commander Dunkerque",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "770d19df9bf54437bba74602f32dbda7",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "770d19df9bf54437bba74602f32dbda7",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-08-03T20:53:13.159Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships x Azur Lane: Commander Dunkerque",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-10-19T13:21:04.436Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World of Warships \u2014 Frosty Celebration Pack",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "6b6a9f8454284472ae8dce80d4c762eb",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6b6a9f8454284472ae8dce80d4c762eb",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-12-12T13:23:07.786Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships \u2014 Frosty Celebration Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-27T15:08:37.816Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "8,000 doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "30cfcba3deed4570a818ade581777cad",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "30cfcba3deed4570a818ade581777cad",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-12-28T15:58:43.951Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "8,000 doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-27T15:08:38.316Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "10,000 doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "4aff6e9772744c0f9fc1321cad874021",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4aff6e9772744c0f9fc1321cad874021",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-12-28T15:58:43.952Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "10,000 doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-27T15:08:35.428Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "3,000 doubloons audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "bd76ca719e1a40ce81f8e3839d0802e7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bd76ca719e1a40ce81f8e3839d0802e7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-12-28T15:58:43.952Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "3,000 doubloons audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-08T19:51:50.768Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World of Warships \u2014 Ning Hai Pack",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "a79b2be68f514769a0a1321696b0acb5",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a79b2be68f514769a0a1321696b0acb5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships \u2014 Epic Edition: Ning Hai-319210",
+            "height": 1440,
+            "md5": "21e9061a7fa233cc0e85cf1ca0e4e1b9",
+            "size": 797895,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-03-19T13:15:33.214Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsEpicEditionNingHai_Wargaming_AddOn_S1_2560x1440-21e9061a7fa233cc0e85cf1ca0e4e1b9",
+            "width": 2560
+          },
+          {
+            "alt": "World of Warships \u2014 Epic Edition: Ning Hai-129254",
+            "height": 1600,
+            "md5": "b8fe548b3fd98210e7b1c657d3149e7a",
+            "size": 273147,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-03-19T13:15:20.658Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsEpicEditionNingHai_Wargaming_AddOn_S2_1200x1600-b8fe548b3fd98210e7b1c657d3149e7a",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-26T10:47:13.677Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships \u2014 Ning Hai Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-08T19:51:50.770Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Comienza tu aventura de capa y espada por los mares de World of Warships con un \u00fatil paquete inicial protagonizado por el crucero estadounidense premium Albany, que tambi\u00e9n est\u00e1 repleto de las bonificaciones que necesitas para que tu carrera naval virtual despegue\u2026 \u00a1y entre al...",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "14a572354e8d4ecc9aabc6b058e53ce2",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "14a572354e8d4ecc9aabc6b058e53ce2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships \u2014 Starter Pack: Albany-847589",
+            "height": 1440,
+            "md5": "f1fc6756bfdca0304c3cfbbb7da76b15",
+            "size": 844572,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-03-05T12:47:12.196Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackAlbany_Wargaming_AddOn_S1_2560x1440-f1fc6756bfdca0304c3cfbbb7da76b15",
+            "width": 2560
+          },
+          {
+            "alt": "World of Warships \u2014 Starter Pack: Albany-986745",
+            "height": 1600,
+            "md5": "9e407b62c16e2a00367728d0f01cda20",
+            "size": 531596,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-03-05T12:47:03.146Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackAlbany_Wargaming_AddOn_S2_1200x1600-9e407b62c16e2a00367728d0f01cda20",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-26T10:47:13.676Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships - Paquete inicial: Albany",
+        "unsearchable": true
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-08T19:51:50.777Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World of Warships x Warhammer 40,000: Free Pack",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "7679c4e94cab4a5598cf1deb1e6fc0f6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7679c4e94cab4a5598cf1deb1e6fc0f6",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships World of Warships x Warhammer 40,000: Free Pack Offer",
+            "height": 1440,
+            "md5": "1cf367c29e0cc1ba05ea8e1a52f78574",
+            "size": 653324,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-16T09:10:02.069Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1lu3q.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download World of Warships World of Warships x Warhammer 40,000: Free Pack Offer",
+            "height": 1600,
+            "md5": "62de1a6763aa7598f0d1fdf401b1fd34",
+            "size": 348709,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-16T09:10:07.695Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1s5h0.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-13T08:11:16.135Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships x Warhammer 40,000: Free Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2024-04-08T19:51:58.882Z",
+        "description": "World of Warships \u2014 Texas",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "89719df939b24c1c9c2374057d4dfd79",
+        "entitlementType": "EXECUTABLE",
+        "id": "89719df939b24c1c9c2374057d4dfd79",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships \u2014 Texas-849443",
+            "height": 1440,
+            "md5": "a8693ce5c09ae064c362afb71bf041f9",
+            "size": 846802,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-03-21T11:28:21.234Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsTexas_Wargaming_AddOn_S1_2560x1440-a8693ce5c09ae064c362afb71bf041f9",
+            "width": 2560
+          },
+          {
+            "alt": "World of Warships \u2014 Texas-152878",
+            "height": 1600,
+            "md5": "6d71a29c02095f0f6370a312f2d8e17b",
+            "size": 680190,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-03-21T11:28:17.541Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsTexas_Wargaming_AddOn_S2_1200x1600-6d71a29c02095f0f6370a312f2d8e17b",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-26T10:47:13.677Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships \u2014 Texas",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2024-04-08T19:51:56.946Z",
+        "description": "World of Warships \u2014 Y\u016bbari",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "deb57bbcbf1c47a08a23acfbee4a9c4b",
+        "entitlementType": "EXECUTABLE",
+        "id": "deb57bbcbf1c47a08a23acfbee4a9c4b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships \u2014 Y\u016bbari-106396",
+            "height": 1440,
+            "md5": "81e4f8aeb2a37175c8764b4acdfa404a",
+            "size": 695568,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-03-21T11:26:45.859Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsYbari_Wargaming_AddOn_S1_2560x1440-81e4f8aeb2a37175c8764b4acdfa404a",
+            "width": 2560
+          },
+          {
+            "alt": "World of Warships \u2014 Y\u016bbari-725820",
+            "height": 1600,
+            "md5": "85bc9d67e0faa787dd335aee5c260169",
+            "size": 637952,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-03-21T11:26:42.119Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsYbari_Wargaming_AddOn_S2_1200x1600-85bc9d67e0faa787dd335aee5c260169",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-26T10:47:13.677Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships \u2014 Y\u016bbari",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-06T11:12:15.953Z",
+        "description": "\u00a1Descubre todo lo que la Marina Nacional de Francia tiene para ofrecer en World of Warships con este paquete que impulsa tu progreso! A\u00f1ade tres barcos de distintos tipos a tu Puerto, adem\u00e1s de todo lo que puedas llegar a necesitar para llevarlos a la batalla.",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "801b62c5836a416ebbe0f1fd9bffbab3",
+        "entitlementType": "EXECUTABLE",
+        "id": "801b62c5836a416ebbe0f1fd9bffbab3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships World of Warships \u2014 Vive la France! Offer",
+            "height": 1440,
+            "md5": "aaaf55121bc62047ab6bbdf606938461",
+            "size": 869212,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-18T09:24:08.659Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-tpmrl.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download World of Warships World of Warships \u2014 Vive la France! Offer",
+            "height": 1600,
+            "md5": "5d0bc64620318081bd5d26e4c2e3606d",
+            "size": 516987,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-18T09:24:12.660Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-l1ob9.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-26T10:47:13.677Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships \u2014 Vive la France!",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-13T15:40:08.177Z",
+        "description": "El oficial cient\u00edfico Spock lleg\u00f3 a World of Warships y trae consigo los principios de la fr\u00eda l\u00f3gica y la racionalidad estoica al puente de mando. \nS\u00famenlo ahora a su flota estadounidense junto con un camuflaje permanente \u00abEspacio Sci-Fi\u00bb.",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "e63d84685c8145209bfce697a92c80d8",
+        "entitlementType": "EXECUTABLE",
+        "id": "e63d84685c8145209bfce697a92c80d8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships \u200b\u200bStar Trek\u200b x World of Warships: Commander Spock Offer",
+            "height": 1440,
+            "md5": "fcedc47035b45bf9f78b1e373c4e7232",
+            "size": 744932,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-13T15:44:03.814Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-v17i3.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download World of Warships \u200b\u200bStar Trek\u200b x World of Warships: Commander Spock Offer",
+            "height": 1600,
+            "md5": "68fb7796f023a19b320e7fa2a5f344fd",
+            "size": 472068,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-13T15:44:07.530Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-mvmgy.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-07-15T15:14:39.263Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Star Trek x World of Warships: comandante Spock",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-13T14:13:09.894Z",
+        "description": "El valeroso guerrero klingon Gowron llega con toda su fuerza a World of Warships para llevar a sus barcos hacia la victoria en la batalla.\n\nS\u00famenlo ahora a su flota brit\u00e1nica junto con un camuflaje permanente \u00abEspacio Sci-Fi\u00bb. ",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "8183b87a85714645b5378f522114cc39",
+        "entitlementType": "EXECUTABLE",
+        "id": "8183b87a85714645b5378f522114cc39",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships \u200b\u200bStar Trek\u200b x World of Warships: Commander Gowron Offer",
+            "height": 1440,
+            "md5": "84b9b304a350776d597e2d321d86e7a7",
+            "size": 722276,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-13T14:24:35.218Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1u16w.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download World of Warships \u200b\u200bStar Trek\u200b x World of Warships: Commander Gowron Offer",
+            "height": 1600,
+            "md5": "93194ab9cb94a869d0a43304f35abd61",
+            "size": 464255,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-13T14:24:34.791Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-bqcmv.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-07-15T15:14:39.263Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Star Trek x World of Warships: comandante Gowron",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-13T15:52:07.735Z",
+        "description": "El capit\u00e1n Jean-Luc Picard del USS Enterprise est\u00e1 en cubierta y dispuesto a defender los principios de la Federaci\u00f3n Unida de Planetas. S\u00famenlo ahora a su flota estadounidense junto con un camuflaje permanente \u00abEspacio Sci-Fi\u00bb.",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "6ccc52ae2d4e4bd38f2389ceb4ff7d4a",
+        "entitlementType": "EXECUTABLE",
+        "id": "6ccc52ae2d4e4bd38f2389ceb4ff7d4a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships \u200b\u200bStar Trek\u200b x World of Warships: Commander Jean-Luc Picard Offer",
+            "height": 1440,
+            "md5": "5ce66ce59660934474b1cb7818a2460b",
+            "size": 667429,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-13T15:55:44.539Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-waddr.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download World of Warships \u200b\u200bStar Trek\u200b x World of Warships: Commander Jean-Luc Picard Offer",
+            "height": 1600,
+            "md5": "8a6fdb18749e549980a4b314720a9fb4",
+            "size": 423107,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-13T15:56:10.620Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-mctod.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-07-15T15:14:39.263Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Star Trek x World of Warships: comandante Jean-Luc Picard",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-13T15:12:35.694Z",
+        "customAttributes": {},
+        "description": "La despiadada y astuta comandante romulana Sela lleg\u00f3 a World of Warships para sembrar el caos y sacrificar lo que sea necesario para llevar la victoria al Imperio Estelar Romulano.",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "20c91de9fb234245b8d013d15d180a81",
+        "entitlementType": "EXECUTABLE",
+        "id": "20c91de9fb234245b8d013d15d180a81",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships \u200b\u200bStar Trek\u200b x World of Warships: Commander Sela Offer",
+            "height": 1440,
+            "md5": "d4db9eff8ec13154c77f8f68af3163dd",
+            "size": 703585,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-13T15:19:39.593Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-19u9e.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download World of Warships \u200b\u200bStar Trek\u200b x World of Warships: Commander Sela Offer",
+            "height": 1600,
+            "md5": "cd15d291e25032855faaecbaf2b99c2b",
+            "size": 461227,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-13T15:19:25.166Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-13ztx.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-07-15T15:14:39.263Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Star Trek x World of Warships: comandante Sela",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-07-19T14:31:07.466Z",
+        "description": "Con un nombre as\u00ed, uno pensar\u00eda que este destructor no es nada especial. Sin embargo, gracias a sus tres lanzatorpedos de tubo individual y r\u00e1pida recarga, \u00a1es todo lo contrario!",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "2f1673c36b354d098e5ce8797fbb56aa",
+        "entitlementType": "EXECUTABLE",
+        "id": "2f1673c36b354d098e5ce8797fbb56aa",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships World of Warships \u2014 Smith Pack Offer",
+            "height": 1440,
+            "md5": "694e07dd903e6fb1f6d6ba783c45f61c",
+            "size": 738920,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-09-11T14:45:34.282Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-gba4y.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download World of Warships World of Warships \u2014 Smith Pack Offer",
+            "height": 1600,
+            "md5": "2c1845698ea1c6ff6e4d33d06481b574",
+            "size": 460417,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-09-11T14:45:37.230Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1i2ib.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-20T08:38:51.350Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships \u2014 Paquete Smith",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-09-18T12:19:08.672Z",
+        "description": "Las Tortugas Ninja o los malos: \u00bfqu\u00e9 elegir\u00e1n?",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "d29fb9579bfb4164958c11fa975ad56e",
+        "entitlementType": "EXECUTABLE",
+        "id": "d29fb9579bfb4164958c11fa975ad56e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships World of Warships x TMNT \u2014 Mission: Free Permanent Camo Unlock Offer",
+            "height": 1440,
+            "md5": "9c08dfff8d79e89f6059305014506597",
+            "size": 413986,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-09-24T11:22:43.563Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-thwql.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download World of Warships World of Warships x TMNT \u2014 Mission: Free Permanent Camo Unlock Offer",
+            "height": 1600,
+            "md5": "80beab054cbf25e33e5817d69f65d8c7",
+            "size": 242536,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-09-24T11:22:43.883Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1jrx8.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-10-02T13:16:03.732Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships x TMNT \u2014 Misi\u00f3n: camuflaje permanente gratis",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-09-18T12:27:52.094Z",
+        "description": "\u00bfQu\u00e9 mejor palabra para describir un camuflaje permanente de TMNT y tres deliciosos contenedores premium \"Hora de la pizza\" reci\u00e9n salidos del horno... todo con un 25\u00a0% de descuento? \u00a1COWABUNGA!",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "e758ad51aa8f45d192aeac574bd4839c",
+        "entitlementType": "EXECUTABLE",
+        "id": "e758ad51aa8f45d192aeac574bd4839c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships World of Warships x TMNT \u2014 Cowabunga Pack Offer",
+            "height": 1440,
+            "md5": "0462f6f38490ddd3edd85020677d23eb",
+            "size": 504256,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-09-24T11:12:08.544Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1pfoj.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download World of Warships World of Warships x TMNT \u2014 Cowabunga Pack Offer",
+            "height": 1600,
+            "md5": "c440ecb7110c9fc3a15bac01b1001e6b",
+            "size": 292723,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-09-24T11:12:08.356Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-cihjh.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-10-02T13:16:03.732Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships x TMNT - Paquete Cowabunga",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-09-18T12:24:14.288Z",
+        "description": "\u00a1No necesitan desembolsar mucho para conseguir este paquete de camuflaje permanente con gran descuento!",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "1edee25ae661433ea847b03a85e4957a",
+        "entitlementType": "EXECUTABLE",
+        "id": "1edee25ae661433ea847b03a85e4957a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships World of Warships x TMNT \u2014 Factional Permanent Camo Pack Offer",
+            "height": 1440,
+            "md5": "9fa58e6dd9d55688d4480d744161c82f",
+            "size": 442800,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-09-24T11:18:50.610Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-wk6pt.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download World of Warships World of Warships x TMNT \u2014 Factional Permanent Camo Pack Offer",
+            "height": 1600,
+            "md5": "e9166273e10b4c4add952b684d8f6c18",
+            "size": 258662,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-09-24T11:18:50.425Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1babp.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-10-02T13:16:03.732Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "WoWS x TMNT \u2014 Paquete de camuflaje permanente de facci\u00f3n",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-12-11T11:36:12.229Z",
+        "description": "Este paquete es el sue\u00f1o de todo capit\u00e1n reci\u00e9n llegado: est\u00e1 cargado de todo lo que puedan necesitar para empezar sin problemas en los mares de World of Warships... \u00a1y algo m\u00e1s!",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "3b1fe9ab2805402e85f226bf382f7d5e",
+        "entitlementType": "EXECUTABLE",
+        "id": "3b1fe9ab2805402e85f226bf382f7d5e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships World of Warships \u2014 Emden Mega Resource Pack Offer",
+            "height": 1440,
+            "md5": "ec71c6447b494eeeed643fa19640a39b",
+            "size": 909059,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-20T15:13:07.243Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-9maka.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download World of Warships World of Warships \u2014 Emden Mega Resource Pack Offer",
+            "height": 1600,
+            "md5": "319972211c9bfc586f8ad92146e9e099",
+            "size": 597509,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-20T15:13:04.390Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-s2xpy.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-12-11T11:36:12.229Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships - Megapaquete de recursos Emden",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2025-01-16T13:52:58.465Z",
+        "description": "150_Currency",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "1529375716154dca8aba459a9614453f",
+        "entitlementType": "EXECUTABLE",
+        "id": "1529375716154dca8aba459a9614453f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships-409568",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-08T19:51:49.967Z",
+            "url": "https://cdn2.unrealengine.com/egs-worldofwarships-wargaminggrouplimited-s1-2560x1440-0dd3a24febb2.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "World of Warships-839287",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-08T19:51:49.967Z",
+            "url": "https://cdn2.unrealengine.com/egs-worldofwarships-wargaminggrouplimited-s2-1200x1600-e6abb06e38ba.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-01-16T13:52:58.465Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "150_Currency",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2025-01-16T13:52:58.467Z",
+        "description": "BSPack_Audience",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "cd700432914f40309abbe74d813bfcba",
+        "entitlementType": "EXECUTABLE",
+        "id": "cd700432914f40309abbe74d813bfcba",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships-241961",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-08T19:51:49.945Z",
+            "url": "https://cdn2.unrealengine.com/egs-worldofwarships-wargaminggrouplimited-s1-2560x1440-0dd3a24febb2.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "World of Warships-235279",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-08T19:51:49.945Z",
+            "url": "https://cdn2.unrealengine.com/egs-worldofwarships-wargaminggrouplimited-s2-1200x1600-e6abb06e38ba.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-01-16T13:52:58.467Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BSPack_Audience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2025-01-16T13:52:58.463Z",
+        "description": "SPack",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "0197fd08d5c2459fbba7dfc71678fddc",
+        "entitlementType": "EXECUTABLE",
+        "id": "0197fd08d5c2459fbba7dfc71678fddc",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships-52651",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-08T19:51:50.269Z",
+            "url": "https://cdn2.unrealengine.com/egs-worldofwarships-wargaminggrouplimited-s1-2560x1440-0dd3a24febb2.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "World of Warships-514577",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-08T19:51:50.269Z",
+            "url": "https://cdn2.unrealengine.com/egs-worldofwarships-wargaminggrouplimited-s2-1200x1600-e6abb06e38ba.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-01-16T13:52:58.463Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SPack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2025-01-16T13:52:58.468Z",
+        "description": "2000_Currency",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "d807c1d68a864453827a6c30c50f1d85",
+        "entitlementType": "EXECUTABLE",
+        "id": "d807c1d68a864453827a6c30c50f1d85",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships-838193",
+            "height": 1440,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-08T19:51:49.950Z",
+            "url": "https://cdn2.unrealengine.com/egs-worldofwarships-wargaminggrouplimited-s1-2560x1440-0dd3a24febb2.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "World of Warships-259755",
+            "height": 1600,
+            "md5": "7810e895485e11f704d4fee66e07af9c",
+            "size": 1,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-08T19:51:49.950Z",
+            "url": "https://cdn2.unrealengine.com/egs-worldofwarships-wargaminggrouplimited-s2-1200x1600-e6abb06e38ba.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-01-16T13:52:58.468Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2000_Currency",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-02-24T13:22:34.710Z",
+        "description": "World of Warships \u2014 Anniversary Party Favor",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "8280866a8c6b4c888884b8749c1f46ee",
+        "entitlementType": "EXECUTABLE",
+        "id": "8280866a8c6b4c888884b8749c1f46ee",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships World of Warships \u2014 Anniversary Party Favor Offer",
+            "height": 1440,
+            "md5": "6901b5f095859a77c410c82899284f46",
+            "size": 1019600,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-02-24T13:44:01.799Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-xo9ug.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download World of Warships World of Warships \u2014 Anniversary Party Favor Offer",
+            "height": 1600,
+            "md5": "8e4733598878c64713bcfb3793bf05e9",
+            "size": 1004293,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-02-24T13:44:01.145Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-yhivl.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-14T08:58:40.691Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships \u2014 Anniversary Party Favor",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "b9e23e5fa8e84064b356677022beb37a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "b9e23e5fa8e84064b356677022beb37a",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "World of Warships Offer",
+        "height": 1440,
+        "md5": "9d250b3158f0757da8a136efe2eda2ed",
+        "size": 1114586,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-04-17T08:24:26.654Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1ah8x.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download World of Warships Offer",
+        "height": 1600,
+        "md5": "de41bee0c0f73f1872ee4d73e278ee11",
+        "size": 821499,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-04-17T08:24:29.376Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-9pmy6.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-22T08:00:53.130Z",
+    "mainGameItemList": [],
+    "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+    "releaseInfo": [
+      {
+        "appId": "a79746038c6948558274065d24f3faa3",
+        "id": "4f4521e2abe24aa2baa6e40654761457",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "World of Warships",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

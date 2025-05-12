@@ -1,0 +1,27 @@
+q
+colorscheme catppuccin
+quit
+filter artist="Alcolirykoz"
+filter artist="Rxnde Akozta"
+filter artist="Canserbero"
+filter artist="Limp Bizkit"
+filter artist='Limp Bizkit'
+filter artist="Pink Pantheress"
+a
+filter album="FLYING BEAGLE"
+filter album="FLYING BEABLE"
+update-cache -f
+add ~/Music
+clear
+filter artist="Pink Pantheres"
+qauit
+quir
+pause
+p
+filter artist='rage against the machine'
+hide
+colorscheme gruvbox
+filter artist="Charli xcx"
+search Igorrr
+search
+add

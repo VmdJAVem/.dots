@@ -1,0 +1,111 @@
+{
+  "app_name": "Grouse",
+  "app_title": "Jotun Valhalla Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Grouse",
+      "asset_id": "Grouse",
+      "build_version": "1.02",
+      "catalog_item_id": "75e740783b2f496ab7f6f8ecf546c702",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ba3149b6d7a7488ab5cc674154458757",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-09-12T17:03:30.030Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Jotun"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ba3149b6d7a7488ab5cc674154458757"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Jotun Valhalla Edition",
+    "developer": "Thunder Lotus Games",
+    "developerId": "o-k5nhue2lw5nkaqutyhkwrdl5qjkcd5",
+    "endOfSupport": false,
+    "entitlementName": "75e740783b2f496ab7f6f8ecf546c702",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "75e740783b2f496ab7f6f8ecf546c702",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "3de6d0151b1c97a08a8579167814682c",
+        "size": 504256,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-11-26T15:56:35.627Z",
+        "url": "https://cdn1.epicgames.com/ba3149b6d7a7488ab5cc674154458757/item/EGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-3de6d0151b1c97a08a8579167814682c.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1440,
+        "md5": "eceef05b236cf920e419b4004d4993e7",
+        "size": 343052,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-11-26T15:56:50.928Z",
+        "url": "https://cdn1.epicgames.com/ba3149b6d7a7488ab5cc674154458757/item/EGS_ThunderLotus_JotunValhallaEdition_S2-1280x1440-eceef05b236cf920e419b4004d4993e7.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2019-12-05T15:55:14.711Z",
+    "mainGameItemList": [],
+    "namespace": "ba3149b6d7a7488ab5cc674154458757",
+    "releaseInfo": [
+      {
+        "appId": "Grouse",
+        "dateAdded": "2019-09-12T00:00:00.000Z",
+        "id": "08cbfa64190a404d996ecdd49de98de8",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Jotun Valhalla Edition",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

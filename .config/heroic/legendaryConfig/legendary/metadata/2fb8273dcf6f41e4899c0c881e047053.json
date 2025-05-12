@@ -1,0 +1,108 @@
+{
+  "app_name": "2fb8273dcf6f41e4899c0c881e047053",
+  "app_title": "Dishonored\u00ae: Death of the Outsider\u2122",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2fb8273dcf6f41e4899c0c881e047053",
+      "asset_id": "2fb8273dcf6f41e4899c0c881e047053",
+      "build_version": "0.0.0.4",
+      "catalog_item_id": "341b8e920c0d401d98be61a26b78b08c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "87c84bc5f43d4fe69ad8f3ccde0594b0",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-09-22T17:20:58.300Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/Arkane Studios/Dishonored_DO/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DishonoredDOTO"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "87c84bc5f43d4fe69ad8f3ccde0594b0"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Dishonored\u00ae: Death of the Outsider\u2122",
+    "developer": "Bethesda Softworks LLC",
+    "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+    "endOfSupport": false,
+    "entitlementName": "341b8e920c0d401d98be61a26b78b08c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && dishonored)"
+    ],
+    "id": "341b8e920c0d401d98be61a26b78b08c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "7384b1e04742564e240e5e92722f82d6",
+        "size": 761575,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-10-25T19:00:06.781Z",
+        "url": "https://cdn1.epicgames.com/item/87c84bc5f43d4fe69ad8f3ccde0594b0/EGS_DishonoredDeathoftheOutsider_ArkaneStudios_S1_2560x1440-7384b1e04742564e240e5e92722f82d6",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "acb1abddb047a40709f270fa623f1f02",
+        "size": 623208,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-10-25T19:00:09.041Z",
+        "url": "https://cdn1.epicgames.com/item/87c84bc5f43d4fe69ad8f3ccde0594b0/EGS_DishonoredDeathoftheOutsider_ArkaneStudios_S2_1200x1600-acb1abddb047a40709f270fa623f1f02",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-10-17T15:56:41.618Z",
+    "mainGameItemList": [],
+    "namespace": "87c84bc5f43d4fe69ad8f3ccde0594b0",
+    "releaseInfo": [
+      {
+        "appId": "2fb8273dcf6f41e4899c0c881e047053",
+        "id": "f26b862dfc6c4c6cbd75b772abbd36c5",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Dishonored\u00ae: Death of the Outsider\u2122",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

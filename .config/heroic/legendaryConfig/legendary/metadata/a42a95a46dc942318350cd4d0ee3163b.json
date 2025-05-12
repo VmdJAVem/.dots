@@ -1,0 +1,89 @@
+{
+  "app_name": "a42a95a46dc942318350cd4d0ee3163b",
+  "app_title": "LISA: The Joyful - Definitive Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a42a95a46dc942318350cd4d0ee3163b",
+      "asset_id": "a42a95a46dc942318350cd4d0ee3163b",
+      "build_version": "1.5_4",
+      "catalog_item_id": "4423ec07f6cc4facade298799967f1e8",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "facd99b17d8f4a6d87006a939f80ae56"
+      },
+      "namespace": "87de7c0aad7944899fb6d2b05e13b108",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-28T09:48:42.107Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "LISATheJoyful5LIWA"
+      }
+    },
+    "description": "LISA: The Joyful - Definitive Edition",
+    "developer": "Serenity Forge",
+    "developerId": "o-256f2bc2a35049a39ceae0f57d01bb",
+    "endOfSupport": false,
+    "entitlementName": "4423ec07f6cc4facade298799967f1e8",
+    "entitlementType": "EXECUTABLE",
+    "id": "4423ec07f6cc4facade298799967f1e8",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "LISA - The Joyful Offer",
+        "height": 1440,
+        "md5": "5e916c84a9e7774ee55ee83812e424d8",
+        "size": 1040076,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-10-09T21:56:00.724Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/9566e3446c544581a89136948b63de90/lisa--the-joyful-syul9.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download LISA - The Joyful Offer",
+        "height": 1600,
+        "md5": "399b0c977c78fc3e999a7cfaeb47b99f",
+        "size": 538512,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-10-09T21:56:00.955Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/9566e3446c544581a89136948b63de90/lisa--the-joyful-r9mki.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T15:59:22.944Z",
+    "mainGameItemList": [],
+    "namespace": "87de7c0aad7944899fb6d2b05e13b108",
+    "releaseInfo": [
+      {
+        "appId": "a42a95a46dc942318350cd4d0ee3163b",
+        "id": "1774a0181f0846a1a337499e81199bca",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "LISA: The Joyful - Definitive Edition",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "e17f9a1d0b1f4397b7bc1778cd429293"
+    },
+    "rev": 1
+  }
+}

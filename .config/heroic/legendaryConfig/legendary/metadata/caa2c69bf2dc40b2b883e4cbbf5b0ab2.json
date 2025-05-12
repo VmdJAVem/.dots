@@ -1,0 +1,124 @@
+{
+  "app_name": "caa2c69bf2dc40b2b883e4cbbf5b0ab2",
+  "app_title": "Geneforge 1: Mutagen",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "caa2c69bf2dc40b2b883e4cbbf5b0ab2",
+      "asset_id": "caa2c69bf2dc40b2b883e4cbbf5b0ab2",
+      "build_version": "gfwinr1021",
+      "catalog_item_id": "fba054603e61427ba91184f5df0c6d04",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "308652d49c89470fbf45fe8696b9c1c1",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-02-12T22:21:41.149Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/Spiderweb Software/Geneforge Mutagen Saved Games/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/Spiderweb Software/Geneforge Mutagen Saved Games/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Geneforge1Mutagen"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "400"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "308652d49c89470fbf45fe8696b9c1c1"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Geneforge 1: Mutagen",
+    "developer": "Spiderweb Software, Inc.",
+    "developerId": "o-bu7q3xmhe9gddmtm7z8ubuc9fnes7n",
+    "endOfSupport": false,
+    "entitlementName": "fba054603e61427ba91184f5df0c6d04",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "fba054603e61427ba91184f5df0c6d04",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "8427125eb377278c6aed260c7900f2b6",
+        "size": 260209,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-02-19T17:36:15.813Z",
+        "url": "https://cdn1.epicgames.com/308652d49c89470fbf45fe8696b9c1c1/item/egs-geneforge1mutagen-spiderwebsoftware-s1-2560x1440-c8cf464f2b2a-2560x1440-8427125eb377278c6aed260c7900f2b6.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "668dc5abed1824b419b20b21c362904e",
+        "size": 155328,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-02-19T17:36:29.698Z",
+        "url": "https://cdn1.epicgames.com/308652d49c89470fbf45fe8696b9c1c1/item/egs-geneforge1mutagen-spiderwebsoftware-s2-1200x1600-047ee886480c-1200x1600-668dc5abed1824b419b20b21c362904e.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-02-24T13:59:24.977Z",
+    "mainGameItemList": [],
+    "namespace": "308652d49c89470fbf45fe8696b9c1c1",
+    "releaseInfo": [
+      {
+        "appId": "caa2c69bf2dc40b2b883e4cbbf5b0ab2",
+        "dateAdded": "2021-02-12T00:00:00.000Z",
+        "id": "6f74b3c5558b48bd968d38dd231dfff2",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Geneforge 1: Mutagen",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

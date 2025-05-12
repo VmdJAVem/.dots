@@ -1,0 +1,79 @@
+(20:33:07) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary
+(20:33:07) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl
+(20:33:07) INFO:    [Connection]:       Connectivity: check-online
+(20:33:07) INFO:    [Connection]:       Pinging external endpoints
+(20:33:07) INFO:    [Gog]:              Checking for existing gog manifests
+(20:33:07) WARNING: [Backend]:          Protocol already registered.
+(20:33:07) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+(20:33:07) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json --version
+(20:33:07) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/vmdjavem/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/nile --version
+(20:33:07) INFO:    [Backend]:          
+System Information:
+CPU: 12x AMD Ryzen 5 7600X 6-Core Processor
+Memory: 32.7 GB (used: 4.36 GB)
+GPUs:
+  GPU 0:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Raphael
+    IDs: D=164e V=1002 SD=7e26 SV=1462
+    Driver: amdgpu
+  GPU 1:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Navi 32 [Radeon RX 7700 XT / 7800 XT]
+    IDs: D=747e V=1002 SD=f475 SV=1da2
+    Driver: amdgpu
+OS: EndeavourOS 6.14.5-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.16.1 Scopper Gaban
+  Legendary: 0.20.36 Urban Flight (Heroic)
+  gogdl: 1.1.2
+  comet: comet 0.2.0
+  Nile: 1.1.2 Will A. Zeppeli
+
+(20:33:07) INFO:    [Connection]:       Connectivity: online
+(20:33:07) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(20:33:07) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json auth
+(20:33:07) INFO:    [Frontend]:         Refreshing undefined Library
+(20:33:07) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(20:33:07) INFO:    [Legendary]:        Refreshing library...
+(20:33:07) INFO:    [Legendary]:        Refreshing Epic Games...
+(20:33:07) INFO:    [Backend]:          Frontend Ready
+(20:33:07) INFO:    [Backend]:          Checking for new Heroic Updates
+(20:33:07) INFO:    [Backend]:          Checking for current version changelog
+(20:33:07) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(20:33:07) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(20:33:09) INFO:    [Legendary]:        Game list updated, got 97 games & DLCs
+(20:33:09) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(20:33:09) INFO:    [Legendary]:        Checking for game updates: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(20:33:09) INFO:    [Winetricks]:       Downloading Winetricks
+(20:33:10) INFO:    [Legendary]:        Found 0 games to update
+(20:33:11) INFO:    [Backend]:          Launching Wolfenstein: The New Order (a64dcf9b711a4a60a3c0b6f052dfc7da)
+(20:33:11) INFO:    [Backend]:          Preventing display from sleep
+(20:33:11) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(20:33:11) INFO:    [Backend]:          Preventing machine to sleep
+(20:33:11) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(20:33:11) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(20:33:11) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(20:33:11) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(20:33:12) INFO:    [WineDownloader]:   Updating wine versions info
+(20:33:12) INFO:    [WineDownloader]:   Fetching upstream information...
+(20:33:12) INFO:    [Backend]:          Starting the Download Queue
+(20:33:12) INFO:    [WineDownloader]:   wine versions updated
+(20:33:16) INFO:    [Backend]:          Created/Updated Wineprefix at /home/vmdjavem/Games/Heroic/Prefixes/default/Wolfenstein The New Order
+(20:33:16) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(20:33:16) DEBUG:   [Backend]:          Running Wine command: run reg add HKEY_CLASSES_ROOT\com.epicgames.launcher /f
+(20:33:19) DEBUG:   [Legendary]:        Using cached install info
+(20:33:19) INFO:    [Legendary]:        Checking if EOS Overlay is enabled: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary eos-overlay info --prefix "/home/vmdjavem/Games/Heroic/Prefixes/default/Wolfenstein The New Order/pfx"
+(20:33:19) INFO:    [Legendary]:        Abort command "LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary eos-overlay info --prefix "/home/vmdjavem/Games/Heroic/Prefixes/default/Wolfenstein The New Order/pfx""
+(20:33:20) INFO:    [Legendary]:        Launching Wolfenstein: The New Order: HEROIC_APP_NAME=a64dcf9b711a4a60a3c0b6f052dfc7da HEROIC_APP_RUNNER=legendary GAMEID=umu-0 HEROIC_APP_SOURCE=epic STORE=egs STEAM_COMPAT_INSTALL_PATH=/home/vmdjavem/Games/Heroic/WolfensteinTNO LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/vmdjavem/.steam/steam WINEPREFIX="/home/vmdjavem/Games/Heroic/Prefixes/default/Wolfenstein The New Order" STEAM_COMPAT_DATA_PATH="/home/vmdjavem/Games/Heroic/Prefixes/default/Wolfenstein The New Order" PROTONPATH=/home/vmdjavem/.config/heroic/tools/proton/GE-Proton-latest WINE_FULLSCREEN_FSR=0 PROTON_ENABLE_NVAPI=1 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 PROTON_EAC_RUNTIME=/home/vmdjavem/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/vmdjavem/.config/heroic/tools/runtimes/battleye_runtime STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-WolfensteinTNO PROTON_LOG_DIR=/home/vmdjavem LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary launch a64dcf9b711a4a60a3c0b6f052dfc7da --no-wine --wrapper " "/home/vmdjavem/.config/heroic/tools/proton/GE-Proton-latest/proton" waitforexitandrun" --language en
+(20:33:20) INFO:    [Backend]:          Preventing display to sleep
+(20:38:58) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(20:38:59) INFO:    [Frontend]:         Refreshing legendary Library
+(20:38:59) INFO:    [Legendary]:        Refreshing library...
+(20:38:59) INFO:    [Legendary]:        Refreshing Epic Games...
+(20:38:59) INFO:    [Backend]:          Stopping Power Saver Blocker
+(20:38:59) INFO:    [Backend]:          Stopping Display Sleep Blocker
+(20:38:59) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(20:39:01) INFO:    [Legendary]:        Game list updated, got 97 games & DLCs

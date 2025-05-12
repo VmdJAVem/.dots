@@ -1,0 +1,158 @@
+{
+  "app_name": "16db0e48c4d84d1490ab96be62a83c4c",
+  "app_title": "Empyrion - Galactic Survival",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "16db0e48c4d84d1490ab96be62a83c4c",
+      "asset_id": "16db0e48c4d84d1490ab96be62a83c4c",
+      "build_version": "1.12.1-4742",
+      "catalog_item_id": "2b524cdfced84a39b4d2110249ad7d84",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "60aa4429bce24c6da2f6d7739ed3b256",
+        "update_type": "PATCH"
+      },
+      "namespace": "edd938a6d7ec4a55ab82bba8f8dd5b22",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-01-16T14:17:25.660Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "EmpyrionGalacticSurvKqTWC"
+      }
+    },
+    "description": "Empyrion - Galactic Survival",
+    "developer": "Eleon Game Studios SA",
+    "developerId": "o-tshmnaljr77yqheulm5xx6dkrhgb88",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-08T10:34:12.897Z",
+        "customAttributes": {},
+        "description": "Empyrion - Galactic Survival: Dark Faction",
+        "developer": "Eleon Game Studios SA",
+        "developerId": "o-tshmnaljr77yqheulm5xx6dkrhgb88",
+        "endOfSupport": false,
+        "entitlementName": "95788d6ac1eb4ae58ae31ec38001b6e0",
+        "entitlementType": "EXECUTABLE",
+        "id": "95788d6ac1eb4ae58ae31ec38001b6e0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Empyrion - Galactic Survival Empyrion - Galactic Survival: Dark Faction Offer",
+            "height": 1440,
+            "md5": "1e52a80729711c815facc2aae85b6207",
+            "size": 713944,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-10-08T11:59:03.346Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/25da1d05381345f6b50cca947a2fc2fc/empyrion--galactic-survival-h9lzx.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Empyrion - Galactic Survival Empyrion - Galactic Survival: Dark Faction Offer",
+            "height": 1600,
+            "md5": "d17c6422bb0f86cf0f94f600651d98af",
+            "size": 446781,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-10-08T11:59:03.526Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/25da1d05381345f6b50cca947a2fc2fc/empyrion--galactic-survival-8x0j1.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-26T21:57:39.129Z",
+        "mainGameItem": {
+          "id": "2b524cdfced84a39b4d2110249ad7d84",
+          "namespace": "edd938a6d7ec4a55ab82bba8f8dd5b22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2b524cdfced84a39b4d2110249ad7d84",
+            "namespace": "edd938a6d7ec4a55ab82bba8f8dd5b22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "edd938a6d7ec4a55ab82bba8f8dd5b22",
+        "releaseInfo": [
+          {
+            "appId": "b3614083ba6a414d92636536656eb448",
+            "id": "70f52e091311484981e3d28a2748b3b0",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Empyrion - Galactic Survival: Dark Faction",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "2b524cdfced84a39b4d2110249ad7d84",
+    "entitlementType": "EXECUTABLE",
+    "id": "2b524cdfced84a39b4d2110249ad7d84",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Empyrion - Galactic Survival Offer",
+        "height": 1440,
+        "md5": "245a13a13649c6def592daef81278541",
+        "size": 544351,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-05-07T08:53:30.715Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/25da1d05381345f6b50cca947a2fc2fc/empyrion--galactic-survival-fovrj.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Empyrion - Galactic Survival Offer",
+        "height": 1600,
+        "md5": "203692a20602181ba49686c77291088b",
+        "size": 273850,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-05-07T08:53:30.650Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/25da1d05381345f6b50cca947a2fc2fc/empyrion--galactic-survival-pu0rt.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-25T21:51:52.419Z",
+    "mainGameItemList": [],
+    "namespace": "edd938a6d7ec4a55ab82bba8f8dd5b22",
+    "releaseInfo": [
+      {
+        "appId": "16db0e48c4d84d1490ab96be62a83c4c",
+        "id": "bf3e3041a04e412289951bca48519577",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Empyrion - Galactic Survival",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "7aac12fe58bd4c3f851f7eb00b411694"
+    },
+    "rev": 1
+  }
+}

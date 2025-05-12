@@ -1,0 +1,104 @@
+{
+  "app_name": "8032b75cf0914afa87c78d6914adc165",
+  "app_title": "Car Mechanic Simulator 2018",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "8032b75cf0914afa87c78d6914adc165",
+      "asset_id": "8032b75cf0914afa87c78d6914adc165",
+      "build_version": "1.6",
+      "catalog_item_id": "57b243a529b7487586bf0c1d604d5568",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "226306adde104c9092247dcd4bfa1499",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-03-21T17:55:30.526Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "CarMechanicSim2018"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "226306adde104c9092247dcd4bfa1499"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Car Mechanic Simulator 2018",
+    "developer": "PlayWay",
+    "developerId": "o-5n5cbrasl5yzexjc529rypg8eh8lfb",
+    "endOfSupport": false,
+    "entitlementName": "57b243a529b7487586bf0c1d604d5568",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "57b243a529b7487586bf0c1d604d5568",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "3489ef1499e64c168fdf4b14926d2c23",
+        "size": 1008795,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-06-07T15:38:05.484Z",
+        "url": "https://cdn1.epicgames.com/item/226306adde104c9092247dcd4bfa1499/EGS_CarMechanicSimulator2018_RedDotGames_S1_2560x1440-3489ef1499e64c168fdf4b14926d2c23",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "f285924f9144353f57ac4631f0c689e6",
+        "size": 1002049,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-06-07T15:38:09.740Z",
+        "url": "https://cdn1.epicgames.com/item/226306adde104c9092247dcd4bfa1499/EGS_CarMechanicSimulator2018_RedDotGames_S2_1200x1600-f285924f9144353f57ac4631f0c689e6",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:36:22.568Z",
+    "mainGameItemList": [],
+    "namespace": "226306adde104c9092247dcd4bfa1499",
+    "releaseInfo": [
+      {
+        "appId": "8032b75cf0914afa87c78d6914adc165",
+        "id": "e51d3b562e9a4b6f80034eecf1e43187",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Car Mechanic Simulator 2018",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

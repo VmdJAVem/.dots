@@ -1,0 +1,83 @@
+{
+  "app_name": "04ff2d1f56764499b68f35e3b3d58c63",
+  "app_title": "BLEED RUNNER",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "04ff2d1f56764499b68f35e3b3d58c63",
+      "asset_id": "04ff2d1f56764499b68f35e3b3d58c63",
+      "build_version": "TestBuildVersion_1.0",
+      "catalog_item_id": "cdddc2be8348401d8d985b94c1102957",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "21eb999383024fed9d5db2250acf20ff"
+      },
+      "namespace": "c1f083858e9c4e029e9c6462fbd275be",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-12-03T18:11:14.813Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "BLEEDRUNNER38QHv"
+      }
+    },
+    "description": "BLEED RUNNER",
+    "developer": "USC Games",
+    "developerId": "o-fhlqgs7et8mhncsshxnxdbp2vtvs37",
+    "endOfSupport": false,
+    "entitlementName": "cdddc2be8348401d8d985b94c1102957",
+    "entitlementType": "EXECUTABLE",
+    "id": "cdddc2be8348401d8d985b94c1102957",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "BLEED RUNNER Offer",
+        "height": 1440,
+        "md5": "dff58793694318826c839453cc81e1f6",
+        "size": 3478953,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-11-18T03:14:26.537Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/f76e37fd9874418a895f09f653ee3b76/bleed-runner-gbbc5.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download BLEED RUNNER Offer",
+        "height": 1600,
+        "md5": "bfeb26ed944801e81afabef6da8e5f32",
+        "size": 1398369,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-11-18T03:14:26.708Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/f76e37fd9874418a895f09f653ee3b76/bleed-runner-iwtgz.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-12-03T18:11:14.813Z",
+    "mainGameItemList": [],
+    "namespace": "c1f083858e9c4e029e9c6462fbd275be",
+    "releaseInfo": [
+      {
+        "appId": "04ff2d1f56764499b68f35e3b3d58c63",
+        "id": "39f564b748aa4c57ac1e90120fb3bc09",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "BLEED RUNNER",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

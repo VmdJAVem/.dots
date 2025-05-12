@@ -1,0 +1,113 @@
+{
+  "app_name": "b22ce34b4ce0408c97a888554447479b",
+  "app_title": "BioShock 2 Remastered",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b22ce34b4ce0408c97a888554447479b",
+      "asset_id": "b22ce34b4ce0408c97a888554447479b",
+      "build_version": "1.0.0_BN-139_CL-17677",
+      "catalog_item_id": "84e94f1900874df4a9281e6b5793653e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "304724b675974566b1d7e23af80a1f52",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45678WKOj0kLv6NA3UKiohEBvAMJ",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-10-01T18:51:01.215Z",
+    "customAttributes": {
+      "BackgroundProcessNames": {
+        "type": "STRING",
+        "value": "LauncherPatcher.exe"
+      },
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "BioShock2Remastered"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "304724b675974566b1d7e23af80a1f52"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "BioShock 2 Remastered",
+    "developer": "2K Games, Inc.",
+    "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "endOfSupport": false,
+    "entitlementName": "84e94f1900874df4a9281e6b5793653e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "84e94f1900874df4a9281e6b5793653e",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "9ce67143723d05cda671b3e966732fd7",
+        "size": 862287,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-05-26T14:18:32.414Z",
+        "url": "https://cdn1.epicgames.com/item/304724b675974566b1d7e23af80a1f52/bioshock2-remastered_1200x1600-9ce67143723d05cda671b3e966732fd7",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "ae26b684679e5daec480292eade90c5c",
+        "size": 885582,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-05-26T14:19:17.052Z",
+        "url": "https://cdn1.epicgames.com/item/304724b675974566b1d7e23af80a1f52/bioshock2-remastered-wide_2560x1440-ae26b684679e5daec480292eade90c5c",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2022-05-26T20:36:15.021Z",
+    "mainGameItemList": [],
+    "namespace": "304724b675974566b1d7e23af80a1f52",
+    "releaseInfo": [
+      {
+        "appId": "b22ce34b4ce0408c97a888554447479b",
+        "id": "9f4f871ddcde451788e9ce7ee0ca0ff8",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "BioShock 2 Remastered",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,598 @@
+{
+  "app_name": "002b00085aeb49b1a3f3c42e3f918f2f",
+  "app_title": "City of Gangsters",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "002b00085aeb49b1a3f3c42e3f918f2f",
+      "asset_id": "002b00085aeb49b1a3f3c42e3f918f2f",
+      "build_version": "1.4.3.5",
+      "catalog_item_id": "6b06cffad08e4f47a8200e06e7fe6101",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "7dc3f333f4e34389ac4c2e2fadf7a2e3"
+      },
+      "namespace": "e33138cc2b964d38a42a812b83b6507e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-03-21T10:47:05.956Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "saves-epic/*, prefs-epic/gameplay.txt"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/SomaSim/City of Gangsters/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "CityofGangsters"
+      }
+    },
+    "description": "En este juego de simulaci\u00f3n econ\u00f3mica, iniciar\u00e1s una operaci\u00f3n criminal de la nada y la convertir\u00e1s en una m\u00e1quina de dinero bien engrasada. Construye bares clandestinos y destiler\u00edas ilegales. Gestiona cadenas de producci\u00f3n y distribuci\u00f3n de recursos.",
+    "developer": "Kasedo Games Ltd",
+    "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-05-11T08:34:53.251Z",
+        "description": "Controla a los pol\u00edticos de la ciudad y manipula las leyes en Nueva York y m\u00e1s all\u00e1 en el nuevo paquete de extensi\u00f3n City of Gangsters: Shadow Government.",
+        "developer": "Kasedo Games Ltd",
+        "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+        "endOfSupport": false,
+        "entitlementName": "13e17914d9534267a38c03e7565568f1",
+        "entitlementType": "EXECUTABLE",
+        "id": "13e17914d9534267a38c03e7565568f1",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "City of Gangsters City of Gangsters: Shadow Government Offer",
+            "height": 1440,
+            "md5": "2586676b86e73fdddd6cfbd1b00d8478",
+            "size": 2317757,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-05-18T13:19:29.945Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-city-of-gangsters-shadow-government-offer-17xq9.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download City of Gangsters City of Gangsters: Shadow Government Offer",
+            "height": 1600,
+            "md5": "9448f76aba39fbf53e6e7c74c0cd7011",
+            "size": 1486891,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-05-18T13:19:30.569Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/download-city-of-gangsters-city-of-gangsters-shadow-government-offer-1exqn.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-07-13T18:39:24.204Z",
+        "mainGameItem": {
+          "id": "6b06cffad08e4f47a8200e06e7fe6101",
+          "namespace": "e33138cc2b964d38a42a812b83b6507e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6b06cffad08e4f47a8200e06e7fe6101",
+            "namespace": "e33138cc2b964d38a42a812b83b6507e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e33138cc2b964d38a42a812b83b6507e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "City of Gangsters: Shadow Government",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-05-11T08:34:10.703Z",
+        "description": "Este paquete de contenido agrega habilidades exclusivas cuando se juega como irland\u00e9s.",
+        "developer": "Kasedo Games Ltd",
+        "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+        "endOfSupport": false,
+        "entitlementName": "55897afc0713408ea7e931c3947fc7b4",
+        "entitlementType": "EXECUTABLE",
+        "id": "55897afc0713408ea7e931c3947fc7b4",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "City of Gangsters City of Gangsters: The Irish Outfit Offer",
+            "height": 1440,
+            "md5": "813a7d84d8bc8640af178b5a16667fc8",
+            "size": 1690528,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-06-09T10:15:48.185Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-city-of-gangsters-the-irish-outfit-offer-1g4jm.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download City of Gangsters City of Gangsters: The Irish Outfit Offer",
+            "height": 1600,
+            "md5": "6f91e0b2d87a867b334abb411abe7f63",
+            "size": 885537,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-06-09T10:15:48.725Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/download-city-of-gangsters-city-of-gangsters-the-irish-outfit-offer-1oufz.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-07-13T18:39:24.204Z",
+        "mainGameItem": {
+          "id": "6b06cffad08e4f47a8200e06e7fe6101",
+          "namespace": "e33138cc2b964d38a42a812b83b6507e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6b06cffad08e4f47a8200e06e7fe6101",
+            "namespace": "e33138cc2b964d38a42a812b83b6507e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e33138cc2b964d38a42a812b83b6507e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "City of Gangsters: The Irish Outfit",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-05-11T08:33:56.983Z",
+        "description": "Este paquete de contenido agrega habilidades exclusivas cuando se juega como ingl\u00e9s.",
+        "developer": "Kasedo Games Ltd",
+        "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+        "endOfSupport": false,
+        "entitlementName": "72af901271e442639f8ed21623d43f63",
+        "entitlementType": "EXECUTABLE",
+        "id": "72af901271e442639f8ed21623d43f63",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "City of Gangsters City of Gangsters: The English Outfit Offer",
+            "height": 1440,
+            "md5": "21e8f2bf5210f7e88d8c9bbf6b145023",
+            "size": 1808194,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-06-09T10:14:40.886Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-city-of-gangsters-the-english-outfit-offer-12z7l.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download City of Gangsters City of Gangsters: The English Outfit Offer",
+            "height": 1600,
+            "md5": "66022469cfe6c7e0e4eba2f4fa0c8985",
+            "size": 971679,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-05-19T14:20:43.069Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/download-city-of-gangsters-city-of-gangsters-the-english-outfit-offer-1fgem.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-07-13T18:39:24.204Z",
+        "mainGameItem": {
+          "id": "6b06cffad08e4f47a8200e06e7fe6101",
+          "namespace": "e33138cc2b964d38a42a812b83b6507e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6b06cffad08e4f47a8200e06e7fe6101",
+            "namespace": "e33138cc2b964d38a42a812b83b6507e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e33138cc2b964d38a42a812b83b6507e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "City of Gangsters: The English Outfit",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-04-14T14:08:14.696Z",
+        "description": "\u00a1Expande tus operaciones de juego para atraer a grandes apostadores a los casinos de Atlantic City en esta nueva expansi\u00f3n de alto riesgo!",
+        "developer": "Kasedo Games Ltd",
+        "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+        "endOfSupport": false,
+        "entitlementName": "64f0e040194e4316a176da9aeb3b9263",
+        "entitlementType": "EXECUTABLE",
+        "id": "64f0e040194e4316a176da9aeb3b9263",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "City of Gangsters City of Gangsters: Atlantic City Offer",
+            "height": 1440,
+            "md5": "8e7bb9220dc28da2dbb12cc0b595dab7",
+            "size": 588422,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-05-11T08:52:14.502Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-city-of-gangsters-atlantic-city-offer-ucwte.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download City of Gangsters City of Gangsters: Atlantic City Offer",
+            "height": 1600,
+            "md5": "b63a8c6458565ac2c18bc1d7303eeddd",
+            "size": 370104,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-05-11T08:52:09.189Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/download-city-of-gangsters-city-of-gangsters-atlantic-city-offer-1clmu.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-07-13T18:39:24.204Z",
+        "mainGameItem": {
+          "id": "6b06cffad08e4f47a8200e06e7fe6101",
+          "namespace": "e33138cc2b964d38a42a812b83b6507e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6b06cffad08e4f47a8200e06e7fe6101",
+            "namespace": "e33138cc2b964d38a42a812b83b6507e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e33138cc2b964d38a42a812b83b6507e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "City of Gangsters: Atlantic City",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-04-18T12:09:44.284Z",
+        "description": "Toma el control de tu atuendo y participa en atrevidos esquemas nuevos en City of Gangsters: Criminal Record.",
+        "developer": "Kasedo Games Ltd",
+        "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+        "endOfSupport": false,
+        "entitlementName": "f272e7418f2848cf841b69fd21c167ac",
+        "entitlementType": "EXECUTABLE",
+        "id": "f272e7418f2848cf841b69fd21c167ac",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "City of Gangsters City of Gangsters: Criminal Record Offer",
+            "height": 1440,
+            "md5": "c20f4c20117a3d30198fbf5481ec3d0c",
+            "size": 472476,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-05-11T08:56:28.155Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-city-of-gangsters-criminal-record-offer-rahvb.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download City of Gangsters City of Gangsters: Criminal Record Offer",
+            "height": 1600,
+            "md5": "9735587291c9f331651bfe8d14ba168b",
+            "size": 263642,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-05-11T08:56:27.942Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/download-city-of-gangsters-city-of-gangsters-criminal-record-offer-jfcg0.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-07-13T18:39:24.204Z",
+        "mainGameItem": {
+          "id": "6b06cffad08e4f47a8200e06e7fe6101",
+          "namespace": "e33138cc2b964d38a42a812b83b6507e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6b06cffad08e4f47a8200e06e7fe6101",
+            "namespace": "e33138cc2b964d38a42a812b83b6507e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e33138cc2b964d38a42a812b83b6507e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "City of Gangsters: Criminal Record",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-04-13T15:50:00.214Z",
+        "description": "Cincinnati: sobre el r\u00edo Ohio, justo frente a Kentucky, con su larga historia de destilado de whisky y bourbon. Un nuevo desaf\u00edo que presenta la particular geograf\u00eda de la ciudad, con sus climas, variados barrios y el r\u00edo Ohio que limita el acceso a valiosos recursos de Kentucky.",
+        "developer": "Kasedo Games Ltd",
+        "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+        "endOfSupport": false,
+        "entitlementName": "1c42f422d7bf471a940787f3ab982e94",
+        "entitlementType": "EXECUTABLE",
+        "id": "1c42f422d7bf471a940787f3ab982e94",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "City of Gangsters City of Gangsters: Bourbon Bootlegging Offer",
+            "height": 1440,
+            "md5": "ee7a8c3306723d983045ab5084852aed",
+            "size": 521979,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-05-11T08:55:11.143Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-city-of-gangsters-bourbon-bootlegging-offer-1tugh.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download City of Gangsters City of Gangsters: Bourbon Bootlegging Offer",
+            "height": 1600,
+            "md5": "ed12f8d1e828b4c5c8d000d844ca6eb6",
+            "size": 334509,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-05-11T08:54:55.268Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/download-city-of-gangsters-city-of-gangsters-bourbon-bootlegging-offer-j9e1l.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-07-13T18:39:24.204Z",
+        "mainGameItem": {
+          "id": "6b06cffad08e4f47a8200e06e7fe6101",
+          "namespace": "e33138cc2b964d38a42a812b83b6507e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6b06cffad08e4f47a8200e06e7fe6101",
+            "namespace": "e33138cc2b964d38a42a812b83b6507e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e33138cc2b964d38a42a812b83b6507e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "City of Gangsters: Bourbon Bootlegging",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-05-11T08:34:22.346Z",
+        "description": "Este paquete de contenido agrega habilidades exclusivas cuando se juega como italiano.",
+        "developer": "Kasedo Games Ltd",
+        "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+        "endOfSupport": false,
+        "entitlementName": "938125209cb144dbb764e1d8373ecb73",
+        "entitlementType": "EXECUTABLE",
+        "id": "938125209cb144dbb764e1d8373ecb73",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "City of Gangsters City of Gangsters: The Italian Outfit Offer",
+            "height": 1440,
+            "md5": "28e5e94b9043e3147d6e224c0496a360",
+            "size": 1668222,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-06-10T10:00:23.972Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-city-of-gangsters-the-italian-outfit-offer-1x81x.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download City of Gangsters City of Gangsters: The Italian Outfit Offer",
+            "height": 1600,
+            "md5": "725abc27c69f1ab1032f124fa0e6e9bd",
+            "size": 913133,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-06-10T10:00:24.483Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/download-city-of-gangsters-city-of-gangsters-the-italian-outfit-offer-1pv3x.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-07-13T18:39:24.204Z",
+        "mainGameItem": {
+          "id": "6b06cffad08e4f47a8200e06e7fe6101",
+          "namespace": "e33138cc2b964d38a42a812b83b6507e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6b06cffad08e4f47a8200e06e7fe6101",
+            "namespace": "e33138cc2b964d38a42a812b83b6507e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e33138cc2b964d38a42a812b83b6507e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "City of Gangsters: The Italian Outfit",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-05-11T08:34:33.603Z",
+        "description": "Este paquete de contenido agrega habilidades exclusivas cuando se juega como polaco.",
+        "developer": "Kasedo Games Ltd",
+        "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+        "endOfSupport": false,
+        "entitlementName": "fb097a09e04346e5890adf61395d0f59",
+        "entitlementType": "EXECUTABLE",
+        "id": "fb097a09e04346e5890adf61395d0f59",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "City of Gangsters City of Gangsters: The Polish Outfit Offer",
+            "height": 1440,
+            "md5": "55ef05c399a7a3dea2c443ca1f875b10",
+            "size": 1414713,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-06-09T10:16:32.928Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-city-of-gangsters-the-polish-outfit-offer-1h32f.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download City of Gangsters City of Gangsters: The Polish Outfit Offer",
+            "height": 1600,
+            "md5": "6783961fa6a5323d01a5c7bac63ff3e8",
+            "size": 790931,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-06-09T10:16:33.255Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/download-city-of-gangsters-city-of-gangsters-the-polish-outfit-offer-knad1.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-07-13T18:39:24.204Z",
+        "mainGameItem": {
+          "id": "6b06cffad08e4f47a8200e06e7fe6101",
+          "namespace": "e33138cc2b964d38a42a812b83b6507e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6b06cffad08e4f47a8200e06e7fe6101",
+            "namespace": "e33138cc2b964d38a42a812b83b6507e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e33138cc2b964d38a42a812b83b6507e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "City of Gangsters: The Polish Outfit",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-05-11T08:34:43.164Z",
+        "description": "Este paquete de contenido agrega habilidades exclusivas cuando se juega como alem\u00e1n.",
+        "developer": "Kasedo Games Ltd",
+        "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+        "endOfSupport": false,
+        "entitlementName": "af904bfc954a49fd99942e236944251d",
+        "entitlementType": "EXECUTABLE",
+        "id": "af904bfc954a49fd99942e236944251d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "City of Gangsters City of Gangsters: The German Outfit Offer",
+            "height": 1440,
+            "md5": "f024e7e6da6023c517c23c9734df492f",
+            "size": 1253554,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-06-09T10:15:15.845Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-city-of-gangsters-the-german-outfit-offer-13g2i.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download City of Gangsters City of Gangsters: The German Outfit Offer",
+            "height": 1600,
+            "md5": "904b62f4f0a9a7460e7490ae8108cda1",
+            "size": 706401,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-06-09T10:15:15.336Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/download-city-of-gangsters-city-of-gangsters-the-german-outfit-offer-l5thm.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-07-13T18:39:24.204Z",
+        "mainGameItem": {
+          "id": "6b06cffad08e4f47a8200e06e7fe6101",
+          "namespace": "e33138cc2b964d38a42a812b83b6507e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6b06cffad08e4f47a8200e06e7fe6101",
+            "namespace": "e33138cc2b964d38a42a812b83b6507e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e33138cc2b964d38a42a812b83b6507e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "City of Gangsters: The German Outfit",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "6b06cffad08e4f47a8200e06e7fe6101",
+    "entitlementType": "EXECUTABLE",
+    "id": "6b06cffad08e4f47a8200e06e7fe6101",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "City of Gangsters Offer",
+        "height": 1440,
+        "md5": "438b36bbae6de61e6b4014cbd42dd93e",
+        "size": 500958,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-05-11T08:48:33.785Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-offer-1b4a7.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download City of Gangsters Offer",
+        "height": 1600,
+        "md5": "d1d78d54eab3454827e39210c6afe5b9",
+        "size": 321860,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-05-11T08:48:30.756Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/download-city-of-gangsters-offer-19f2l.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-07-13T18:39:24.204Z",
+    "mainGameItemList": [],
+    "namespace": "e33138cc2b964d38a42a812b83b6507e",
+    "releaseInfo": [
+      {
+        "appId": "002b00085aeb49b1a3f3c42e3f918f2f",
+        "id": "4987e21809a7453092cb8df8e7ae6c26",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "City of Gangsters",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

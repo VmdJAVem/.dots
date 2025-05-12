@@ -1,0 +1,116 @@
+{
+  "app_name": "fe499569a4c04e6f8cc953f20d862cb4",
+  "app_title": "Football Manager 2022 Demo",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "fe499569a4c04e6f8cc953f20d862cb4",
+      "asset_id": "fe499569a4c04e6f8cc953f20d862cb4",
+      "build_version": "1662669-win",
+      "catalog_item_id": "8037fe791b55466e8d163f7de9c8165a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "97071dce4a98441d9c0b7f0df92f7b31",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-08-27T18:50:00.732Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "FM22Demo"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "97071dce4a98441d9c0b7f0df92f7b31"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Football Manager 2022 Demo",
+    "developer": "SEGA of Europe",
+    "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "endOfSupport": false,
+    "entitlementName": "8037fe791b55466e8d163f7de9c8165a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "8037fe791b55466e8d163f7de9c8165a",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "b8b3816a89feb951b3c37da921ee57cd",
+        "size": 894863,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-11-08T18:53:20.387Z",
+        "url": "https://cdn1.epicgames.com/item/97071dce4a98441d9c0b7f0df92f7b31/lanscape_2560x1440-b8b3816a89feb951b3c37da921ee57cd",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "5377adfa5fd611bd6726995ece5b04ef",
+        "size": 830046,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-11-08T18:53:26.336Z",
+        "url": "https://cdn1.epicgames.com/item/97071dce4a98441d9c0b7f0df92f7b31/tall_1200x1600-5377adfa5fd611bd6726995ece5b04ef",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-11-08T18:56:38.663Z",
+    "mainGameItemList": [],
+    "namespace": "97071dce4a98441d9c0b7f0df92f7b31",
+    "releaseInfo": [
+      {
+        "appId": "fe499569a4c04e6f8cc953f20d862cb4",
+        "compatibleApps": [],
+        "dateAdded": "2021-08-27T18:49:26.837Z",
+        "id": "19069728eb014ea580b3ab65d3d1e0d2",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Football Manager 2022 Demo",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

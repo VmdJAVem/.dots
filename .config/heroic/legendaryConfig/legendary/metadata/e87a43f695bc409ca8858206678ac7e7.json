@@ -1,0 +1,83 @@
+{
+  "app_name": "e87a43f695bc409ca8858206678ac7e7",
+  "app_title": "shapez",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "e87a43f695bc409ca8858206678ac7e7",
+      "asset_id": "e87a43f695bc409ca8858206678ac7e7",
+      "build_version": "1.5.5",
+      "catalog_item_id": "d9a609c6106046eab55014955f31448b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "d84e8b8ebb11491189a5885c01606189"
+      },
+      "namespace": "315e6807f6684c279fc286d0fc36a44f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-08-19T09:33:48.527Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "shapezaa2PF"
+      }
+    },
+    "description": "shapez",
+    "developer": "tobspr Games",
+    "developerId": "o-mxz5kbkz69j4k8vcddbqdyjsq5ts6r",
+    "endOfSupport": false,
+    "entitlementName": "d9a609c6106046eab55014955f31448b",
+    "entitlementType": "EXECUTABLE",
+    "id": "d9a609c6106046eab55014955f31448b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "shapez Offer",
+        "height": 1440,
+        "md5": "b233ea14a64f0e7b4ab42394c040a7e8",
+        "size": 1668132,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-10-10T14:57:19.782Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6aac3071aeae452990a71aac0a1fbc30/shapez-b1eas.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download shapez Offer",
+        "height": 1600,
+        "md5": "c1420ff2189f96b97ebce26e8606241b",
+        "size": 1483576,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-10-10T14:57:22.916Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6aac3071aeae452990a71aac0a1fbc30/shapez-vaox3.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-10-25T17:55:11.355Z",
+    "mainGameItemList": [],
+    "namespace": "315e6807f6684c279fc286d0fc36a44f",
+    "releaseInfo": [
+      {
+        "appId": "e87a43f695bc409ca8858206678ac7e7",
+        "id": "0310869e72174aa1a3113972c943b6bd",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "shapez",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

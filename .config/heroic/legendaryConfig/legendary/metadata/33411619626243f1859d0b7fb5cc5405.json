@@ -1,0 +1,114 @@
+{
+  "app_name": "33411619626243f1859d0b7fb5cc5405",
+  "app_title": "KID A MNESIA EXHIBITION",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "33411619626243f1859d0b7fb5cc5405",
+      "asset_id": "33411619626243f1859d0b7fb5cc5405",
+      "build_version": "0.0333.012725",
+      "catalog_item_id": "ffa4c29714ff44b1bca358975f4650a1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "72eb87039aa74e82a4b873c276de61e3",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-04-07T11:47:39.326Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "KidAMnesiaExhibition"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "72eb87039aa74e82a4b873c276de61e3"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "KID A MNESIA EXHIBITION",
+    "developer": "Epic Games Publishing",
+    "developerId": "o-e2xslu4mlqqaavphzl6927vtjqamhj",
+    "endOfSupport": false,
+    "entitlementName": "ffa4c29714ff44b1bca358975f4650a1",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "ffa4c29714ff44b1bca358975f4650a1",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "01dfad2110f87a6348843484091a2741",
+        "size": 864331,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-09-08T03:31:44.748Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KIDAMNESIAEXHIBITION_namethemachinexAGP_S1_2560x1440-01dfad2110f87a6348843484091a2741",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "03e1673e38cde74b38c35bfbba4d4aea",
+        "size": 892491,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-09-08T03:31:47.685Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KIDAMNESIAEXHIBITION_namethemachinexAGP_S2_1200x1600-03e1673e38cde74b38c35bfbba4d4aea",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-11-11T15:18:57.210Z",
+    "mainGameItemList": [],
+    "namespace": "72eb87039aa74e82a4b873c276de61e3",
+    "releaseInfo": [
+      {
+        "appId": "33411619626243f1859d0b7fb5cc5405",
+        "dateAdded": "2021-04-07T11:49:55.000Z",
+        "id": "af5db3417e1145b4a3587220a023e1dc",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "KID A MNESIA EXHIBITION",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

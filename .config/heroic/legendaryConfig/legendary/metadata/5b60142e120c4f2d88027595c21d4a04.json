@@ -1,0 +1,108 @@
+{
+  "app_name": "5b60142e120c4f2d88027595c21d4a04",
+  "app_title": "DOOM 64",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "5b60142e120c4f2d88027595c21d4a04",
+      "asset_id": "5b60142e120c4f2d88027595c21d4a04",
+      "build_version": "2124",
+      "catalog_item_id": "886507fcf6b94d98a02a018418fffd1f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "0ea70edafcc54b3191e262bbb6971981",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-03-11T22:54:36.713Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/Nightdive Studios/DOOM 64/saves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DOOM64"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "0ea70edafcc54b3191e262bbb6971981"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "DOOM 64",
+    "developer": "Bethesda Softworks LLC",
+    "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+    "endOfSupport": false,
+    "entitlementName": "886507fcf6b94d98a02a018418fffd1f",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && doom64)"
+    ],
+    "id": "886507fcf6b94d98a02a018418fffd1f",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "ad0080b34010d3c86254227a14e96494",
+        "size": 696033,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-07-19T18:21:04.299Z",
+        "url": "https://cdn1.epicgames.com/item/0ea70edafcc54b3191e262bbb6971981/EGS_DOOM64_idSoftwareNightdiveStudios_S1_2560x1440-ad0080b34010d3c86254227a14e96494",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "3572e6321f521e4003f476ae4088f190",
+        "size": 883898,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-07-19T18:21:00.299Z",
+        "url": "https://cdn1.epicgames.com/item/0ea70edafcc54b3191e262bbb6971981/EGS_DOOM64_idSoftwareNightdiveStudios_S2_1200x1600-3572e6321f521e4003f476ae4088f190",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-08-18T14:12:13.245Z",
+    "mainGameItemList": [],
+    "namespace": "0ea70edafcc54b3191e262bbb6971981",
+    "releaseInfo": [
+      {
+        "appId": "5b60142e120c4f2d88027595c21d4a04",
+        "id": "838d2a8304114ffc87db10d0703ba08e",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "DOOM 64",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

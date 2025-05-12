@@ -1,0 +1,917 @@
+{
+	"finished": [
+		{
+			"params": {
+				"appName": "8b6a0e1413744785a43c9f9f9547b4d6",
+				"path": "/home/vmdjavem/Games/Heroic",
+				"installDlcs": [],
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
+					"art_cover": "https://cdn1.epicgames.com/item/dc09ae8f1aa445b7853b5300c2345d81/EGS_Metalstorm_Starform_S1_2560x1440-df32d566bf58428a6ba7115109aeaac0",
+					"art_square": "https://cdn1.epicgames.com/item/dc09ae8f1aa445b7853b5300c2345d81/EGS_Metalstorm_Starform_S2_1200x1600-1ff27afbdd495badc021b65823cb8cdb",
+					"cloud_save_enabled": false,
+					"developer": "Starform Inc.",
+					"extra": {
+						"about": {
+							"description": "Metalstorm",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://www.epicgames.com/store/product/metalstorm"
+					},
+					"dlcList": [
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-10-12T18:09:13.814Z",
+							"description": "Metalstorm - Founder's Pack_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "a6650d61f8984c169e6b7a6ce99ea52f",
+							"entitlementType": "AUDIENCE",
+							"id": "a6650d61f8984c169e6b7a6ce99ea52f",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:21.487Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Metalstorm - Founder's Pack_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-09-27T15:20:57.876Z",
+							"description": "80 gold_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "f98ad104b6874ca48e987308eabdc5f5",
+							"entitlementType": "AUDIENCE",
+							"id": "f98ad104b6874ca48e987308eabdc5f5",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:21.487Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "80 gold_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-10-10T21:32:07.125Z",
+							"description": "Metalstorm - Epic Special Gold_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "f38a8a61aca74205af343e2e756e3210",
+							"entitlementType": "AUDIENCE",
+							"id": "f38a8a61aca74205af343e2e756e3210",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:21.487Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Metalstorm - Epic Special Gold_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-10-12T17:58:54.469Z",
+							"description": "Metalstorm - 360 Gold_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "e49fb228821a450bb69eada045fc334b",
+							"entitlementType": "AUDIENCE",
+							"id": "e49fb228821a450bb69eada045fc334b",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:22.317Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Metalstorm - 360 Gold_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-09-15T20:21:36.937Z",
+							"description": "Metalstorm - 30 Gold_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "332d3fdb7e5644c396b41060ddf41fa8",
+							"entitlementType": "AUDIENCE",
+							"id": "332d3fdb7e5644c396b41060ddf41fa8",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:21.487Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Metalstorm - 30 Gold_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-10-12T18:06:44.217Z",
+							"description": "Metalstorm - 2000 Gold_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "71aa014120fd4c89a4b5a8d6957a9c32",
+							"entitlementType": "AUDIENCE",
+							"id": "71aa014120fd4c89a4b5a8d6957a9c32",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:22.317Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Metalstorm - 2000 Gold_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-10-12T18:20:34.508Z",
+							"description": "Metalstorm - Long Term Player Offer_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "30ce417410834bdc82223a2146949349",
+							"entitlementType": "AUDIENCE",
+							"id": "30ce417410834bdc82223a2146949349",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:22.317Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Metalstorm - Long Term Player Offer_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-10-12T18:04:57.018Z",
+							"description": "Metalstorm - 950_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "c201272747e94a2abd9a94eb4359c9e6",
+							"entitlementType": "AUDIENCE",
+							"id": "c201272747e94a2abd9a94eb4359c9e6",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:21.487Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Metalstorm - 950_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-10-12T17:26:30.810Z",
+							"description": "170 Gold_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "c4870915f15f48aca85b2ab303e4b767",
+							"entitlementType": "AUDIENCE",
+							"id": "c4870915f15f48aca85b2ab303e4b767",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:21.487Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "170 Gold_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-10-12T18:25:09.599Z",
+							"description": "Metal Storm - Instant Level Up Bundle_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "f05e6c5a0ae3443e8f2c3d7024bee1eb",
+							"entitlementType": "AUDIENCE",
+							"id": "f05e6c5a0ae3443e8f2c3d7024bee1eb",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:22.317Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Metal Storm - Instant Level Up Bundle_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2024-04-08T22:44:53.229Z",
+							"description": "Metalstorm - Daily Offer_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "3bc67aa3728c4dc5a7998cf4b603a5d7",
+							"entitlementType": "AUDIENCE",
+							"id": "3bc67aa3728c4dc5a7998cf4b603a5d7",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:22.317Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Metalstorm - Daily Offer_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2024-04-08T22:40:43.096Z",
+							"description": "Metalstorm - Daily Offer_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "d7b30aea5df5467487627c7479b9e98b",
+							"entitlementType": "AUDIENCE",
+							"id": "d7b30aea5df5467487627c7479b9e98b",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:22.317Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Metalstorm - Daily Offer_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2024-04-08T22:42:27.452Z",
+							"description": "Metalstorm - Daily Offer_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "0e5771805e1d494fa598edb6e1d58161",
+							"entitlementType": "AUDIENCE",
+							"id": "0e5771805e1d494fa598edb6e1d58161",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:22.317Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Metalstorm - Daily Offer_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2024-04-08T22:38:12.683Z",
+							"description": "Metalstorm - Daily Offer_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "072f2a0650a44ccdb25e28fcdbabd34d",
+							"entitlementType": "AUDIENCE",
+							"id": "072f2a0650a44ccdb25e28fcdbabd34d",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:21.487Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Metalstorm - Daily Offer_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2024-04-08T21:20:47.259Z",
+							"description": "Metalstorm - Daily Offer_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "ce38f73bff5445939f917484b60b0ea0",
+							"entitlementType": "AUDIENCE",
+							"id": "ce38f73bff5445939f917484b60b0ea0",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:22.317Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Metalstorm - Daily Offer_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2024-04-08T21:25:04.435Z",
+							"description": "Metalstorm - Daily Offer_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "276a4d5c27584c8c87574707d552d54b",
+							"entitlementType": "AUDIENCE",
+							"id": "276a4d5c27584c8c87574707d552d54b",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:22.317Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Metalstorm - Daily Offer_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2024-04-08T21:14:39.017Z",
+							"description": "Metalstorm - Daily Offer_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "8b18469f70d440c9b0db8cca9c8fa0f8",
+							"entitlementType": "AUDIENCE",
+							"id": "8b18469f70d440c9b0db8cca9c8fa0f8",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:22.317Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Metalstorm - Daily Offer_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2024-04-08T21:29:10.407Z",
+							"description": "Metalstorm - Daily Offer_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "5539c588528b4f87b2936a06a42255dc",
+							"entitlementType": "AUDIENCE",
+							"id": "5539c588528b4f87b2936a06a42255dc",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:21.487Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Metalstorm - Daily Offer_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2025-03-10T17:17:21.501Z",
+							"description": "Starter bundle_ConsumableAudience",
+							"developer": "Starform Inc.",
+							"developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+							"endOfSupport": false,
+							"entitlementName": "c40ce74a71aa45dea53458d932d794f8",
+							"entitlementType": "AUDIENCE",
+							"id": "c40ce74a71aa45dea53458d932d794f8",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-03-10T17:17:21.501Z",
+							"mainGameItem": {
+								"id": "37bdf2283730476b89fa027acfab7491",
+								"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "37bdf2283730476b89fa027acfab7491",
+									"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+									"unsearchable": false
+								}
+							],
+							"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Starter bundle_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						}
+					],
+					"folder_name": "Metalstorm",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+					"is_mac_native": false,
+					"save_folder": "",
+					"title": "Metalstorm",
+					"canRunOffline": false,
+					"isEAManaged": false,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/metalstorm"
+				},
+				"size": "5.18 GiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1745528771528,
+			"endTime": 1745528997613,
+			"startTime": 1745528771531,
+			"status": "done"
+		},
+		{
+			"params": {
+				"appName": "f8ef168f3522419caad27d82878e0329",
+				"path": "/home/vmdjavem/Games/Heroic",
+				"installDlcs": [],
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "f8ef168f3522419caad27d82878e0329",
+					"art_cover": "https://cdn1.epicgames.com/item/2e412cfcbd954e7180930e9784a47e18/EGS_FalloutAPostNuclearRolePlayingGame_BethesdaGameStudios_S1_2560x1440-548598863fb854e957d7706a24c6d381",
+					"art_square": "https://cdn1.epicgames.com/item/2e412cfcbd954e7180930e9784a47e18/EGS_FalloutAPostNuclearRolePlayingGame_BethesdaGameStudios_S2_1200x1600-f4406e1a479760bfbebc4459f7c17932",
+					"cloud_save_enabled": true,
+					"developer": "Bethesda Softworks LLC",
+					"extra": {
+						"about": {
+							"description": "Fallout: A Post Nuclear Role Playing Game",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://www.epicgames.com/store/product/fallout-a-post-nuclear-role-playing-game"
+					},
+					"folder_name": "fallout",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "2e412cfcbd954e7180930e9784a47e18",
+					"is_mac_native": false,
+					"save_folder": "{InstallDir}/",
+					"title": "Fallout: A Post Nuclear Role Playing Game",
+					"canRunOffline": false,
+					"isEAManaged": false,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/fallout-a-post-nuclear-role-playing-game"
+				},
+				"size": "2 GiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1745528783583,
+			"endTime": 1745529082703,
+			"startTime": 1745528997622,
+			"status": "done"
+		},
+		{
+			"params": {
+				"appName": "bc2c95c6ff564a16b26644f1d3ac3c55",
+				"path": "/home/vmdjavem/Games/Heroic",
+				"installDlcs": [],
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "bc2c95c6ff564a16b26644f1d3ac3c55",
+					"art_cover": "https://cdn1.epicgames.com/item/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S1_2560x1440-cb7067c24252c5602497ab42fc488eed",
+					"art_square": "https://cdn1.epicgames.com/item/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S2_1200x1600-1a3c51f042c7023b711f36ec866ea90b",
+					"cloud_save_enabled": false,
+					"developer": "2K Games, Inc.",
+					"extra": {
+						"about": {
+							"description": "BioShock Remastered",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://www.epicgames.com/store/product/bioshock-remastered"
+					},
+					"folder_name": "BioshockRemastered",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "e9e3ee13329f434f94105e6ec63435e0",
+					"is_mac_native": false,
+					"save_folder": "",
+					"title": "BioShock Remastered",
+					"canRunOffline": true,
+					"isEAManaged": false,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/bioshock-remastered"
+				},
+				"size": "14.68 GiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1746844798397,
+			"endTime": 1746846723247,
+			"startTime": 1746844798401,
+			"status": "done"
+		},
+		{
+			"params": {
+				"appName": "a64dcf9b711a4a60a3c0b6f052dfc7da",
+				"path": "/home/vmdjavem/Games/Heroic",
+				"installDlcs": [],
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "a64dcf9b711a4a60a3c0b6f052dfc7da",
+					"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WolfensteinTheNewOrder_MachineGames_S1_2560x1440-3a75b2c45a2a12e882feb2e2ff180b0c",
+					"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WolfensteinTheNewOrder_MachineGames_S2_1200x1600-0f70ad56e210812c26a9dde1a8143a58",
+					"cloud_save_enabled": true,
+					"developer": "Bethesda Softworks LLC",
+					"extra": {
+						"about": {
+							"description": "Wolfenstein: The New Order",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://www.epicgames.com/store/product/wolfenstein-the-new-order"
+					},
+					"folder_name": "WolfensteinTNO",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "0bd3e505924240adb702295fa08c1eff",
+					"is_mac_native": false,
+					"save_folder": "{UserSavedGames}/MachineGames/Wolfenstein The New Order/base/savegame/{EpicID}/",
+					"title": "Wolfenstein: The New Order",
+					"canRunOffline": true,
+					"isEAManaged": false,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/wolfenstein-the-new-order"
+				},
+				"size": "41.78 GiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1746922461424,
+			"endTime": 1746926515498,
+			"startTime": 1746922461426,
+			"status": "done"
+		}
+	],
+	"queue": []
+}

@@ -1,0 +1,78 @@
+Launching "Fallout New Vegas" (sideload)
+Native? No
+Installed in: /home/vmdjavem/Games/Heroic/Prefixes/default/Fallout New Vegas/drive_c/Program Files/Fallout - New Vegas
+
+System Info:
+CPU: 12x AMD Ryzen 5 7600X 6-Core Processor
+Memory: 32.7 GB (used: 5.21 GB)
+GPUs:
+  GPU 0:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Raphael
+    IDs: D=164e V=1002 SD=7e26 SV=1462
+    Driver: amdgpu
+  GPU 1:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Navi 32 [Radeon RX 7700 XT / 7800 XT]
+    IDs: D=747e V=1002 SD=f475 SV=1da2
+    Driver: amdgpu
+OS: EndeavourOS 6.14.5-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.16.1 Scopper Gaban
+  Legendary: 0.20.36 Urban Flight (Heroic)
+  gogdl: 1.1.2
+  comet: comet 0.2.0
+  Nile: 1.1.2 Will A. Zeppeli
+
+Game Settings: {
+	"autoInstallDxvk": true,
+	"autoInstallDxvkNvapi": true,
+	"autoInstallVkd3d": true,
+	"preferSystemLibs": false,
+	"enableEsync": true,
+	"enableMsync": false,
+	"enableFsync": true,
+	"nvidiaPrime": false,
+	"enviromentOptions": [],
+	"wrapperOptions": [],
+	"showFps": false,
+	"useGameMode": false,
+	"battlEyeRuntime": true,
+	"eacRuntime": true,
+	"language": "",
+	"beforeLaunchScriptPath": "",
+	"afterLaunchScriptPath": "",
+	"gamescope": {
+		"enableUpscaling": false,
+		"enableLimiter": false,
+		"enableForceGrabCursor": false,
+		"windowType": "fullscreen",
+		"gameWidth": "",
+		"gameHeight": "",
+		"upscaleHeight": "",
+		"upscaleWidth": "",
+		"upscaleMethod": "fsr",
+		"fpsLimiter": "",
+		"fpsLimiterNoFocus": "",
+		"additionalOptions": ""
+	},
+	"verboseLogs": false,
+	"wineVersion": {
+		"bin": "/home/vmdjavem/.config/heroic/tools/wine/Wine-GE-latest/bin/wine",
+		"name": "Wine - Wine-GE-latest",
+		"type": "wine",
+		"lib": "/home/vmdjavem/.config/heroic/tools/wine/Wine-GE-latest/lib64",
+		"lib32": "/home/vmdjavem/.config/heroic/tools/wine/Wine-GE-latest/lib",
+		"wineserver": "/home/vmdjavem/.config/heroic/tools/wine/Wine-GE-latest/bin/wineserver"
+	},
+	"winePrefix": "/home/vmdjavem/Games/Heroic/Prefixes/default/Fallout New Vegas",
+	"wineCrossoverBottle": ""
+}
+
+Game launched at: Fri May 09 2025 21:41:29 GMT-0500 (hora estándar oriental)
+
+Winetricks packages: 
+
+============= End of log =============

@@ -1,0 +1,555 @@
+{
+  "app_name": "49550aa9fcd74552ae07c4e9f2c262fe",
+  "app_title": "Marvel's Midnight Suns",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "49550aa9fcd74552ae07c4e9f2c262fe",
+      "asset_id": "49550aa9fcd74552ae07c4e9f2c262fe",
+      "build_version": "1.0.0.930468",
+      "catalog_item_id": "c7397d2fcea94f0babca92475f52bbe3",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ea73c08ac633414584e281f838b3a78c",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567hfBQnhIlYUakk1y4jvOO7dgL",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-04-29T01:12:56.993Z",
+    "customAttributes": {
+      "BackgroundProcessNames": {
+        "type": "STRING",
+        "value": "LauncherPatcher.exe"
+      },
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.sav,*.jpg,*.midnightsuns"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/My Games/Marvel's Midnight Suns/Saved_Epic_{EpicID}"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "midnightsuns"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ea73c08ac633414584e281f838b3a78c"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Marvel's Midnight Suns",
+    "developer": "2K Games, Inc.",
+    "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-30T20:25:21.397Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "brandy DLC2 audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "922a406830204908aac6b095450ddaab",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "922a406830204908aac6b095450ddaab",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-23T16:59:39.438Z",
+        "mainGameItem": {
+          "id": "c7397d2fcea94f0babca92475f52bbe3",
+          "namespace": "ea73c08ac633414584e281f838b3a78c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c7397d2fcea94f0babca92475f52bbe3",
+            "namespace": "ea73c08ac633414584e281f838b3a78c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ea73c08ac633414584e281f838b3a78c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "brandy DLC2 audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-30T21:27:16.240Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "1200 Eclipse Credits audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "8d710449c1de45d8b4b2e419984f8740",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8d710449c1de45d8b4b2e419984f8740",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-12-02T04:47:49.396Z",
+        "mainGameItem": {
+          "id": "c7397d2fcea94f0babca92475f52bbe3",
+          "namespace": "ea73c08ac633414584e281f838b3a78c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c7397d2fcea94f0babca92475f52bbe3",
+            "namespace": "ea73c08ac633414584e281f838b3a78c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ea73c08ac633414584e281f838b3a78c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1200 Eclipse Credits audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {
+          "ESRB": {
+            "ageControl": 13,
+            "descriptor": "Violence,Mild Blood,Suggestive Themes,Language",
+            "descriptorIds": [
+              34,
+              12,
+              29,
+              10
+            ],
+            "element": "In-Game Purchases",
+            "elementIds": [
+              21
+            ],
+            "gameRating": "Teen",
+            "isIARC": false,
+            "isTrad": true,
+            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ESRB_T_192_192x192-a0885066a34083cd647dc10db21717f1",
+            "ratingSystem": "ESRB",
+            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/ESRB-EN-T_354x530-baae04c009da6ffc5139341c31182e67",
+            "title": "Teen"
+          },
+          "PEGI": {
+            "ageControl": 12,
+            "descriptor": "Violence,Bad Language,Sex,In-Game Purchases",
+            "descriptorIds": [
+              51,
+              890,
+              54,
+              895
+            ],
+            "elementIds": [],
+            "gameRating": "PEGI 12",
+            "isIARC": false,
+            "isTrad": true,
+            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_12_192_192x192-afa4df43f131bc83eb380ccf22f8d904",
+            "ratingSystem": "PEGI",
+            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/PEGI-12_436x530-0cd1f06607086f3cc1bc2b8643f21b0a",
+            "title": "PEGI 12"
+          }
+        },
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-30T20:19:19.226Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "brandy DLC1 audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "e0c93d5e23794627893cc06df947b97a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e0c93d5e23794627893cc06df947b97a",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-01-26T16:40:31.793Z",
+        "mainGameItem": {
+          "id": "c7397d2fcea94f0babca92475f52bbe3",
+          "namespace": "ea73c08ac633414584e281f838b3a78c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c7397d2fcea94f0babca92475f52bbe3",
+            "namespace": "ea73c08ac633414584e281f838b3a78c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ea73c08ac633414584e281f838b3a78c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "brandy DLC1 audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-30T21:13:51.855Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "600 Eclipse Credits audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "ce9059fe062e40c1b96b0a27a515ebdf",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ce9059fe062e40c1b96b0a27a515ebdf",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-12-02T04:47:49.409Z",
+        "mainGameItem": {
+          "id": "c7397d2fcea94f0babca92475f52bbe3",
+          "namespace": "ea73c08ac633414584e281f838b3a78c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c7397d2fcea94f0babca92475f52bbe3",
+            "namespace": "ea73c08ac633414584e281f838b3a78c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ea73c08ac633414584e281f838b3a78c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "600 Eclipse Credits audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-30T21:27:58.905Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "1500 Eclipse Credits audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "c09cbb8db611465c954b5c86a1c3ca14",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c09cbb8db611465c954b5c86a1c3ca14",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-12-02T04:47:49.406Z",
+        "mainGameItem": {
+          "id": "c7397d2fcea94f0babca92475f52bbe3",
+          "namespace": "ea73c08ac633414584e281f838b3a78c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c7397d2fcea94f0babca92475f52bbe3",
+            "namespace": "ea73c08ac633414584e281f838b3a78c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ea73c08ac633414584e281f838b3a78c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1500 Eclipse Credits audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-30T20:44:30.124Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "brandy DLC3 audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "14bbf1e043dd48108c38a2aba66a1ab0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "14bbf1e043dd48108c38a2aba66a1ab0",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-21T16:00:00.832Z",
+        "mainGameItem": {
+          "id": "c7397d2fcea94f0babca92475f52bbe3",
+          "namespace": "ea73c08ac633414584e281f838b3a78c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c7397d2fcea94f0babca92475f52bbe3",
+            "namespace": "ea73c08ac633414584e281f838b3a78c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ea73c08ac633414584e281f838b3a78c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "brandy DLC3 audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-30T21:13:13.722Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "300 Eclipse Credits audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "a546b9a2c9f6422fb96d7bab5d8f4570",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a546b9a2c9f6422fb96d7bab5d8f4570",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-12-02T04:47:49.402Z",
+        "mainGameItem": {
+          "id": "c7397d2fcea94f0babca92475f52bbe3",
+          "namespace": "ea73c08ac633414584e281f838b3a78c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c7397d2fcea94f0babca92475f52bbe3",
+            "namespace": "ea73c08ac633414584e281f838b3a78c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ea73c08ac633414584e281f838b3a78c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "300 Eclipse Credits audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-30T20:45:11.520Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "brandy DLC4 audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "216b01a5d7eb430c8508d1a546d677ba",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "216b01a5d7eb430c8508d1a546d677ba",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-05-11T18:23:09.275Z",
+        "mainGameItem": {
+          "id": "c7397d2fcea94f0babca92475f52bbe3",
+          "namespace": "ea73c08ac633414584e281f838b3a78c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c7397d2fcea94f0babca92475f52bbe3",
+            "namespace": "ea73c08ac633414584e281f838b3a78c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ea73c08ac633414584e281f838b3a78c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "brandy DLC4 audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "c7397d2fcea94f0babca92475f52bbe3",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "c7397d2fcea94f0babca92475f52bbe3",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "2f3d597f3afd9e9fd4cea1df3394705e",
+        "size": 662942,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-06-08T23:53:48.447Z",
+        "url": "https://cdn1.epicgames.com/item/ea73c08ac633414584e281f838b3a78c/EGS_MarvelsMidnightSuns_FiraxisGames_S1_2560x1440-2f3d597f3afd9e9fd4cea1df3394705e",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "2bbbf1249898e7441527c7b5679b1dd2",
+        "size": 321518,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-06-08T23:53:52.046Z",
+        "url": "https://cdn1.epicgames.com/item/ea73c08ac633414584e281f838b3a78c/EGS_MarvelsMidnightSuns_FiraxisGames_S2_1200x1600-2bbbf1249898e7441527c7b5679b1dd2",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-12-02T02:25:42.977Z",
+    "mainGameItemList": [],
+    "namespace": "ea73c08ac633414584e281f838b3a78c",
+    "releaseInfo": [
+      {
+        "appId": "49550aa9fcd74552ae07c4e9f2c262fe",
+        "id": "e92a6c3a36a642ed9e96ca1e281ba994",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Marvel's Midnight Suns",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

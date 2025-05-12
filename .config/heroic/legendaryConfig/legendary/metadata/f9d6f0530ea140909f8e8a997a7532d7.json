@@ -1,0 +1,113 @@
+{
+  "app_name": "f9d6f0530ea140909f8e8a997a7532d7",
+  "app_title": "BioShock Infinite: Complete Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "f9d6f0530ea140909f8e8a997a7532d7",
+      "asset_id": "f9d6f0530ea140909f8e8a997a7532d7",
+      "build_version": "1.0.0_BN-315_CL-17899",
+      "catalog_item_id": "e13c3bbb1bcb4d58b70013c2f9996285",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "df2da503f2074f078f8090da3c27ec47",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567Q0PlfQSdtqojrhHcDourtTui",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-10-01T18:58:00.969Z",
+    "customAttributes": {
+      "BackgroundProcessNames": {
+        "type": "STRING",
+        "value": "LauncherPatcher.exe"
+      },
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "BioshockInfiniteCompleteEdition"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "df2da503f2074f078f8090da3c27ec47"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "BioShock Infinite: Complete Edition",
+    "developer": "2K Games, Inc.",
+    "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "endOfSupport": false,
+    "entitlementName": "e13c3bbb1bcb4d58b70013c2f9996285",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "e13c3bbb1bcb4d58b70013c2f9996285",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "bcf5e88c8afb572ec00d3ed231ec26e5",
+        "size": 919485,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-04-20T15:04:03.910Z",
+        "url": "https://cdn1.epicgames.com/item/df2da503f2074f078f8090da3c27ec47/EGS_BioShockInfiniteCompleteEdition_MassMediaGames_S2_1200x1600-bcf5e88c8afb572ec00d3ed231ec26e5",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "bf29199cfe7a76f62965f582571024f6",
+        "size": 930420,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-05-26T14:18:53.011Z",
+        "url": "https://cdn1.epicgames.com/item/df2da503f2074f078f8090da3c27ec47/EGS_BioShockInfiniteCompleteEdition_MassMediaGames_S1_2560x1440-bf29199cfe7a76f62965f582571024f6_2560x1440-bf29199cfe7a76f62965f582571024f6",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2022-05-26T20:36:07.861Z",
+    "mainGameItemList": [],
+    "namespace": "df2da503f2074f078f8090da3c27ec47",
+    "releaseInfo": [
+      {
+        "appId": "f9d6f0530ea140909f8e8a997a7532d7",
+        "id": "0adea3a22d044b199d19c23c2f9baa3a",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "BioShock Infinite: Complete Edition",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

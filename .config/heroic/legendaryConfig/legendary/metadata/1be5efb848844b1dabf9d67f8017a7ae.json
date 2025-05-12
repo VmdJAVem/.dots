@@ -1,0 +1,105 @@
+{
+  "app_name": "1be5efb848844b1dabf9d67f8017a7ae",
+  "app_title": "Redout: Enhanced Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "1be5efb848844b1dabf9d67f8017a7ae",
+      "asset_id": "1be5efb848844b1dabf9d67f8017a7ae",
+      "build_version": "85e552",
+      "catalog_item_id": "058dbac3ef2e41a09901a6ad504e22c5",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "93ea0d593cb04e62afb0741bbf894173",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45672bJZmhQQCal9fsOZRUCNESfC",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-04-12T21:29:29.124Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RedoutEnhancedEdition"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "93ea0d593cb04e62afb0741bbf894173"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Redout: Enhanced Edition",
+    "developer": "Saber Interactive",
+    "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "endOfSupport": false,
+    "entitlementName": "058dbac3ef2e41a09901a6ad504e22c5",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "058dbac3ef2e41a09901a6ad504e22c5",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "23ab955c6537efdd53e1f407609f9036",
+        "size": 915419,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-04-25T13:31:19.060Z",
+        "url": "https://cdn1.epicgames.com/item/93ea0d593cb04e62afb0741bbf894173/EGS_RedoutEnhancedEdition_34BigThingssrl_S1_2560x1440-23ab955c6537efdd53e1f407609f9036",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "c728e59dd15c5e474376f8d3998105d3",
+        "size": 430571,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-04-25T13:31:22.652Z",
+        "url": "https://cdn1.epicgames.com/item/93ea0d593cb04e62afb0741bbf894173/EGS_RedoutEnhancedEdition_34BigThingssrl_S2_1200x1600-c728e59dd15c5e474376f8d3998105d3",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-01-17T16:08:26.272Z",
+    "mainGameItemList": [],
+    "namespace": "93ea0d593cb04e62afb0741bbf894173",
+    "releaseInfo": [
+      {
+        "appId": "1be5efb848844b1dabf9d67f8017a7ae",
+        "id": "134d072f95164504a010defe578ccdb6",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Redout: Enhanced Edition",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

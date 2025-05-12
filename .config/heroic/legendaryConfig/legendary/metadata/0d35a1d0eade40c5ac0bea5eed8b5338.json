@@ -1,0 +1,115 @@
+{
+  "app_name": "0d35a1d0eade40c5ac0bea5eed8b5338",
+  "app_title": "Saints Row IV Re-Elected",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "0d35a1d0eade40c5ac0bea5eed8b5338",
+      "asset_id": "0d35a1d0eade40c5ac0bea5eed8b5338",
+      "build_version": "216711",
+      "catalog_item_id": "57c0757a76374077be3a587c58e5b04a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "151e56468b5049628653dedab7c88007",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567bob6uen0TSdX885bzoLLoJ0K",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-09-10T21:04:45.316Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Saints Row IV/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SaintsRowIV"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "151e56468b5049628653dedab7c88007"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Saints Row IV Re-Elected",
+    "developer": "Plaion",
+    "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "endOfSupport": false,
+    "entitlementName": "57c0757a76374077be3a587c58e5b04a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "57c0757a76374077be3a587c58e5b04a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "77ce5721cb572e6ce6f37537edcb4fb1",
+        "size": 1000821,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-11-21T12:48:53.158Z",
+        "url": "https://cdn1.epicgames.com/item/151e56468b5049628653dedab7c88007/EGS_SaintsRowIVReElected_DeepSilverVolition_S1_2560x1440-77ce5721cb572e6ce6f37537edcb4fb1",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "7607305fd444a7dab171d4404dbe7ff0",
+        "size": 675376,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-11-21T12:48:55.538Z",
+        "url": "https://cdn1.epicgames.com/item/151e56468b5049628653dedab7c88007/EGS_SaintsRowIVReElected_DeepSilverVolition_S2_1200x1600-7607305fd444a7dab171d4404dbe7ff0",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-12-08T18:09:08.244Z",
+    "mainGameItemList": [],
+    "namespace": "151e56468b5049628653dedab7c88007",
+    "releaseInfo": [
+      {
+        "appId": "0d35a1d0eade40c5ac0bea5eed8b5338",
+        "dateAdded": "2019-09-10T00:00:00.000Z",
+        "id": "6165858ee7974a40af137199658ca0dd",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Saints Row IV Re-Elected",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

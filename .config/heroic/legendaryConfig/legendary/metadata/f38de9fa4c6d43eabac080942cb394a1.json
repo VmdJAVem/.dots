@@ -1,0 +1,269 @@
+{
+  "app_name": "f38de9fa4c6d43eabac080942cb394a1",
+  "app_title": "Never Alone (Kisima Ingitchuna)",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "f38de9fa4c6d43eabac080942cb394a1",
+      "asset_id": "f38de9fa4c6d43eabac080942cb394a1",
+      "build_version": "NeverAlone-Win-1.2.8",
+      "catalog_item_id": "40c4367909484809909f6c1e82e2023f",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "a182fe23f8844322be1ea9a230c8b6e7"
+      },
+      "namespace": "b13f6a1e5121469d8a825947b759339d",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-07-22T19:40:52.725Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "NeverAlone"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "b13f6a1e5121469d8a825947b759339d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Never Alone (Kisima Ingitchuna)",
+    "developer": "E-Line Media",
+    "developerId": "o-4ngf8f445bswz3vfhmvbfxbgf67bc4",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-11-24T02:25:49.967Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "NeverAloneFox"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "b13f6a1e5121469d8a825947b759339d"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Never Alone: Foxtales",
+        "developer": "E-Line Media",
+        "developerId": "o-4ngf8f445bswz3vfhmvbfxbgf67bc4",
+        "endOfSupport": false,
+        "entitlementName": "87041f63419e47a4906edb1a65e9ddde",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "87041f63419e47a4906edb1a65e9ddde",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "a35cd7f0ab1a79d1b3d05571a32fa379",
+            "size": 698578,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-05-16T19:47:47.499Z",
+            "url": "https://cdn1.epicgames.com/item/b13f6a1e5121469d8a825947b759339d/EGS_NeverAloneFoxtales_ELineMedia_DLC_S1_2560x1440Wide_2560x1440-a35cd7f0ab1a79d1b3d05571a32fa379",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "031b24449f0a9831a8348a6f080e507d",
+            "size": 477703,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-05-16T19:48:25.078Z",
+            "url": "https://cdn1.epicgames.com/item/b13f6a1e5121469d8a825947b759339d/EGS_NeverAloneFoxtales_ELineMedia_DLC_S2_1200x1600Tall_1200x1600-031b24449f0a9831a8348a6f080e507d",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-05-21T05:38:32.336Z",
+        "mainGameItem": {
+          "id": "40c4367909484809909f6c1e82e2023f",
+          "namespace": "b13f6a1e5121469d8a825947b759339d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "40c4367909484809909f6c1e82e2023f",
+            "namespace": "b13f6a1e5121469d8a825947b759339d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b13f6a1e5121469d8a825947b759339d",
+        "releaseInfo": [
+          {
+            "appId": "7c8a6ab77169497c8cf997f0d44073bb",
+            "compatibleApps": [],
+            "dateAdded": "2021-11-24T02:24:43.489Z",
+            "id": "cd5612c4cc95426d996c05013a771aec",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Never Alone: Foxtales",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-02-21T18:43:55.192Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "minnesota New DLC",
+        "developer": "E-Line Media",
+        "developerId": "o-4ngf8f445bswz3vfhmvbfxbgf67bc4",
+        "endOfSupport": false,
+        "entitlementName": "4e7d35558ecd48ab8ce2b5f71de13a73",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4e7d35558ecd48ab8ce2b5f71de13a73",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-21T05:38:29.613Z",
+        "mainGameItem": {
+          "id": "40c4367909484809909f6c1e82e2023f",
+          "namespace": "b13f6a1e5121469d8a825947b759339d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "40c4367909484809909f6c1e82e2023f",
+            "namespace": "b13f6a1e5121469d8a825947b759339d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "b13f6a1e5121469d8a825947b759339d",
+        "releaseInfo": [
+          {
+            "appId": "e002a9feb3ab474ba25cf352eaaca49c",
+            "id": "b820158aed7043d189f132d07342ab3f",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "minnesota New DLC",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "40c4367909484809909f6c1e82e2023f",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "40c4367909484809909f6c1e82e2023f",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "97a1d9c3e47e439ea05e900feaa4a892",
+        "size": 746969,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-11-05T15:58:27.973Z",
+        "url": "https://cdn1.epicgames.com/item/b13f6a1e5121469d8a825947b759339d/EGS_NeverAloneKisimaIngitchuna_UpperOneGamesELineMedia_S1_2560x1440-97a1d9c3e47e439ea05e900feaa4a892",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "f1c99ff9638dd36c65e87dedcbb564f1",
+        "size": 685354,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-11-05T15:58:36.522Z",
+        "url": "https://cdn1.epicgames.com/item/b13f6a1e5121469d8a825947b759339d/EGS_NeverAloneKisimaIngitchuna_UpperOneGamesELineMedia_S2_1200x1600-f1c99ff9638dd36c65e87dedcbb564f1",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:38:30.990Z",
+    "mainGameItemList": [],
+    "namespace": "b13f6a1e5121469d8a825947b759339d",
+    "releaseInfo": [
+      {
+        "appId": "f38de9fa4c6d43eabac080942cb394a1",
+        "id": "b7eb607837194ec7a009228a50fff362",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Never Alone (Kisima Ingitchuna)",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

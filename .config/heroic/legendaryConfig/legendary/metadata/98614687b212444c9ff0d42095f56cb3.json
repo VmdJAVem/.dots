@@ -1,0 +1,91 @@
+{
+  "app_name": "98614687b212444c9ff0d42095f56cb3",
+  "app_title": "[REDACTED]",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "98614687b212444c9ff0d42095f56cb3",
+      "asset_id": "98614687b212444c9ff0d42095f56cb3",
+      "build_version": "1.0.0.7-1.21320.381.787509",
+      "catalog_item_id": "66f8c4bf50d1416c8ddf1d48cc95e4b2",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "1f77b0b21c074264abe189736c2fd494",
+        "update_type": "PATCH"
+      },
+      "namespace": "04e4108a1fec4845bd2744e8d554c9a6",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-06-06T15:57:28.799Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "Redacted"
+      }
+    },
+    "description": "En [REDACTED], un juego de acci\u00f3n estilo roguelike de vista isom\u00e9trica, un agente misterioso observa c\u00f3mo la prisi\u00f3n de Ferronegro se hunde en el caos. Encarna a uno de los \u00faltimos guardias y combate monstruos, rivales y cad\u00e1veres de tus excolegas para escapar.",
+    "developer": "KRAFTON, Inc.",
+    "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+    "endOfSupport": false,
+    "entitlementName": "66f8c4bf50d1416c8ddf1d48cc95e4b2",
+    "entitlementType": "EXECUTABLE",
+    "id": "66f8c4bf50d1416c8ddf1d48cc95e4b2",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "REDACTED Offer",
+        "height": 1440,
+        "md5": "87c765fb42c74e5d89f90f9d06d6c858",
+        "size": 987851,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-08-13T19:25:57.967Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/38d7f3e2a3854e9fa4c31456b87c899f/redacted-1ouju.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download REDACTED Offer",
+        "height": 1600,
+        "md5": "7cb9f6609004143f80b9ef2343d9c738",
+        "size": 907153,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-08-13T19:25:58.354Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/38d7f3e2a3854e9fa4c31456b87c899f/redacted-13ajm.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-02-04T17:51:20.382Z",
+    "longDescription": "<!--textBlock-->\n<!--title-->\n# Tu tarea es sencilla: alcanzar la \u00faltima c\u00e1psula de escape y salir con vida.\n<!--text-->\nFerronegro, un moderno centro penitenciario situado en Calisto, una de las lunas heladas de J\u00fapiter, sufre la invasi\u00f3n de una horda de prisioneros infectados. Como el humilde guardia que eres, tu misi\u00f3n en todo esto es sencilla: llegar hasta la \u00faltima c\u00e1psula de escape y salir de ah\u00ed con vida.\n\nMientras intentas salir de la prisi\u00f3n a golpes, tendr\u00e1s que enfrentarte a decenas de enemigos de lo m\u00e1s peculiares y a innumerables obst\u00e1culos del entorno. Pero no eres el \u00fanico superviviente que intenta escapar: tus rivales (un conserje demente, un mafioso violento, una cocinera chiflada y alguno que otro m\u00e1s) est\u00e1n deseando pisar tu cad\u00e1ver para salvar sus propios traseros.\n\nSolo uno de vosotros puede huir de la luna: \u00a1procura que seas t\u00fa!\n\nPELEA, MUERE, AD\u00c1PTATE\nCada muerte es una oportunidad para aprender. Empezar\u00e1s cada recorrido de cero y podr\u00e1s ir equip\u00e1ndote con potentes experimentos, armas y beneficios a medida que avances por la prisi\u00f3n. Cuando mueras (y cr\u00e9eme: morir\u00e1s), podr\u00e1s usar los recursos que hayas conseguido durante el recorrido anterior para desbloquear armas, trajes y habilidades permanentes. \u00a1Vu\u00e9lvete m\u00e1s fuerte, adapta tu estrategia y consigue escapar!\n\nDERROTA A TUS RIVALES\nNo eres el \u00fanico que sobrevivi\u00f3 al brote del virus, ni el \u00fanico que est\u00e1 dispuesto a emplear la violencia para llegar a la \u00faltima c\u00e1psula de escape. Algunos prisioneros, e incluso otros miembros del personal de la prisi\u00f3n, no perder\u00e1n la oportunidad de escapar y te complicar\u00e1n la vida atac\u00e1ndote de forma remota o desafi\u00e1ndote a un duelo a muerte. Compite contra ellos, resp\u00f3ndeles con tus propios ataques remotos y enfr\u00e9ntalos en combate para salir con vida.\n\nPELEA CONTRA TU CAD\u00c1VER\nAl morir, dejar\u00e1s atr\u00e1s algo m\u00e1s que un cuerpo sin vida. Derrota al cad\u00e1ver reanimado del \u00faltimo guardia que sucumbi\u00f3 ante los peligros de la prisi\u00f3n para adquirir un experimento poderoso. Pero ten cuidado: no ser\u00e1 una pelea f\u00e1cil. El guardia no muerto tendr\u00e1 el mismo equipo que llevaba consigo cuando pereci\u00f3, adem\u00e1s de alg\u00fan que otro as bajo la manga.\n\nHAZ O MUERE\nArmaste la configuraci\u00f3n de equipo perfecta, derrotaste a todos los jefes, venciste a tus rivales, mataste a tu cad\u00e1ver, hallaste todos los expedientes y ahora te encuentras frente a la \u00faltima c\u00e1psula de escape. Podr\u00edas dejar todo atr\u00e1s y saborear las mieles de la libertad... o atreverte a un \u00faltimo recorrido a todo o nada por la prisi\u00f3n. Si fracasas, perder\u00e1s todas las habilidades, trajes, armas y equipo que hayas comprado. Pero, si lo consigues, desbloquear\u00e1s poderosas piezas de equipo permanente.\n\nPUNK DEL FUTURO\nEl juego exhibe un humor irreverente y cuenta con un estilo de arte \u00fanico inspirado en el g\u00e9nero de novelas gr\u00e1ficas, adem\u00e1s de una banda sonora de arcade-punk a todo ritmo de la mano de Mutato Muzika. Todas estas cualidades te har\u00e1n disfrutar a\u00fan m\u00e1s la ambientaci\u00f3n de ciencia ficci\u00f3n y el combate fren\u00e9tico de [REDACTED]. \"\n",
+    "mainGameItemList": [],
+    "namespace": "04e4108a1fec4845bd2744e8d554c9a6",
+    "releaseInfo": [
+      {
+        "appId": "98614687b212444c9ff0d42095f56cb3",
+        "id": "995be60a3b8a48609b4073abc4e238b0",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "[REDACTED]",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "94f31c3102d745eb9dcbdd0a8e9d9b4a"
+    },
+    "rev": 1
+  }
+}

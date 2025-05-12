@@ -1,0 +1,117 @@
+{
+  "app_name": "1b037ad2c1e94e7e996b4a16f741025a",
+  "app_title": "Supraland",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "1b037ad2c1e94e7e996b4a16f741025a",
+      "asset_id": "1b037ad2c1e94e7e996b4a16f741025a",
+      "build_version": "1.23.9.0",
+      "catalog_item_id": "2eb4a44635c342849d06d2d7e4f95a3d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ae373893881044d2bf26d6f8363a120e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567ynLXRpiOq356xo0zfaGHOXnk",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-02-18T22:32:13.258Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Supraland/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Supraland"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ae373893881044d2bf26d6f8363a120e"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Supraland",
+    "developer": "Supra Games UG",
+    "developerId": "o-gfmarfnj9jh4jucwvuubpjv4nwb66x",
+    "endOfSupport": false,
+    "entitlementName": "2eb4a44635c342849d06d2d7e4f95a3d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "2eb4a44635c342849d06d2d7e4f95a3d",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "3d9ef81461113b21916c011f1d131469",
+        "size": 626067,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-06-21T15:59:28.416Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Supraland_SupraGames_S5_1920x1080-3d9ef81461113b21916c011f1d131469",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "a6d4a615d97e0e784f93dbde64daa345",
+        "size": 586730,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-06-21T15:59:35.407Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Supraland_SupraGames_S4_1200x1600-a6d4a615d97e0e784f93dbde64daa345",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-08-18T09:54:42.319Z",
+    "mainGameItemList": [],
+    "namespace": "ae373893881044d2bf26d6f8363a120e",
+    "releaseInfo": [
+      {
+        "appId": "1b037ad2c1e94e7e996b4a16f741025a",
+        "dateAdded": "2021-02-18T23:25:21.859Z",
+        "id": "886cb6c2cdaf4115a532541c44bab21a",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Supraland",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

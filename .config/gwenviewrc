@@ -1,0 +1,16 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/wallpaper.png
+File2[$e]=$HOME/Images/Capturas de pantalla/Screenshot_20250414_180210.png
+File3[$e]=$HOME/Wallpapers/RDT_20250415_1646553869215567991124967.jpg
+Name1[$e]=wallpaper.png
+Name2[$e]=Screenshot_20250414_180210.png
+Name3[$e]=RDT_20250415_1646553869215567991124967.jpg
+
+[SideBar]
+InformationSplitterSizes=211,244

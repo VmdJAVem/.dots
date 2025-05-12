@@ -1,0 +1,505 @@
+{
+  "app_name": "1136763135c0482cbbb4b2d45e978156",
+  "app_title": "Vampire Survivors",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "1136763135c0482cbbb4b2d45e978156",
+      "asset_id": "1136763135c0482cbbb4b2d45e978156",
+      "build_version": "EGS_WINDOWS-Release-BaseGame-1.13.109-32841115",
+      "catalog_item_id": "9cc0c39d76354bd79d78f405e09cdb51",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "0529be857ae2404d979a42510f694918",
+        "update_type": "PATCH"
+      },
+      "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-05-21T09:31:48.084Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../Roaming/Vampire_Survivors_EGS/{EpicID}/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/poncle/Vampire_Survivors_EGS/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "VampireSurvivors"
+      }
+    },
+    "description": "\u00a1El fen\u00f3meno indie sobrenatural con el que podr\u00e1s crear un infierno de ataques!",
+    "developer": "Poncle Limited",
+    "developerId": "o-s3hymlcn6zwryegvbw86v6mq9up7u9",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-07-22T10:14:21.177Z",
+        "customAttributes": {},
+        "description": "Re\u00fane a tu tripulaci\u00f3n, expulsa a los impostores y desata el caos en Vampire Survivors: Emergency Meeting.",
+        "developer": "Poncle Limited",
+        "developerId": "o-s3hymlcn6zwryegvbw86v6mq9up7u9",
+        "endOfSupport": false,
+        "entitlementName": "260be2b2a6ca4a7094f18bb5d2a52f47",
+        "entitlementType": "EXECUTABLE",
+        "id": "260be2b2a6ca4a7094f18bb5d2a52f47",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Vampire Survivors Vampire Survivors: Emergency Meeting Offer",
+            "height": 1440,
+            "md5": "7d6fa96acccb4595e43a070a70295ebd",
+            "size": 2607762,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-18T09:22:47.072Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-3q0td.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Vampire Survivors Vampire Survivors: Emergency Meeting Offer",
+            "height": 1600,
+            "md5": "be32546971587cb86528ed425acac5c8",
+            "size": 1628892,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-18T09:22:48.176Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-wbe4d.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-25T10:34:45.951Z",
+        "mainGameItem": {
+          "id": "9cc0c39d76354bd79d78f405e09cdb51",
+          "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9cc0c39d76354bd79d78f405e09cdb51",
+            "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+        "releaseInfo": [
+          {
+            "appId": "4d844612aa224c20b5ef24a0df1a642e",
+            "id": "accbdfa0682b407db0c210fbd9bba399",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Vampire Survivors: Emergency Meeting",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-07-22T10:14:37.190Z",
+        "customAttributes": {},
+        "description": "\u00a1Agarra tu arma, \u00fanete a Contra Force y desata el caos en Vampire Survivors: Operation Guns!",
+        "developer": "Poncle Limited",
+        "developerId": "o-s3hymlcn6zwryegvbw86v6mq9up7u9",
+        "endOfSupport": false,
+        "entitlementName": "ca41c17f3dd64209854fb3ee658e65fc",
+        "entitlementType": "EXECUTABLE",
+        "id": "ca41c17f3dd64209854fb3ee658e65fc",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Vampire Survivors Vampire Survivors: Operation Guns Offer",
+            "height": 1440,
+            "md5": "e8a6c7dc6433a4a38ad8cb06f107727e",
+            "size": 4152846,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-18T09:27:49.763Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-1k2h0.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Vampire Survivors Vampire Survivors: Operation Guns Offer",
+            "height": 1600,
+            "md5": "9d1182a86eea13ca506c5d94d03fb2e8",
+            "size": 2071864,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-18T09:27:46.275Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-1szco.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-25T10:34:45.951Z",
+        "mainGameItem": {
+          "id": "9cc0c39d76354bd79d78f405e09cdb51",
+          "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9cc0c39d76354bd79d78f405e09cdb51",
+            "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+        "releaseInfo": [
+          {
+            "appId": "f28fc79c7f7c4aecac92626f1e9377e3",
+            "id": "8646fb65e6fd4350834d03ccaeccb37d",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Vampire Survivors: Operation Guns",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-07-22T10:13:43.102Z",
+        "customAttributes": {},
+        "description": "El sol naciente ensombrecido para siempre. Un territorio cubierto de luz de luna, p\u00e9talos que se desvanecen y la noche eterna... El para\u00edso de los vampiros. Avent\u00farate en una zona nueva, arrasa con miles de oni y y\u014dkai, y desvela el misterio del clan Moonspell.",
+        "developer": "Poncle Limited",
+        "developerId": "o-s3hymlcn6zwryegvbw86v6mq9up7u9",
+        "endOfSupport": false,
+        "entitlementName": "d4b603e6f4e54d18955ee9d032d18aa5",
+        "entitlementType": "EXECUTABLE",
+        "id": "d4b603e6f4e54d18955ee9d032d18aa5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Vampire Survivors Vampire Survivors: Legacy of the Moonspell Offer",
+            "height": 1440,
+            "md5": "28cee53442b0d57b45c460ef4125fb38",
+            "size": 2447911,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-18T09:25:03.522Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-ssc3x.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Vampire Survivors Vampire Survivors: Legacy of the Moonspell Offer",
+            "height": 1600,
+            "md5": "999f43aab2ec5a15b37a12d0f51bfaf2",
+            "size": 1364665,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-18T09:25:03.937Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-1bv9u.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-25T10:34:45.951Z",
+        "mainGameItem": {
+          "id": "9cc0c39d76354bd79d78f405e09cdb51",
+          "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9cc0c39d76354bd79d78f405e09cdb51",
+            "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+        "releaseInfo": [
+          {
+            "appId": "0f2c255fc9dd4848b1ba1320171c78ec",
+            "id": "56aefcf9da7d4e3d89bd273fe6b64e67",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Vampire Survivors: Legacy of the Moonspell",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-11-04T11:02:19.434Z",
+        "customAttributes": {},
+        "description": "Los supervivientes de Vampire Survivors han llegado muy lejos en su honorable aventura de caza y, tras unir fuerzas con la familia Belmont, est\u00e1n m\u00e1s cerca que nunca de, por fin, poder enfrentarse a... un vampiro. Bueno, al menos tal vez",
+        "developer": "Poncle Limited",
+        "developerId": "o-s3hymlcn6zwryegvbw86v6mq9up7u9",
+        "endOfSupport": false,
+        "entitlementName": "8b9fbe2d1a114cc6bf4355d2ee074819",
+        "entitlementType": "EXECUTABLE",
+        "id": "8b9fbe2d1a114cc6bf4355d2ee074819",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Vampire Survivors Vampire Survivors: Ode to Castlevania Offer",
+            "height": 1440,
+            "md5": "c0272b5db1046d56092361bb43c9995b",
+            "size": 3901541,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-18T09:26:17.106Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-1i9ob.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Vampire Survivors Vampire Survivors: Ode to Castlevania Offer",
+            "height": 1600,
+            "md5": "569f0863480e5c420582ce9eaca8465c",
+            "size": 1592315,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-18T09:26:21.482Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-1yj9h.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-25T10:34:45.951Z",
+        "mainGameItem": {
+          "id": "9cc0c39d76354bd79d78f405e09cdb51",
+          "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9cc0c39d76354bd79d78f405e09cdb51",
+            "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+        "releaseInfo": [
+          {
+            "appId": "30af95fd5b414d0ea6a3089389139f75",
+            "id": "92e77966599c48d98ee35f3b3142521e",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Vampire Survivors: Ode to Castlevania",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-07-22T10:14:02.218Z",
+        "customAttributes": {},
+        "description": "Un bosque encantado repleto de misterios fe\u00e9ricos que encontrar\u00edas en cualquier RPG. La ubicaci\u00f3n perfecta para vivir la t\u00edpica aventura con cero complicaciones.",
+        "developer": "Poncle Limited",
+        "developerId": "o-s3hymlcn6zwryegvbw86v6mq9up7u9",
+        "endOfSupport": false,
+        "entitlementName": "3c32d6d94b5f4787abf5fc9692d866bb",
+        "entitlementType": "EXECUTABLE",
+        "id": "3c32d6d94b5f4787abf5fc9692d866bb",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Vampire Survivors Vampire Survivors: Tides of the Foscari Offer",
+            "height": 1440,
+            "md5": "b38f1d590350a10b633b21741898c007",
+            "size": 2655681,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-18T09:29:24.615Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-1pv28.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Vampire Survivors Vampire Survivors: Tides of the Foscari Offer",
+            "height": 1600,
+            "md5": "0298530b7875c7021ffa0308de299d7d",
+            "size": 1432162,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-18T09:29:18.975Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-7rrf2.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-25T10:34:45.951Z",
+        "mainGameItem": {
+          "id": "9cc0c39d76354bd79d78f405e09cdb51",
+          "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9cc0c39d76354bd79d78f405e09cdb51",
+            "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+        "releaseInfo": [
+          {
+            "appId": "de3622e6d1894793a852083720d6f58b",
+            "id": "20e0dae1ddad4876b2815ed6ab742f04",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Vampire Survivors: Tides of the Foscari",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-03-31T15:12:47.090Z",
+        "customAttributes": {},
+        "description": "Da un espect\u00e1culo de SaGa legendario en Vampire Survivors: Emerald Diorama",
+        "developer": "Poncle Limited",
+        "developerId": "o-s3hymlcn6zwryegvbw86v6mq9up7u9",
+        "endOfSupport": false,
+        "entitlementName": "38bf889914fb4b48ad9472bcf34649e7",
+        "entitlementType": "EXECUTABLE",
+        "id": "38bf889914fb4b48ad9472bcf34649e7",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Vampire Survivors Vampire Survivors: Emerald Diorama Offer",
+            "height": 1440,
+            "md5": "425740f863a7692c9626e60f4e5906df",
+            "size": 727696,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-03-31T15:22:17.613Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-dm9jm.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Vampire Survivors Vampire Survivors: Emerald Diorama Offer",
+            "height": 1600,
+            "md5": "dbcff2a3ac86a0b4c623fc3ebe940434",
+            "size": 936578,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-03-31T15:22:20.279Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-1rzy1.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-25T10:34:45.951Z",
+        "mainGameItem": {
+          "id": "9cc0c39d76354bd79d78f405e09cdb51",
+          "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9cc0c39d76354bd79d78f405e09cdb51",
+            "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+        "releaseInfo": [
+          {
+            "appId": "8d5acc14bbf64c6a9ff0ce776af3bae2",
+            "id": "8c94265c61e24861a9802ecc6219da96",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Vampire Survivors: Emerald Diorama",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "9cc0c39d76354bd79d78f405e09cdb51",
+    "entitlementType": "EXECUTABLE",
+    "id": "9cc0c39d76354bd79d78f405e09cdb51",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Vampire Survivors Offer",
+        "height": 1440,
+        "md5": "3930f3c87af23325c3b7d97b3177e3fb",
+        "size": 2546862,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-11-18T09:21:11.968Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-1ijme.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Vampire Survivors Offer",
+        "height": 1600,
+        "md5": "55c7e45670267cb67181926b5f860227",
+        "size": 1368075,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-11-18T09:21:12.625Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-1jbti.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-25T10:34:45.951Z",
+    "longDescription": "<!--textBlock-->\n<!--title-->\n# Be the bullet hell\n<!--text-->\n\u00a1Aniquila a miles de criaturas de la noche y sobrevive hasta el amanecer! Vampire Survivors es un juego casual de terror g\u00f3tico con elementos \u00abroguelite\u00bb donde tus decisiones te permitir\u00e1n aumentar tu poder exponencialmente mientras luchas contra cientos de monstruos.\n\nEl averno est\u00e1 vac\u00edo, los demonios est\u00e1n aqu\u00ed y no hay ning\u00fan lugar donde esconderse. Lo \u00fanico que puedes hacer es sobrevivir todo lo que puedas hasta que la muerte acabe con tu \u00faltimo aliento. Recoge oro en cada partida para comprar mejoras y ayudar al siguiente superviviente.\n\n\u00a1El fen\u00f3meno indie sobrenatural con el que podr\u00e1s crear un infierno de ataques!\n\nSe puede disfrutar de todo el juego en el modo cooperativo local con hasta 4 personas.\n\nConsejos de inicio\n-T\u00f3mate tu tiempo para recoger gemas y objetos, no desaparecer\u00e1n.\n-Obt\u00e9n dos o tres armas ofensivas al principio y c\u00e9ntrate en subirlas de nivel de una en una.\n-La armadura y la suerte son dos buenas mejoras de inicio que comprar.\n-Devuelve mejoras a menudo, es gratis, y prueba rutas de mejoras nuevas.\n",
+    "mainGameItemList": [],
+    "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+    "releaseInfo": [
+      {
+        "appId": "1136763135c0482cbbb4b2d45e978156",
+        "id": "6cd745ba2fc04613af9865af83cbebb3",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Vampire Survivors",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

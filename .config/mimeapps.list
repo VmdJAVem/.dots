@@ -1,0 +1,27 @@
+[Added Associations]
+x-scheme-handler/discord-1352351827206733974=discord-1352351827206733974.desktop
+x-scheme-handler/http=userapp-Firefox-34HQ52.desktop;
+x-scheme-handler/https=userapp-Firefox-34HQ52.desktop;
+x-scheme-handler/chrome=userapp-Firefox-34HQ52.desktop;
+text/html=userapp-Firefox-34HQ52.desktop;
+application/x-extension-htm=userapp-Firefox-34HQ52.desktop;
+application/x-extension-html=userapp-Firefox-34HQ52.desktop;
+application/x-extension-shtml=userapp-Firefox-34HQ52.desktop;
+application/xhtml+xml=userapp-Firefox-34HQ52.desktop;
+application/x-extension-xhtml=userapp-Firefox-34HQ52.desktop;
+application/x-extension-xht=userapp-Firefox-34HQ52.desktop;
+image/png=swayimg.desktop;
+
+[Default Applications]
+x-scheme-handler/discord-1352351827206733974=discord-1352351827206733974.desktop
+x-scheme-handler/discord-831593107883032657=discord-831593107883032657.desktop
+x-scheme-handler/http=userapp-Firefox-34HQ52.desktop
+x-scheme-handler/https=userapp-Firefox-34HQ52.desktop
+x-scheme-handler/chrome=userapp-Firefox-34HQ52.desktop
+text/html=userapp-Firefox-34HQ52.desktop
+application/x-extension-htm=userapp-Firefox-34HQ52.desktop
+application/x-extension-html=userapp-Firefox-34HQ52.desktop
+application/x-extension-shtml=userapp-Firefox-34HQ52.desktop
+application/xhtml+xml=userapp-Firefox-34HQ52.desktop
+application/x-extension-xhtml=userapp-Firefox-34HQ52.desktop
+application/x-extension-xht=userapp-Firefox-34HQ52.desktop

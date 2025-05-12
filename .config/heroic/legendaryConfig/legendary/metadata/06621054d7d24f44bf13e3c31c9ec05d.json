@@ -1,0 +1,113 @@
+{
+  "app_name": "06621054d7d24f44bf13e3c31c9ec05d",
+  "app_title": "Just Die Already",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "06621054d7d24f44bf13e3c31c9ec05d",
+      "asset_id": "06621054d7d24f44bf13e3c31c9ec05d",
+      "build_version": "1.4.2",
+      "catalog_item_id": "337333962e364b4bb2ce8f907c7c7d4d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8c7ed85dae4341d385919ee4d832eb1a",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567bwEzhQExfinQtOiDjNhSXClf",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-12-16T16:08:54.013Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "JustDieAlready"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "8c7ed85dae4341d385919ee4d832eb1a"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Just Die Already",
+    "developer": "Curve Digital",
+    "developerId": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
+    "endOfSupport": false,
+    "entitlementName": "337333962e364b4bb2ce8f907c7c7d4d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "337333962e364b4bb2ce8f907c7c7d4d",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "ab0a72182a2dbbead850ff3ab81a4f73",
+        "size": 1016832,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-04-19T18:45:17.933Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JustDieAlready_DoubleMoose_S5_1920x1080-ab0a72182a2dbbead850ff3ab81a4f73",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "577891f9b98a2f9fb55adcaae4ed5ebe",
+        "size": 1011609,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-04-19T18:45:21.510Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JustDieAlready_DoubleMoose_S6_1200x1600-577891f9b98a2f9fb55adcaae4ed5ebe",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-05-20T17:07:08.752Z",
+    "mainGameItemList": [],
+    "namespace": "8c7ed85dae4341d385919ee4d832eb1a",
+    "releaseInfo": [
+      {
+        "appId": "06621054d7d24f44bf13e3c31c9ec05d",
+        "dateAdded": "2020-12-16T00:00:00.000Z",
+        "id": "ac5ab0070387486eb68ea507b6296850",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Just Die Already",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

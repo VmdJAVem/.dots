@@ -1,0 +1,1139 @@
+{
+  "app_name": "Catnip",
+  "app_title": "Borderlands 3",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Catnip",
+      "asset_id": "Catnip",
+      "build_version": "1.0.26_CL_3758051_Borderlands_3",
+      "catalog_item_id": "5cf86732e2744fec98a1c8a077d9f3a8",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "4038efbb2b6d4f43b191cd1782f53076"
+      },
+      "namespace": "catnip",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-02-13T20:15:03.704Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/My Games/Borderlands 3/Saved/SaveGames/{EpicID}/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/GearboxSoftware/OakGame/Saved/SaveGames/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Borderlands3"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "20000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "catnip"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Borderlands 3",
+    "developer": "2K Games, Inc.",
+    "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-01-13T18:42:33.072Z",
+        "customAttributes": {
+          "FolderName": {
+            "type": "STRING",
+            "value": "MarriageOfWainwright"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Borderlands 3 Guns, Love, and Tentacles The Marriage of Wainwright & Hammerlock",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "68835daacb934f05a12bdcf505278076",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "68835daacb934f05a12bdcf505278076",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1920,
+            "md5": "3b9a848a9f2162d3b0ed9c2353008859",
+            "size": 4059665,
+            "type": "DieselStoreFrontTall",
+            "uploadedDate": "2020-03-26T17:03:44.495Z",
+            "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC2_Hammerlock_Key_Art_Logo_1080x1920_EN-1080x1920-3b9a848a9f2162d3b0ed9c2353008859.png",
+            "width": 1080
+          },
+          {
+            "height": 1080,
+            "md5": "3002ee73c45f0d12901f8d1e721964d3",
+            "size": 3914545,
+            "type": "DieselStoreFrontWide",
+            "uploadedDate": "2020-03-26T17:04:01.471Z",
+            "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC2_Hammerlock_Key_Art_Logo_1920x1080_EN-1920x1080-3002ee73c45f0d12901f8d1e721964d3.png",
+            "width": 1920
+          },
+          {
+            "height": 1080,
+            "md5": "3002ee73c45f0d12901f8d1e721964d3",
+            "size": 3914545,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-01-19T17:45:17.352Z",
+            "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_DLC2_Hammerlock_Key_Art_Logo_1920x1080_EN-1920x1080-3002ee73c45f0d12901f8d1e721964d3_1920x1080-3002ee73c45f0d12901f8d1e721964d3",
+            "width": 1920
+          },
+          {
+            "height": 1600,
+            "md5": "c0f7de8117693c5bfb84fecf9a6931eb",
+            "size": 759152,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-01-19T17:45:20.625Z",
+            "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_GUNSLOVETENACLES_EGS_1200x1600_1200x1600-c0f7de8117693c5bfb84fecf9a6931eb",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-01-19T21:12:26.598Z",
+        "longDescription": "Reference:  Borderlands 3 Moxxi's Heist of the Handsome Jackpot",
+        "mainGameItem": {
+          "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+          "namespace": "catnip",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+            "namespace": "catnip",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "catnip",
+        "releaseInfo": [
+          {
+            "appId": "CatnipDLC2",
+            "compatibleApps": [],
+            "dateAdded": "2019-12-06T00:00:00.000Z",
+            "id": "19bbc7f2162b4e1aa083f8356e2f959f",
+            "platform": [
+              "Windows",
+              "Mac"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Borderlands 3 Guns, Love, and Tentacles The Marriage of Wainwright & Hammerlock",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-06T15:07:03.902Z",
+        "customAttributes": {
+          "FolderName": {
+            "type": "STRING",
+            "value": "MoxxiHeist"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Borderlands 3 Moxxi's Heist of the Handsome Jackpot",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "eb7e9e3f9f9542568de71d140524b172",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "eb7e9e3f9f9542568de71d140524b172",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "f72a7ad100acf57d8ceba53c8aaf6237",
+            "size": 811521,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-01-19T17:46:38.961Z",
+            "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_Moxxi_Epic_L1_Library_Primary_2560x1440-2560x1440-2504be018ff34752c781216a9c56ad542f417aa5_2560x1440-f72a7ad100acf57d8ceba53c8aaf6237",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "71109c6ecbe3f6ead52924dcf6b09c94",
+            "size": 962695,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-01-19T17:46:42.823Z",
+            "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_Moxxi_Epic_L1_Library_Primary_1200x1600_1200x1600-71109c6ecbe3f6ead52924dcf6b09c94",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-01-19T21:12:26.648Z",
+        "mainGameItem": {
+          "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+          "namespace": "catnip",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+            "namespace": "catnip",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "catnip",
+        "releaseInfo": [
+          {
+            "appId": "CatnipDLC1",
+            "compatibleApps": [],
+            "dateAdded": "2019-12-06T00:00:00.000Z",
+            "id": "dfe5b7f52d0848a3a11379718b8bd66b",
+            "platform": [
+              "Windows",
+              "Mac"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Borderlands 3 Moxxi's Heist of the Handsome Jackpot",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-04-02T01:14:20.669Z",
+        "customAttributes": {},
+        "description": "Gold Weapon Skins Pack Audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "cd4cceaa96da49bb81aeedfb110f49c5",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cd4cceaa96da49bb81aeedfb110f49c5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "275d74057f4825477e1f7f17f8cf0abc",
+            "size": 134137,
+            "type": "ESRB",
+            "uploadedDate": "2020-01-07T22:47:56.130Z",
+            "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+            "width": 842
+          },
+          {
+            "height": 276,
+            "md5": "ecf8c24cf5821b6bc7e550a497e9e450",
+            "size": 68004,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-01-19T17:35:49.706Z",
+            "url": "https://cdn1.epicgames.com/item/catnip/490-490x276-16b2da804626271e3cf6474ea8d0e72c86329576_490x276-ecf8c24cf5821b6bc7e550a497e9e450",
+            "width": 490
+          },
+          {
+            "height": 1600,
+            "md5": "90911405c40ea44dd9be4ebf0afc2209",
+            "size": 936366,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-01-19T17:35:47.075Z",
+            "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_GWSP_XBL_1200x1600_1200x1600-90911405c40ea44dd9be4ebf0afc2209",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-01-19T21:12:26.630Z",
+        "longDescription": "Borderlands 3 Pre-Purchase Audience",
+        "mainGameItem": {
+          "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+          "namespace": "catnip",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+            "namespace": "catnip",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "catnip",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Gold Weapon Skins Pack Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-04-02T22:28:42.706Z",
+        "customAttributes": {},
+        "description": "Retro Cosmetic Pack Audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "29da568810454587930011b042eb4ebb",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "29da568810454587930011b042eb4ebb",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "275d74057f4825477e1f7f17f8cf0abc",
+            "size": 134137,
+            "type": "ESRB",
+            "uploadedDate": "2020-01-07T22:47:04.459Z",
+            "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+            "width": 842
+          },
+          {
+            "height": 276,
+            "md5": "6d8bdc452cb2a96bcdb91a793ac1c0bd",
+            "size": 71179,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-01-19T17:37:26.797Z",
+            "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_RETROPACK_EPIC_SOCIAL_490x276-490x276-6ce80321a61e70d75dce2c8c4e75cf2e425bb629_490x276-6d8bdc452cb2a96bcdb91a793ac1c0bd",
+            "width": 490
+          },
+          {
+            "height": 1600,
+            "md5": "5548a3610ec8108e4f8ede1056987096",
+            "size": 932545,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-01-19T17:37:29.689Z",
+            "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_RETRO_PACK_SONY_STORE_HERO_1200x1600_1200x1600-5548a3610ec8108e4f8ede1056987096",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-01-19T21:12:26.566Z",
+        "longDescription": "Content Pack 1",
+        "mainGameItem": {
+          "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+          "namespace": "catnip",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+            "namespace": "catnip",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "catnip",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Retro Cosmetic Pack Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "application"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-02-19T22:44:20.732Z",
+        "customAttributes": {
+          "FolderName": {
+            "type": "STRING",
+            "value": "BountyOfBlood"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Borderlands 3 Bounty of Blood",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "0854f1cf60fd48d4a29178b211d2f133",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0854f1cf60fd48d4a29178b211d2f133",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "7e8718f8820f2ab9ee9f1f94258054e3",
+            "size": 1586269,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-06-25T14:08:06.726Z",
+            "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_BOUNTY_OF_BLOOD_EPIC_2560x1440-2560x1440-7e8718f8820f2ab9ee9f1f94258054e3.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "28138d6a86fc1d7e7a77e637c58dedb4",
+            "size": 973711,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-01-19T20:14:01.422Z",
+            "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_BOUNTY_OF_BLOOD_EPIC_1200x1600_1200x1600-28138d6a86fc1d7e7a77e637c58dedb4",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-01-19T21:12:26.553Z",
+        "longDescription": "Borderlands 3 Bounty of Blood",
+        "mainGameItem": {
+          "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+          "namespace": "catnip",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+            "namespace": "catnip",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "catnip",
+        "releaseInfo": [
+          {
+            "appId": "CatnipDLC3",
+            "compatibleApps": [],
+            "dateAdded": "2019-12-06T00:00:00.000Z",
+            "id": "a8eba484d27246f4b4ed3c270f6d1461",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Borderlands 3 Bounty of Blood",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-04-02T22:31:20.356Z",
+        "customAttributes": {},
+        "description": "Toy Box Weapons Pack Audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "c8ccbe393545484cae756a6aad7e7e99",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c8ccbe393545484cae756a6aad7e7e99",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "275d74057f4825477e1f7f17f8cf0abc",
+            "size": 134137,
+            "type": "ESRB",
+            "uploadedDate": "2020-01-07T22:55:26.349Z",
+            "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+            "width": 842
+          },
+          {
+            "height": 276,
+            "md5": "fd85b6dccc9f9a454aeb9b442dbcafe6",
+            "size": 72531,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-01-19T17:34:35.315Z",
+            "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_TOYBOXPACK_EPIC_SOCIAL_490x276-490x276-eed395a904f3f82a75f9b9f9507f6ada1ba4e593_490x276-fd85b6dccc9f9a454aeb9b442dbcafe6",
+            "width": 490
+          },
+          {
+            "height": 1600,
+            "md5": "8ef0c912ef937447b8d0230b7d83ccaf",
+            "size": 946652,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-01-19T17:34:32.138Z",
+            "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_TOY_PACK_SONY_P34_16x9_MASTER_1200x1600_1200x1600-8ef0c912ef937447b8d0230b7d83ccaf",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-01-19T21:12:26.626Z",
+        "longDescription": "Content Pack 4",
+        "mainGameItem": {
+          "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+          "namespace": "catnip",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+            "namespace": "catnip",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "catnip",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Toy Box Weapons Pack Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-08-18T20:17:00.868Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Final Form Moze Audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "ff96eef22b0e4c498e8ed80ac0030325",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ff96eef22b0e4c498e8ed80ac0030325",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T22:24:02.313Z",
+        "longDescription": "Final Form Moze Audience",
+        "mainGameItem": {
+          "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+          "namespace": "catnip",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+            "namespace": "catnip",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "catnip",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Final Form Moze Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-02-19T22:50:03.541Z",
+        "customAttributes": {
+          "FolderName": {
+            "type": "STRING",
+            "value": "PsychoKrieg"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Borderlands 3 Psycho Krieg and the Fantastic Fustercluck",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "e144a1358b4a4da79fa2191b604bfeb0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e144a1358b4a4da79fa2191b604bfeb0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "017eb8bce37bda1a18736efd6eb6b3f9",
+            "size": 2174560,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-09-10T14:34:17.943Z",
+            "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC4_KRIEG_EPIC_LANDSCAPE_2560x1440-2560x1440-017eb8bce37bda1a18736efd6eb6b3f9.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "a39fe34e83c26f466a9c0fd50a231904",
+            "size": 942145,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-09-10T14:34:34.151Z",
+            "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC4_KRIEG_EPIC_PORTRAIT_1200x1600-1200x1600-a39fe34e83c26f466a9c0fd50a231904.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-01-19T21:12:26.635Z",
+        "longDescription": "",
+        "mainGameItem": {
+          "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+          "namespace": "catnip",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+            "namespace": "catnip",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "catnip",
+        "releaseInfo": [
+          {
+            "appId": "CatnipDLC4",
+            "compatibleApps": [],
+            "dateAdded": "2019-12-06T00:00:00.000Z",
+            "id": "df2274c6adaf46ccaf7883d4a9d7148a",
+            "platform": [
+              "Windows",
+              "Mac"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Borderlands 3 Psycho Krieg and the Fantastic Fustercluck",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-06-08T03:18:24.697Z",
+        "customAttributes": {
+          "FolderName": {
+            "type": "STRING",
+            "value": "DesignersCut"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Borderlands 3: Designer's Cut",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "16ee021788384598a679195a23c86892",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "16ee021788384598a679195a23c86892",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "39934de17bb201a8e1922ef8e2495233",
+            "size": 946101,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-11-05T21:03:15.565Z",
+            "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC5_DESIGNERSCUT_EPIC_1200X1600-1200x1600-39934de17bb201a8e1922ef8e2495233.jpg",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "ed4793c55b4a00970c1c751dbc8ecb25",
+            "size": 848807,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-11-05T21:03:25.915Z",
+            "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC5_DESIGNERSCUT_2560x1440-2560x1440-ed4793c55b4a00970c1c751dbc8ecb25.jpg",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2020-11-19T16:20:28.575Z",
+        "longDescription": "",
+        "mainGameItem": {
+          "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+          "namespace": "catnip",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+            "namespace": "catnip",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "catnip",
+        "releaseInfo": [
+          {
+            "appId": "d7c6ca3653f144d9a814ceb6f6d211d7",
+            "compatibleApps": [],
+            "dateAdded": "2019-12-06T00:00:00.000Z",
+            "id": "df2274c6adaf46ccaf7883d4a9d7148a",
+            "platform": [
+              "Windows",
+              "Mac"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Borderlands 3: Designer's Cut",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-06-08T03:22:03.270Z",
+        "customAttributes": {
+          "FolderName": {
+            "type": "STRING",
+            "value": "DirectorsCut"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Borderlands 3: Director's Cut",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "5b3a0f42915241dcaee2dad6ac88bbf6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5b3a0f42915241dcaee2dad6ac88bbf6",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "bd2f5f1e5ea3034d66f751e43e916312",
+            "size": 2092538,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-04-07T21:05:44.911Z",
+            "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC6_2560x1440-2560x1440-bd2f5f1e5ea3034d66f751e43e916312.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "eea1a9f53987e943321d90e015f9d368",
+            "size": 1030238,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-04-07T21:06:00.277Z",
+            "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC6_EPIC_Mobile_Store_1200x1600-1200x1600-eea1a9f53987e943321d90e015f9d368.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-04-08T17:00:03.500Z",
+        "longDescription": "",
+        "mainGameItem": {
+          "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+          "namespace": "catnip",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+            "namespace": "catnip",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "catnip",
+        "releaseInfo": [
+          {
+            "appId": "e2d2b9b7baf3486ca400313d3a870edf",
+            "compatibleApps": [],
+            "dateAdded": "2019-12-06T00:00:00.000Z",
+            "id": "df2274c6adaf46ccaf7883d4a9d7148a",
+            "platform": [
+              "Windows",
+              "Mac"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Borderlands 3: Director's Cut",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-08-18T20:16:14.122Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Final Form Zane Audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "5021e93a73374d6db1c1ce6c92234f8f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5021e93a73374d6db1c1ce6c92234f8f",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T22:24:02.304Z",
+        "longDescription": "Final Form Zane Audience",
+        "mainGameItem": {
+          "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+          "namespace": "catnip",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+            "namespace": "catnip",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "catnip",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Final Form Zane Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-04-02T22:29:46.762Z",
+        "customAttributes": {},
+        "description": "Neon Cosmetic Pack Audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "5ea1981df8cc49c68f4fe086b70f7bd8",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5ea1981df8cc49c68f4fe086b70f7bd8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "275d74057f4825477e1f7f17f8cf0abc",
+            "size": 134137,
+            "type": "ESRB",
+            "uploadedDate": "2020-01-07T22:54:48.310Z",
+            "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+            "width": 842
+          },
+          {
+            "height": 276,
+            "md5": "c323cae37a041c5fcf2ac318238c122f",
+            "size": 77921,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-01-19T17:38:48.181Z",
+            "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_NEONPACK_EPIC_SOCIAL_490X276-490x276-b5f500ee8adbaf2dee7bd03f2dfa8989dc858837_490x276-c323cae37a041c5fcf2ac318238c122f",
+            "width": 490
+          },
+          {
+            "height": 1600,
+            "md5": "6934a8f8cf031afa2bbf191e5ee9c323",
+            "size": 912829,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-01-19T17:38:53.407Z",
+            "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_NEON_PACK_SONY_P34_16x9_MASTER_1200x1600_1200x1600-6934a8f8cf031afa2bbf191e5ee9c323",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-01-19T21:12:26.591Z",
+        "longDescription": "Content Pack 2",
+        "mainGameItem": {
+          "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+          "namespace": "catnip",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+            "namespace": "catnip",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "catnip",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Neon Cosmetic Pack Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-04-02T22:30:33.024Z",
+        "customAttributes": {},
+        "description": "Gearbox Cosmetic Pack Audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "552f87ec7f474410a213c521ff9d3140",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "552f87ec7f474410a213c521ff9d3140",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "275d74057f4825477e1f7f17f8cf0abc",
+            "size": 134137,
+            "type": "ESRB",
+            "uploadedDate": "2020-01-07T22:50:42.720Z",
+            "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+            "width": 842
+          },
+          {
+            "height": 276,
+            "md5": "73f4b2c81929d2fee011c41d392a8e31",
+            "size": 76182,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-01-19T17:35:24.525Z",
+            "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_GBXPACK_EPIC_SOCIAL_490_276-490x276-64bf667e91563509e75db604616aa060989370ba_490x276-73f4b2c81929d2fee011c41d392a8e31",
+            "width": 490
+          },
+          {
+            "height": 1600,
+            "md5": "a0ed77d2a35a262f245c8ad81b645872",
+            "size": 927571,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-01-19T17:35:20.459Z",
+            "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_GB_PACK_SONY_P34_MASTER_1200x1600_1200x1600-a0ed77d2a35a262f245c8ad81b645872",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-01-19T21:12:26.587Z",
+        "longDescription": "Content Pack 3",
+        "mainGameItem": {
+          "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+          "namespace": "catnip",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+            "namespace": "catnip",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "catnip",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Gearbox Cosmetic Pack Audience",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "5cf86732e2744fec98a1c8a077d9f3a8",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && amaranth)"
+    ],
+    "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "c1200ae70b5e054025e296746d1987a8",
+        "size": 1507215,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-02-25T15:50:45.766Z",
+        "url": "https://cdn1.epicgames.com/catnip/item/BL3Tall_1200x1440-1200x1440-c1200ae70b5e054025e296746d1987a8.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "462318f36bee20de4412e111ef72dc62",
+        "size": 708051,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-02-25T15:50:58.596Z",
+        "url": "https://cdn1.epicgames.com/catnip/item/BL3Wide_2560x1440-2560x1440-462318f36bee20de4412e111ef72dc62.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2024-03-28T15:10:41.617Z",
+    "mainGameItemList": [],
+    "namespace": "catnip",
+    "releaseInfo": [
+      {
+        "appId": "Catnip",
+        "compatibleApps": [],
+        "dateAdded": "2019-02-13T00:00:00.000Z",
+        "id": "fc425a96982c41f09706d5dccd9b41fd",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Borderlands 3",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

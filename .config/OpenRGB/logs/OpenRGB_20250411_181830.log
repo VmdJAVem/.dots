@@ -1,0 +1,57 @@
+    OpenRGB v0.9
+    Commit:  from 
+    Launched: 20250411_181830
+====================================================================================================
+
+0     |Info:    Found file: lol.orp attempting to validate header
+0     |Info:    Valid v4 profile found for lol
+1001  |Info:    ------------------------------------------------------
+1001  |Info:    |               Start device detection               |
+1001  |Info:    ------------------------------------------------------
+1001  |Info:    Initializing HID interfaces: Success
+1006  |Info:    ------------------------------------------------------
+1006  |Info:    |             Detecting I2C interfaces               |
+1006  |Info:    ------------------------------------------------------
+1006  |Info:    Registering I2C interface: /dev/i2c-3 Device 1002:747E Subsystem: 1DA2:F475
+1006  |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+1006  |Info:    Registering I2C interface: /dev/i2c-10 Device 0000:0000 Subsystem: 0000:0000
+1006  |Info:    Registering I2C interface: /dev/i2c-1 Device 1022:790B Subsystem: 1462:7E26
+1006  |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+1006  |Info:    Registering I2C interface: /dev/i2c-17 Device 0000:0000 Subsystem: 0000:0000
+1006  |Info:    Registering I2C interface: /dev/i2c-8 Device 1002:747E Subsystem: 1DA2:F475
+1006  |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+1006  |Info:    Registering I2C interface: /dev/i2c-15 Device 0000:0000 Subsystem: 0000:0000
+1006  |Info:    Registering I2C interface: /dev/i2c-6 Device 1002:747E Subsystem: 1DA2:F475
+1006  |Info:    Registering I2C interface: /dev/i2c-13 Device 1002:164E Subsystem: 1462:7E26
+1006  |Info:    Registering I2C interface: /dev/i2c-4 Device 1002:747E Subsystem: 1DA2:F475
+1006  |Info:    Registering I2C interface: /dev/i2c-11 Device 1002:164E Subsystem: 1462:7E26
+1007  |Info:    Registering I2C interface: /dev/i2c-2 Device 1022:790B Subsystem: 1462:7E26
+1007  |Info:    Registering I2C interface: /dev/i2c-0 Device 1022:790B Subsystem: 1462:7E26
+1007  |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+1007  |Info:    Registering I2C interface: /dev/i2c-9 Device 0000:0000 Subsystem: 0000:0000
+1007  |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+1007  |Info:    Registering I2C interface: /dev/i2c-16 Device 0000:0000 Subsystem: 0000:0000
+1007  |Info:    Registering I2C interface: /dev/i2c-7 Device 1002:747E Subsystem: 1DA2:F475
+1007  |Info:    Registering I2C interface: /dev/i2c-14 Device 1002:164E Subsystem: 1462:7E26
+1007  |Info:    Registering I2C interface: /dev/i2c-5 Device 1002:747E Subsystem: 1DA2:F475
+1007  |Info:    Registering I2C interface: /dev/i2c-12 Device 1002:164E Subsystem: 1462:7E26
+1007  |Info:    ------------------------------------------------------
+1007  |Info:    |               Detecting I2C devices                |
+1007  |Info:    ------------------------------------------------------
+1377  |Info:    [ENE DRAM] Registering RGB controller
+1642  |Info:    [ENE DRAM] Registering RGB controller
+2837  |Info:    ------------------------------------------------------
+2837  |Info:    |               Detecting I2C PCI devices            |
+2837  |Info:    ------------------------------------------------------
+2838  |Info:    ------------------------------------------------------
+2838  |Info:    |               Detecting HID devices                |
+2838  |Info:    ------------------------------------------------------
+2838  |Info:    ------------------------------------------------------
+2838  |Info:    |            Detecting libusb HID devices            |
+2838  |Info:    ------------------------------------------------------
+2843  |Info:    ------------------------------------------------------
+2843  |Info:    |              Detecting other devices               |
+2843  |Info:    ------------------------------------------------------
+2849  |Info:    ------------------------------------------------------
+2849  |Info:    |                Detection completed                 |
+2849  |Info:    ------------------------------------------------------

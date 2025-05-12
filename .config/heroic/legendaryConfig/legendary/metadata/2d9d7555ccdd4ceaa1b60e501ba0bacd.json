@@ -1,0 +1,375 @@
+{
+  "app_name": "2d9d7555ccdd4ceaa1b60e501ba0bacd",
+  "app_title": "Them's Fightin' Herds",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2d9d7555ccdd4ceaa1b60e501ba0bacd",
+      "asset_id": "2d9d7555ccdd4ceaa1b60e501ba0bacd",
+      "build_version": "1712160892",
+      "catalog_item_id": "d74fb2e8ae09432db115612e1bde5655",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "a567c32599bf4d4fb609e424f3691b39",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567VMvztBV67cAVZVRJaOz125dA",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-04-03T19:00:09.157Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ThemsFightinHerds"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Them's Fightin' Herds",
+    "developer": "Maximum Entertainment",
+    "developerId": "o-awmpgf6ydj3bnkdtza83f25d5xcr2n",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-03T19:00:09.158Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Them's Fightin' Herds - Baihe",
+        "developer": "Maximum Entertainment",
+        "developerId": "o-awmpgf6ydj3bnkdtza83f25d5xcr2n",
+        "endOfSupport": false,
+        "entitlementName": "e502790994bc4fdd935e636d32da610c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e502790994bc4fdd935e636d32da610c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Them's Fightin' Herds Them's Fightin' Herds - Baihe Offer",
+            "height": 1440,
+            "md5": "e37f85912e9c2ee04c661ca442faa9ce",
+            "size": 588166,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-03T18:46:06.922Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a4913c01be82426584eb67824840a7cc/thems-fightin-herds-8p3j2.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Them's Fightin' Herds Them's Fightin' Herds - Baihe Offer",
+            "height": 1600,
+            "md5": "dacd7f5d31d8777d6efaf491bbccd841",
+            "size": 615498,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-03T18:46:11.503Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a4913c01be82426584eb67824840a7cc/thems-fightin-herds-1azag.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-05T19:47:51.665Z",
+        "mainGameItem": {
+          "id": "d74fb2e8ae09432db115612e1bde5655",
+          "namespace": "a567c32599bf4d4fb609e424f3691b39",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d74fb2e8ae09432db115612e1bde5655",
+            "namespace": "a567c32599bf4d4fb609e424f3691b39",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a567c32599bf4d4fb609e424f3691b39",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Them's Fightin' Herds - Baihe",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-03T19:00:09.154Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Them's Fightin' Herds - Stronghoof",
+        "developer": "Maximum Entertainment",
+        "developerId": "o-awmpgf6ydj3bnkdtza83f25d5xcr2n",
+        "endOfSupport": false,
+        "entitlementName": "7201748bc3c24df18a25ecb4efb5be3b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7201748bc3c24df18a25ecb4efb5be3b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Them's Fightin' Herds Them's Fightin' Herds - Stronghoof Offer",
+            "height": 1440,
+            "md5": "a22879bcb2e3246e859e94dd23ba820c",
+            "size": 507628,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-03T18:51:05.974Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a4913c01be82426584eb67824840a7cc/thems-fightin-herds-196so.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Them's Fightin' Herds Them's Fightin' Herds - Stronghoof Offer",
+            "height": 1600,
+            "md5": "9a181b5360cecbb4211dc62a00171a93",
+            "size": 547406,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-03T18:52:08.707Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a4913c01be82426584eb67824840a7cc/thems-fightin-herds-1k9q6.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-05T19:47:51.665Z",
+        "mainGameItem": {
+          "id": "d74fb2e8ae09432db115612e1bde5655",
+          "namespace": "a567c32599bf4d4fb609e424f3691b39",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d74fb2e8ae09432db115612e1bde5655",
+            "namespace": "a567c32599bf4d4fb609e424f3691b39",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a567c32599bf4d4fb609e424f3691b39",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Them's Fightin' Herds - Stronghoof",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-03T19:00:09.149Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Texas",
+        "developer": "Maximum Entertainment",
+        "developerId": "o-awmpgf6ydj3bnkdtza83f25d5xcr2n",
+        "endOfSupport": false,
+        "entitlementName": "1f930918f1094048987ad592f93233ab",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1f930918f1094048987ad592f93233ab",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Them's Fightin' Herds Them's Fightin' Herds - Texas Offer",
+            "height": 1440,
+            "md5": "085f13210522eacfb52e92e8e66a127e",
+            "size": 498181,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-03T18:44:18.838Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a4913c01be82426584eb67824840a7cc/thems-fightin-herds-o1qyb.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Them's Fightin' Herds Them's Fightin' Herds - Texas Offer",
+            "height": 1600,
+            "md5": "a4d488ce7db1972b2d81680f48df6745",
+            "size": 503331,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-03T18:44:01.137Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a4913c01be82426584eb67824840a7cc/thems-fightin-herds-1is0b.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-05T19:47:51.665Z",
+        "mainGameItem": {
+          "id": "d74fb2e8ae09432db115612e1bde5655",
+          "namespace": "a567c32599bf4d4fb609e424f3691b39",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d74fb2e8ae09432db115612e1bde5655",
+            "namespace": "a567c32599bf4d4fb609e424f3691b39",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a567c32599bf4d4fb609e424f3691b39",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Texas",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-03T19:00:09.152Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Them's Fightin' Herds - Nidra",
+        "developer": "Maximum Entertainment",
+        "developerId": "o-awmpgf6ydj3bnkdtza83f25d5xcr2n",
+        "endOfSupport": false,
+        "entitlementName": "590ebd707a2b4fc2909f22e57055d63c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "590ebd707a2b4fc2909f22e57055d63c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Them's Fightin' Herds Them's Fightin' Herds - Nidra Offer",
+            "height": 1440,
+            "md5": "4178bd00f79cb886119cac4e6587202b",
+            "size": 451740,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-03T18:53:29.281Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a4913c01be82426584eb67824840a7cc/thems-fightin-herds-1xss1.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Them's Fightin' Herds Them's Fightin' Herds - Nidra Offer",
+            "height": 1600,
+            "md5": "55d98fe7e50afe3c8c582dd30fb6af07",
+            "size": 512058,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-03T18:53:29.547Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a4913c01be82426584eb67824840a7cc/thems-fightin-herds-1qh2m.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-05T19:47:51.665Z",
+        "mainGameItem": {
+          "id": "d74fb2e8ae09432db115612e1bde5655",
+          "namespace": "a567c32599bf4d4fb609e424f3691b39",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d74fb2e8ae09432db115612e1bde5655",
+            "namespace": "a567c32599bf4d4fb609e424f3691b39",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a567c32599bf4d4fb609e424f3691b39",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Them's Fightin' Herds - Nidra",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "d74fb2e8ae09432db115612e1bde5655",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "d74fb2e8ae09432db115612e1bde5655",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "da3a940faafe30c602d3966d2c295825",
+        "size": 498822,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-12-19T15:33:20.691Z",
+        "url": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S1_2560x1440-da3a940faafe30c602d3966d2c295825",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "9793ee024c43026c5c2b1612c7a487d0",
+        "size": 489170,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-12-19T15:33:26.837Z",
+        "url": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S2_1200x1600-9793ee024c43026c5c2b1612c7a487d0",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-05T19:47:51.665Z",
+    "mainGameItemList": [],
+    "namespace": "a567c32599bf4d4fb609e424f3691b39",
+    "releaseInfo": [
+      {
+        "appId": "2d9d7555ccdd4ceaa1b60e501ba0bacd",
+        "id": "7c64173b5ed64b078e5a6b83b62806ce",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Them's Fightin' Herds",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,33 @@
+{
+  "jkm22YXzy8z1Y1vt5MjFMe": {
+    "autoInstallDxvk": true,
+    "autoInstallDxvkNvapi": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableMsync": false,
+    "enableFsync": true,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "useGameMode": false,
+    "battlEyeRuntime": true,
+    "eacRuntime": true,
+    "language": "",
+    "beforeLaunchScriptPath": "",
+    "afterLaunchScriptPath": "",
+    "verboseLogs": false,
+    "wineVersion": {
+      "bin": "/home/vmdjavem/.config/heroic/tools/wine/Wine-GE-latest/bin/wine",
+      "name": "Wine - Wine-GE-latest",
+      "type": "wine",
+      "lib": "/home/vmdjavem/.config/heroic/tools/wine/Wine-GE-latest/lib64",
+      "lib32": "/home/vmdjavem/.config/heroic/tools/wine/Wine-GE-latest/lib",
+      "wineserver": "/home/vmdjavem/.config/heroic/tools/wine/Wine-GE-latest/bin/wineserver"
+    },
+    "winePrefix": "/home/vmdjavem/Games/Heroic/Prefixes/default/Hearts of iron IV"
+  },
+  "version": "v0",
+  "explicit": true
+}

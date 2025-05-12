@@ -1,0 +1,103 @@
+{
+  "app_name": "f1e6956fcad8488ba1c6a2564bb2ca4e",
+  "app_title": "Destroy All Humans! - Clone Carnage",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "f1e6956fcad8488ba1c6a2564bb2ca4e",
+      "asset_id": "f1e6956fcad8488ba1c6a2564bb2ca4e",
+      "build_version": "1.0",
+      "catalog_item_id": "093645ec671d4fc789abcdb59d840b10",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "eee66cc2b7d84d05942cd6d2a099d856",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-03-05T03:20:56.816Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DAHCC"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Destroy All Humans! - Clone Carnage",
+    "developer": "THQ Nordic GmbH",
+    "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+    "endOfSupport": false,
+    "entitlementName": "093645ec671d4fc789abcdb59d840b10",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "093645ec671d4fc789abcdb59d840b10",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "0e270f203469d4502499716528e1f8f1",
+        "size": 685494,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-05-16T16:00:04.144Z",
+        "url": "https://cdn1.epicgames.com/item/eee66cc2b7d84d05942cd6d2a099d856/EGS_DestroyAllHumansCloneCarnage_THQNordic_S1_2560x1440-0e270f203469d4502499716528e1f8f1",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "d1f39c2490bd90b50b515ef1ac2892fb",
+        "size": 418969,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-05-16T16:00:06.985Z",
+        "url": "https://cdn1.epicgames.com/item/eee66cc2b7d84d05942cd6d2a099d856/EGS_DestroyAllHumansCloneCarnage_THQNordic_S2_1200x1600-d1f39c2490bd90b50b515ef1ac2892fb",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-06T07:39:45.995Z",
+    "mainGameItemList": [],
+    "namespace": "eee66cc2b7d84d05942cd6d2a099d856",
+    "releaseInfo": [
+      {
+        "appId": "f1e6956fcad8488ba1c6a2564bb2ca4e",
+        "id": "23b2b0004bfe4f0d858c979e8657a450",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Destroy All Humans! - Clone Carnage",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

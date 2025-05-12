@@ -1,0 +1,501 @@
+{
+  "app_name": "24b4ee8b16e4450184fe33ff871cc0ee",
+  "app_title": "TerraTech",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "24b4ee8b16e4450184fe33ff871cc0ee",
+      "asset_id": "24b4ee8b16e4450184fe33ff871cc0ee",
+      "build_version": "1.6.7-Win64",
+      "catalog_item_id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "1936f35bf51446bbaf23fd853514e329",
+        "update_type": "PATCH"
+      },
+      "namespace": "96830aff053e404c808a54300c941e57",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567RWqDxenyfcgEYbUsdXGRDJWZ",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-12-17T11:58:16.222Z",
+    "customAttributes": {
+      "CloudExcludeList": {
+        "type": "STRING",
+        "value": "announcementBanners.bin,announcements.bin"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/My Games/TerraTech/{EpicID}/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserDir}/Library/Application Support/TerraTech/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TerraTechLFsrk"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "2000"
+      }
+    },
+    "description": "TerraTech",
+    "developer": "Mythwright",
+    "developerId": "o-qnq3rv8k67w2bvhlxdgd6kqhk95evv",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-12-17T11:58:16.220Z",
+        "description": "TerraTech - To the Stars Pack",
+        "developer": "Mythwright",
+        "developerId": "o-qnq3rv8k67w2bvhlxdgd6kqhk95evv",
+        "endOfSupport": false,
+        "entitlementName": "3276985b16a34e6d8210f503de9cf338",
+        "entitlementType": "EXECUTABLE",
+        "id": "3276985b16a34e6d8210f503de9cf338",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "TerraTech TerraTech - To the Stars Pack Offer",
+            "height": 1440,
+            "md5": "f4b380c613405894cd2a0fb4d117452e",
+            "size": 2395179,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-15T09:19:55.103Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-26xq8.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download TerraTech TerraTech - To the Stars Pack Offer",
+            "height": 1600,
+            "md5": "632e9a0eac57cddb25c9e68ae2560d64",
+            "size": 1400179,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-15T09:19:54.372Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-zgk22.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-22T18:19:40.370Z",
+        "mainGameItem": {
+          "id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+          "namespace": "96830aff053e404c808a54300c941e57",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+            "namespace": "96830aff053e404c808a54300c941e57",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "96830aff053e404c808a54300c941e57",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "TerraTech - To the Stars Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-12-17T11:58:16.221Z",
+        "description": "TerraTech - Warriors of Future Past Pack",
+        "developer": "Mythwright",
+        "developerId": "o-qnq3rv8k67w2bvhlxdgd6kqhk95evv",
+        "endOfSupport": false,
+        "entitlementName": "6800e0c150f74d839be414cf88799a41",
+        "entitlementType": "EXECUTABLE",
+        "id": "6800e0c150f74d839be414cf88799a41",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "TerraTech TerraTech - Warriors of Future Past Pack Offer",
+            "height": 1440,
+            "md5": "ec3f48e1c29c947a2d681c2077d3142a",
+            "size": 2894018,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-15T09:22:28.348Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-1bj1g.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download TerraTech TerraTech - Warriors of Future Past Pack Offer",
+            "height": 1600,
+            "md5": "e9ece3ba0b3da04fcbe1e27fb5cf3810",
+            "size": 1448691,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-15T09:22:28.595Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-1ey58.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-22T18:19:40.376Z",
+        "mainGameItem": {
+          "id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+          "namespace": "96830aff053e404c808a54300c941e57",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+            "namespace": "96830aff053e404c808a54300c941e57",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "96830aff053e404c808a54300c941e57",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "TerraTech - Warriors of Future Past Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-12-17T11:58:16.218Z",
+        "description": "TerraTech - Fantabulous Contraptions Pack",
+        "developer": "Mythwright",
+        "developerId": "o-qnq3rv8k67w2bvhlxdgd6kqhk95evv",
+        "endOfSupport": false,
+        "entitlementName": "1a4f1857e63c4985bbcead8c19ae88d7",
+        "entitlementType": "EXECUTABLE",
+        "id": "1a4f1857e63c4985bbcead8c19ae88d7",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "TerraTech TerraTech - Fantabulous Contraptions Pack Offer",
+            "height": 1440,
+            "md5": "01e91705d516b0435c7bcf96f1c98ceb",
+            "size": 2850484,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-15T09:24:19.947Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-17fm1.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download TerraTech TerraTech - Fantabulous Contraptions Pack Offer",
+            "height": 1600,
+            "md5": "5394f57278bea2fb9f26c45508b6c31f",
+            "size": 1657319,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-15T09:24:20.211Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-14x7s.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-22T18:19:40.371Z",
+        "mainGameItem": {
+          "id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+          "namespace": "96830aff053e404c808a54300c941e57",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+            "namespace": "96830aff053e404c808a54300c941e57",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "96830aff053e404c808a54300c941e57",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "TerraTech - Fantabulous Contraptions Pack",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-12-17T11:58:16.221Z",
+        "customAttributes": {},
+        "description": "TerraTech - GSO skin Pack",
+        "developer": "Mythwright",
+        "developerId": "o-qnq3rv8k67w2bvhlxdgd6kqhk95evv",
+        "endOfSupport": false,
+        "entitlementName": "712674d1db2f4050b39a6ce7507ecd0e",
+        "entitlementType": "EXECUTABLE",
+        "id": "712674d1db2f4050b39a6ce7507ecd0e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "TerraTech TerraTech - GSO skin Pack Offer",
+            "height": 1440,
+            "md5": "2262295a782316279b0333554e271a2b",
+            "size": 3296864,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-16T09:15:28.649Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-14gov.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download TerraTech TerraTech - GSO skin Pack Offer",
+            "height": 1600,
+            "md5": "0ac39cdce7049ee239cb0defb8a10511",
+            "size": 1869298,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-16T09:15:22.681Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-12o0f.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-22T18:19:40.372Z",
+        "mainGameItem": {
+          "id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+          "namespace": "96830aff053e404c808a54300c941e57",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+            "namespace": "96830aff053e404c808a54300c941e57",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "96830aff053e404c808a54300c941e57",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "TerraTech - GSO skin Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-12-17T11:58:16.224Z",
+        "description": "TerraTech: R&D Labs",
+        "developer": "Mythwright",
+        "developerId": "o-qnq3rv8k67w2bvhlxdgd6kqhk95evv",
+        "endOfSupport": false,
+        "entitlementName": "fb6a6f217ffe42b49e6a2d1bc2b9159f",
+        "entitlementType": "EXECUTABLE",
+        "id": "fb6a6f217ffe42b49e6a2d1bc2b9159f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "TerraTech TerraTech: R&D Labs Offer",
+            "height": 1440,
+            "md5": "b24dcb1a37a09ded3947e7ec53b5a29c",
+            "size": 4049466,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-15T09:07:03.803Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-x2z5d.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download TerraTech TerraTech: R&D Labs Offer",
+            "height": 1600,
+            "md5": "f10453f3b5c6b471ab5ae2d521ddfcee",
+            "size": 1933115,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-15T09:07:03.040Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-7hbxb.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-22T18:19:40.373Z",
+        "mainGameItem": {
+          "id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+          "namespace": "96830aff053e404c808a54300c941e57",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+            "namespace": "96830aff053e404c808a54300c941e57",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "96830aff053e404c808a54300c941e57",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "TerraTech: R&D Labs",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-12-17T11:58:16.219Z",
+        "description": "TerraTech - Falcon Genesis Skin Pack",
+        "developer": "Mythwright",
+        "developerId": "o-qnq3rv8k67w2bvhlxdgd6kqhk95evv",
+        "endOfSupport": false,
+        "entitlementName": "26e5742d90964cb09238a631a5b21887",
+        "entitlementType": "EXECUTABLE",
+        "id": "26e5742d90964cb09238a631a5b21887",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "TerraTech TerraTech - Falcon Genesis Skin Pack Offer",
+            "height": 1440,
+            "md5": "7f68358321313184ec5d8e9d65ae8144",
+            "size": 2986109,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-15T09:17:23.867Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-ll474.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download TerraTech TerraTech - Falcon Genesis Skin Pack Offer",
+            "height": 1600,
+            "md5": "1ecaf719fd0d78d0c91787c5eb4d5f50",
+            "size": 1655685,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-15T09:17:23.531Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-icc3o.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-22T18:19:40.372Z",
+        "mainGameItem": {
+          "id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+          "namespace": "96830aff053e404c808a54300c941e57",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+            "namespace": "96830aff053e404c808a54300c941e57",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "96830aff053e404c808a54300c941e57",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "TerraTech - Falcon Genesis Skin Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-12-17T11:58:16.217Z",
+        "description": "TerraTech - Weapons of War Pack",
+        "developer": "Mythwright",
+        "developerId": "o-qnq3rv8k67w2bvhlxdgd6kqhk95evv",
+        "endOfSupport": false,
+        "entitlementName": "103ff04313b34ec5bcb2251e0b7f8f2d",
+        "entitlementType": "EXECUTABLE",
+        "id": "103ff04313b34ec5bcb2251e0b7f8f2d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "TerraTech TerraTech - Weapons of War Pack Offer",
+            "height": 1440,
+            "md5": "a8b432e904a729661086056c1c57fb75",
+            "size": 2630047,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-15T09:15:50.247Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-t35je.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download TerraTech TerraTech - Weapons of War Pack Offer",
+            "height": 1600,
+            "md5": "0dec829b5371cff6a6877dcbe36d610a",
+            "size": 1674219,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-15T09:15:49.952Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-5z7e2.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-22T18:19:40.369Z",
+        "mainGameItem": {
+          "id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+          "namespace": "96830aff053e404c808a54300c941e57",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+            "namespace": "96830aff053e404c808a54300c941e57",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "96830aff053e404c808a54300c941e57",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "TerraTech - Weapons of War Pack",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "df8a45a7adf74a7d8a9fc807d595ef2e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "TerraTech Offer",
+        "height": 1440,
+        "md5": "ffd96b77607644a56743ec5557ff9f6e",
+        "size": 2791658,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-05-16T09:17:01.947Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-o64ox.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download TerraTech Offer",
+        "height": 1600,
+        "md5": "05fca3237625a3497ffaf2a845d00d27",
+        "size": 1646558,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-05-16T09:17:02.275Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-x5vhu.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-22T18:19:40.372Z",
+    "mainGameItemList": [],
+    "namespace": "96830aff053e404c808a54300c941e57",
+    "releaseInfo": [
+      {
+        "appId": "24b4ee8b16e4450184fe33ff871cc0ee",
+        "id": "a837c6e35eb446a7862b04bfe169776f",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "TerraTech",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

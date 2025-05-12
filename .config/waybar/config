@@ -1,0 +1,162 @@
+{
+  "layer": "top",
+  "position": "top",
+  "height": 34,
+  "spacing": 4,
+  "modules-left": [
+    "clock#time",
+    "clock#date",
+    "hyprland/language",
+    "custom/arrow1",
+    "custom/pacman",
+    "custom/arrow2",
+    "custom/playerctl",
+],
+  "modules-center": [
+    "custom/arrow4",
+    "hyprland/workspaces",
+    "custom/arrow5"
+  ],
+  "modules-right": [
+    "custom/arrow6",
+    "custom/cpugovernor",
+    "custom/arrow7",
+    "cpu",
+    "custom/gpu",
+    "custom/arrow8",
+    "network",
+    "bluetooth",
+    "pulseaudio",
+    "tray"
+  ],
+  "clock#time": {
+    "interval": 10,
+    "format": " {:%H:%M}",
+    "tooltip": false,
+    "on-click": "tty-clock -s -c -C 4"
+  },
+  "clock#date": {
+    "interval": 60,
+    "format": " {:%a %d/%m}",
+    "format-alt": "{:%A %d %B}",
+    "tooltip-format": "<b>{:%Y-%m-%d}</b>\n{calendar}",
+    "tooltip": true,
+    "on-click": "gnome-calendar"
+  },
+  "cpu": {
+    "format": " {max_frequency:1}GHz {usage:2}%",
+    "interval": 5
+  },
+  "memory": {
+    "format": " {}%",
+    "interval": 5
+  },
+  "network": {
+    "format-wifi": "  {essid}",
+    "format-ethernet": " {ifname}",
+    "format-disconnected": "",
+    "tooltip-format": " {ifname} |  {bandwidthDownBits} |  {bandwidthUpBits}",
+    "interval": 5
+  },
+  "pulseaudio": {
+    "format": "{icon} {volume}%",
+    "format-icons": [
+      "",
+      "",
+      ""
+    ],
+    "on-click": "pavucontrol",
+    "on-scroll-up": "pactl set-sink-volume @DEFAULT_SINK@ +5%",
+    "on-scroll-down": "pactl set-sink-volume @DEFAULT_SINK@ -5%"
+  },
+  "bluetooth": {
+    "format-icons": {
+      "enabled": " ON",
+      "disabled": " OFF"
+    },
+    "on-click": "blueman-manager"
+  },
+  "tray": {
+    "spacing": 10
+  },
+  "hyprland/workspaces": {
+    "format": "{icon}",
+    "format-icons": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "urgent": "!",
+      "focused": "▶",
+      "default": ""
+    },
+    "on-click": "activate",
+    "on-scroll-up": "hyprctl dispatch workspace e+1",
+    "on-scroll-down": "hyprctl dispatch workspace e-1"
+  },
+  "hyprland/language": {
+    "format": " {}",
+    "max-length": 5,
+    "min-length": 4
+  },
+  "custom/pacman": {
+    "format": " {}",
+    "interval": 3600,
+    "exec": "checkupdates | wc -l",
+    "on-click": "alacritty -e sudo pacman -Syu"
+  },
+  "custom/playerctl": {
+    "format": "󰎈 {}",
+    "exec": "playerctl metadata --format '{{artist}} - {{title}}'",
+    "escape": true,
+    "interval": 5,
+    "on-click": "playerctl play-pause"
+  },
+  "custom/cpugovernor": {
+    "format": " {}",
+    "exec": "cpupower frequency-info | grep 'current policy' | awk '{print $6}'",
+    "interval": 10
+  },
+  "custom/gpu": {
+    "format": " {}°C",
+    "exec": "nvidia-smi --query-gpu=temperature.gpu --format=csv,noheader",
+    "interval": 5
+  },
+  "idle_inhibitor": {
+    "format": "{icon}",
+    "format-icons": {
+      "activated": "",
+      "deactivated": ""
+    }
+  },
+  "custom/arrow1": {
+    "format": ""
+  },
+  "custom/arrow2": {
+    "format": ""
+  },
+  "custom/arrow3": {
+    "format": ""
+  },
+  "custom/arrow4": {
+    "format": ""
+  },
+  "custom/arrow5": {
+    "format": ""
+  },
+  "custom/arrow6": {
+    "format": ""
+  },
+  "custom/arrow7": {
+    "format": ""
+  },
+  "custom/arrow8": {
+    "format": ""
+  },
+  "custom/scratchpad-indicator": {
+    "format": "󱂬 {}",
+    "exec": "hyprctl clients | grep 'class: scratchpad' | wc -l",
+    "interval": 2
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "app_name": "f9685170f7b142909c661a080bd9e60c",
+  "app_title": "Astrea Six Sided Oracles",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "f9685170f7b142909c661a080bd9e60c",
+      "asset_id": "f9685170f7b142909c661a080bd9e60c",
+      "build_version": "1.2.313",
+      "catalog_item_id": "f3ac42b603f546ccbd0f0240ba120143",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "69950d6ab02340b499ce8d3e114c75a1"
+      },
+      "namespace": "a940fa38f001486a9884640924119576",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-03-09T19:23:05.546Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Little Leo Games/Astrea/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "AstreaSixSidedOraclekeGET"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      }
+    },
+    "description": "An all new dice-deck-building roguelike, Astrea, has you chart a path through the ruins of a lost civilization as one of six brave Oracles. Using an ever-changing deck of dice and enchanted Sentinels, Purify waves of Corrupted foes and a decayed goddess to save the Star System.",
+    "developer": "Akupara Games",
+    "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+    "endOfSupport": false,
+    "entitlementName": "f3ac42b603f546ccbd0f0240ba120143",
+    "entitlementType": "EXECUTABLE",
+    "id": "f3ac42b603f546ccbd0f0240ba120143",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Astrea Six Sided Oracles Offer",
+        "height": 1440,
+        "md5": "624368c34e4c3b3f0c848e5a551262fb",
+        "size": 3362131,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-06-29T18:07:19.033Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-1l6ev.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Astrea Six Sided Oracles Offer",
+        "height": 1600,
+        "md5": "64810d762a6091ca7b3358cd8f33f792",
+        "size": 1684215,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-06-29T18:07:13.756Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/download-astrea-six-sided-oracles-offer-skubh.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-08T21:13:54.331Z",
+    "mainGameItemList": [],
+    "namespace": "a940fa38f001486a9884640924119576",
+    "releaseInfo": [
+      {
+        "appId": "f9685170f7b142909c661a080bd9e60c",
+        "id": "f33c841c55b940ad94f5831989a16747",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Astrea Six Sided Oracles",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

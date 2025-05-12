@@ -1,0 +1,132 @@
+{
+  "app_name": "25b902f42cf04b17bc8a3db2f7292d58",
+  "app_title": "Guacamelee! Super Turbo Championship Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "25b902f42cf04b17bc8a3db2f7292d58",
+      "asset_id": "25b902f42cf04b17bc8a3db2f7292d58",
+      "build_version": "GuacSTCE_29-06-2023_16-43-23+66",
+      "catalog_item_id": "e00cb149a07646d4a02b259a6f295381",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "d9c22674031847daa8ecb223439c1b93"
+      },
+      "namespace": "f5d9b93771214e4cbd60506539d1cfc6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-12-20T15:17:54.723Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/GuacameleeSTCE_EGS/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/GuacameleeSTCE_EGS/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "GuacameleeSTCE"
+      }
+    },
+    "description": "Guacamelee! es un juego de plataformas de acci\u00f3n en el que T\u00da representas el papel de un luchador que combate al maligno Carlos Calaca y sus hordas de secuaces zombis para rescatar a la hija secuestrada de El Presidente (la chica m\u00e1s bella del mundo). Tambi\u00e9n incluye pollos.",
+    "developer": "Drinkbox Studios Inc.",
+    "developerId": "o-bpuchurz6ebbygak6r2cksb2yk6dxt",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-07T12:43:57.264Z",
+        "description": "DevGeneralAudience",
+        "developer": "Drinkbox Studios Inc.",
+        "developerId": "o-bpuchurz6ebbygak6r2cksb2yk6dxt",
+        "endOfSupport": false,
+        "entitlementName": "af761f8a0bb44a2da181086909ef6ffd",
+        "entitlementType": "AUDIENCE",
+        "id": "af761f8a0bb44a2da181086909ef6ffd",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-06-07T12:43:57.878Z",
+        "mainGameItem": {
+          "id": "e00cb149a07646d4a02b259a6f295381",
+          "namespace": "f5d9b93771214e4cbd60506539d1cfc6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e00cb149a07646d4a02b259a6f295381",
+            "namespace": "f5d9b93771214e4cbd60506539d1cfc6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f5d9b93771214e4cbd60506539d1cfc6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DevGeneralAudience",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "e00cb149a07646d4a02b259a6f295381",
+    "entitlementType": "EXECUTABLE",
+    "id": "e00cb149a07646d4a02b259a6f295381",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Guacamelee STCE Offer",
+        "height": 1440,
+        "md5": "ae9fe68d8ab64001ad8e9c85880c9d09",
+        "size": 829558,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-01-31T19:56:55.539Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7041a1ca4ed543459b95d78887047bd9/guacamelee-stce-n4u61.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Guacamelee STCE Offer",
+        "height": 1600,
+        "md5": "0a04aadb7461b6276ee111858f71d873",
+        "size": 451777,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-01-30T21:30:10.786Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7041a1ca4ed543459b95d78887047bd9/guacamelee-stce-1a1x9.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-07-05T14:19:15.821Z",
+    "mainGameItemList": [],
+    "namespace": "f5d9b93771214e4cbd60506539d1cfc6",
+    "releaseInfo": [
+      {
+        "appId": "25b902f42cf04b17bc8a3db2f7292d58",
+        "id": "07ddfaca7f96430080dc75eda5c0cf1f",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Guacamelee! Super Turbo Championship Edition",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

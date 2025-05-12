@@ -1,0 +1,273 @@
+{
+	"Fallout A Post Nuclear Role Playing Game": {
+		"pcgamingwiki": null,
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": "38400"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 2
+		},
+		"umuId": null
+	},
+	"__timestamp": {
+		"Fallout A Post Nuclear Role Playing Game": "Thu Apr 24 2025 16:06:20 GMT-0500 (hora estándar oriental)",
+		"Fallout new vegas": "Thu Apr 24 2025 16:55:19 GMT-0500 (hora estándar oriental)",
+		"Fallout New Vegas": "Thu Apr 24 2025 17:06:44 GMT-0500 (hora estándar oriental)",
+		"Hearts of iron IV": "Fri Apr 25 2025 18:09:23 GMT-0500 (hora estándar oriental)",
+		"Hearts of iron iV": "Sun Apr 27 2025 20:01:22 GMT-0500 (hora estándar oriental)",
+		"Hearts of irons IV": "Thu May 08 2025 18:02:09 GMT-0500 (hora estándar oriental)",
+		"BioShock Remastered": "Fri May 09 2025 22:12:05 GMT-0500 (hora estándar oriental)",
+		"Wolfenstein The New Order": "Sat May 10 2025 20:21:58 GMT-0500 (hora estándar oriental)"
+	},
+	"Fallout new vegas": {
+		"pcgamingwiki": {
+			"steamID": "22380",
+			"howLongToBeatID": "3351",
+			"metacritic": {
+				"score": "84",
+				"urlid": "fallout-new-vegas"
+			},
+			"opencritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"igdb": {
+				"score": "82",
+				"urlid": "fallout-new-vegas"
+			},
+			"direct3DVersions": [
+				"9.0c"
+			],
+			"genres": [
+				"ARPG",
+				"Openworld",
+				"Shooter"
+			],
+			"releaseDate": [
+				"Windows: October 19, 2010"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 2
+		},
+		"umuId": null
+	},
+	"Fallout New Vegas": {
+		"pcgamingwiki": {
+			"steamID": "22380",
+			"howLongToBeatID": "3351",
+			"metacritic": {
+				"score": "84",
+				"urlid": "fallout-new-vegas"
+			},
+			"opencritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"igdb": {
+				"score": "82",
+				"urlid": "fallout-new-vegas"
+			},
+			"direct3DVersions": [
+				"9.0c"
+			],
+			"genres": [
+				"ARPG",
+				"Openworld",
+				"Shooter"
+			],
+			"releaseDate": [
+				"Windows: October 19, 2010"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 2
+		},
+		"umuId": null
+	},
+	"Hearts of iron IV": {
+		"pcgamingwiki": {
+			"steamID": "394360",
+			"howLongToBeatID": "37795",
+			"metacritic": {
+				"score": "83",
+				"urlid": "hearts-of-iron-iv"
+			},
+			"opencritic": {
+				"score": "83",
+				"urlid": "2813/hearts-of-iron-iv"
+			},
+			"igdb": {
+				"score": "84",
+				"urlid": "hearts-of-iron-iv"
+			},
+			"direct3DVersions": [
+				"9.0c",
+				"11"
+			],
+			"genres": [
+				"Strategy",
+				"Wargame"
+			],
+			"releaseDate": [
+				"Windows: June 6, 2016",
+				"OS X: June 6, 2016",
+				"Linux: June 6, 2016"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 2
+		},
+		"umuId": null
+	},
+	"Hearts of iron iV": {
+		"pcgamingwiki": {
+			"steamID": "394360",
+			"howLongToBeatID": "37795",
+			"metacritic": {
+				"score": "83",
+				"urlid": "hearts-of-iron-iv"
+			},
+			"opencritic": {
+				"score": "83",
+				"urlid": "2813/hearts-of-iron-iv"
+			},
+			"igdb": {
+				"score": "84",
+				"urlid": "hearts-of-iron-iv"
+			},
+			"direct3DVersions": [
+				"9.0c",
+				"11"
+			],
+			"genres": [
+				"Strategy",
+				"Wargame"
+			],
+			"releaseDate": [
+				"Windows: June 6, 2016",
+				"OS X: June 6, 2016",
+				"Linux: June 6, 2016"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 2
+		},
+		"umuId": null
+	},
+	"Hearts of irons IV": {
+		"pcgamingwiki": null,
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": null,
+		"umuId": null
+	},
+	"BioShock Remastered": {
+		"pcgamingwiki": {
+			"steamID": "409720",
+			"howLongToBeatID": "1066",
+			"metacritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"opencritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"igdb": {
+				"score": "",
+				"urlid": ""
+			},
+			"direct3DVersions": [
+				"11"
+			],
+			"genres": [
+				"ImmersiveSim",
+				"RPG",
+				"Shooter"
+			],
+			"releaseDate": [
+				"Windows: September 15, 2016",
+				"OS X: October 22, 2020|ref=<ref name=\"Feral\"/>"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": "409710"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 2
+		},
+		"umuId": "umu-409710"
+	},
+	"Wolfenstein The New Order": {
+		"pcgamingwiki": {
+			"steamID": "201810",
+			"howLongToBeatID": "16886",
+			"metacritic": {
+				"score": "81",
+				"urlid": "wolfenstein-the-new-order"
+			},
+			"opencritic": {
+				"score": "81",
+				"urlid": "255/wolfenstein-the-new-order"
+			},
+			"igdb": {
+				"score": "77",
+				"urlid": "wolfenstein-the-new-order"
+			},
+			"direct3DVersions": [
+				""
+			],
+			"genres": [
+				"FPS",
+				"Shooter"
+			],
+			"releaseDate": [
+				"Windows: May 20, 2014"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": "201810"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "platinum",
+			"steamDeckCatagory": 3
+		},
+		"umuId": null
+	}
+}

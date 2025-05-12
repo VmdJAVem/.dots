@@ -1,0 +1,86 @@
+{
+  "app_name": "1e9c3a9a10c6463e9c065f371b8b42bf",
+  "app_title": "Duskers",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "1e9c3a9a10c6463e9c065f371b8b42bf",
+      "asset_id": "1e9c3a9a10c6463e9c065f371b8b42bf",
+      "build_version": "1.205",
+      "catalog_item_id": "774e33596311466f8e696b2828bea635",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "efe1c90a25914ec292712ebe73240f03"
+      },
+      "namespace": "f27cd07f948348dfb27165510c56c569",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-10-06T17:50:39.576Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "Duskers"
+      }
+    },
+    "description": "Duskers",
+    "developer": "Misfits Attic",
+    "developerId": "o-jl2f2n6f3aca2g8hf4u3eruujkpx5a",
+    "endOfSupport": false,
+    "entitlementName": "774e33596311466f8e696b2828bea635",
+    "entitlementType": "EXECUTABLE",
+    "id": "774e33596311466f8e696b2828bea635",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Duskers Offer",
+        "height": 1440,
+        "md5": "3ece0e6c1331d752bb6798476fe79af2",
+        "size": 3538499,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-02-17T20:09:21.719Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/63398ad79bbc48bb8fda573695ad0873/duskers-1onbm.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Duskers Offer",
+        "height": 1600,
+        "md5": "96fe6a9406db067b989c90d3e0d3a386",
+        "size": 1789110,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-02-17T20:09:18.290Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/63398ad79bbc48bb8fda573695ad0873/duskers-1wniq.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-02-17T20:37:02.346Z",
+    "mainGameItemList": [],
+    "namespace": "f27cd07f948348dfb27165510c56c569",
+    "releaseInfo": [
+      {
+        "appId": "1e9c3a9a10c6463e9c065f371b8b42bf",
+        "id": "b918375993fe46d692926f9241a0d031",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Duskers",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

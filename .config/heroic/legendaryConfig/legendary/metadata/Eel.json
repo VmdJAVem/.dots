@@ -1,0 +1,1208 @@
+{
+  "app_name": "Eel",
+  "app_title": "Kingdom Come Deliverance",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Eel",
+      "asset_id": "Eel",
+      "build_version": "1.9.6-404-504czj3",
+      "catalog_item_id": "8f328dced20e41d29b6f1fceed8f2164",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "1109cfa9eb9940ed9020f171e78fc150"
+      },
+      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-04-04T20:44:40.218Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/KingdomCome/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "KingdomComeDeliverance"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "8000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      }
+    },
+    "description": "Kingdom Come: Deliverance",
+    "developer": "Warhorse Studios",
+    "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-04-04T20:44:40.210Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "HDTexturePack"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "HD Texture Pack",
+        "developer": "Warhorse Studios",
+        "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+        "endOfSupport": false,
+        "entitlementName": "fcf595321e8e4b9c8bbdc140059a5913",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fcf595321e8e4b9c8bbdc140059a5913",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Kingdom Come: Deliverance HD Texture Pack Offer",
+            "height": 1440,
+            "md5": "75fbe30145f9aacbd059d00032c05383",
+            "size": 855203,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-12-17T17:27:21.841Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-e6ttp.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Kingdom Come: Deliverance HD Texture Pack Offer",
+            "height": 1600,
+            "md5": "1e0ff7eab02e143ce659359004633ed8",
+            "size": 460207,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-12-17T17:27:22.446Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1qj2q.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-21T16:32:53.085Z",
+        "mainGameItem": {
+          "id": "8f328dced20e41d29b6f1fceed8f2164",
+          "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8f328dced20e41d29b6f1fceed8f2164",
+            "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+        "releaseInfo": [
+          {
+            "appId": "EelTexturePack",
+            "id": "d91cdb3e89fc462282faaf676f57c3a8",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "HD Texture Pack",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-04-04T20:44:40.210Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "HDSoundPack"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "HD Sound Pack",
+        "developer": "Warhorse Studios",
+        "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+        "endOfSupport": false,
+        "entitlementName": "9bdf27679eb848cd912b1dd5a973cc0f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9bdf27679eb848cd912b1dd5a973cc0f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Kingdom Come: Deliverance HD Sound Pack Offer",
+            "height": 1440,
+            "md5": "75fbe30145f9aacbd059d00032c05383",
+            "size": 855203,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-12-17T17:25:58.452Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1cazt.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Kingdom Come: Deliverance HD Sound Pack Offer",
+            "height": 1600,
+            "md5": "1e0ff7eab02e143ce659359004633ed8",
+            "size": 460207,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-12-17T17:25:57.400Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1fc6x.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-21T16:32:53.788Z",
+        "mainGameItem": {
+          "id": "8f328dced20e41d29b6f1fceed8f2164",
+          "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8f328dced20e41d29b6f1fceed8f2164",
+            "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+        "releaseInfo": [
+          {
+            "appId": "EelSoundPack",
+            "id": "b0ec46a8c3ad4adb980b4528694ece4f",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "HD Sound Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-04-04T20:44:40.229Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "BandofBastards"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Band of Bastards",
+        "developer": "Warhorse Studios",
+        "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+        "endOfSupport": false,
+        "entitlementName": "344c9aed2b0649b6b123a2149e3a2614",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "344c9aed2b0649b6b123a2149e3a2614",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Kingdom Come: Deliverance Band of Bastards Offer",
+            "height": 1440,
+            "md5": "a003b06d95a4725e4c389fc27aadf57b",
+            "size": 898341,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-12-17T17:21:26.851Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1k9qk.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Kingdom Come: Deliverance Band of Bastards Offer",
+            "height": 1600,
+            "md5": "fd1d46e62d44159e7ab7f12587b49bde",
+            "size": 693087,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-12-17T17:21:26.535Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1qovr.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-22T22:29:33.593Z",
+        "mainGameItem": {
+          "id": "8f328dced20e41d29b6f1fceed8f2164",
+          "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8f328dced20e41d29b6f1fceed8f2164",
+            "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+        "releaseInfo": [
+          {
+            "appId": "EelBand",
+            "id": "c85ab952100a43a09f49f8e944e82687",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Band of Bastards",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-04-04T20:44:40.243Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "AWomansLot"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "A Woman's Lot",
+        "developer": "Warhorse Studios",
+        "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+        "endOfSupport": false,
+        "entitlementName": "1e407f50c5214cc59b42333934e837ec",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1e407f50c5214cc59b42333934e837ec",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Kingdom Come: Deliverance A Woman's Lot Offer",
+            "height": 1440,
+            "md5": "a540a9f2ba8ceb08d3a5c1009c251ea3",
+            "size": 1029646,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-12-17T17:21:08.003Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-65bw6.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Kingdom Come: Deliverance A Woman's Lot Offer",
+            "height": 1600,
+            "md5": "c216697f40224e0737bf729212fd3cc3",
+            "size": 647838,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-12-17T17:21:07.708Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-krva5.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-22T22:29:33.593Z",
+        "mainGameItem": {
+          "id": "8f328dced20e41d29b6f1fceed8f2164",
+          "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8f328dced20e41d29b6f1fceed8f2164",
+            "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+        "releaseInfo": [
+          {
+            "appId": "EelWomans",
+            "id": "1d77fa89501a4a9e8fb340f67636f464",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "A Woman's Lot",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-04-04T20:44:40.244Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "HDVoiceEnglish"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "HD Voice Pack - English",
+        "developer": "Warhorse Studios",
+        "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+        "endOfSupport": false,
+        "entitlementName": "cf7fcb7d55304d20a6fcdfb5fa1018f3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cf7fcb7d55304d20a6fcdfb5fa1018f3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Kingdom Come: Deliverance HD Voice Pack - English Offer",
+            "height": 1440,
+            "md5": "75fbe30145f9aacbd059d00032c05383",
+            "size": 855203,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-12-17T17:25:01.829Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-sousx.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Kingdom Come: Deliverance HD Voice Pack - English Offer",
+            "height": 1600,
+            "md5": "1e0ff7eab02e143ce659359004633ed8",
+            "size": 460207,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-12-17T17:25:01.997Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1019g.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-21T16:32:53.085Z",
+        "mainGameItem": {
+          "id": "8f328dced20e41d29b6f1fceed8f2164",
+          "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8f328dced20e41d29b6f1fceed8f2164",
+            "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+        "releaseInfo": [
+          {
+            "appId": "EelVoiceEnglish",
+            "id": "e2ff27ccbe64417ea28c7821f23b8982",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "HD Voice Pack - English",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-04-04T20:44:40.212Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "HDVoiceGerman"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "HD Voice Pack - German",
+        "developer": "Warhorse Studios",
+        "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+        "endOfSupport": false,
+        "entitlementName": "4057f1ac1bf547c2b80e0efe3bf5fa17",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4057f1ac1bf547c2b80e0efe3bf5fa17",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Kingdom Come: Deliverance HD Voice Pack - German Offer",
+            "height": 1440,
+            "md5": "75fbe30145f9aacbd059d00032c05383",
+            "size": 855203,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-12-17T17:26:58.250Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1vjxb.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Kingdom Come: Deliverance HD Voice Pack - German Offer",
+            "height": 1600,
+            "md5": "1e0ff7eab02e143ce659359004633ed8",
+            "size": 460207,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-12-17T17:26:57.616Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-g7bcw.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-21T16:32:53.085Z",
+        "mainGameItem": {
+          "id": "8f328dced20e41d29b6f1fceed8f2164",
+          "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8f328dced20e41d29b6f1fceed8f2164",
+            "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+        "releaseInfo": [
+          {
+            "appId": "EelVoiceGerman",
+            "id": "ef8dbe7fcec248d2b3b8a7f54068cb92",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "HD Voice Pack - German",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-04-04T20:44:40.238Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "TheAmorousAdv"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "The Amorous Adventures of Bold Sir Hans Capon",
+        "developer": "Warhorse Studios",
+        "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+        "endOfSupport": false,
+        "entitlementName": "892b51d9d1ae4fec90245b5ec750677f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "892b51d9d1ae4fec90245b5ec750677f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Kingdom Come: Deliverance The Amorous Adventures of Bold Sir Hans Capon Offer",
+            "height": 1440,
+            "md5": "4a122288277592b8ad6a103e8e071b5b",
+            "size": 916177,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-12-17T17:25:28.483Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1pphe.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Kingdom Come: Deliverance The Amorous Adventures of Bold Sir Hans Capon Offer",
+            "height": 1600,
+            "md5": "64b2494735ea75402c76a77d66041bc3",
+            "size": 838598,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-12-17T17:25:28.712Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1glhm.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-22T22:29:33.593Z",
+        "mainGameItem": {
+          "id": "8f328dced20e41d29b6f1fceed8f2164",
+          "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8f328dced20e41d29b6f1fceed8f2164",
+            "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+        "releaseInfo": [
+          {
+            "appId": "EelAmorous",
+            "id": "b21eb9bdb0974b4d957365d79b92ab4e",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "The Amorous Adventures of Bold Sir Hans Capon",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-04-04T20:44:40.215Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "FromtheAshes"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "From the Ashes",
+        "developer": "Warhorse Studios",
+        "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+        "endOfSupport": false,
+        "entitlementName": "9b20a8c3a27843c4af80404f4d9131af",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9b20a8c3a27843c4af80404f4d9131af",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Kingdom Come: Deliverance From the Ashes Offer",
+            "height": 1440,
+            "md5": "3787ea0be103fec43e34b645c45574ee",
+            "size": 866110,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-12-17T17:21:42.411Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-jb4e5.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Kingdom Come: Deliverance From the Ashes Offer",
+            "height": 1600,
+            "md5": "02f03d523f029c0513232a300d13d4bc",
+            "size": 780779,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-12-17T17:21:42.536Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1xhec.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-07T21:17:08.841Z",
+        "mainGameItem": {
+          "id": "8f328dced20e41d29b6f1fceed8f2164",
+          "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8f328dced20e41d29b6f1fceed8f2164",
+            "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+        "releaseInfo": [
+          {
+            "appId": "EelAshes",
+            "id": "60fa48778e214e6da45642335d871682",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "From the Ashes",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-04-04T20:44:40.233Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "HDVoiceFrench"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "HD Voice Pack - French",
+        "developer": "Warhorse Studios",
+        "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+        "endOfSupport": false,
+        "entitlementName": "deee412efe814dd68fb8c40ede4dc7c8",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "deee412efe814dd68fb8c40ede4dc7c8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Kingdom Come: Deliverance HD Voice Pack - French Offer",
+            "height": 1440,
+            "md5": "75fbe30145f9aacbd059d00032c05383",
+            "size": 855203,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-12-17T17:26:34.455Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1mzny.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Kingdom Come: Deliverance HD Voice Pack - French Offer",
+            "height": 1600,
+            "md5": "1e0ff7eab02e143ce659359004633ed8",
+            "size": 460207,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-12-17T17:26:34.612Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1trfj.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-21T16:32:53.085Z",
+        "mainGameItem": {
+          "id": "8f328dced20e41d29b6f1fceed8f2164",
+          "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8f328dced20e41d29b6f1fceed8f2164",
+            "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+        "releaseInfo": [
+          {
+            "appId": "EelVoiceFrench",
+            "id": "bb4564958e41436794dca15574c9c539",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "HD Voice Pack - French",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-04-04T20:44:40.217Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "TreasuresofThePast"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Treasures of The Past",
+        "developer": "Warhorse Studios",
+        "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+        "endOfSupport": false,
+        "entitlementName": "46015e9347c340e6b84705eb362d1777",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "46015e9347c340e6b84705eb362d1777",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Kingdom Come: Deliverance Treasures of The Past Offer",
+            "height": 1440,
+            "md5": "f503788900d4813c54add58275efe3a5",
+            "size": 1303440,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-12-17T17:22:28.383Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1g4dq.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Kingdom Come: Deliverance Treasures of The Past Offer",
+            "height": 1600,
+            "md5": "d3b962627f8f494623ea2adba0247f00",
+            "size": 639407,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-12-17T17:22:28.157Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-5rqup.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-07T21:19:59.273Z",
+        "mainGameItem": {
+          "id": "8f328dced20e41d29b6f1fceed8f2164",
+          "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8f328dced20e41d29b6f1fceed8f2164",
+            "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+        "releaseInfo": [
+          {
+            "appId": "EelTreasures",
+            "id": "eab2b5787f614215b3df659b611a8ee7",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Treasures of The Past",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-02-22T22:29:32.894Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Royal DLC Audience",
+        "developer": "Warhorse Studios",
+        "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+        "endOfSupport": false,
+        "entitlementName": "d7ae686c24cf4ca3a7e9e738356623a3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d7ae686c24cf4ca3a7e9e738356623a3",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-02-22T22:29:33.414Z",
+        "longDescription": "Royal DLC",
+        "mainGameItem": {
+          "id": "8f328dced20e41d29b6f1fceed8f2164",
+          "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8f328dced20e41d29b6f1fceed8f2164",
+            "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Royal DLC Audience",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "8f328dced20e41d29b6f1fceed8f2164",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "8f328dced20e41d29b6f1fceed8f2164",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 680,
+        "md5": "274f6cc73275cb9e9e83b9ce00dbbb09",
+        "size": 112040,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-02-13T16:13:33.323Z",
+        "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/item/KingdomComeDeliverance_Portrait-510x680-274f6cc73275cb9e9e83b9ce00dbbb09.jpg",
+        "width": 510
+      },
+      {
+        "height": 766,
+        "md5": "0fdbc2b3494b9fb30f4f09c2078a9620",
+        "size": 221052,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-02-13T16:14:00.433Z",
+        "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/item/KingdomComeDeliverance_S3-1360x766-1360x766-0fdbc2b3494b9fb30f4f09c2078a9620.jpg",
+        "width": 1360
+      }
+    ],
+    "lastModifiedDate": "2025-02-22T22:29:33.414Z",
+    "longDescription": "Kingdom Come: Deliverance",
+    "mainGameItemList": [],
+    "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+    "releaseInfo": [
+      {
+        "appId": "Eel",
+        "id": "c56169ef3aea4c98b6780ce6cf767f39",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Kingdom Come Deliverance",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

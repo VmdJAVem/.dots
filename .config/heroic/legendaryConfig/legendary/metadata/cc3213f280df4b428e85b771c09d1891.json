@@ -1,0 +1,353 @@
+{
+  "app_name": "cc3213f280df4b428e85b771c09d1891",
+  "app_title": "Ghostrunner 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "cc3213f280df4b428e85b771c09d1891",
+      "asset_id": "cc3213f280df4b428e85b771c09d1891",
+      "build_version": "42294_57",
+      "catalog_item_id": "d303a92b6c4d4e25808a92a0a9ca3950",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "16cca8c611f24d29bb1f7f2bc97e3b82"
+      },
+      "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567klSmLx06smfWZaFq8Btu2A2B",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-05-01T16:18:13.438Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Ghostrunner2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "708f57aaa04b42ef885be16c8288f0ac"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Ghostrunner 2",
+    "developer": "505 Games",
+    "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-08-15T22:32:26.889Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Season Pass audience",
+        "developer": "505 Games",
+        "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+        "endOfSupport": false,
+        "entitlementName": "edd633362c9548849236dde71b815995",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "edd633362c9548849236dde71b815995",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-10-30T15:37:47.199Z",
+        "mainGameItem": {
+          "id": "d303a92b6c4d4e25808a92a0a9ca3950",
+          "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d303a92b6c4d4e25808a92a0a9ca3950",
+            "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Season Pass audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-08-15T22:29:10.252Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dragon Pack audience",
+        "developer": "505 Games",
+        "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+        "endOfSupport": false,
+        "entitlementName": "1fbe630c6412438cbdee847d51b93dfd",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1fbe630c6412438cbdee847d51b93dfd",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-02-08T15:29:08.143Z",
+        "mainGameItem": {
+          "id": "d303a92b6c4d4e25808a92a0a9ca3950",
+          "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d303a92b6c4d4e25808a92a0a9ca3950",
+            "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dragon Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-08-15T22:29:28.726Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Heat Pack audience",
+        "developer": "505 Games",
+        "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+        "endOfSupport": false,
+        "entitlementName": "a45eba00a6f64406b1e4e0750ae05947",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a45eba00a6f64406b1e4e0750ae05947",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-06-27T15:10:36.871Z",
+        "mainGameItem": {
+          "id": "d303a92b6c4d4e25808a92a0a9ca3950",
+          "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d303a92b6c4d4e25808a92a0a9ca3950",
+            "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Heat Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-08-15T22:28:44.454Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Ice Pack audience",
+        "developer": "505 Games",
+        "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+        "endOfSupport": false,
+        "entitlementName": "bb95830419de4dc1b84b1cfa0de771d3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bb95830419de4dc1b84b1cfa0de771d3",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-06-27T15:10:47.960Z",
+        "mainGameItem": {
+          "id": "d303a92b6c4d4e25808a92a0a9ca3950",
+          "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d303a92b6c4d4e25808a92a0a9ca3950",
+            "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Ice Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-08-15T22:32:53.687Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Endless Mode audience",
+        "developer": "505 Games",
+        "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+        "endOfSupport": false,
+        "entitlementName": "6d8ac6ce322d4d1f8d70efeb8752e554",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6d8ac6ce322d4d1f8d70efeb8752e554",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-09-05T14:54:16.573Z",
+        "mainGameItem": {
+          "id": "d303a92b6c4d4e25808a92a0a9ca3950",
+          "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d303a92b6c4d4e25808a92a0a9ca3950",
+            "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Endless Mode audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "d303a92b6c4d4e25808a92a0a9ca3950",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "d303a92b6c4d4e25808a92a0a9ca3950",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "15845148fae1d0cfd7f3e98c9b3ba6ba",
+        "size": 643092,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-08-15T12:13:59.632Z",
+        "url": "https://cdn1.epicgames.com/item/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2PrePurchase_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "12ae7597b946ad94ac75680eb735be07",
+        "size": 528476,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-08-15T12:14:02.792Z",
+        "url": "https://cdn1.epicgames.com/item/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2PrePurchase_OneMoreLevel_S2_1200x1600-12ae7597b946ad94ac75680eb735be07",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-09-05T14:54:09.025Z",
+    "mainGameItemList": [],
+    "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+    "releaseInfo": [
+      {
+        "appId": "cc3213f280df4b428e85b771c09d1891",
+        "id": "cbabe5480a12406a9c3979f1921816d4",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Ghostrunner 2",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

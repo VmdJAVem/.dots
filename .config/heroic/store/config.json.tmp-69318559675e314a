@@ -1,0 +1,103 @@
+{
+	"general-logs": {
+		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-11T01_33_07-heroic.log",
+		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-11T00_12_08-heroic.log",
+		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-11T01_33_07-legendary.log",
+		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-11T01_33_07-gogdl.log",
+		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-11T01_33_07-nile.log"
+	},
+	"userHome": "/home/vmdjavem",
+	"language": "en",
+	"userInfo": {
+		"account_id": "01a9c5e894184bbda7163da634229753",
+		"displayName": "VmdJAVem",
+		"user": "vmdjavem"
+	},
+	"window-props": {
+		"x": 17,
+		"y": 55,
+		"width": 1886,
+		"height": 1008,
+		"maximized": false
+	},
+	"theme": "gruvbox_dark",
+	"settings": {
+		"checkUpdatesInterval": 10,
+		"enableUpdates": false,
+		"addDesktopShortcuts": false,
+		"addStartMenuShortcuts": false,
+		"autoInstallDxvk": true,
+		"autoInstallVkd3d": true,
+		"autoInstallDxvkNvapi": true,
+		"addSteamShortcuts": true,
+		"preferSystemLibs": false,
+		"checkForUpdatesOnStartup": true,
+		"autoUpdateGames": false,
+		"customWinePaths": [],
+		"defaultInstallPath": "/home/vmdjavem/Games/Heroic",
+		"libraryTopSection": "disabled",
+		"defaultSteamPath": "/home/vmdjavem/.steam/steam",
+		"defaultWinePrefix": "/home/vmdjavem/Games/Heroic/Prefixes/default",
+		"hideChangelogsOnStartup": false,
+		"language": "en",
+		"maxWorkers": 0,
+		"minimizeOnLaunch": true,
+		"nvidiaPrime": false,
+		"enviromentOptions": [],
+		"wrapperOptions": [],
+		"showFps": false,
+		"useGameMode": false,
+		"wineCrossoverBottle": "Heroic",
+		"winePrefix": "/home/vmdjavem/Games/Heroic/Prefixes/default",
+		"wineVersion": {
+			"bin": "/usr/bin/wine",
+			"name": "Wine Default - wine-10.5",
+			"type": "wine",
+			"wineserver": "/usr/bin/wineserver"
+		},
+		"enableEsync": true,
+		"enableFsync": true,
+		"enableMsync": false,
+		"eacRuntime": true,
+		"battlEyeRuntime": true,
+		"framelessWindow": false,
+		"beforeLaunchScriptPath": "",
+		"afterLaunchScriptPath": "",
+		"disableUMU": false,
+		"verboseLogs": false,
+		"customThemesPath": ""
+	},
+	"games": {
+		"recent": [
+			{
+				"appName": "a64dcf9b711a4a60a3c0b6f052dfc7da",
+				"title": "Wolfenstein: The New Order"
+			},
+			{
+				"appName": "bc2c95c6ff564a16b26644f1d3ac3c55",
+				"title": "BioShock Remastered"
+			},
+			{
+				"appName": "tbhWercQ8m1gTSVqCEncDK",
+				"title": "Fallout New Vegas"
+			},
+			{
+				"appName": "4FyQAgKuSSwTKN1Nsi5rWV",
+				"title": "Hearts of irons IV"
+			},
+			{
+				"appName": "f8ef168f3522419caad27d82878e0329",
+				"title": "Fallout: A Post Nuclear Role Playing Game"
+			}
+		],
+		"hidden": [
+			{
+				"appName": "4FyQAgKuSSwTKN1Nsi5rWV",
+				"title": "Hearts of irons IV"
+			}
+		]
+	},
+	"zoomPercent": 100,
+	"contentFontFamily": "\"DejaVu Sans Mono\"",
+	"actionsFontFamily": "\"DejaVu Sans Mono\""
+}

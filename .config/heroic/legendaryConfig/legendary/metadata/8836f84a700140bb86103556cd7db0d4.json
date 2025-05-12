@@ -1,0 +1,1315 @@
+{
+  "app_name": "8836f84a700140bb86103556cd7db0d4",
+  "app_title": "Heroes & Generals WWII",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "8836f84a700140bb86103556cd7db0d4",
+      "asset_id": "8836f84a700140bb86103556cd7db0d4",
+      "build_version": "live-173288",
+      "catalog_item_id": "a971b86a3e1c4f89bc9896eea697f5df",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c3e63401d6ba410493de31ed69a798a1",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-03-31T23:17:58.456Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "HeroesGeneralsWWII"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "c3e63401d6ba410493de31ed69a798a1"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Heroes & Generals WWII",
+    "developer": "TLM Partners, Inc",
+    "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-29T02:16:32.964Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "SP Infantry Medic US Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "55ff1be3fa2044a8b85c0ce5e2d3a927",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "55ff1be3fa2044a8b85c0ce5e2d3a927",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.299Z",
+        "longDescription": "Soldier Pack: Infantry Medic US",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "SP Infantry Medic US Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-29T02:35:36.626Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "SP Infantry Assault SU Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "a6c8294d6cdd48ed8be1762316dc4551",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a6c8294d6cdd48ed8be1762316dc4551",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.310Z",
+        "longDescription": "Soldier Pack: Infantry Assault SU",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "SP Infantry Assault SU Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-02T01:35:41.273Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "13.000 Gold Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "6eae9a547a104a689b90b01ddf70d040",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6eae9a547a104a689b90b01ddf70d040",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.305Z",
+        "longDescription": "13.000 Gold Audience",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "13.000 Gold Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-28T22:23:18.183Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "M & M Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "72b732c3488a4f7daf5fc9c7719c7d0c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "72b732c3488a4f7daf5fc9c7719c7d0c",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.306Z",
+        "longDescription": "Medkit & Medic Ribbon Boosters",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "M & M Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-02T01:34:49.848Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "4.800 Gold Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "51c02bc1c38142b28b342bc2aca20203",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "51c02bc1c38142b28b342bc2aca20203",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.298Z",
+        "longDescription": "4.800 Gold Audience",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "4.800 Gold Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-29T02:34:24.774Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "SP Infantry Assault DE Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "9eefd2578a464befb282853c3be36f1c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9eefd2578a464befb282853c3be36f1c",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.309Z",
+        "longDescription": "Soldier Pack: Infantry Assault DE",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "SP Infantry Assault DE Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-05T20:02:22.607Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Ribbon Booster Pack",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "0136f5145aac467fa73f25327d4c35c5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0136f5145aac467fa73f25327d4c35c5",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.282Z",
+        "longDescription": "Ribbon Booster Pack",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Ribbon Booster Pack",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-02T01:32:27.202Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "1.200 Gold Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "c5fc1c49a5d849b3b779c4e65b0de03c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c5fc1c49a5d849b3b779c4e65b0de03c",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.313Z",
+        "longDescription": "1.200 Gold Audience",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "1.200 Gold Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-29T02:27:15.265Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Starter Pack SU Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "f3fd913acc0d488a87ea27a0fb114848",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f3fd913acc0d488a87ea27a0fb114848",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.325Z",
+        "longDescription": "Starter Pack SU Audience",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Starter Pack SU Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-29T02:30:40.774Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "SP Infantry Medic DE Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "c4f0b348b1504bc3bc5afeb49395db5e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c4f0b348b1504bc3bc5afeb49395db5e",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.312Z",
+        "longDescription": "Soldier Pack: Infantry Medic DE",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "SP Infantry Medic DE Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-29T02:41:35.096Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Elite Bundle DE",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "12711ab2b21f4ddcb5ed5bf8a1fcddf9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "12711ab2b21f4ddcb5ed5bf8a1fcddf9",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.286Z",
+        "longDescription": "Elite Fireteam Bundle DE",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Elite Bundle DE",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-29T02:25:45.672Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Starter Pack DE Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "384c297bbcc542e6ae005d4c8956e226",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "384c297bbcc542e6ae005d4c8956e226",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.292Z",
+        "longDescription": "Starter Pack DE Audience",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Starter Pack DE Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-29T02:29:52.593Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "SP Anti Tank SU Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "4b8b6f6d82f541fd82f3660176efab54",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4b8b6f6d82f541fd82f3660176efab54",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.297Z",
+        "longDescription": "Soldier Pack: Infantry Anti-Tank SU",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "SP Anti Tank SU Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-29T02:12:41.706Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "SP Anti Tank US Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "1a39ab5fb07a4026addf6d2e4313eb99",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1a39ab5fb07a4026addf6d2e4313eb99",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.289Z",
+        "longDescription": "Soldier Pack: Infantry Anti-Tank US",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "SP Anti Tank US Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-02T01:36:41.125Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "30.000 Gold Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "d345ac969161464ea631a6add7f5f71b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d345ac969161464ea631a6add7f5f71b",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.315Z",
+        "longDescription": "30.000 Gold Audience",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "30.000 Gold Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-29T02:18:31.032Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "SP Infantry Assault US Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "36f041eb94ca4fc28b073d322e96f05a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "36f041eb94ca4fc28b073d322e96f05a",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.291Z",
+        "longDescription": "Soldier Pack: Infantry Assault US",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "SP Infantry Assault US Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-29T02:31:24.914Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "SP Infantry Medic SU Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "3af605e4c3cd44bb9c021ce1de57a0bd",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3af605e4c3cd44bb9c021ce1de57a0bd",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.293Z",
+        "longDescription": "Soldier Pack: Infantry Medic SU",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "SP Infantry Medic SU Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-28T22:42:44.309Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "14 Day Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "f5c22364c0ed408da3646b5c4c284415",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f5c22364c0ed408da3646b5c4c284415",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.326Z",
+        "longDescription": "14 day Veteran Membership",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "14 Day Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-02T01:34:06.888Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "2.200 Gold Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "a7727492cfc746ea9ba316cd1f33503a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a7727492cfc746ea9ba316cd1f33503a",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.311Z",
+        "longDescription": "2.200 Gold Audience",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "2.200 Gold Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-29T02:28:15.884Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "SP Anti Tank DE Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "6b1630adf3044738925f073bcf2b66e6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6b1630adf3044738925f073bcf2b66e6",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.302Z",
+        "longDescription": "Soldier Pack: Infantry Anti-Tank DE",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "SP Anti Tank DE Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-28T22:40:57.869Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Starter Pack US Audience",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "85b2d12f483f4428baa795e2c59d1167",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "85b2d12f483f4428baa795e2c59d1167",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.307Z",
+        "longDescription": "Starter Pack US Audience",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Starter Pack US Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-29T02:36:44.624Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Elite Bundle US",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "12e05866bf1c4a35be84e81c32116a1f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "12e05866bf1c4a35be84e81c32116a1f",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.287Z",
+        "longDescription": "Elite Fireteam Bundle US",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Elite Bundle US",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-29T02:44:24.779Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Elite Bundle SU",
+        "developer": "TLM Partners, Inc",
+        "developerId": "o-mqd8tzaysue3z8vlw5vxgphcxn4nj7",
+        "endOfSupport": false,
+        "entitlementName": "40450c9a49d248198a7d44bc9b689eb8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "40450c9a49d248198a7d44bc9b689eb8",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-23T14:55:30.294Z",
+        "longDescription": "Elite Fireteam Bundle SU",
+        "mainGameItem": {
+          "id": "a971b86a3e1c4f89bc9896eea697f5df",
+          "namespace": "c3e63401d6ba410493de31ed69a798a1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a971b86a3e1c4f89bc9896eea697f5df",
+            "namespace": "c3e63401d6ba410493de31ed69a798a1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c3e63401d6ba410493de31ed69a798a1",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Elite Bundle SU",
+        "unsearchable": true,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "a971b86a3e1c4f89bc9896eea697f5df",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "a971b86a3e1c4f89bc9896eea697f5df",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "d1b416aae0c121727122fd69b2281abc",
+        "size": 785675,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-12-13T14:01:43.773Z",
+        "url": "https://cdn1.epicgames.com/item/c3e63401d6ba410493de31ed69a798a1/EGS_HeroesGeneralsWWII_TLMPartners_S1_2560x1440-d1b416aae0c121727122fd69b2281abc",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "e9a30e52f1a7eada22c6440e5035ca11",
+        "size": 195023,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-12-13T14:01:50.985Z",
+        "url": "https://cdn1.epicgames.com/item/c3e63401d6ba410493de31ed69a798a1/EGS_HeroesGeneralsWWII_TLMPartners_S2_1200x1600-e9a30e52f1a7eada22c6440e5035ca11",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-12-14T19:47:23.241Z",
+    "longDescription": "Heroes & Generals WWII",
+    "mainGameItemList": [],
+    "namespace": "c3e63401d6ba410493de31ed69a798a1",
+    "releaseInfo": [
+      {
+        "appId": "8836f84a700140bb86103556cd7db0d4",
+        "compatibleApps": [],
+        "dateAdded": "2020-03-31T00:00:00.000Z",
+        "id": "f990fa83adb14ad2ab5f997ba7207f8c",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Heroes & Generals WWII",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

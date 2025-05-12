@@ -1,0 +1,1611 @@
+{
+  "app_name": "da5b18cb1e7a452196c3142f2c1d7dd3",
+  "app_title": "Warhammer 40,000: Gladius - Relics of War",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "da5b18cb1e7a452196c3142f2c1d7dd3",
+      "asset_id": "da5b18cb1e7a452196c3142f2c1d7dd3",
+      "build_version": "1.15.01",
+      "catalog_item_id": "c8e3c334b682458a8489cfa06063d7f6",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "82672dc352fa4aab910d9fd05aaf0b38",
+        "update_type": "MINOR"
+      },
+      "namespace": "0d89655f53884b09b241b60c07e684af",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567uMzeIFHVX0S39OuyVCjoeqaK",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-06-10T16:51:36.832Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/Proxy Studios/Gladius/SavedGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Warhammer40KGladius"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "0d89655f53884b09b241b60c07e684af"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Warhammer 40,000: Gladius - Relics of War",
+    "developer": "Slitherine Software UK Ltd.",
+    "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567uMzeIFHVX0S39OuyVCjoeqaK",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-06-10T16:51:36.838Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "SpecialistPack"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "0d89655f53884b09b241b60c07e684af"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Gladius - Specialist Pack",
+        "developer": "Slitherine Software UK Ltd.",
+        "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+        "endOfSupport": false,
+        "entitlementName": "958165ea6ed14a76bb5017d1592079cc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "958165ea6ed14a76bb5017d1592079cc",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "4283542a0b6706661dd3aa5e2ad4f50b",
+            "size": 647224,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-06-02T17:37:37.049Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Warhammer40000GladiusSpecialistPack_ProxyStudios_DLC_S1_2560x1440-4283542a0b6706661dd3aa5e2ad4f50b",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "d5515ebd255ba45bcc76b29b29b721a2",
+            "size": 464921,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-06-02T17:37:40.672Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Warhammer40000GladiusSpecialistPack_ProxyStudios_DLC_S2_1200x1600-d5515ebd255ba45bcc76b29b29b721a2",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+        "mainGameItem": {
+          "id": "c8e3c334b682458a8489cfa06063d7f6",
+          "namespace": "0d89655f53884b09b241b60c07e684af",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c8e3c334b682458a8489cfa06063d7f6",
+            "namespace": "0d89655f53884b09b241b60c07e684af",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0d89655f53884b09b241b60c07e684af",
+        "releaseInfo": [
+          {
+            "appId": "1d1bb4adcc634612aef9eb9b02f42330",
+            "id": "4ab390c909a44febb0bbfa52976d1aa5",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gladius - Specialist Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567uMzeIFHVX0S39OuyVCjoeqaK",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-06-10T16:51:36.818Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ChaosSpaceMarines"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "0d89655f53884b09b241b60c07e684af"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Chaos Space Marines",
+        "developer": "Slitherine Software UK Ltd.",
+        "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+        "endOfSupport": false,
+        "entitlementName": "3a72df2bc1b94aaea07a117051929667",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3a72df2bc1b94aaea07a117051929667",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "efa41cc5828f163c7d9ed47a80488eee",
+            "size": 843122,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-11-10T21:18:19.049Z",
+            "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusChaosSpaceMarines_ProxyStudios_DLC_S1-2560x1440-efa41cc5828f163c7d9ed47a80488eee.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "27d95ef0d95008cc51d954d5e13fc12c",
+            "size": 574163,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-11-10T21:18:33.472Z",
+            "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusChaosSpaceMarines_ProxyStudios_DLC_S2-1200x1600-27d95ef0d95008cc51d954d5e13fc12c.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+        "mainGameItem": {
+          "id": "c8e3c334b682458a8489cfa06063d7f6",
+          "namespace": "0d89655f53884b09b241b60c07e684af",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c8e3c334b682458a8489cfa06063d7f6",
+            "namespace": "0d89655f53884b09b241b60c07e684af",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0d89655f53884b09b241b60c07e684af",
+        "releaseInfo": [
+          {
+            "appId": "f4d516bbcc7c4c2b9574cda297d7b9b7",
+            "id": "66efd95c968b4f69bb759ac10021b615",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Chaos Space Marines",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567uMzeIFHVX0S39OuyVCjoeqaK",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-06-10T16:51:36.835Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Tau"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "0d89655f53884b09b241b60c07e684af"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "T'au",
+        "developer": "Slitherine Software UK Ltd.",
+        "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+        "endOfSupport": false,
+        "entitlementName": "e11c9b122429495ea4a80b72d9698846",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e11c9b122429495ea4a80b72d9698846",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "9bf6cb237b2466dd650dee16f6cc0e18",
+            "size": 765528,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-11-10T21:13:32.682Z",
+            "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusTau_ProxyStudios_DLC_S1-2560x1440-9bf6cb237b2466dd650dee16f6cc0e18.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "6102d2a6b83952c015da07a535f414dc",
+            "size": 447218,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-11-10T21:13:40.414Z",
+            "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusTau_ProxyStudios_DLC_S2-1200x1600-6102d2a6b83952c015da07a535f414dc.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+        "mainGameItem": {
+          "id": "c8e3c334b682458a8489cfa06063d7f6",
+          "namespace": "0d89655f53884b09b241b60c07e684af",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c8e3c334b682458a8489cfa06063d7f6",
+            "namespace": "0d89655f53884b09b241b60c07e684af",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0d89655f53884b09b241b60c07e684af",
+        "releaseInfo": [
+          {
+            "appId": "a856c441673d4929a2d0ecdf5a5fa6bb",
+            "id": "7976d3eaf1d44cb7b01a86ddb3b9ccb5",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "T'au",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567uMzeIFHVX0S39OuyVCjoeqaK",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-06-10T16:51:36.822Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "AdeptusMechanicus"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "0d89655f53884b09b241b60c07e684af"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Warhammer 40,000: Gladius - Adeptus Mechanicus",
+        "developer": "Slitherine Software UK Ltd.",
+        "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+        "endOfSupport": false,
+        "entitlementName": "e18d7c6340e14579b17cb51daaacaeb5",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e18d7c6340e14579b17cb51daaacaeb5",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "7532ef9e13d41ce1c34815abf809a249",
+            "size": 1045107,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-05T16:34:08.185Z",
+            "url": "https://cdn1.epicgames.com/item/0d89655f53884b09b241b60c07e684af/EGS_Warhammer40000GladiusAdeptusMechanicus_ProxyStudios_DLC_S1_2560x1440-7532ef9e13d41ce1c34815abf809a249",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "7a4eb8943d0c2602240ad2f106d25848",
+            "size": 677243,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-05T16:34:22.495Z",
+            "url": "https://cdn1.epicgames.com/item/0d89655f53884b09b241b60c07e684af/EGS_Warhammer40000GladiusAdeptusMechanicus_ProxyStudios_DLC_S2_1200x1600-7a4eb8943d0c2602240ad2f106d25848",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+        "mainGameItem": {
+          "id": "c8e3c334b682458a8489cfa06063d7f6",
+          "namespace": "0d89655f53884b09b241b60c07e684af",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c8e3c334b682458a8489cfa06063d7f6",
+            "namespace": "0d89655f53884b09b241b60c07e684af",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0d89655f53884b09b241b60c07e684af",
+        "releaseInfo": [
+          {
+            "appId": "ef487796bb7a45f28bb402755254c523",
+            "id": "74ac0978b54140d4b6831a50ddbb3e8b",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Warhammer 40,000: Gladius - Adeptus Mechanicus",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567uMzeIFHVX0S39OuyVCjoeqaK",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-06-10T16:51:36.825Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Tyranids"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "0d89655f53884b09b241b60c07e684af"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Tyranids",
+        "developer": "Slitherine Software UK Ltd.",
+        "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+        "endOfSupport": false,
+        "entitlementName": "d507b69f9eee4491ba2679aca9c47fa7",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d507b69f9eee4491ba2679aca9c47fa7",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "d328a3b8417ecfefa9806e259e5bf607",
+            "size": 787159,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-11-10T21:16:29.831Z",
+            "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusTyranids_ProxyStudios_DLC_S1-2560x1440-d328a3b8417ecfefa9806e259e5bf607.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "d85e85e726205355248d5c5376fddf88",
+            "size": 583202,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-11-10T21:16:38.709Z",
+            "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusTyranids_ProxyStudios_DLC_S2-1200x1600-d85e85e726205355248d5c5376fddf88.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+        "mainGameItem": {
+          "id": "c8e3c334b682458a8489cfa06063d7f6",
+          "namespace": "0d89655f53884b09b241b60c07e684af",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c8e3c334b682458a8489cfa06063d7f6",
+            "namespace": "0d89655f53884b09b241b60c07e684af",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0d89655f53884b09b241b60c07e684af",
+        "releaseInfo": [
+          {
+            "appId": "824675891c22400c954578c1fc2ce6be",
+            "id": "31d17c91a60d43d49c9b8356f2ab1948",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Tyranids",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          },
+          {
+            "path": "addons/dlc"
+          }
+        ],
+        "creationDate": "2024-06-10T16:51:36.842Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Warhammer 40,000: Gladius - Escalation Pack",
+        "developer": "Slitherine Software UK Ltd.",
+        "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+        "endOfSupport": false,
+        "entitlementName": "66b4b67a02804d3d873031b7d15f1c36",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "66b4b67a02804d3d873031b7d15f1c36",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "12fe91f1090232a3826f91ae43a9be36",
+            "size": 546031,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-05-26T10:37:28.613Z",
+            "url": "https://cdn1.epicgames.com/item/0d89655f53884b09b241b60c07e684af/EGS_Warhammer40000GladiusEscalationPack_ProxyStudios_DLC_S1_2560x1440-12fe91f1090232a3826f91ae43a9be36",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "b2cc882ab273f1e3a26f0bdd52f7fad1",
+            "size": 618769,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-05-31T22:07:14.390Z",
+            "url": "https://cdn1.epicgames.com/item/0d89655f53884b09b241b60c07e684af/EGS_Warhammer40000GladiusEscalationPack_ProxyStudios_DLC_S2_1200x1600-b2cc882ab273f1e3a26f0bdd52f7fad1_1200x1600-b2cc882ab273f1e3a26f0bdd52f7fad1",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+        "mainGameItem": {
+          "id": "c8e3c334b682458a8489cfa06063d7f6",
+          "namespace": "0d89655f53884b09b241b60c07e684af",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c8e3c334b682458a8489cfa06063d7f6",
+            "namespace": "0d89655f53884b09b241b60c07e684af",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0d89655f53884b09b241b60c07e684af",
+        "releaseInfo": [
+          {
+            "appId": "e0a358e5a2ef447dacaf7e4f4efdb988",
+            "id": "1042dc168a8c48c0a294e5442ad45ee4",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Warhammer 40,000: Gladius - Escalation Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567uMzeIFHVX0S39OuyVCjoeqaK",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-06-10T16:51:36.833Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "FortificationPack"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "0d89655f53884b09b241b60c07e684af"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Fortification Pack",
+        "developer": "Slitherine Software UK Ltd.",
+        "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+        "endOfSupport": false,
+        "entitlementName": "9be60d164be04ce6af0220fdd5533352",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9be60d164be04ce6af0220fdd5533352",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "986edc1de9c0c38e2b60e700735c944b",
+            "size": 966270,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-11-10T21:23:52.937Z",
+            "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusFortificationPack_ProxyStudios_DLC_S1-2560x1440-986edc1de9c0c38e2b60e700735c944b.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "cc44ad524bfa8a575ed5aba5de576d76",
+            "size": 451388,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-11-10T21:24:01.412Z",
+            "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusFortificationPack_ProxyStudios_DLC_S2-1200x1600-cc44ad524bfa8a575ed5aba5de576d76.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+        "mainGameItem": {
+          "id": "c8e3c334b682458a8489cfa06063d7f6",
+          "namespace": "0d89655f53884b09b241b60c07e684af",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c8e3c334b682458a8489cfa06063d7f6",
+            "namespace": "0d89655f53884b09b241b60c07e684af",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0d89655f53884b09b241b60c07e684af",
+        "releaseInfo": [
+          {
+            "appId": "827db55b339945ed9410c88fc8fc1d66",
+            "id": "1bd67601314242c9aa4845853b737369",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Fortification Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567uMzeIFHVX0S39OuyVCjoeqaK",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-06-10T16:51:36.826Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ReinforcementPack"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "0d89655f53884b09b241b60c07e684af"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Reinforcement Pack",
+        "developer": "Slitherine Software UK Ltd.",
+        "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+        "endOfSupport": false,
+        "entitlementName": "832d72bb0e0c4410be4f5f66da2658ee",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "832d72bb0e0c4410be4f5f66da2658ee",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "4e1700a55228b6fd0b0d8a0240582531",
+            "size": 944475,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-11-10T21:12:02.107Z",
+            "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusReinforcementPack_ProxyStudios_DLC_S1-2560x1440-4e1700a55228b6fd0b0d8a0240582531.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "612b5ed3e197b0299fcf9d792d79f0a3",
+            "size": 545380,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-11-10T21:12:10.599Z",
+            "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusReinforcementPack_ProxyStudios_DLC_S2-1200x1600-612b5ed3e197b0299fcf9d792d79f0a3.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+        "mainGameItem": {
+          "id": "c8e3c334b682458a8489cfa06063d7f6",
+          "namespace": "0d89655f53884b09b241b60c07e684af",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c8e3c334b682458a8489cfa06063d7f6",
+            "namespace": "0d89655f53884b09b241b60c07e684af",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0d89655f53884b09b241b60c07e684af",
+        "releaseInfo": [
+          {
+            "appId": "fe4168041ae44bdc9f0b5b25c217fcc9",
+            "id": "9abaac32e562463f833d63c45a7a7557",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Reinforcement Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567uMzeIFHVX0S39OuyVCjoeqaK",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-06-10T16:51:36.836Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "CraftworldAeldari"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "0d89655f53884b09b241b60c07e684af"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Craftworld Aeldari",
+        "developer": "Slitherine Software UK Ltd.",
+        "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+        "endOfSupport": false,
+        "entitlementName": "3a061088202745a2adc97f84fd1e516e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3a061088202745a2adc97f84fd1e516e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "f2ffd922d348852b32ede57094480900",
+            "size": 684179,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-11-10T21:15:48.572Z",
+            "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusCraftworldAeldari_ProxyStudios_DLC_S1-2560x1440-f2ffd922d348852b32ede57094480900.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "76bee6c52a8f1e4dd4f00d40d08a49b2",
+            "size": 492875,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-11-10T21:15:56.664Z",
+            "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusCraftworldAeldari_ProxyStudios_DLC_S2-1200x1600-76bee6c52a8f1e4dd4f00d40d08a49b2.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+        "mainGameItem": {
+          "id": "c8e3c334b682458a8489cfa06063d7f6",
+          "namespace": "0d89655f53884b09b241b60c07e684af",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c8e3c334b682458a8489cfa06063d7f6",
+            "namespace": "0d89655f53884b09b241b60c07e684af",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0d89655f53884b09b241b60c07e684af",
+        "releaseInfo": [
+          {
+            "appId": "5ed1da56586741078b5f44bc4fe118bd",
+            "id": "2f98bc58669645cfa3b99000638e75d2",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Craftworld Aeldari",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567uMzeIFHVX0S39OuyVCjoeqaK",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-06-10T16:51:36.834Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "AssaultPack"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "0d89655f53884b09b241b60c07e684af"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Assault Pack",
+        "developer": "Slitherine Software UK Ltd.",
+        "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+        "endOfSupport": false,
+        "entitlementName": "b84aa1f9f3f941f2a16270cc34345c57",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b84aa1f9f3f941f2a16270cc34345c57",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "3311f11eb0f55cda6291bec76199f660",
+            "size": 477394,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-11-10T21:23:10.717Z",
+            "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusAssaultPack_ProxyStudios_DLC_S1-2560x1440-3311f11eb0f55cda6291bec76199f660.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "3336dc20944b0bd1aeaeb43e8ab58642",
+            "size": 298868,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-11-10T21:23:19.130Z",
+            "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusAssaultPack_ProxyStudios_DLC_S2-1200x1600-3336dc20944b0bd1aeaeb43e8ab58642.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+        "mainGameItem": {
+          "id": "c8e3c334b682458a8489cfa06063d7f6",
+          "namespace": "0d89655f53884b09b241b60c07e684af",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c8e3c334b682458a8489cfa06063d7f6",
+            "namespace": "0d89655f53884b09b241b60c07e684af",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0d89655f53884b09b241b60c07e684af",
+        "releaseInfo": [
+          {
+            "appId": "32305c66a09b4ef7944d543ded93aab9",
+            "id": "9c9000c1244f4460808ffe3fafe26015",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Assault Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567uMzeIFHVX0S39OuyVCjoeqaK",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-06-10T16:51:36.837Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "LordOfSkulls"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "0d89655f53884b09b241b60c07e684af"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Lord of Skulls",
+        "developer": "Slitherine Software UK Ltd.",
+        "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+        "endOfSupport": false,
+        "entitlementName": "a4bcf4e2f823444aa4194f1410a1ee5b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a4bcf4e2f823444aa4194f1410a1ee5b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "d034cbf3c6dadefeadcbe87d2551afe1",
+            "size": 855843,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-11-10T21:17:20.878Z",
+            "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusLordofSkulls_ProxyStudios_DLC_S1-2560x1440-d034cbf3c6dadefeadcbe87d2551afe1.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "70321fb94b9fc63f08ada0a9b2907c6f",
+            "size": 533766,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-11-10T21:17:28.293Z",
+            "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusLordofSkulls_ProxyStudios_DLC_S2-1200x1600-70321fb94b9fc63f08ada0a9b2907c6f.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+        "mainGameItem": {
+          "id": "c8e3c334b682458a8489cfa06063d7f6",
+          "namespace": "0d89655f53884b09b241b60c07e684af",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c8e3c334b682458a8489cfa06063d7f6",
+            "namespace": "0d89655f53884b09b241b60c07e684af",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0d89655f53884b09b241b60c07e684af",
+        "releaseInfo": [
+          {
+            "appId": "7d4502944d6d4bc680c32ed2eb59206f",
+            "id": "ca6b2457972a49a1b678f81e69896364",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lord of Skulls",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          },
+          {
+            "path": "addons/dlc"
+          }
+        ],
+        "creationDate": "2024-06-10T16:51:36.817Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Warhammer 40,000: Gladius - Adepta Sororitas",
+        "developer": "Slitherine Software UK Ltd.",
+        "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+        "endOfSupport": false,
+        "entitlementName": "1190b3d91629435688af8e736e5b0440",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1190b3d91629435688af8e736e5b0440",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "9204fb9dfe0938147c8738dc0010fee2",
+            "size": 653941,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-12-12T22:36:19.407Z",
+            "url": "https://cdn1.epicgames.com/item/0d89655f53884b09b241b60c07e684af/EGS_Warhammer40000GladiusAdeptaSororitas_ProxyStudios_DLC_S1_2560x1440-9204fb9dfe0938147c8738dc0010fee2_2560x1440-9204fb9dfe0938147c8738dc0010fee2_2560x1440-9204fb9dfe0938147c8738dc0010fee2",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "9142200279aead808a032b6749dcd3ee",
+            "size": 593718,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-12-12T22:36:17.031Z",
+            "url": "https://cdn1.epicgames.com/item/0d89655f53884b09b241b60c07e684af/EGS_Warhammer40000GladiusAdeptaSororitas_ProxyStudios_DLC_S2_1200x1600-9142200279aead808a032b6749dcd3ee_1200x1600-9142200279aead808a032b6749dcd3ee_1200x1600-9142200279aead808a032b6749dcd3ee",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+        "mainGameItem": {
+          "id": "c8e3c334b682458a8489cfa06063d7f6",
+          "namespace": "0d89655f53884b09b241b60c07e684af",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c8e3c334b682458a8489cfa06063d7f6",
+            "namespace": "0d89655f53884b09b241b60c07e684af",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0d89655f53884b09b241b60c07e684af",
+        "releaseInfo": [
+          {
+            "appId": "f14d2e4572a740bd97dd43406dd0d960",
+            "id": "6f086dade37e4defac8333cacdfef507",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Warhammer 40,000: Gladius - Adepta Sororitas",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-10T16:51:36.841Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Warhammer 40,000: Gladius - Firepower Pack",
+        "developer": "Slitherine Software UK Ltd.",
+        "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+        "endOfSupport": false,
+        "entitlementName": "c351d874ac08415188b50b15c60b0578",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c351d874ac08415188b50b15c60b0578",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "f76ce67de57f7e335297832c422bca99",
+            "size": 738725,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-05-18T13:58:04.454Z",
+            "url": "https://cdn1.epicgames.com/item/0d89655f53884b09b241b60c07e684af/EGS_Warhammer40000GladiusFirepowerPack_ProxyStudios_DLC_S1_2560x1440-f76ce67de57f7e335297832c422bca99",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "3eee6ff8d3cea19ed8d79950609948f3",
+            "size": 368316,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-05-18T13:58:07.411Z",
+            "url": "https://cdn1.epicgames.com/item/0d89655f53884b09b241b60c07e684af/EGS_Warhammer40000GladiusFirepowerPack_ProxyStudios_DLC_S2_1200x1600-3eee6ff8d3cea19ed8d79950609948f3",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+        "mainGameItem": {
+          "id": "c8e3c334b682458a8489cfa06063d7f6",
+          "namespace": "0d89655f53884b09b241b60c07e684af",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c8e3c334b682458a8489cfa06063d7f6",
+            "namespace": "0d89655f53884b09b241b60c07e684af",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0d89655f53884b09b241b60c07e684af",
+        "releaseInfo": [
+          {
+            "appId": "003831d95b1843eba7d5592a9443f85d",
+            "id": "09e89c836cb14a0cb8bdd665dc9c624d",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Warhammer 40,000: Gladius - Firepower Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-10T16:51:36.819Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Warhammer 40,000: Gladius - Drukhari",
+        "developer": "Slitherine Software UK Ltd.",
+        "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+        "endOfSupport": false,
+        "entitlementName": "0d4d78f8e7e041188327c2c7d9cd8acf",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0d4d78f8e7e041188327c2c7d9cd8acf",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "cc00fd10169e8cbf84a88b18350adb08",
+            "size": 413658,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-29T20:10:13.165Z",
+            "url": "https://cdn1.epicgames.com/offer/0d89655f53884b09b241b60c07e684af/EGS_Warhammer40000GladiusDrukhari_ProxyStudios_DLC_S2_1200x1600-cc00fd10169e8cbf84a88b18350adb08",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "79aaca8a7952f97766885e9b41fff3fb",
+            "size": 346967,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-29T20:10:33.851Z",
+            "url": "https://cdn1.epicgames.com/offer/0d89655f53884b09b241b60c07e684af/EGS_Warhammer40000GladiusDrukhari_ProxyStudios_DLC_S1_2560x1440-79aaca8a7952f97766885e9b41fff3fb",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+        "mainGameItem": {
+          "id": "c8e3c334b682458a8489cfa06063d7f6",
+          "namespace": "0d89655f53884b09b241b60c07e684af",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c8e3c334b682458a8489cfa06063d7f6",
+            "namespace": "0d89655f53884b09b241b60c07e684af",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0d89655f53884b09b241b60c07e684af",
+        "releaseInfo": [
+          {
+            "appId": "f2bd363ebf004733861e66e230b5c19c",
+            "id": "9cfb3287c1104f5c97c8e256e4e5ecdf",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Warhammer 40,000: Gladius - Drukhari",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-10T16:51:36.815Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Warhammer 40,000: Gladius - Demolition Pack",
+        "developer": "Slitherine Software UK Ltd.",
+        "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+        "endOfSupport": false,
+        "entitlementName": "a024ad30943345e7b4cb78e248e523c1",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a024ad30943345e7b4cb78e248e523c1",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "6eb999393ba40aae115f9cdedb6f4a05",
+            "size": 754451,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-21T13:06:36.236Z",
+            "url": "https://cdn1.epicgames.com/item/0d89655f53884b09b241b60c07e684af/EGS_Warhammer40000GladiusDemolitionPack_ProxyStudios_DLC_S1_2560x1440-6eb999393ba40aae115f9cdedb6f4a05",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "c5804ceae03cadb8f0937245f0c1ab9e",
+            "size": 949357,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-21T13:06:43.418Z",
+            "url": "https://cdn1.epicgames.com/item/0d89655f53884b09b241b60c07e684af/EGS_Warhammer40000GladiusDemolitionPack_ProxyStudios_DLC_S2_1200x1600-c5804ceae03cadb8f0937245f0c1ab9e",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+        "mainGameItem": {
+          "id": "c8e3c334b682458a8489cfa06063d7f6",
+          "namespace": "0d89655f53884b09b241b60c07e684af",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c8e3c334b682458a8489cfa06063d7f6",
+            "namespace": "0d89655f53884b09b241b60c07e684af",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0d89655f53884b09b241b60c07e684af",
+        "releaseInfo": [
+          {
+            "appId": "4c83ee22c081402aa04ae717ffed0ea2",
+            "id": "ec08b99ec237483fb8d6edbaae4b2d4a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Warhammer 40,000: Gladius - Demolition Pack",
+        "unsearchable": true
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-11-06T09:51:20.754Z",
+        "customAttributes": {},
+        "description": "Warhammer 40,000: Gladius - Ultima Founding",
+        "developer": "Slitherine Software UK Ltd.",
+        "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+        "endOfSupport": false,
+        "entitlementName": "4b2ab6896de148b9871ebf23693f3fb4",
+        "entitlementType": "EXECUTABLE",
+        "id": "4b2ab6896de148b9871ebf23693f3fb4",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Warhammer 40k Gladius Warhammer 40,000: Gladius - Ultima Founding Offer",
+            "height": 1440,
+            "md5": "584dbfa5418fc8d4818b1bc2a9c4fd76",
+            "size": 2025487,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-12-20T18:45:08.777Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0992042f7f0149bfafa42e75c7dfdf04/warhammer-40k-gladius-bin1r.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Warhammer 40k Gladius Warhammer 40,000: Gladius - Ultima Founding Offer",
+            "height": 1600,
+            "md5": "95ec751b4a8d6d4828c3527ec307250f",
+            "size": 1101410,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-12-20T18:45:11.858Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0992042f7f0149bfafa42e75c7dfdf04/warhammer-40k-gladius-1f7d8.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+        "mainGameItem": {
+          "id": "c8e3c334b682458a8489cfa06063d7f6",
+          "namespace": "0d89655f53884b09b241b60c07e684af",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c8e3c334b682458a8489cfa06063d7f6",
+            "namespace": "0d89655f53884b09b241b60c07e684af",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0d89655f53884b09b241b60c07e684af",
+        "releaseInfo": [
+          {
+            "appId": "d57062795e764f71a9b81573e3199896",
+            "id": "396b4afab8e541babc099210d12936f7",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Warhammer 40,000: Gladius - Ultima Founding",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "c8e3c334b682458a8489cfa06063d7f6",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && slitherinesoftware)"
+    ],
+    "id": "c8e3c334b682458a8489cfa06063d7f6",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "961653d760b7d41a65a0c268be581870",
+        "size": 800417,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-11-10T21:14:34.170Z",
+        "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusRelicsofWar_ProxyStudios_S1-2560x1440-961653d760b7d41a65a0c268be581870.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "351ed47f4fac3e92cc59805fd730a187",
+        "size": 740874,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-11-10T21:14:44.908Z",
+        "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/item/EGS_Warhammer40000GladiusRelicsofWar_ProxyStudios_S2-1200x1600-351ed47f4fac3e92cc59805fd730a187.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-02-19T13:21:57.359Z",
+    "mainGameItemList": [],
+    "namespace": "0d89655f53884b09b241b60c07e684af",
+    "releaseInfo": [
+      {
+        "appId": "da5b18cb1e7a452196c3142f2c1d7dd3",
+        "id": "a7223e75e23341f5b5c5425f68d99339",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Warhammer 40,000: Gladius - Relics of War",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

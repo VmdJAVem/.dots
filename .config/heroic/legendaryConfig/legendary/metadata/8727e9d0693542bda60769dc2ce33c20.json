@@ -1,0 +1,116 @@
+{
+  "app_name": "8727e9d0693542bda60769dc2ce33c20",
+  "app_title": "Centipede Recharged",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "8727e9d0693542bda60769dc2ce33c20",
+      "asset_id": "8727e9d0693542bda60769dc2ce33c20",
+      "build_version": "4",
+      "catalog_item_id": "3a836e9235114f119ff841caad97d824",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "a1edd0d2e28d4d298152c001e7c47e22",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567XiBjKv3C6tFACpsfGqr2Y8Wl",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-06-02T17:44:16.303Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Atari Inc_/Centipede_ Recharged/saveFile.sav/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "CentipedeRecharged"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "a1edd0d2e28d4d298152c001e7c47e22"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Centipede Recharged",
+    "developer": "Atari",
+    "developerId": "o-bhpk86rgthezed539g3hb5avacecqt",
+    "endOfSupport": false,
+    "entitlementName": "3a836e9235114f119ff841caad97d824",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "3a836e9235114f119ff841caad97d824",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "5a7cfd999625576fbc63f0dbc7d27c46",
+        "size": 986497,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-09-28T19:04:11.114Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CentipedeRecharged_AdamVisionSneakyBox_S1_2560x1440-5a7cfd999625576fbc63f0dbc7d27c46",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "c21cc55f661ac17b68c78c90b38dca52",
+        "size": 991134,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-09-28T19:04:13.519Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CentipedeRecharged_AdamVisionSneakyBox_S2_1200x1600-c21cc55f661ac17b68c78c90b38dca52",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:39:50.694Z",
+    "mainGameItemList": [],
+    "namespace": "a1edd0d2e28d4d298152c001e7c47e22",
+    "releaseInfo": [
+      {
+        "appId": "8727e9d0693542bda60769dc2ce33c20",
+        "compatibleApps": [],
+        "dateAdded": "2022-10-05T14:58:24.361Z",
+        "id": "4490ef1795fd444cbe691783ee066436",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Centipede Recharged",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

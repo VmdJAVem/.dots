@@ -1,0 +1,22 @@
+00:00:00.145509 VirtualBox GUI VM Selector Window 7.1.8 r168469 linux.amd64 (Apr 15 2025 18:05:05) release log
+00:00:00.145510 Log opened 2025-04-19T22:08:19.146157000Z
+00:00:00.145510 Build Type: release
+00:00:00.145511 OS Product: Linux
+00:00:00.145512 OS Release: 6.14.2-arch1-1
+00:00:00.145512 OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 10 Apr 2025 18:43:59 +0000
+00:00:00.145525 DMI Product Name: MS-7E26
+00:00:00.145531 DMI Product Version: 1.0
+00:00:00.145534 Firmware type: UEFI
+00:00:00.145583 Secure Boot: Enabled
+00:00:00.145603 Host RAM: 31184MB (30.4GB) total, 28301MB (27.6GB) available
+00:00:00.145605 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.145605 Process ID: 15911
+00:00:00.145605 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.145619 Qt version: 6.9.0
+00:00:00.145891 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.146918 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.146922 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:04.775180 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 959x539 x 800x800
+00:00:04.775196 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 959x539 x 800x800
+00:00:20.050593 GUI: UICommon: Handling aboutToQuit request..
+00:00:20.851363 GUI: UICommon: aboutToQuit request handled!

@@ -1,0 +1,95 @@
+[General]
+Days Meta Infos=30
+Save Meta Infos=true
+Show Full Path in Title=false
+Show Menu Bar=true
+Show Status Bar=true
+Show Tab Bar=true
+Show Url Nav Bar=true
+
+[KTextEditor Renderer]
+Animate Bracket Matching=false
+Auto Color Theme Selection=true
+Color Theme=Breeze Dark
+Line Height Multiplier=1
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Text Font=Hack,10,-1,7,400,0,0,0,0,0,0,0,0,0,0,1
+Text Font Features=
+Word Wrap Marker=false
+
+[Kate Print Settings][Margins]
+bottom=0
+left=0
+right=0
+top=0
+
+[MainWindow]
+1920x1080 screen: Height=1080
+1920x1080 screen: Width=1920
+1920x1080 screen: Window-Maximized=true
+
+[Printing][HeaderFooter]
+FooterBackground=211,211,211
+FooterBackgroundEnabled=false
+FooterEnabled=true
+FooterForeground=0,0,0
+FooterFormatCenter=
+FooterFormatLeft=
+FooterFormatRight=%U
+HeaderBackground=211,211,211
+HeaderBackgroundEnabled=false
+HeaderEnabled=true
+HeaderFooterFont=Hack,10,-1,7,400,0,0,0,0,0,0,0,0,0,0,1
+HeaderForeground=0,0,0
+HeaderFormatCenter=%f
+HeaderFormatLeft=%y
+HeaderFormatRight=%p
+
+[Printing][Layout]
+BackgroundColorEnabled=false
+BoxColor=invalid
+BoxEnabled=false
+BoxMargin=6
+BoxWidth=1
+ColorScheme=Printing
+Font=Hack,10,-1,7,400,0,0,0,0,0,0,0,0,0,0,1
+
+[Printing][Text]
+DontPrintFoldedCode=true
+Legend=false
+LineNumbers=false
+
+[filetree]
+editShade=74,55,117
+listMode=false
+middleClickToClose=false
+shadingEnabled=true
+showCloseButton=false
+showFullPathOnRoots=false
+showToolbar=true
+sortRole=0
+viewShade=81,49,95
+
+[lspclient]
+AllowedServerCommandLines=/usr/lib/rustup/bin/rust-analyzer
+AutoHover=true
+AutoImport=true
+BlockedServerCommandLines=
+CompletionDocumentation=true
+CompletionParens=true
+Diagnostics=true
+FormatOnSave=false
+HighlightGoto=true
+IncrementalSync=false
+InlayHints=false
+Messages=true
+ReferencesDeclaration=true
+SemanticHighlighting=true
+ServerConfiguration=
+SignatureHelp=true
+SymbolDetails=false
+SymbolExpand=true
+SymbolSort=false
+SymbolTree=true
+TypeFormatting=false

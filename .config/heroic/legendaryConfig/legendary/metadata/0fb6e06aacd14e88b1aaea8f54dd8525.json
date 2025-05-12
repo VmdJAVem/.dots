@@ -1,0 +1,969 @@
+{
+  "app_name": "0fb6e06aacd14e88b1aaea8f54dd8525",
+  "app_title": "Star Trek Online",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "0fb6e06aacd14e88b1aaea8f54dd8525",
+      "asset_id": "0fb6e06aacd14e88b1aaea8f54dd8525",
+      "build_version": "CL_2023_07_14_17_29",
+      "catalog_item_id": "6a5139a07dd9444f9086da146593d3b0",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "8731547655224023bf6a576986752f84"
+      },
+      "namespace": "06a97980aac14fdfb914ef603a113792",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-11-14T22:30:40.754Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "StarTrekOnline"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "06a97980aac14fdfb914ef603a113792"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "En Star Trek Online, el universo de Star Trek aparece, por primera vez, a una escala inmensa. Los jugadores ocupan la silla del capit\u00e1n y dirigen su propia nave. Explora mundos extra\u00f1os, busca nueva vida y ve con valent\u00eda adonde nadie ha ido jam\u00e1s.",
+    "developer": "Arc Games",
+    "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-11-14T22:30:40.752Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "PlutoStarterPackAudience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "053480fb36df415b8a93d97b36044c34",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "053480fb36df415b8a93d97b36044c34",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-01-10T00:37:49.978Z",
+        "longDescription": "PlutoStarterPackAudience",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "PlutoStarterPackAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-17T17:41:55.276Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Pluto2000 ZEN Bundle Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "ea4a4ad111d64ec0b3aee492397b4af3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ea4a4ad111d64ec0b3aee492397b4af3",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.077Z",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Pluto2000 ZEN Bundle Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-26T23:47:36.464Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "PlutoReflectionsEpicGiveawayAudience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "c627f43dd6154cbbbc9223b8e14c1713",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c627f43dd6154cbbbc9223b8e14c1713",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.480Z",
+        "longDescription": "PlutoReflectionsEpicGiveawayAudience",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "PlutoReflectionsEpicGiveawayAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-17T17:48:55.179Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Pluto20000 ZEN 3000BonusBundle Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "1eb5c29d4bea4d7d9fe8e4f26df195ce",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1eb5c29d4bea4d7d9fe8e4f26df195ce",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.033Z",
+        "longDescription": "Pluto20000 ZEN 3000BonusBundle Audience",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Pluto20000 ZEN 3000BonusBundle Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-17T17:43:39.417Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Pluto5000 ZEN 300BonusBundle Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "af54ce54b4fb4189ab004cefe6422bb6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "af54ce54b4fb4189ab004cefe6422bb6",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.018Z",
+        "longDescription": "Pluto5000 ZEN 300BonusBundle Audience",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Pluto5000 ZEN 300BonusBundle Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-17T17:46:32.533Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Pluto10000 ZEN 1000BonusBundle Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "ca90afa78b024024b16d7e4c8d287972",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ca90afa78b024024b16d7e4c8d287972",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.062Z",
+        "longDescription": "Pluto10000 ZEN 1000BonusBundle Audience",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Pluto10000 ZEN 1000BonusBundle Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-01-18T18:53:23.168Z",
+        "customAttributes": {},
+        "description": "Pluto EmperorsEpicPack Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "1799ebf2386b4abfbdc4081aa6859f1e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1799ebf2386b4abfbdc4081aa6859f1e",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.648Z",
+        "longDescription": "Pluto Emperors Epic Pack Audience",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Pluto EmperorsEpicPack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-25T17:26:49.856Z",
+        "customAttributes": {},
+        "description": "Pluto TerranAgonyBundle Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "a1aa8ce3206b4b038a1c671792af3bf3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a1aa8ce3206b4b038a1c671792af3bf3",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.664Z",
+        "longDescription": "Pluto TerranAgonyBundle Audience",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Pluto TerranAgonyBundle Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-17T17:38:41.702Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Pluto1000 ZEN Bundle Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "d8715b1eb8ae4a2b85eaf7832a6743bc",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d8715b1eb8ae4a2b85eaf7832a6743bc",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.048Z",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Pluto1000 ZEN Bundle Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-08-26T14:36:10.828Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Terran Ambush Pack audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "72edd2ec67c24cb28346f8a8387bc370",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "72edd2ec67c24cb28346f8a8387bc370",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-12T06:08:44.693Z",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Terran Ambush Pack audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-01-10T23:23:07.038Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Terran Dome of Agony Pack!",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "6c76d38ebd524a0fb091c4e30bdaa483",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6c76d38ebd524a0fb091c4e30bdaa483",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-12T06:08:44.840Z",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Terran Dome of Agony Pack!",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-04-28T17:16:38.433Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Tholian Sticky Web Wall Pack audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "051a08d64e9c48c5960bc4b6d897f4f0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "051a08d64e9c48c5960bc4b6d897f4f0",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-12T06:08:45.175Z",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Tholian Sticky Web Wall Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-08-16T19:27:34.117Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Retrofitted Assimilator Pack audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "cf376c4ba0844b46bdc000db4bc41879",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cf376c4ba0844b46bdc000db4bc41879",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-12T06:08:45.237Z",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Retrofitted Assimilator Pack audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-12-13T19:39:53.455Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Plasma Shockwave Pack",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "79c01d40d0064ec5a3190f1f346504e0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "79c01d40d0064ec5a3190f1f346504e0",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-12T06:08:45.297Z",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Plasma Shockwave Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-10T10:34:26.073Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Star Trek Online \u2013 Polymorphic Viral Probe Pack",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "55bde3b49902478dbebda6f29a15f65e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "55bde3b49902478dbebda6f29a15f65e",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-10T10:34:26.073Z",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Star Trek Online \u2013 Polymorphic Viral Probe Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2024-11-14T22:30:44.351Z",
+        "description": "Epic Starter Pack Bundle",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "72f08db353b74911894f078ec2e849d7",
+        "entitlementType": "EXECUTABLE",
+        "id": "72f08db353b74911894f078ec2e849d7",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Epic Starter Pack Bundle-447729",
+            "height": 1440,
+            "md5": "917eb74f2ce413898e8a9a70a0edad83",
+            "size": 500870,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-10-01T16:49:29.370Z",
+            "url": "https://cdn1.epicgames.com/06a97980aac14fdfb914ef603a113792/offer/EGS_TheEpicStarterPack_CrypticStudios_Packs_S1-2560x1440-917eb74f2ce413898e8a9a70a0edad83.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Epic Starter Pack Bundle-262764",
+            "height": 1600,
+            "md5": "0438b6859f83eaac657d8279f169a569",
+            "size": 369467,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-10-01T16:49:36.094Z",
+            "url": "https://cdn1.epicgames.com/06a97980aac14fdfb914ef603a113792/offer/EGS_TheEpicStarterPack_CrypticStudios_Packs_S2-1200x1600-0438b6859f83eaac657d8279f169a569.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-01-10T00:37:49.979Z",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Epic Starter Pack Bundle",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-02-11T17:49:30.891Z",
+        "description": "\u00a1Escucha el llamado de la Cooperativa y fija el rumbo hacia el Cuadrante Delta!\r\n\u00a1Re\u00fanete con caras conocidas y descubre la verdad con el Shared Processing Pack, disponible solo en Epic!",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "d3f5a9fc162e4f5e975e978470865d8d",
+        "entitlementType": "EXECUTABLE",
+        "id": "d3f5a9fc162e4f5e975e978470865d8d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Star Trek Online Star Trek Online \u2013 Shared Processing Pack Offer",
+            "height": 1440,
+            "md5": "84405d88a8b501e498bce5d38888640f",
+            "size": 805846,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-02-06T18:43:33.810Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2393f9d7911c4bb19c0e84fd18919605/star-trek-online-nnb1v.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Star Trek Online Star Trek Online \u2013 Shared Processing Pack Offer",
+            "height": 1600,
+            "md5": "2848c6a6dea72298957d8a480b95c631",
+            "size": 529097,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-02-06T18:43:38.658Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2393f9d7911c4bb19c0e84fd18919605/star-trek-online-17h7m.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-11T17:49:30.891Z",
+        "mainGameItem": {
+          "id": "6a5139a07dd9444f9086da146593d3b0",
+          "namespace": "06a97980aac14fdfb914ef603a113792",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6a5139a07dd9444f9086da146593d3b0",
+            "namespace": "06a97980aac14fdfb914ef603a113792",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "06a97980aac14fdfb914ef603a113792",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Star Trek Online - Shared Processing Pack",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "6a5139a07dd9444f9086da146593d3b0",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "6a5139a07dd9444f9086da146593d3b0",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Star Trek Online Offer",
+        "height": 1440,
+        "md5": "9715f2c33995aadc2fec226a9442824b",
+        "size": 977209,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-02-06T19:02:06.291Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/2393f9d7911c4bb19c0e84fd18919605/star-trek-online-nurxi.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Star Trek Online Offer",
+        "height": 1600,
+        "md5": "41103b7e353b18e8cf11b6058059df6a",
+        "size": 648147,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-02-06T19:02:13.665Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/2393f9d7911c4bb19c0e84fd18919605/star-trek-online-1s6is.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-02-11T17:49:31.179Z",
+    "longDescription": "<!--textBlock-->\n<!--text-->\n+ Juega gratis: disfruta de un t\u00edtulo MMO triple A de forma gratuita. \u00a1Juega desde el nivel\u00a01 hasta el 65 sin pagar nada!\r\n\r\n+ T\u00fa eres el capit\u00e1n: participa en batallas espaciales \u00e9picas y lidera a tus equipos por mundos desconocidos, interactuando con aliados y luchando contra enemigos.\r\n\r\n+ Elige tu facci\u00f3n: \u00fanete a la Federaci\u00f3n, la Rep\u00fablica Romulana o las Fuerzas de Defensa Klingon, cada una con flotas de naves y t\u00e1cticas diferentes.\r\n\r\n+ Personalizaci\u00f3n total: crea y personaliza un capit\u00e1n eligiendo cualquier especie de la galaxia, \u00a1o inv\u00e9ntalo desde cero! Tambi\u00e9n podr\u00e1s personalizar tu nave, desde la construcci\u00f3n hasta el color.\n",
+    "mainGameItemList": [],
+    "namespace": "06a97980aac14fdfb914ef603a113792",
+    "releaseInfo": [
+      {
+        "appId": "0fb6e06aacd14e88b1aaea8f54dd8525",
+        "dateAdded": "2020-07-14T00:00:00.000Z",
+        "id": "13a7f44c22164951b07b55f1ac83211c",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Star Trek Online",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

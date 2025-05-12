@@ -1,0 +1,113 @@
+{
+  "app_name": "9b48cbb1a0cf4a73b87ccbf4cde04b26",
+  "app_title": "Sable",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "9b48cbb1a0cf4a73b87ccbf4cde04b26",
+      "asset_id": "9b48cbb1a0cf4a73b87ccbf4cde04b26",
+      "build_version": "4.3.10-R.130",
+      "catalog_item_id": "15956355c14a4cd19c6b64abfd6f7425",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "66a0893b7b9a42a695f0a387d64dfcc6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-06-01T20:17:25.601Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Shedworks/Sable/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Sable"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "66a0893b7b9a42a695f0a387d64dfcc6"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Sable",
+    "developer": "Raw Fury",
+    "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "endOfSupport": false,
+    "entitlementName": "15956355c14a4cd19c6b64abfd6f7425",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "15956355c14a4cd19c6b64abfd6f7425",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "64ec090eed8335263a9083de0eb7f5cf",
+        "size": 829798,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-06-12T15:04:39.587Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S1_2560x1440_2560x1440-64ec090eed8335263a9083de0eb7f5cf",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "8c822a6ef6f9cb4f07651ea61f291391",
+        "size": 670094,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-06-12T15:04:42.369Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S2_1200x1600_1200x1600-8c822a6ef6f9cb4f07651ea61f291391",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-09-23T12:59:16.541Z",
+    "mainGameItemList": [],
+    "namespace": "66a0893b7b9a42a695f0a387d64dfcc6",
+    "releaseInfo": [
+      {
+        "appId": "9b48cbb1a0cf4a73b87ccbf4cde04b26",
+        "id": "462a0179904442f5a41ed2651ce3596b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Sable",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

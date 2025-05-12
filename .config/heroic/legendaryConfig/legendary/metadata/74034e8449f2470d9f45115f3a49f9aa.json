@@ -1,0 +1,116 @@
+{
+  "app_name": "74034e8449f2470d9f45115f3a49f9aa",
+  "app_title": "Fallout 2: A Post Nuclear Role Playing Game",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "74034e8449f2470d9f45115f3a49f9aa",
+      "asset_id": "74034e8449f2470d9f45115f3a49f9aa",
+      "build_version": "1.3",
+      "catalog_item_id": "87e1c4c8fcbd47fba99e57a8b52defca",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "aae22da1fb884fa395b25bc30dd61faf",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567Wa3yTYeILlqgcIDo5yCUlB6V",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-09-08T20:48:03.853Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudExcludeList": {
+        "type": "STRING",
+        "value": "critter.dat, master.dat, f2_res.dat, patch000.dat, worldmap.dat"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.sav, *.dat, *.pro"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "fallout2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "aae22da1fb884fa395b25bc30dd61faf"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Fallout 2: A Post Nuclear Role Playing Game",
+    "developer": "Bethesda Softworks LLC",
+    "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+    "endOfSupport": false,
+    "entitlementName": "87e1c4c8fcbd47fba99e57a8b52defca",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && bethesda)"
+    ],
+    "id": "87e1c4c8fcbd47fba99e57a8b52defca",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "4cfbea54e590ef00cb9c440ac3b3a36c",
+        "size": 800175,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-10-06T12:22:54.516Z",
+        "url": "https://cdn1.epicgames.com/item/aae22da1fb884fa395b25bc30dd61faf/EGS_Fallout2APostNuclearRolePlayingGame_BethesdaGameStudios_S1_2560x1440-4cfbea54e590ef00cb9c440ac3b3a36c",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "d07a5a6352badc1a2111ed42a393d049",
+        "size": 492045,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-10-06T12:22:57.106Z",
+        "url": "https://cdn1.epicgames.com/item/aae22da1fb884fa395b25bc30dd61faf/EGS_Fallout2APostNuclearRolePlayingGame_BethesdaGameStudios_S2_1200x1600-d07a5a6352badc1a2111ed42a393d049",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-02-16T20:51:45.313Z",
+    "mainGameItemList": [],
+    "namespace": "aae22da1fb884fa395b25bc30dd61faf",
+    "releaseInfo": [
+      {
+        "appId": "74034e8449f2470d9f45115f3a49f9aa",
+        "id": "1d20c62c349a4529848439b220b6cdcc",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Fallout 2: A Post Nuclear Role Playing Game",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

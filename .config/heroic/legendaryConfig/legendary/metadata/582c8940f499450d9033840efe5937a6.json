@@ -1,0 +1,374 @@
+{
+  "app_name": "582c8940f499450d9033840efe5937a6",
+  "app_title": "Terraforming Mars",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "582c8940f499450d9033840efe5937a6",
+      "asset_id": "582c8940f499450d9033840efe5937a6",
+      "build_version": "Windows_2.9.1.2284",
+      "catalog_item_id": "1737b72081d443c2916134b8f5ecd678",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "ad100d9c175c4c7ebb7dc60fbcee1232",
+        "update_type": "MINOR"
+      },
+      "namespace": "25d726130e6c4fe68f88e71933bda955",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567IzEcSfmM6sTkjd11UruvCklB",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-03-21T17:52:02.101Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "TerraformingMars"
+      }
+    },
+    "description": "Terraforming Mars",
+    "developer": "Asmodee Digital",
+    "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-28T09:31:21.097Z",
+        "customAttributes": {},
+        "description": "Terraforming Mars",
+        "developer": "Asmodee Digital",
+        "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+        "endOfSupport": false,
+        "entitlementName": "852bb745bded4150913fd702eb453f71",
+        "entitlementType": "EXECUTABLE",
+        "id": "852bb745bded4150913fd702eb453f71",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Terraforming Mars Terraforming Mars - Prelude Offer",
+            "height": 1440,
+            "md5": "b1fd92fbfe6ec24d6df4164a869bd04a",
+            "size": 416278,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-04-22T01:26:54.893Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/terraforming-mars-terraforming-mars--prelude-offer-1gvys.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Terraforming Mars Terraforming Mars - Prelude Offer",
+            "height": 1600,
+            "md5": "dd24b5d590688075622caa8d20ee04ab",
+            "size": 190018,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-04-05T14:46:37.020Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/download-terraforming-mars-terraforming-mars--prelude-offer-6lapy.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-24T08:07:40.230Z",
+        "mainGameItem": {
+          "id": "1737b72081d443c2916134b8f5ecd678",
+          "namespace": "25d726130e6c4fe68f88e71933bda955",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1737b72081d443c2916134b8f5ecd678",
+            "namespace": "25d726130e6c4fe68f88e71933bda955",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "25d726130e6c4fe68f88e71933bda955",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Terraforming Mars",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-28T09:32:17.536Z",
+        "customAttributes": {},
+        "description": "Terraforming Mars",
+        "developer": "Asmodee Digital",
+        "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+        "endOfSupport": false,
+        "entitlementName": "311d96cb8d4748edacabeb99feb8fdd1",
+        "entitlementType": "EXECUTABLE",
+        "id": "311d96cb8d4748edacabeb99feb8fdd1",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Terraforming Mars Terraforming Mars - Hellas & Elysium Offer",
+            "height": 1440,
+            "md5": "25fe9a1ef42847ec896551a20a078569",
+            "size": 607198,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-04-22T00:38:02.508Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/terraforming-mars-terraforming-mars--hellas-and-elysium-offer-17aky.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Terraforming Mars Terraforming Mars - Hellas & Elysium Offer",
+            "height": 1600,
+            "md5": "3c9a2b34e2ceef00919244ba67083584",
+            "size": 315333,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-04-22T00:38:10.903Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/download-terraforming-mars-terraforming-mars--hellas-and-elysium-offer-5yp13.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-24T08:07:40.230Z",
+        "mainGameItem": {
+          "id": "1737b72081d443c2916134b8f5ecd678",
+          "namespace": "25d726130e6c4fe68f88e71933bda955",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1737b72081d443c2916134b8f5ecd678",
+            "namespace": "25d726130e6c4fe68f88e71933bda955",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "25d726130e6c4fe68f88e71933bda955",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Terraforming Mars",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-27T13:04:20.587Z",
+        "description": "Terraforming Mars - Venus Next",
+        "developer": "Asmodee Digital",
+        "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+        "endOfSupport": false,
+        "entitlementName": "db607aaacee0491b9bebfc54dbcecec3",
+        "entitlementType": "EXECUTABLE",
+        "id": "db607aaacee0491b9bebfc54dbcecec3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Terraforming Mars Terraforming Mars - Venus Next Offer",
+            "height": 1440,
+            "md5": "1588d69f82c1e96eb468f12130788b64",
+            "size": 267682,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-10-12T11:58:05.917Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/terraforming-mars-o4mve.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Terraforming Mars Terraforming Mars - Venus Next Offer",
+            "height": 1600,
+            "md5": "538a27f9e650bf0221cd175ff30a319f",
+            "size": 161909,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-10-12T11:58:08.740Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/terraforming-mars-bwxcw.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-24T08:07:40.230Z",
+        "mainGameItem": {
+          "id": "1737b72081d443c2916134b8f5ecd678",
+          "namespace": "25d726130e6c4fe68f88e71933bda955",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1737b72081d443c2916134b8f5ecd678",
+            "namespace": "25d726130e6c4fe68f88e71933bda955",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "25d726130e6c4fe68f88e71933bda955",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Terraforming Mars - Venus Next",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-17T10:17:53.880Z",
+        "description": "El Original Promo Pack incluye 7 cartas: 3 corporaciones y 4 proyectos.",
+        "developer": "Asmodee Digital",
+        "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+        "endOfSupport": false,
+        "entitlementName": "8a6f9bfa15bf424bb0310be1e491b805",
+        "entitlementType": "EXECUTABLE",
+        "id": "8a6f9bfa15bf424bb0310be1e491b805",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Terraforming Mars Terraforming Mars - Original Promo Pack Offer",
+            "height": 1440,
+            "md5": "320eedb2f92ae0e4b1142398aa8b9472",
+            "size": 520009,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-27T14:01:00.882Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/terraforming-mars-of97f.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Terraforming Mars Terraforming Mars - Original Promo Pack Offer",
+            "height": 1600,
+            "md5": "ddb34af2d7e775b8d66829b8efd1cb6e",
+            "size": 288242,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-27T14:01:00.740Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/terraforming-mars-1g385.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-24T08:07:40.230Z",
+        "mainGameItem": {
+          "id": "1737b72081d443c2916134b8f5ecd678",
+          "namespace": "25d726130e6c4fe68f88e71933bda955",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1737b72081d443c2916134b8f5ecd678",
+            "namespace": "25d726130e6c4fe68f88e71933bda955",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "25d726130e6c4fe68f88e71933bda955",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Terraforming Mars - Original Promo Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-17T10:18:17.275Z",
+        "description": "El Big Box Promo Pack contiene 18 proyectos nuevos, 2 flamantes corporaciones y 3 variantes de cartas ya existentes.",
+        "developer": "Asmodee Digital",
+        "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+        "endOfSupport": false,
+        "entitlementName": "55f9602a6fcc4419a8db4fb296976684",
+        "entitlementType": "EXECUTABLE",
+        "id": "55f9602a6fcc4419a8db4fb296976684",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Terraforming Mars Terraforming Mars - Big Box Promo Pack Offer",
+            "height": 1440,
+            "md5": "10d7032ef7e3f9ec8f7ddd4115fd11c3",
+            "size": 1636859,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-01-07T14:47:12.614Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/terraforming-mars-1v1kl.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Terraforming Mars Terraforming Mars - Big Box Promo Pack Offer",
+            "height": 1600,
+            "md5": "cd2a249e3a8e00536aba414baff8d8b8",
+            "size": 856159,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-01-07T14:47:12.740Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/terraforming-mars-vdlfi.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-24T08:07:40.230Z",
+        "mainGameItem": {
+          "id": "1737b72081d443c2916134b8f5ecd678",
+          "namespace": "25d726130e6c4fe68f88e71933bda955",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1737b72081d443c2916134b8f5ecd678",
+            "namespace": "25d726130e6c4fe68f88e71933bda955",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "25d726130e6c4fe68f88e71933bda955",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Terraforming Mars - Big Box Promo Pack",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "1737b72081d443c2916134b8f5ecd678",
+    "entitlementType": "EXECUTABLE",
+    "id": "1737b72081d443c2916134b8f5ecd678",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Terraforming Mars Offer",
+        "height": 1440,
+        "md5": "beb2cd1108b0478a7d35637dfe74b83c",
+        "size": 320741,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-01-12T16:33:15.415Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/terraforming-mars-1a3v5.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Terraforming Mars Offer",
+        "height": 1600,
+        "md5": "bba13a3f38af056036252925b51b3d7b",
+        "size": 212177,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-01-12T16:33:15.218Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/terraforming-mars-1j8vx.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-30T13:59:27.389Z",
+    "mainGameItemList": [],
+    "namespace": "25d726130e6c4fe68f88e71933bda955",
+    "releaseInfo": [
+      {
+        "appId": "582c8940f499450d9033840efe5937a6",
+        "id": "e46baebb45614b389ad25e09fd831235",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Terraforming Mars",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

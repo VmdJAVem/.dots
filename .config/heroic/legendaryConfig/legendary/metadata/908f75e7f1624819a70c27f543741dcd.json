@@ -1,0 +1,112 @@
+{
+  "app_name": "908f75e7f1624819a70c27f543741dcd",
+  "app_title": "Fallout Tactics: Brotherhood of Steel",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "908f75e7f1624819a70c27f543741dcd",
+      "asset_id": "908f75e7f1624819a70c27f543741dcd",
+      "build_version": "1.4",
+      "catalog_item_id": "025bf6c6f8f54e9ba1853e2a81dfd896",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b90be973f6e74975ac1a6ff15dbfd0b3",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi456739vAJkTYpFk26SbiM3NR2o0p",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-09-08T20:48:31.660Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "fallouttactics"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "b90be973f6e74975ac1a6ff15dbfd0b3"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Fallout Tactics: Brotherhood of Steel",
+    "developer": "Bethesda Softworks LLC",
+    "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+    "endOfSupport": false,
+    "entitlementName": "025bf6c6f8f54e9ba1853e2a81dfd896",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && bethesda)"
+    ],
+    "id": "025bf6c6f8f54e9ba1853e2a81dfd896",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "36cd52e1846a29ad9f0cf60dff64d210",
+        "size": 893579,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-10-06T10:48:49.645Z",
+        "url": "https://cdn1.epicgames.com/item/b90be973f6e74975ac1a6ff15dbfd0b3/EGS_FalloutTacticsBrotherhoodofSteel_BethesdaGameStudios_S1_2560x1440-36cd52e1846a29ad9f0cf60dff64d210",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "4aa1e4a2770b319a549b91f2b52ddf67",
+        "size": 623582,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-10-06T10:48:51.824Z",
+        "url": "https://cdn1.epicgames.com/item/b90be973f6e74975ac1a6ff15dbfd0b3/EGS_FalloutTacticsBrotherhoodofSteel_BethesdaGameStudios_S2_1200x1600-4aa1e4a2770b319a549b91f2b52ddf67",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-02-16T20:46:08.737Z",
+    "mainGameItemList": [],
+    "namespace": "b90be973f6e74975ac1a6ff15dbfd0b3",
+    "releaseInfo": [
+      {
+        "appId": "908f75e7f1624819a70c27f543741dcd",
+        "id": "15e3b8fe92d14929937c8f3b8bbfbde6",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Fallout Tactics: Brotherhood of Steel",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

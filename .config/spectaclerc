@@ -1,0 +1,9 @@
+[GuiConfig]
+captureMode=0
+
+[ImageSave]
+lastImageSaveLocation=file:///home/vmdjavem/Images/Capturas de pantalla/Screenshot_20250415_170108.png
+translatedScreenshotsFolder=Capturas de pantalla
+
+[VideoSave]
+translatedScreencastsFolder=Videocapturas de pantalla

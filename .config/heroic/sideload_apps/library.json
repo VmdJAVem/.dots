@@ -1,0 +1,40 @@
+{
+	"games": [
+		{
+			"runner": "sideload",
+			"app_name": "tbhWercQ8m1gTSVqCEncDK",
+			"title": "Fallout New Vegas",
+			"install": {
+				"executable": "/home/vmdjavem/Games/Heroic/Prefixes/default/Fallout New Vegas/drive_c/Program Files/Fallout - New Vegas/FalloutNVLauncher.exe",
+				"platform": "Windows",
+				"is_dlc": false
+			},
+			"folder_name": "/home/vmdjavem/Games/Heroic/Prefixes/default/Fallout New Vegas/drive_c/Program Files/Fallout - New Vegas",
+			"art_cover": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/94267a1be8bc63568117c29b78bd5250.png",
+			"is_installed": true,
+			"art_square": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/94267a1be8bc63568117c29b78bd5250.png",
+			"canRunOffline": true,
+			"browserUrl": "",
+			"customUserAgent": "",
+			"launchFullScreen": false
+		},
+		{
+			"runner": "sideload",
+			"app_name": "4FyQAgKuSSwTKN1Nsi5rWV",
+			"title": "Hearts of irons IV",
+			"install": {
+				"executable": "/home/vmdjavem/Games/Heroic/Prefixes/default/Hearts of irons IV/drive_c/Hearts of Iron IV/dowser.exe",
+				"platform": "Windows",
+				"is_dlc": false
+			},
+			"folder_name": "/home/vmdjavem/Games/Heroic/Prefixes/default/Hearts of irons IV/drive_c/Hearts of Iron IV",
+			"art_cover": "https://cdn2.steamgriddb.com/grid/b30b7cec4c8f4da9191a792db5e3ac10.png",
+			"is_installed": true,
+			"art_square": "https://cdn2.steamgriddb.com/grid/b30b7cec4c8f4da9191a792db5e3ac10.png",
+			"canRunOffline": true,
+			"browserUrl": "",
+			"customUserAgent": "",
+			"launchFullScreen": false
+		}
+	]
+}

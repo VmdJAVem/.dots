@@ -1,0 +1,76 @@
+* {
+  font: "JetBrainsMono Nerd Font 10";
+  background: #292625;        // Your base (dark)
+  foreground: #d4c5be;        // Soft light text
+  selected:   #88618A;        // Your highlight (muted violet)
+  alt:        #8C6370;        // Alt rows
+  accent:     #A76A55;        // Main text / accent
+  inactive:   #2C3735;
+  urgent:     #8D606E;
+
+  border: 0;
+  padding: 10px;
+  spacing: 5px;
+  border-radius: 6px;
+}
+
+window {
+  background-color: @background;
+  border: 2px;
+  border-color: #7E5E53;
+  padding: 15px;
+}
+
+mainbox {
+  children: [inputbar, listview];
+  spacing: 10px;
+}
+
+inputbar {
+  background-color: @inactive;
+  children: [prompt, entry];
+  border-radius: 6px;
+  padding: 6px 10px;
+}
+
+prompt {
+  text-color: #7E5E53;
+  padding: 0px 8px;
+}
+
+entry {
+  text-color: @foreground;
+  expand: true;
+}
+
+listview {
+  lines: 10;
+  spacing: 6px;
+  dynamic: true;
+  scrollbar: false;
+  border: 0;
+}
+
+element {
+  background-color: transparent;
+  text-color: @accent;
+  padding: 6px 10px;
+  border-radius: 5px;
+}
+
+element selected {
+  background-color: @selected;
+  text-color: @background;
+}
+
+element alternate {
+  background-color: @alt;
+  text-color: #ffffff;
+}
+
+element urgent {
+  background-color: @urgent;
+  text-color: @background;
+}
+
+

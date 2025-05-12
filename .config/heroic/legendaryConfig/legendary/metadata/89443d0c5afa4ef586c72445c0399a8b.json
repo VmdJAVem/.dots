@@ -1,0 +1,93 @@
+{
+  "app_name": "89443d0c5afa4ef586c72445c0399a8b",
+  "app_title": "Wizard of Legend",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "89443d0c5afa4ef586c72445c0399a8b",
+      "asset_id": "89443d0c5afa4ef586c72445c0399a8b",
+      "build_version": "1.23.4a",
+      "catalog_item_id": "24cb36289be34527b528cda87cdc925c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3ddf885f15c845e08a9f585a175958cf"
+      },
+      "namespace": "194cda74f9024d67860202683a3dab18",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-12-18T20:10:01.537Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "GameData.gd,\nGameDataChaos.gd,\nGameSettings.gd"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Contingent99/Wizard of Legend/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "WizardofLegend"
+      }
+    },
+    "description": "Wizard of Legend es un videojuego de mazmorras vertiginoso que pone el \u00e9nfasis en el combate m\u00e1gico din\u00e1mico.",
+    "developer": "Humble Bundle",
+    "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+    "endOfSupport": false,
+    "entitlementName": "24cb36289be34527b528cda87cdc925c",
+    "entitlementType": "EXECUTABLE",
+    "id": "24cb36289be34527b528cda87cdc925c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Wizard of Legend Offer",
+        "height": 1440,
+        "md5": "cd096b43fcb321b119a954660dab9dac",
+        "size": 3838779,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-10-28T20:25:24.777Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/b1d735eb93de4c6da325aa9a6db9a5a5/wizard-of-legend-13r1z.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Wizard of Legend Offer",
+        "height": 1600,
+        "md5": "94dc8e9f4d8141e5291c145861412597",
+        "size": 2796845,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-10-28T20:25:26.075Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/b1d735eb93de4c6da325aa9a6db9a5a5/wizard-of-legend-tkwu2.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-12-18T20:10:01.537Z",
+    "longDescription": "<!--image-->\n![Wizard of Legend-1wrl7](https://cdn1.epicgames.com/spt-assets/b1d735eb93de4c6da325aa9a6db9a5a5/wizard-of-legend-1wrl7.gif)\n<!--textBlock-->\n<!--text-->\nWizard of Legend es un videojuego de mazmorras vertiginoso que pone el \u00e9nfasis en el combate m\u00e1gico din\u00e1mico. El uso de hechizos en combinaci\u00f3n con una incre\u00edble velocidad de movimiento te permitir\u00e1n concatenar conjuros y as\u00ed desatar combinaciones devastadoras contra tus enemigos.\n<!--textBlock-->\n<!--title-->\n# Gameplay\n<!--text-->\n\u00a1\u00c1brete camino a trav\u00e9s de cada desaf\u00edo derrotando a poderosos enemigos conjurados! \u00a1Recoge valiosos hechizos y reliquias y construye tu arsenal m\u00e1gico para adaptarlo a tu estilo de juego! \u00a1Logra dominar la magia encadenando hechizos para crear combinaciones devastadoras! \u00a1Enfr\u00e9ntate y derrota a los miembros del consejo en un combate m\u00e1gico para convertirte en un mago de leyenda!\n<!--image-->\n![Wizard of Legend-1v5zp](https://cdn1.epicgames.com/spt-assets/b1d735eb93de4c6da325aa9a6db9a5a5/wizard-of-legend-1v5zp.gif)\n<!--textBlock-->\n<!--title-->\n# Tons of Unlockables\n<!--text-->\n\u00a1Desbloquea m\u00e1s de 100 hechizos \u00fanicos y descubre poderosas combinaciones! Una gran amalgama de hechizos elementales te permitir\u00e1 crear una mano que se adec\u00fae a tu estilo de juego. Ad\u00e9ntrate directamente en el combate o deja que tus secuaces hagan el trabajo por ti. \u00a1T\u00fa decides!\n<!--textBlock-->\n<!--title-->\n# Story\n<!--text-->\nCada a\u00f1o, en el Reino de Lanova, el Consejo de Magia celebra las Pruebas del Caos, un conjunto de desaf\u00edos m\u00e1gicos presentados por sus miembros m\u00e1s fuertes. \u00a1Los concursantes que completen con \u00e9xito todos los desaf\u00edos y demuestren una hechicer\u00eda superior obtienen el derecho a convertirse en un Mago de Leyenda!\n<!--image-->\n![Wizard of Legend-3wspv](https://cdn1.epicgames.com/spt-assets/b1d735eb93de4c6da325aa9a6db9a5a5/wizard-of-legend-3wspv.gif)\n<!--textBlock-->\n<!--title-->\n# Local Co-op\n<!--text-->\nInvita a un amigo y participen juntos en la Competici\u00f3n del Caos, gracias al modo cooperativo local de Wizard of Legend. No pierdas ni un segundo y ataca directamente, o trama tu estrategia para equipar a tus hechiceros con objetos y hechizos que complementen el estilo de juego de ambos. La batalla contin\u00faa aun cuando tu amigo haya ca\u00eddo. Usa todas tus habilidades para derrotar a varios enemigos y as\u00ed tu camarada tendr\u00e1 la posibilidad de volver a la batalla.\n<!--textBlock-->\n<!--title-->\n# Features\n<!--text-->\n- Combate de lanzamiento de hechizos de ritmo r\u00e1pido - Usa poderosas combinaciones de hechizos para destruir a tus enemigos. - Los niveles generados procedimentalmente significan un nuevo desaf\u00edo cada vez. - M\u00e1s de 100 hechizos y elementos \u00fanicos que se adaptan a tu estilo de juego\n",
+    "mainGameItemList": [],
+    "namespace": "194cda74f9024d67860202683a3dab18",
+    "releaseInfo": [
+      {
+        "appId": "89443d0c5afa4ef586c72445c0399a8b",
+        "id": "5185601538b9405aa4be626d35ceab8e",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Wizard of Legend",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

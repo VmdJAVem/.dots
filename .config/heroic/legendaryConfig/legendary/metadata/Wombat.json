@@ -1,0 +1,1057 @@
+{
+  "app_name": "Wombat",
+  "app_title": "World War Z",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Wombat",
+      "asset_id": "Wombat",
+      "build_version": "2.41",
+      "catalog_item_id": "ec6ed5344a904ea78729113d80818d18",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "wombat",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567eU1fzDmyRRbjdLMqROatGadK",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2018-11-30T01:30:42.994Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudExcludeList": {
+        "type": "STRING",
+        "value": "logs/,log.flg,video.dat,sound.dat"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Saber/WWZ/client/storage/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "WorldWarZ"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "8000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "wombat"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "World War Z",
+    "developer": "Saber Interactive",
+    "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-09-14T14:15:33.378Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Wombat Aftermath DLC02 Audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "fe9e844df95d47638457645f8ed881b6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fe9e844df95d47638457645f8ed881b6",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-12-18T11:33:50.747Z",
+        "longDescription": "Wombat Aftermath DLC02 Audience",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Wombat Aftermath DLC02 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "dlc"
+          }
+        ],
+        "creationDate": "2020-04-09T00:28:43.827Z",
+        "description": "Map Pack 1 DLC",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "66e96f5638974479be08fc2d322c27d9",
+        "entitlementType": "ENTITLEMENT",
+        "eulaIds": [],
+        "id": "66e96f5638974479be08fc2d322c27d9",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-12-09T14:36:51.132Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Map Pack 1 DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-03T17:07:26.422Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Wombat Aftermath Upgrade Audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "2173836271d74fdc8c663d28fd80c79f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2173836271d74fdc8c663d28fd80c79f",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-12-09T14:36:51.127Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Wombat Aftermath Upgrade Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-10-13T16:03:45.130Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Raven Weapons Skin Pack audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "f9c0238a13ff40ff8742147a59e46dc4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f9c0238a13ff40ff8742147a59e46dc4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-12-17T16:11:04.021Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Raven Weapons Skin Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-03T17:16:25.482Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Wombat Aftermath DLC01 Audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "ff9ff629f59744169bbe093e5bb2fb43",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ff9ff629f59744169bbe093e5bb2fb43",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-12-18T11:33:50.748Z",
+        "longDescription": "Wombat Aftermath DLC01 Audience",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Wombat Aftermath DLC01 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "dlc"
+          }
+        ],
+        "creationDate": "2020-04-09T00:28:21.536Z",
+        "description": "Last Aid - weapon skin pack bundle",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "79f6b0fd2ae74add855fe38ed4b1e392",
+        "entitlementType": "ENTITLEMENT",
+        "eulaIds": [],
+        "id": "79f6b0fd2ae74add855fe38ed4b1e392",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-09-21T13:00:30.165Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Last Aid",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "dlc"
+          }
+        ],
+        "creationDate": "2020-04-10T18:24:15.084Z",
+        "description": "Last Aid - Weapon Skin Pack",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "7287bd04803840ff89ae508caed3e478",
+        "entitlementType": "ENTITLEMENT",
+        "eulaIds": [],
+        "id": "7287bd04803840ff89ae508caed3e478",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-12-09T14:36:51.134Z",
+        "longDescription": "Last Aid - Weapon Skin Pack",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Last Aid - Weapon Skin Pack",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-24T14:59:28.124Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "WombatDLC  Upgrade Audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "d7933b221e924059a1a9454488848d15",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d7933b221e924059a1a9454488848d15",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 680,
+            "md5": "ff7696791c5ccdb6edd09d78159289c2",
+            "size": 69104,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-05-04T14:26:33.340Z",
+            "url": "https://cdn1.epicgames.com/wombat/item/WWZ-GOTY-Edition_EpicGames_Desktop-Vertical-510x680-updatev1-510x680-ff7696791c5ccdb6edd09d78159289c2.jpg",
+            "width": 510
+          },
+          {
+            "height": 766,
+            "md5": "3addca3f7160d1cc98bcd9abe2221e6d",
+            "size": 617188,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-05-04T14:26:58.377Z",
+            "url": "https://cdn1.epicgames.com/wombat/item/WWZ-GOTY-Edition_EpicGames_Desktop-Horizontal-1360x766-updatev1-1360x766-3addca3f7160d1cc98bcd9abe2221e6d.jpg",
+            "width": 1360
+          },
+          {
+            "height": 404,
+            "md5": "816f6c7f1140d5d08750de13e3d81d9c",
+            "size": 80166,
+            "type": "ESRB",
+            "uploadedDate": "2020-05-04T14:28:32.198Z",
+            "url": "https://cdn1.epicgames.com/wombat/item/Rating_WWZ-842x404-816f6c7f1140d5d08750de13e3d81d9c-842x404-816f6c7f1140d5d08750de13e3d81d9c.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2024-12-09T14:36:51.136Z",
+        "longDescription": "WombatDLC  Upgrade Audience",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "WombatDLC  Upgrade Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-11-22T16:38:44.552Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Miami Weapons Pack audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "72ec1218699843bfb263923565c622f7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "72ec1218699843bfb263923565c622f7",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-12-11T15:37:39.257Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Miami Weapons Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-09T20:25:51.318Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "wombat Rat DLC audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "1fe608c094464e1b8752890b8fdc7a65",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1fe608c094464e1b8752890b8fdc7a65",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-12-17T16:17:03.421Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "wombat Rat DLC audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-06-13T18:58:07.066Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RDLC",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "dbbccf4636e74c4888d65cef85288e65",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dbbccf4636e74c4888d65cef85288e65",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-12-17T16:31:00.275Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RDLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-09-25T16:31:44.288Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Pre-Apocalypse Skins audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "de1982b52da0440c857e6a786d21ed4c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "de1982b52da0440c857e6a786d21ed4c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-12-11T16:03:25.881Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Pre-Apocalypse Skins audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-09-25T16:31:19.752Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Valley of the Zeke audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "86738d0bcf2e41b88ff6ad9cd854f654",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "86738d0bcf2e41b88ff6ad9cd854f654",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-12-11T15:49:57.998Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Valley of the Zeke audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-08-01T12:19:34.678Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Burning Skulls Weapon Skins audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "519f315d21e24d5597a12c2b25996800",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "519f315d21e24d5597a12c2b25996800",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-12-09T17:28:35.682Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Burning Skulls Weapon Skins audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-02T16:20:23.042Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Desert DLC",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "86be856b00e846db835c8707262f72d0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "86be856b00e846db835c8707262f72d0",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-07-11T12:22:38.256Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Desert DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-08-05T12:22:21.108Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World War Z: Aftermath - Golden Bloom Weapon Skins",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "65d7c70acc31484a85ae56d60f5032d1",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "65d7c70acc31484a85ae56d60f5032d1",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "4fd8560cf7a7cacf08afe11e63fade26",
+            "size": 453040,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-09-24T10:47:07.544Z",
+            "url": "https://cdn1.epicgames.com/offer/wombat/EGS_WorldWarZAftermathGoldenBloomWeaponSkins_SaberInteractive_DLC_S1_2560x1440-4fd8560cf7a7cacf08afe11e63fade26",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "ecfe9716f260d5da1bd7f421f6ccba43",
+            "size": 146162,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-09-24T10:47:18.969Z",
+            "url": "https://cdn1.epicgames.com/offer/wombat/EGS_WorldWarZAftermathGoldenBloomWeaponSkins_SaberInteractive_DLC_S2_1200x1600-ecfe9716f260d5da1bd7f421f6ccba43",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-12-17T16:31:55.460Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World War Z: Aftermath - Golden Bloom Weapon Skins",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-09-25T11:09:51.277Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World War Z - Vegas Skin Pack",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "d36fa5b5809f4b89885baf98726a8d40",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d36fa5b5809f4b89885baf98726a8d40",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "7e89b0d637bff60b613e58d2cc3443b2",
+            "size": 702788,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-27T16:02:48.342Z",
+            "url": "https://cdn1.epicgames.com/item/wombat/EGS_WorldWarZVegasSkinPack_SaberInteractive_DLC_S1_2560x1440-7e89b0d637bff60b613e58d2cc3443b2",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "ac306de3c44d20d51f9a45b45c6b2016",
+            "size": 349821,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-27T16:02:51.875Z",
+            "url": "https://cdn1.epicgames.com/item/wombat/EGS_WorldWarZVegasSkinPack_SaberInteractive_DLC_S2_1200x1600-ac306de3c44d20d51f9a45b45c6b2016",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-12-05T12:53:27.086Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World War Z - Vegas Skin Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-09-25T11:08:27.273Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World War Z - Las Vegas Episode",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "9581272271bc4d7cac685db028e71f6e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9581272271bc4d7cac685db028e71f6e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "1555028d9b62f5348df49ad07b4301f0",
+            "size": 712636,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-27T16:14:09.332Z",
+            "url": "https://cdn1.epicgames.com/item/wombat/EGS_WorldWarZLasVegasEpisode_SaberInteractive_DLC_S1_2560x1440-1555028d9b62f5348df49ad07b4301f0",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "8f45e0b69430aeffb89fc9906e3e5a34",
+            "size": 445044,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-27T16:14:13.289Z",
+            "url": "https://cdn1.epicgames.com/item/wombat/EGS_WorldWarZLasVegasEpisode_SaberInteractive_DLC_S2_1200x1600-8f45e0b69430aeffb89fc9906e3e5a34",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-01-02T15:10:42.566Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World War Z - Las Vegas Episode",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "ec6ed5344a904ea78729113d80818d18",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "ec6ed5344a904ea78729113d80818d18",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 702,
+        "md5": "43415cb8226261eba181a914f0bc85bc",
+        "size": 232966,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-02-20T17:57:08.692Z",
+        "url": "https://cdn1.epicgames.com/item/wombat/landscapewwz-aftermath-1248x702_1248x702-43415cb8226261eba181a914f0bc85bc",
+        "width": 1248
+      },
+      {
+        "height": 1600,
+        "md5": "1c62343365f63ed408e5906b88141d7e",
+        "size": 223493,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-02-20T17:57:28.541Z",
+        "url": "https://cdn1.epicgames.com/item/wombat/portrait-wwzaftermath-1200x1600_1200x1600-1c62343365f63ed408e5906b88141d7e",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-02-20T17:57:42.143Z",
+    "mainGameItemList": [],
+    "namespace": "wombat",
+    "releaseInfo": [
+      {
+        "appId": "Wombat",
+        "compatibleApps": [],
+        "dateAdded": "2018-11-30T00:00:00.000Z",
+        "id": "6945de4bcee9468b869efc68898704c5",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "World War Z",
+    "unsearchable": true
+  },
+  "sidecar": null
+}
