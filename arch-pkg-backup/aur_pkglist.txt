@@ -1,6 +1,7 @@
 appmenu-glib-translator-git
 aylurs-gtk-shell-git
 cbonsai
+darkly-bin
 display3d
 fl-studio-integrator
 floorp-bin
@@ -30,12 +31,18 @@ libastal-river-git
 libastal-tray-git
 libastal-wireplumber-git
 libcava
+mommy
 nerd-fonts-noto-sans-mono
 openrgb-git
 proton-ge-custom-bin
 protontricks
+python-imageio-ffmpeg
 python-pywalfox
+python-screeninfo
 python-vdf
+sddm-theme-sugar-candy-git
+shellspec
 swengine
 ttf-ms-fonts
 tty-clock
+waypaper
