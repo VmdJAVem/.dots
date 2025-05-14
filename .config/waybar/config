@@ -4,26 +4,13 @@
   "height": 34,
   "spacing": 4,
   "modules-left": [
+    "hyprland/workspaces",
     "clock#time",
     "clock#date",
-    "hyprland/language",
     "custom/arrow1",
-    "custom/pacman",
-    "custom/arrow2",
     "custom/playerctl",
 ],
-  "modules-center": [
-    "custom/arrow4",
-    "hyprland/workspaces",
-    "custom/arrow5"
-  ],
   "modules-right": [
-    "custom/arrow6",
-    "custom/cpugovernor",
-    "custom/arrow7",
-    "cpu",
-    "custom/gpu",
-    "custom/arrow8",
     "network",
     "bluetooth",
     "pulseaudio",
