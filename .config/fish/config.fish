@@ -10,7 +10,9 @@ alias clock='tty-clock -c -s -b -f "%H:%M:%S" -C 3 -B "#6a2c8d" -t'
 alias cowsay='fortune | command cowsay -f stegosaurus'
 alias ff='fastfetch'
 alias config='/usr/bin/git --git-dir=$HOME/poo --work-tree=$HOME'
-
+function fish_greeting
+    fortune -a
+end
 # Prompt customization
 function fish_prompt
     echo -n " λ "
@@ -23,6 +25,10 @@ function fish_prompt
         echo -n " "
     end
 end
+function fish_right_prompt
+    # Use printf to right-align mommy's output dynamically
+    printf "%*s" $COLUMNS (mommy -1 -s $status)
+end
 # Homebrew setup
 eval (/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 
@@ -32,5 +38,5 @@ fzf --fish | source
 # PATH configuration
 set -gx PATH $PATH /home/vmdjavem/.local/bin
 
-# Start neofetch
-neofetch
+# Start fastfetch
+ff
