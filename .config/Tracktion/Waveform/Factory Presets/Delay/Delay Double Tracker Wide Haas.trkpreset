@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="stereoDelay" name="Double Tracker Wide Haas"
+        tags="Plugin" factory="1">
+  <PLUGIN type="stereoDelay" windowLocked="1" id="1136" enabled="1" feedbackL="0.0"
+          delaySyncOffL="0.0" sync="0.0" panL="-1.0" panR="0.9999999403953552"
+          windowX="493" windowY="166" delaySyncOffR="30.0" mix="1.0" feedbackR="0.0"
+          crossL="0.0" crossR="0.0" lowcut="302.0" highcut="10411.5" volL="-2.339999675750732"
+          volR="-0.3591560125350952">
+    <MACROPARAMETERS id="1137"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.0" height="4.0" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

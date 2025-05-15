@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Rubber Bass WMF" tags="Plugin|Analog|Bass" description="Lush bass sound"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          waveShape1="2" pulseWidth1="0.37557062506675720215" tune1="-12.00000000000000000000"
+          ampVelocity="0.00000000000000000000" masterLevel="-10.01844024658203125000"
+          ampAttack="0.00100000004749745131" ampDecay="51.29906845092773437500"
+          ampSustain="0.00000000000000000000" waveShape2="2" pulseWidth2="0.15096688270568847656"
+          fineTune2="-1.61562347412109375000" level2="0.00000000000000000000"
+          ampRelease="0.09198281168937683105" filterSlope="24" filterAmount="0.35859370231628417969"
+          filterAttack="0.00000000000000000000" filterDecay="0.95403963327407836914"
+          filterSustain="21.21211814880371093750" filterVelocity="89.77812194824218750000"
+          voiceMode="1" legato="19.17187500000000000000" waveShape3="4"
+          tune3="-24.00000000000000000000" level3="-20.63652038574218750000"
+          filterResonance="64.78125000000000000000" filterRelease="0.11612161248922348022"
+          filterFreq="42.29922866821289062500">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="0.25209376215934753418"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

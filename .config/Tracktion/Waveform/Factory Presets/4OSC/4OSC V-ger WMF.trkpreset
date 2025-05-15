@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: V-ger WMF" tags="Plugin|Analog|Poly" description="Narrow pulse wave keyboard sound"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          ampAttack="0.00100000004749745131" ampDecay="8.88604164123535156250"
+          ampSustain="0.00000000000000000000" ampRelease="0.04861049354076385498"
+          ampVelocity="31.03125000000000000000" filterAttack="0.00000000000000000000"
+          filterDecay="7.24474096298217773438" filterSustain="0.00000000000000000000"
+          filterRelease="1.11272156238555908203" filterAmount="0.49731242656707763672"
+          waveShape1="2" filterFreq="61.53281784057617187500" masterLevel="-7.88391113281250000000"
+          fineTune1="0.00000000000000000000" filterVelocity="34.26718902587890625000"
+          tune1="-12.00000000000000000000" filterResonance="13.36249542236328125000"
+          filterSlope="24" pulseWidth1="0.05802000313997268677" voices1="4"
+          detune1="0.16347655653953552246" spread1="100.00000000000000000000"
+          filterKey="0.00000000000000000000" waveShape2="4" tune2="-12.00000000000000000000"
+          level2="-7.21604919433593750000" voices2="2" spread2="100.00000000000000000000"
+          detune2="0.16257031261920928955" lfoRate1="3.49334454536437988281"
+          lfoWaveShape1="2" reverbOn="1" reverbMix="0.06176563352346420288"
+          reverbWidth="1.00000000000000000000" reverbSize="0.67068749666213989258"
+          reverbDamping="0.61837500333786010742">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="-0.31564062833786010742"/>
+      <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.04657812789082527161"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

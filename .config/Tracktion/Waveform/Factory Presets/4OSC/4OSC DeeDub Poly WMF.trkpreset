@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: DeeDub Poly WMF" tags="Plugin|Digital|Warm|Bell|Vocal"
+        description="Warm digital pad sound" type="plugin" subtype="4osc"
+        presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          waveShape1="3" ampAttack="0.00100000004749745131" ampDecay="28.21807479858398437500"
+          ampSustain="24.24242401123046875000" ampRelease="0.40896996855735778809"
+          filterSlope="24" filterFreq="72.76525115966796875000" filterKey="30.62656211853027343750"
+          filterResonance="18.25781059265136718750" filterAmount="0.38434386253356933594"
+          filterDecay="5.85606384277343750000" filterSustain="0.00000000000000000000"
+          ampVelocity="36.10625076293945312500" filterRelease="1.97162902355194091797"
+          filterAttack="0.00000000000000000000" delayFeedback="-53.54360580444335937500"
+          delayMix="0.16107812523841857910" delay="0.12500000000000000000"
+          voices1="4" detune1="0.28346094489097595215" waveShape2="4" pulseWidth2="0.03733281046152114868"
+          level1="-3.44812011718750000000" tune1="0.00000000000000000000"
+          level2="0.00000000000000000000" voices2="2" detune2="0.17407029867172241211"
+          chorusMix="0.70870310068130493164" reverbMix="0.32164061069488525391"
+          reverbSize="0.60079687833786010742" reverbDamping="0.67179685831069946289"
+          reverbWidth="1.00000000000000000000" spread1="0.00000000000000000000"
+          lfoRate1="1.63620662689208984375" chosusSpeed="0.64700317382812500000"
+          chorusDepth="3.93187952041625976562" chrousWidth="0.66012501716613769531"
+          fineTune2="0.00000000000000000000" lfoWaveShape1="2" filterVelocity="31.64843940734863281250"
+          tune2="0.00000000000000000000" lfoRate2="0.25000858306884765625"
+          lfoDepth2="1.00000000000000000000" lfoWaveShape2="2" modAttack1="0.00000000000000000000"
+          modDecay1="1.81897819042205810547" modSustain1="0.00000000000000000000"
+          modRelease1="0.72372996807098388672" chorusOn="1" masterLevel="-6.00000000000000000000"
+          reverbOn="1" pan1="0.00000000000000000000" spread2="0.00000000000000000000"
+          tune3="16.00000000000000000000" level3="-21.64245605468750000000"
+          detune3="0.17287500202655792236" waveShape3="4" voices3="2" tune4="31.00000000000000000000"
+          level4="-30.92752838134765625000" detune4="0.16571874916553497314"
+          waveShape4="3" voices4="2" lfoDepth1="0.49842187762260437012"
+          modAttack2="0.00000000000000000000" modDecay2="0.16267777979373931885"
+          modSustain2="0.00000000000000000000" modRelease2="0.26712197065353393555">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="lfoDepth2" modItem="cc1" modDepth="0.51762503385543823242"/>
+      <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.49315625429153442383"/>
+      <MODMATRIXITEM modParam="level3" modItem="env1" modDepth="0.38953125476837158203"/>
+      <MODMATRIXITEM modParam="fineTune4" modItem="lfo1" modDepth="0.14715625345706939697"/>
+      <MODMATRIXITEM modParam="fineTune2" modItem="lfo1" modDepth="0.10612501204013824463"/>
+      <MODMATRIXITEM modParam="ampDecay" modItem="midiNote" modDepth="-0.30975002050399780273"/>
+      <MODMATRIXITEM modParam="level4" modItem="env1" modDepth="0.29812502861022949219"/>
+      <MODMATRIXITEM modParam="fineTune3" modItem="lfo1" modDepth="0.12335937470197677612"/>
+      <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.08212500810623168945"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

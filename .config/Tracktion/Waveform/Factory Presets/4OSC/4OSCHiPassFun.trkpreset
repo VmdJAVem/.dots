@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Hi Pass Fun" tags="Plugin" description="UseTheModWheel"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="2"
+          waveShape1="3" pulseWidth1="0.00999999977648258209" voices1="8"
+          detune1="0.50000000000000000000" spread1="6.40000152587890625000"
+          fineTune1="-17.59999847412109375000" tune1="-0.00000381469726562500"
+          waveShape2="3" fineTune2="17.60001373291015625000" filterFreq="5.94335412979125976562"
+          filterResonance="74.49999237060546875000" filterAmount="0.72800016403198242188"
+          filterDecay="0.92310780286788940430" filterSustain="100.00000000000000000000"
+          masterLevel="-0.40243530273437500000" filterVelocity="80.40000915527343750000"
+          filterKey="84.00000000000000000000" filterSlope="12" filterAttack="0.00000000000000000000"
+          voiceMode="2" legato="24.00000762939453125000" ampAnalog="1"
+          ampVelocity="58.39999389648437500000" distortion="0.08799999207258224487"
+          chorusMix="0.25200000405311584473" chosusSpeed="2.22759985923767089844"
+          chorusDepth="2.36320018768310546875" delayMix="0.00000000000000000000"
+          showFaceplate="0" faceplateWidth="420" faceplateHeight="200"
+          pan1="0.00000000000000000000" pan2="-0.10399997234344482422"
+          voices2="8" reverbMix="0.14399999380111694336" delayFeedback="-14.59204101562500000000"
+          delay="3.00000000000000000000" delayCrossfeed="-9.73029327392578125000"
+          detune2="0.47400000691413879395" tune2="0.00000000000000000000"
+          pulseWidth2="0.48431998491287231445" lfoWaveShape2="2" lfoDepth2="0.47600001096725463867"
+          lfoRate2="0.25604304671287536621" level2="-9.73029327392578125000"
+          level1="-0.50379943847656250000" modSustain1="0.00000000000000000000"
+          modAttack1="0.00001891535612230655" modDecay1="0.06743835657835006714"
+          ampAttack="0.00177444284781813622" ampRelease="0.00273504108190536499"
+          filterRelease="1.69534802436828613281" spread2="-4.00000000000000000000"
+          lfoDepth1="0.00000000000000000000" lfoRate1="6.76140022277832031250"
+          lfoWaveShape1="6" lfoSync1="1" lfoBeat1="0.25000000000000000000">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="1.00000000000000000000"/>
+      <MODMATRIXITEM modParam="filterFreq" modItem="lfo1" modDepth="1.00000000000000000000"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

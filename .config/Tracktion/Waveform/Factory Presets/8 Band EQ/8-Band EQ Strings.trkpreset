@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="8bandEq" name="8-Band Equaliser: Strings"
+        tags="Plugin" factory="1">
+  <PLUGIN type="8bandEq" id="1011" enabled="1" freq1lm="44.25597381591797"
+          gain1lm="-4.0" width="660" height="380" windowX="1360" windowY="110"
+          windowLocked="0" freq2lm="63.64836883544922" gain2lm="3.599999904632568"
+          q2lm="0.7099999785423279" q1lm="0.5299999713897705" freq4lm="104.6147766113281"
+          gain4lm="6.820000171661377" q4lm="0.7099999785423279" freq3lm="83.17893981933594"
+          gain3lm="-4.666666507720947" shape3lm="2" enable3lm="0">
+    <MACROPARAMETERS id="1015"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

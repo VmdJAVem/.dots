@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: House Organ WMF" tags="Plugin|Organ|Bass" description="Classic bass organ patch"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="0"
+          ampAttack="0.00100000004749745131" ampDecay="0.27865749597549438477"
+          ampSustain="65.15151214599609375000" ampRelease="0.00770875345915555954"
+          ampVelocity="0.00000000000000000000" filterAttack="0.00000000000000000000"
+          filterDecay="0.40797677636146545410" filterSustain="34.84848785400390625000"
+          filterRelease="1.11272156238555908203" filterAmount="0.21899998188018798828"
+          waveShape1="1" filterFreq="87.23107147216796875000" masterLevel="-7.90591430664062500000"
+          fineTune1="0.00000000000000000000" filterVelocity="50.00000000000000000000"
+          waveShape2="1" tune1="-12.00000000000000000000" tune2="7.00000000000000000000"
+          level2="-12.23625183105468750000" modAttack1="0.00000000000000000000"
+          modDecay1="0.54998004436492919922" modSustain1="0.00000000000000000000"
+          waveShape3="5" modAttack2="0.00000000000000000000" modDecay2="0.00843847729265689850"
+          modRelease2="0.00849764328449964523" modSustain2="0.00000000000000000000"
+          level3="-100.00000000000000000000" chorusOn="1" chorusMix="0.00000000000000000000"
+          chosusSpeed="0.78374683856964111328" chorusDepth="2.35200619697570800781"
+          chrousWidth="0.49793750047683715820" distortionOn="0" distortion="0.11703125387430191040"
+          modRelease1="0.47705069184303283691" level1="-1.45447540283203125000"
+          reverbOn="1" reverbMix="0.04793750122189521790" reverbWidth="1.00000000000000000000"
+          reverbSize="0.10975000262260437012" reverbDamping="0.54646873474121093750"
+          waveShape4="1" tune4="12.00000000000000000000" level4="-100.00000000000000000000">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="level3" modItem="env2" modDepth="0.77137506008148193359"/>
+      <MODMATRIXITEM modParam="level4" modItem="cc1" modDepth="1.00000000000000000000"/>
+      <MODMATRIXITEM modParam="level2" modItem="env1" modDepth="0.43162500858306884766"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

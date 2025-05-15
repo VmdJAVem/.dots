@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="naturalReverb" name="Natural Reverb: Echo Caverns"
+        tags="Plugin" factory="1">
+  <PLUGIN type="naturalReverb" id="1006" enabled="1" windowX="731" windowY="122"
+          windowLocked="0" preDelay="0.0" size="0.715999960899353" decay="0.2120000123977661"
+          diffusion="0.5680000185966492" definition="0.4040000140666962"
+          slope="0.5019999742507935">
+    <MACROPARAMETERS id="1010"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

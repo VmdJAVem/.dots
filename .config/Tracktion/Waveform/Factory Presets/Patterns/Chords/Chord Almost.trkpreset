@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Chord: Almost" tags="Pattern|Chord" type="pattern" subtype="Chord"
+        presetVersion="2" factory="1">
+  <CHORDPATTERN name="Almost">
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="95"/>
+      <NOTE start="1" length="0.5" velocity="108"/>
+      <NOTE start="2" length="0.5" velocity="104"/>
+      <NOTE start="3" length="0.5" velocity="110"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="106"/>
+      <NOTE start="1.5" length="0.5" velocity="95"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="106"/>
+      <NOTE start="1" length="0.5" velocity="98"/>
+      <NOTE start="2" length="0.5" velocity="102"/>
+      <NOTE start="3" length="0.5" velocity="107"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="103"/>
+      <NOTE start="1.5" length="0.5" velocity="98"/>
+    </BAR>
+  </CHORDPATTERN>
+</PRESET>

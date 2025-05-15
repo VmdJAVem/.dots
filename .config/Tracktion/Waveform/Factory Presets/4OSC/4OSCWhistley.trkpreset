@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Whistley" tags="Plugin|Flute" type="plugin" subtype="4osc"
+        presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="0"
+          waveShape1="4" filterAmount="0.03362500667572021484" filterDecay="0.09098432213068008423"
+          filterSustain="31.14545631408691406250" filterAttack="0.00048922369023784995"
+          ampVelocity="29.19999885559082031250" showFaceplate="0" faceplateWidth="420"
+          faceplateHeight="200" filterFreq="61.69956207275390625000" reverbMix="0.19784374535083770752"
+          tune1="0.00000000000000000000" level2="-15.91035461425781250000"
+          waveShape2="5" masterLevel="-2.34906005859375000000" tune2="0.00000000000000000000"
+          filterKey="75.20779418945312500000" chosusSpeed="0.67778599262237548828"
+          chorusMix="0.47467187047004699707" level1="0.00000000000000000000"
+          modAttack1="0.00054578564595431089" modDecay1="0.11498792469501495361"
+          modSustain1="23.60000419616699218750" ampAttack="0.04626366496086120605"
+          ampDecay="1.29282605648040771484" ampSustain="92.03030395507812500000"
+          ampRelease="0.00392220774665474892" filterRelease="1.11272156238555908203"
+          reverbSize="0.70417189598083496094" reverbWidth="1.00000000000000000000"
+          reverbOn="1" level3="-27.33758544921875000000" waveShape3="0"
+          lfoRate1="10.41604042053222656250" lfoDepth1="0.34000000357627868652"
+          modRelease1="1.55378317832946777344" modAttack2="0.00000000000000000000"
+          modSustain2="0.00000000000000000000" modRelease2="60.00000000000000000000"
+          modDecay2="0.11380385607481002808" chorusOn="0" tune3="0.00000000000000000000"
+          fineTune3="0.00000000000000000000" filterSlope="12" pulseWidth1="0.54991871118545532227"
+          detune1="0.14739845693111419678" voices1="3" pulseWidth2="0.46379742026329040527"
+          detune2="0.38504686951637268066" voices2="1" lfoRate2="4.79154539108276367188"
+          lfoDepth2="0.17600004374980926514" lfoWaveShape2="1" spread3="0.00000000000000000000"
+          voices3="1" filterVelocity="16.39998817443847656250" distortionOn="0"
+          voiceMode="0" filterResonance="0.00000000000000000000" legato="0.00000000000000000000"
+          spread2="-4.79999542236328125000" delayOn="0" delayMix="0.34400001168251037598"
+          delay="0.50000000000000000000" spread1="-7.20000457763671875000"
+          ampAnalog="1">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterAmount" modItem="env1" modDepth="0.05999999865889549255"/>
+      <MODMATRIXITEM modParam="ampRelease" modItem="midiVelocity" modDepth="-0.09635937958955764771"/>
+      <MODMATRIXITEM modParam="level1" modItem="lfo2" modDepth="0.16400000452995300293"/>
+      <MODMATRIXITEM modParam="fineTune1" modItem="lfo2" modDepth="0.34799998998641967773"/>
+      <MODMATRIXITEM modParam="level3" modItem="env2" modDepth="1.00000000000000000000"/>
+      <MODMATRIXITEM modParam="level2" modItem="env1" modDepth="0.41200000047683715820"/>
+      <MODMATRIXITEM modParam="lfoDepth1" modItem="env1" modDepth="0.49982810020446777344"/>
+      <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.49848440289497375488"/>
+      <MODMATRIXITEM modParam="ampAttack" modItem="midiVelocity" modDepth="-0.09225001931190490723"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

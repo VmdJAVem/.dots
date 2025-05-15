@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="8bandEq" name="8-Band Equaliser: Quad Notches"
+        tags="Plugin" factory="1">
+  <PLUGIN type="8bandEq" id="1020" enabled="1" width="660" height="380"
+          freq2lm="77.52592468261719" gain2lm="-14.89999961853027" enable2lm="1"
+          freq1lm="57.79212951660156" gain1lm="-14.80000019073486" shape1lm="2"
+          q1lm="4.0" enable4lm="1" enable3lm="1" analyzer="0" windowX="1485"
+          windowY="547" windowLocked="0" mode="0" editChannel="0" enable1lm="1"
+          enable6lm="0" freq6lm="127.2141723632813" gain6lm="0.0" shape6lm="6"
+          q6lm="2.299999952316284" q2lm="4.0" freq3lm="97.252197265625"
+          gain3lm="-14.0" q3lm="4.0" freq4lm="114.1748352050781" gain4lm="-15.0"
+          shape4lm="2" q4lm="4.0">
+    <MACROPARAMETERS id="1023"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" name="Default" tags="" type="removeSilence"
+        factory="1">
+  <REMOVESILENCE openThresholdDB="-30.0" closeThresholdDB="-30.0" minimumLengthS="0.009999999776482582"
+                 preRoll="0.009999999776482582" postRoll="0.009999999776482582"
+                 fadeIn="0.009999999776482582" fadeOut="0.009999999776482582"
+                 release="0.05000000074505806"/>
+</PRESET>

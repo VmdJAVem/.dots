@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Phased Delay" tags="Rack" builtIn="1" type="rack" presetVersion="2"
+        factory="1">
+  <RACK id="1001" name="Phased Delay">
+    <PLUGININSTANCE x="0.528112471" y="0.182432428">
+      <PLUGIN id="1002" type="delay" enabled="1" length="125" feedback="-6"
+              mix="1">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.274251491" y="0.918918908">
+      <PLUGIN id="1003" type="phaser" enabled="1" depth="3.98279548" rate="0.511290312"
+              feedback="0.762903214">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.278112441" y="0.195945948">
+      <PLUGIN id="1004" type="phaser" enabled="1" depth="5" rate="0.400000006"
+              feedback="0.699999988">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.725748479" y="0.655405402">
+      <PLUGIN id="1005" type="volume" enabled="1" volume="0.740818202" pan="0"
+              applyToMidi="0" ignoreVca="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.733935714" y="0.182432428">
+      <PLUGIN id="1006" type="volume" enabled="1" volume="0.551351368" pan="0"
+              applyToMidi="0" ignoreVca="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.539156616" y="0.966216207">
+      <PLUGIN id="1007" type="text" title="Read Me" body="Great for: Drums, Guitar, Synths&#10;&#10;This rack uses to two Phasers to process each side of the stereo input independently.  It then delays the sides and combines them back with the dry signal.&#10;&#10;Adjust the Phasers and Delay to taste, then use the two volume filters to mix the processed signal with the dry signal.">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="1004" srcPin="1" dst="1002" dstPin="1"/>
+    <CONNECTION src="1003" srcPin="1" dst="1002" dstPin="2"/>
+    <CONNECTION src="0" srcPin="1" dst="1004" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="1003" dstPin="1"/>
+    <CONNECTION src="0" srcPin="1" dst="1005" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="1005" dstPin="2"/>
+    <CONNECTION src="1005" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1005" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1002" srcPin="1" dst="1006" dstPin="1"/>
+    <CONNECTION src="1002" srcPin="2" dst="1006" dstPin="2"/>
+    <CONNECTION src="1006" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1006" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="0" srcPin="0" dst="1004" dstPin="0"/>
+    <CONNECTION src="1004" srcPin="0" dst="1002" dstPin="0"/>
+    <CONNECTION src="1002" srcPin="0" dst="1006" dstPin="0"/>
+    <CONNECTION src="1006" srcPin="0" dst="0" dstPin="0"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="input 1 (left)" midi="0"/>
+    <INPUT name="input 2 (right)" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="output 1 (left)" midi="0"/>
+    <OUTPUT name="output 2 (right)" midi="0"/>
+  </RACK>
+</PRESET>

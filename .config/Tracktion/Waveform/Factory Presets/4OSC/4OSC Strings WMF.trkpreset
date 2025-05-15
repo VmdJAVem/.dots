@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Strings WMF" tags="Plugin|Analog|Strings|Warm" description="Silky string ensemble"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          ampAttack="1.05610966682434082031" ampDecay="3.71682882308959960938"
+          ampSustain="89.39393615722656250000" waveShape1="2" ampVelocity="65.37187957763671875000"
+          masterLevel="-5.75122833251953125000" filterAmount="0.12162494659423828125"
+          filterAttack="0.00000000000000000000" filterDecay="0.09098432213068008423"
+          filterSustain="29.54545593261718750000" filterRelease="1.11272156238555908203"
+          ampRelease="0.98473572731018066406" filterFreq="97.34279632568359375000"
+          filterKey="48.94062042236328125000" reverbSize="0.70417189598083496094"
+          reverbWidth="1.00000000000000000000" reverbMix="0.19784374535083770752"
+          reverbOn="1" pulseWidth1="0.00999999977648258209" level2="-8.41725921630859375000"
+          waveShape2="3" lfoRate1="3.81623673439025878906" lfoDepth1="0.00000000000000000000"
+          modAttack1="2.24036502838134765625" modDecay1="0.41656073927879333496"
+          modSustain1="100.00000000000000000000" modRelease1="0.11480196565389633179"
+          modAttack2="0.00000000000000000000" modDecay2="17.59935760498046875000"
+          modSustain2="100.00000000000000000000" modRelease2="60.00000000000000000000"
+          voices1="4" detune1="0.22086720168590545654" voices2="4" detune2="0.17704688012599945068"
+          lfoWaveShape2="2" lfoRate2="2.91781210899353027344" tune1="0.00000000000000000000"
+          tune2="0.00000000000000000000" chorusOn="1" chorusMix="0.47467187047004699707"
+          chosusSpeed="0.67778599262237548828">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="ampRelease" modItem="midiVelocity" modDepth="-0.09635937958955764771"/>
+      <MODMATRIXITEM modParam="lfoDepth1" modItem="env1" modDepth="0.49982810020446777344"/>
+      <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.49848440289497375488"/>
+      <MODMATRIXITEM modParam="ampAttack" modItem="midiVelocity" modDepth="-0.23739065229892730713"/>
+      <MODMATRIXITEM modParam="pulseWidth1" modItem="env2" modDepth="-0.18078124523162841797"/>
+      <MODMATRIXITEM modParam="pulseWidth1" modItem="mpeTimbre" modDepth="0.14843750000000000000"/>
+      <MODMATRIXITEM modParam="pulseWidth1" modItem="midiNote" modDepth="0.27145314216613769531"/>
+      <MODMATRIXITEM modParam="fineTune2" modItem="lfo2" modDepth="0.11223436892032623291"/>
+      <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.06523437798023223877"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="phaser2" name="Phaser: Subility"
+        tags="Plugin" factory="1">
+  <PLUGIN type="phaser2" id="1068" enabled="1" floor="500.0" stages="5.0"
+          ceiling="2000.0" sync="1.0" rateSyncOn="10.0" feedback="50.0"
+          windowX="600" windowY="528" windowLocked="0">
+    <MACROPARAMETERS id="1071"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

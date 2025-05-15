@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="gate" name="Gate: Not Hard"
+        tags="Plugin" factory="1">
+  <PLUGIN type="gate" id="1059" enabled="1" threshold="-28.0" attack="0.2199999988079071"
+          hold="36.70000076293945" release="3.400000095367432" windowX="1294"
+          windowY="827" windowLocked="0">
+    <MACROPARAMETERS id="1062"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

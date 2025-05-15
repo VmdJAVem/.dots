@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="8bandEq" name="8-Band Equaliser: Electric Guitar"
+        tags="Plugin" factory="1">
+  <PLUGIN type="8bandEq" id="1011" enabled="1" freq1lm="33.31194305419922"
+          gain1lm="-4.5" width="660" height="380" windowX="1360" windowY="110"
+          windowLocked="0" freq2lm="43.34996032714844" gain2lm="-2.0" q2lm="0.7099999785423279"
+          q1lm="0.7900000214576721" freq4lm="134.9022369384766" gain4lm="-3.659999847412109"
+          q4lm="0.2099999934434891" freq3lm="57.91945648193359" gain3lm="-2.799999952316284"
+          shape3lm="2" enable3lm="1" q3lm="2.180000066757202" enable5lm="1"
+          freq5lm="97.7825927734375" gain5lm="-2.799999952316284" q5lm="3.599999904632568"
+          enable6lm="1" freq6lm="106.0495529174805" gain6lm="2.799999952316284"
+          q6lm="0.2899999916553497">
+    <MACROPARAMETERS id="1015"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

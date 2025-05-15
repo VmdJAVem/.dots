@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="8bandEq" name="8-Band Equaliser: Kick"
+        tags="Plugin" factory="1">
+  <PLUGIN type="8bandEq" id="1011" enabled="1" freq1lm="22.50637054443359"
+          gain1lm="7.0" width="660" height="380" windowX="1360" windowY="110"
+          windowLocked="0" freq2lm="31.34996032714844" gain2lm="6.0" q2lm="0.6499999761581421"
+          q1lm="0.7200000286102295" freq4lm="128.5263366699219" gain4lm="-1.899999618530273"
+          q4lm="0.365200012922287" freq3lm="54.82263946533203" gain3lm="-4.0"
+          shape3lm="2" enable3lm="1" q3lm="1.0" enable5lm="1" freq5lm="106.9953308105469"
+          gain5lm="3.0" q5lm="0.3199999928474426" enable6lm="0" freq6lm="111.0079193115234"
+          gain6lm="6.5" q6lm="0.2899999916553497" enable4lm="0">
+    <MACROPARAMETERS id="1015"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

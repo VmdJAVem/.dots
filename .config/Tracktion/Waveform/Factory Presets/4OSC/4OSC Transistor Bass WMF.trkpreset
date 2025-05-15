@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Transistor Bass WMF" tags="Plugin|Analog|Bass" description="Classic acid bass sound"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          ampAttack="0.00100000004749745131" ampDecay="8.88604164123535156250"
+          ampSustain="0.00000000000000000000" ampRelease="0.04861049354076385498"
+          ampVelocity="17.83750152587890625000" filterAttack="0.00000000000000000000"
+          filterDecay="0.40797677636146545410" filterSustain="34.84848785400390625000"
+          filterRelease="1.11272156238555908203" filterAmount="0.16571867465972900391"
+          waveShape1="3" filterFreq="87.23107147216796875000" masterLevel="-5.75122833251953125000"
+          fineTune1="0.00000000000000000000" filterVelocity="100.00000000000000000000"
+          tune1="-12.00000000000000000000" filterResonance="90.38437652587890625000"
+          filterSlope="12" pulseWidth1="0.00999999977648258209">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="-0.31564062833786010742"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

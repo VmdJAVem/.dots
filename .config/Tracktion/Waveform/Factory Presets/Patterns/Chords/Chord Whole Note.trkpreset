@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Chord: Whole Note" tags="Pattern|Chord" type="pattern"
+        subtype="Chord" presetVersion="2" factory="1">
+  <CHORDPATTERN name="Whole Note">
+    <BAR length="4">
+      <NOTE start="0" length="4" velocity="127"/>
+    </BAR>
+  </CHORDPATTERN>
+</PRESET>

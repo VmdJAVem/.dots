@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Colorful Pops" tags="Plugin" type="plugin" subtype="4osc"
+        presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          waveShape1="5" filterAmount="0.00162506103515625000" filterDecay="0.00000000000000000000"
+          filterSustain="0.00000000000000000000" filterAttack="0.07128822058439254761"
+          ampVelocity="33.19999694824218750000" showFaceplate="0" faceplateWidth="420"
+          faceplateHeight="200" filterFreq="6.04815196990966796875" reverbMix="0.19784374535083770752"
+          tune1="0.00000000000000000000" level2="-2.70803070068359375000"
+          waveShape2="5" masterLevel="-2.34906005859375000000" tune2="0.00000000000000000000"
+          filterKey="48.40000152587890625000" chosusSpeed="0.67778599262237548828"
+          chorusMix="0.47467187047004699707" level1="-2.81679534912109375000"
+          modAttack1="0.00054578564595431089" modDecay1="0.11498792469501495361"
+          modSustain1="23.60000419616699218750" ampAttack="0.00546908332034945488"
+          ampDecay="0.32569611072540283203" ampSustain="0.00000000000000000000"
+          ampRelease="0.00163844937924295664" filterRelease="1.11272156238555908203"
+          reverbSize="0.70417189598083496094" reverbWidth="1.00000000000000000000"
+          reverbOn="1" level3="-27.33758544921875000000" waveShape3="0"
+          lfoRate1="10.41604042053222656250" lfoDepth1="0.34000000357627868652"
+          modRelease1="1.55378317832946777344" modAttack2="0.00000000000000000000"
+          modSustain2="0.00000000000000000000" modRelease2="60.00000000000000000000"
+          modDecay2="0.11380385607481002808" chorusOn="0" tune3="0.00000000000000000000"
+          fineTune3="0.00000000000000000000" filterSlope="24" pulseWidth1="0.54991871118545532227"
+          detune1="0.14739845693111419678" voices1="1" pulseWidth2="0.46379742026329040527"
+          detune2="0.38504686951637268066" voices2="1" lfoRate2="4.79154539108276367188"
+          lfoDepth2="0.17600004374980926514" lfoWaveShape2="1" spread3="0.00000000000000000000"
+          voices3="1" filterVelocity="0.00000000000000000000" distortionOn="1"
+          voiceMode="2" filterResonance="100.00000000000000000000" legato="65.99998474121093750000"
+          spread2="-4.79999542236328125000" delayOn="1" delayMix="0.34400001168251037598"
+          delay="0.25000000000000000000" spread1="-7.20000457763671875000"
+          ampAnalog="1" pan2="-0.47200000286102294922" pan1="0.39199995994567871094"
+          distortion="0.41600000858306884766">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterFreq" modItem="midiVelocity" modDepth="0.80800002813339233398"/>
+      <MODMATRIXITEM modParam="level3" modItem="env2" modDepth="1.00000000000000000000"/>
+      <MODMATRIXITEM modParam="lfoDepth1" modItem="env1" modDepth="0.49982810020446777344"/>
+      <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.49848440289497375488"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

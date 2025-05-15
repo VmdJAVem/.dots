@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Crossover - 4 Band" tags="Rack" builtIn="1" type="rack"
+        presetVersion="2" factory="1">
+  <RACK id="1001" name="Crossover - 4 Band">
+    <PLUGININSTANCE x="0.0850767121" y="0.604240298">
+      <PLUGIN id="1002" type="lowpass" enabled="1" frequency="800" mode="lowpass">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.230125517" y="0.413427562">
+      <PLUGIN id="1003" type="4bandEq" enabled="1" phaseInvert="1" loGain="0"
+              loFreq="80" loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0"
+              midFreq1="3000" midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.956764281" y="0.123674914">
+      <PLUGIN id="1004" type="level" showMidi="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.957627118" y="0.395833343">
+      <PLUGIN id="1005" type="level" showMidi="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.595536947" y="0.39222616">
+      <PLUGIN id="1006" type="lowpass" enabled="1" frequency="3200" mode="lowpass">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.60529989" y="0.943462908">
+      <PLUGIN id="1007" type="lowpass" enabled="1" frequency="200" mode="lowpass">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.78800559" y="0.840989411">
+      <PLUGIN id="1008" type="4bandEq" enabled="1" phaseInvert="1" loGain="0"
+              loFreq="80" loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0"
+              midFreq1="3000" midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.776847959" y="0.289752662">
+      <PLUGIN id="1009" type="4bandEq" enabled="1" phaseInvert="1" loGain="0"
+              loFreq="80" loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0"
+              midFreq1="3000" midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.382147849" y="0.123674914">
+      <PLUGIN id="1010" type="level" showMidi="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.383542538" y="0.681978822">
+      <PLUGIN id="1011" type="level" showMidi="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.958837748" y="0.666666687">
+      <PLUGIN id="1012" type="level" showMidi="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.960048437" y="0.9375">
+      <PLUGIN id="1013" type="level" showMidi="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.0629539937" y="0.046875">
+      <PLUGIN id="1014" type="text" title="read me" body="This rack is designed to split the input signal into seperate low, low-mid, high-mid and high frequency bands, which can then be processed seperarately.&#10;&#10;The Low/High Pass Filters determine the cross-over frequencies, and these can be adjusted with the quick controllers on the filters themselves. The rack outputs are named to indicate the band that feeds them. &#10;&#10;The native EQ filters are used just to invert the polarity of the signal, and should all be left set flat.&#10;&#10;DW">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="0" srcPin="1" dst="1002" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="1002" dstPin="2"/>
+    <CONNECTION src="1002" srcPin="1" dst="1003" dstPin="1"/>
+    <CONNECTION src="1002" srcPin="2" dst="1003" dstPin="2"/>
+    <CONNECTION src="1004" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1004" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1005" srcPin="2" dst="0" dstPin="4"/>
+    <CONNECTION src="1005" srcPin="1" dst="0" dstPin="3"/>
+    <CONNECTION src="0" srcPin="1" dst="1010" dstPin="1"/>
+    <CONNECTION src="1003" srcPin="1" dst="1010" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="1010" dstPin="2"/>
+    <CONNECTION src="1003" srcPin="2" dst="1010" dstPin="2"/>
+    <CONNECTION src="1002" srcPin="1" dst="1011" dstPin="1"/>
+    <CONNECTION src="1002" srcPin="2" dst="1011" dstPin="2"/>
+    <CONNECTION src="1010" srcPin="1" dst="1006" dstPin="1"/>
+    <CONNECTION src="1010" srcPin="2" dst="1006" dstPin="2"/>
+    <CONNECTION src="1006" srcPin="1" dst="1005" dstPin="1"/>
+    <CONNECTION src="1006" srcPin="2" dst="1005" dstPin="2"/>
+    <CONNECTION src="1010" srcPin="1" dst="1004" dstPin="1"/>
+    <CONNECTION src="1010" srcPin="2" dst="1004" dstPin="2"/>
+    <CONNECTION src="1006" srcPin="1" dst="1009" dstPin="1"/>
+    <CONNECTION src="1006" srcPin="2" dst="1009" dstPin="2"/>
+    <CONNECTION src="1009" srcPin="1" dst="1004" dstPin="1"/>
+    <CONNECTION src="1009" srcPin="2" dst="1004" dstPin="2"/>
+    <CONNECTION src="1012" srcPin="1" dst="0" dstPin="5"/>
+    <CONNECTION src="1012" srcPin="2" dst="0" dstPin="6"/>
+    <CONNECTION src="1013" srcPin="1" dst="0" dstPin="7"/>
+    <CONNECTION src="1013" srcPin="2" dst="0" dstPin="8"/>
+    <CONNECTION src="1011" srcPin="1" dst="1007" dstPin="1"/>
+    <CONNECTION src="1011" srcPin="2" dst="1007" dstPin="2"/>
+    <CONNECTION src="1007" srcPin="1" dst="1013" dstPin="1"/>
+    <CONNECTION src="1007" srcPin="2" dst="1013" dstPin="2"/>
+    <CONNECTION src="1007" srcPin="1" dst="1008" dstPin="1"/>
+    <CONNECTION src="1007" srcPin="2" dst="1008" dstPin="2"/>
+    <CONNECTION src="1011" srcPin="1" dst="1012" dstPin="1"/>
+    <CONNECTION src="1011" srcPin="2" dst="1012" dstPin="2"/>
+    <CONNECTION src="1008" srcPin="1" dst="1012" dstPin="1"/>
+    <CONNECTION src="1008" srcPin="2" dst="1012" dstPin="2"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="input 1 (left)" midi="0"/>
+    <INPUT name="input 2 (right)" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="High (left)" midi="0"/>
+    <OUTPUT name="High (right)" midi="0"/>
+    <OUTPUT name="Hi-Mid (left)" midi="0"/>
+    <OUTPUT name="Hi-Mid (right)" midi="0"/>
+    <OUTPUT name="Lo-Mid (left)" midi="0"/>
+    <OUTPUT name="Lo-Mid (right)" midi="0"/>
+    <OUTPUT name="Low (left)" midi="0"/>
+    <OUTPUT name="Low (right)" midi="0"/>
+  </RACK>
+</PRESET>

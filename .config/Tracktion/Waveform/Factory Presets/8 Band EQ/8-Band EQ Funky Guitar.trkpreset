@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="8bandEq" name="8-Band Equaliser: Funky Guitar"
+        tags="Plugin" factory="1">
+  <PLUGIN type="8bandEq" id="1011" enabled="1" freq1lm="52.93900299072266"
+          gain1lm="-4.166666507720947" width="660" height="380" windowX="1360"
+          windowY="110" windowLocked="0" freq2lm="70.17868041992188" gain2lm="-1.899999976158142"
+          q2lm="1.0" q1lm="0.8100000023841858" freq4lm="134.9022369384766"
+          gain4lm="5.0" q4lm="0.5600000023841858" freq3lm="93.38905334472656"
+          gain3lm="3.5" shape3lm="2" enable3lm="1" q3lm="1.0" enable5lm="1"
+          freq5lm="121.4814987182617" gain5lm="5.0" q5lm="0.4000000059604645">
+    <MACROPARAMETERS id="1015"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

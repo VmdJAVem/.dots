@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Tracktion Reverb: Light Reverb" tags="Tracktion Reverb"
+        type="plugin" subtype="reverb" presetVersion="2" factory="1">
+  <PLUGIN type="reverb" enabled="1" roomSize="0.3" damp="0.5" wet="0.1267606"
+          dry="0.5" width="1." mode="0.">
+    <MODIFIERASSIGNMENTS/>
+  </PLUGIN>
+</PRESET>

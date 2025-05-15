@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="chorusEffect" name="CChorus: E2 Stereo"
+        tags="Plugin" factory="1">
+  <PLUGIN type="chorusEffect" windowLocked="1" id="1002" enabled="1" mode="1.0"
+          windowX="592" windowY="-755" rateSyncOff="0.2899999916553497"
+          depth="20.0" delay="30.0" mix="0.5165624618530273">
+    <MACROPARAMETERS id="1004"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.0" height="4.0" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

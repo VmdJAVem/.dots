@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Hoovers" tags="Plugin" type="plugin" subtype="4osc"
+        presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="4"
+          waveShape1="3" pulseWidth1="0.80968004465103149414" voices1="1"
+          detune1="0.12600000202655792236" spread1="-2.40000152587890625000"
+          fineTune1="-1.59999847412109375000" tune1="0.00000000000000000000"
+          waveShape2="5" fineTune2="2.40000152587890625000" filterFreq="78.88452911376953125000"
+          filterResonance="58.00001144409179687500" filterAmount="-0.24000000953674316406"
+          filterDecay="0.00019660803081933409" filterSustain="0.00000000000000000000"
+          masterLevel="-9.86655426025390625000" filterVelocity="77.60000610351562500000"
+          filterKey="19.60000228881835937500" filterSlope="12" filterAttack="0.00426049577072262764"
+          voiceMode="1" legato="56.00000762939453125000" ampAnalog="0"
+          ampVelocity="46.39999771118164062500" distortion="0.34799998998641967773"
+          chorusMix="0.18799997866153717041" chosusSpeed="1.47519993782043457031"
+          chorusDepth="2.36320018768310546875" delayMix="0.44400000572204589844"
+          showFaceplate="0" faceplateWidth="420" faceplateHeight="200"
+          pan1="-0.03199994564056396484" pan2="0.04799997806549072266"
+          voices2="1" reverbMix="0.23200000822544097900" delayFeedback="-17.82471466064453125000"
+          delay="0.50000000000000000000" delayCrossfeed="-26.74316406250000000000"
+          detune2="0.00000000000000000000" level2="-1.43040466308593750000"
+          level1="-0.40242004394531250000" tune2="1.00000000000000000000"
+          pulseWidth2="0.48431998491287231445" lfoRate2="14.12264633178710937500"
+          lfoDepth2="0.13600002229213714600" lfoWaveShape2="6" modAttack1="0.00399228977039456367"
+          modDecay1="0.06743835657835006714" modSustain1="0.00000000000000000000"
+          waveShape3="3" waveShape4="0" tune4="24.00000000000000000000"
+          tune3="24.00000000000000000000" lfoDepth1="0.33599999547004699707"
+          lfoSync1="0" lfoRate1="4.47654342651367187500" level3="-9.59465026855468750000"
+          level4="-8.27065277099609375000" lfoWaveShape1="6" delayOn="0"
+          reverbOn="1" reverbWidth="1.00000000000000000000" reverbSize="0.70800006389617919922"
+          pan3="-0.00799995660781860352" pan4="0.01600003242492675781"
+          ampAttack="0.00100258877500891685" ampRelease="0.80066239833831787109"
+          filterRelease="18.48666763305664062500" chorusOn="1" voices="12"
+          distortionOn="1" ampSustain="82.40000152587890625000" ampDecay="0.39316958189010620117">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="fineTune1" modItem="lfo2" modDepth="0.18400000035762786865"/>
+      <MODMATRIXITEM modParam="filterFreq" modItem="lfo2" modDepth="0.09600000083446502686"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

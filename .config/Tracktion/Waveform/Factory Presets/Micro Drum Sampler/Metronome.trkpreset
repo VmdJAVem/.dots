@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET drumSampler="1" version="2" name="Metronome" tags="Click|Micro_Drum_Sampler|Metronome"
+        type="plugin" subtype="Micro Drum Sampler" presetVersion="2"
+        externalSamples="1" factory="1">
+  <MICROSAMPLER version="2" playMode="1">
+    <SOUNDPARAMETER id="1001"/>
+    <SOUNDPARAMETER id="1002"/>
+    <SOUNDPARAMETER id="1003"/>
+    <PAD name="" note="37" icon="0" colour="0"/>
+    <PAD name="" note="49" icon="0" colour="0"/>
+    <PAD name="" note="57" icon="0" colour="0"/>
+    <PAD name="" note="51" icon="0" colour="0"/>
+    <PAD name="" note="53" icon="0" colour="0"/>
+    <PAD name="" note="50" icon="0" colour="0"/>
+    <PAD name="" note="48" icon="0" colour="0"/>
+    <PAD name="" note="45" icon="0" colour="0"/>
+    <PAD name="" note="79" icon="0" colour="0"/>
+    <PAD name="" note="46" icon="0" colour="0"/>
+    <PAD name="" note="39" icon="0" colour="0"/>
+    <PAD name="" note="43" icon="0" colour="0"/>
+    <PAD name="HI Click" note="36" icon="0"/>
+    <PAD name="Med Click" note="38" icon="0"/>
+    <PAD name="Lo Click" note="40" icon="0"/>
+    <PAD name="" note="44" icon="0" colour="0"/>
+    <PAD name="" note="99" icon="0" colour="0"/>
+    <PAD name="" note="35" icon="0" colour="0"/>
+    <PAD name="" note="41" icon="0" colour="0"/>
+    <PAD name="" note="47" icon="0" colour="0"/>
+    <PAD name="" note="55" icon="0" colour="0"/>
+    <PAD name="" note="56" icon="0" colour="0"/>
+    <PAD name="" note="58" icon="0" colour="0"/>
+    <PAD name="" note="52" icon="0" colour="0"/>
+    <PAD name="" note="54" icon="0" colour="0"/>
+    <PAD name="" note="59" icon="0" colour="0"/>
+    <PAD name="" note="63" icon="0" colour="0"/>
+    <PAD name="" note="61" icon="0" colour="0"/>
+    <PAD name="" note="64" icon="0" colour="0"/>
+    <PAD name="" note="100" icon="0" colour="0"/>
+    <PAD name="" note="101" icon="0" colour="0"/>
+    <PAD name="" note="62" icon="0" colour="0"/>
+    <PAD name="" note="102" icon="0" colour="0"/>
+    <PAD name="" note="67" icon="0" colour="0"/>
+    <PAD name="" note="68" icon="0" colour="0"/>
+    <PAD name="" note="69" icon="0" colour="0"/>
+    <PAD name="" note="72" icon="0" colour="0"/>
+    <PAD name="" note="73" icon="0" colour="0"/>
+    <PAD name="" note="74" icon="0" colour="0"/>
+    <PAD name="" note="70" icon="0" colour="0"/>
+    <PAD name="" note="71" icon="0" colour="0"/>
+    <PAD name="" note="75" icon="0" colour="0"/>
+    <PAD name="" note="76" icon="0" colour="0"/>
+    <PAD name="" note="77" icon="0" colour="0"/>
+    <PAD name="" note="80" icon="0" colour="0"/>
+    <PAD name="" note="81" icon="0" colour="0"/>
+    <PAD name="" note="78" icon="0" colour="0"/>
+    <PAD name="" note="82" icon="0"/>
+    <PAD name="" note="83" icon="0"/>
+    <PAD name="" note="84" icon="0"/>
+    <PAD name="" note="85" icon="0"/>
+    <PAD name="" note="86" icon="0"/>
+    <PAD name="" note="87" icon="0"/>
+    <PAD name="" note="88" icon="0"/>
+    <PAD name="" note="89" icon="0"/>
+    <PAD name="" note="90" icon="0"/>
+    <PAD name="" note="91" icon="0"/>
+    <PAD name="" note="92" icon="0"/>
+    <PAD name="" note="93" icon="0"/>
+    <PAD name="" note="94" icon="0"/>
+    <PAD name="" note="95" icon="0"/>
+    <PAD name="" note="96" icon="0"/>
+    <PAD name="" note="97" icon="0"/>
+    <PAD name="" note="98" icon="0"/>
+    <SOUNDLAYER active="1" name="Rendered clip(5)" reverse="0" base64:sampleData="381.lwTXCA...HBA.R.f.DvI.DvIJPrPvC...XKCZIjPW2LHovCmSO2WNvlqDB..n.B...fbkYVYxUlaiUFHrklXFwTPCARLtLiKw.hLvDCMwDiL0.....v+3mFh.TKET.....f.fR...Bg...DBA..HD..fPH..AoEOUOoqCDDtyb.X71wfvX2BAi8LF.N2YLHbsgCf.........PJH.........7HDh.aP3diAfw8FCBiaMDLtyX.3bmwfv4VCAi4NE.N6YLHbtwPv3diAfy7FCBmaLDLtybPUf...lAmBpC...Dfv.7KOB0PvXtiAfwcFCBqYLDL1yX.3L2wfv3FCAi6MF.NyaLHbtwPv3diAfw8FCBmYMDLt2fCv.bAq..vUkuNmP4lCAi2NF.F2aLHLt0Pv3NiAfycFCBmaMDLl2X.3bmwfvYlCAi4Oc.Jw..HLFD.PHT..fSR..BiB..DJC..HLP.fvXf..gSB..NEB.HbRD.vHM.......3+V"
+                sampleDataName="Rendered clip(5).flac" sampleIn="15" sampleLoopIn="0"
+                sampleOut="182" sampleLoopOut="182" rootNote="65" lowVelocity="0"
+                highVelocity="127" lowNote="65" highNote="65" sampleDataHash="d41d8cd98f00b204e9800998ecf8427e">
+      <SOUNDPARAMETER id="1004"/>
+      <SOUNDPARAMETER id="1005" value="0.0"/>
+      <SOUNDPARAMETER id="1006"/>
+      <SOUNDPARAMETER id="1007"/>
+      <SOUNDPARAMETER id="1008" value="0.0"/>
+      <SOUNDPARAMETER id="1009"/>
+      <SOUNDPARAMETER id="1010"/>
+      <SOUNDPARAMETER id="1011"/>
+      <SOUNDPARAMETER id="1012"/>
+      <SOUNDPARAMETER id="1013"/>
+      <SOUNDPARAMETER id="1014"/>
+      <SOUNDPARAMETER id="1015"/>
+      <SOUNDPARAMETER id="1016"/>
+      <SOUNDPARAMETER id="1017"/>
+      <SOUNDPARAMETER id="1018"/>
+      <SOUNDPARAMETER id="1019"/>
+      <SOUNDPARAMETER id="1020"/>
+      <SOUNDPARAMETER id="1021"/>
+      <SOUNDPARAMETER id="1022"/>
+      <SOUNDPARAMETER id="1023"/>
+      <SOUNDPARAMETER id="1024"/>
+      <SOUNDPARAMETER id="1025"/>
+      <SOUNDPARAMETER id="1026"/>
+      <SOUNDPARAMETER id="1027"/>
+      <SOUNDPARAMETER id="1028"/>
+      <SOUNDPARAMETER id="1029"/>
+      <SOUNDPARAMETER id="1030"/>
+      <SOUNDPARAMETER id="1031"/>
+      <SOUNDPARAMETER id="1032"/>
+      <SOUNDPARAMETER id="1033"/>
+      <SOUNDPARAMETER id="1034"/>
+      <SOUNDPARAMETER id="1035"/>
+      <SOUNDPARAMETER id="1036"/>
+      <SOUNDPARAMETER id="1037"/>
+      <SOUNDPARAMETER id="1038"/>
+      <SOUNDPARAMETER id="1039"/>
+      <SOUNDPARAMETER id="1040"/>
+      <SOUNDPARAMETER id="1041"/>
+      <SOUNDPARAMETER id="1042"/>
+      <SOUNDPARAMETER id="1043"/>
+      <SOUNDPARAMETER id="1044"/>
+      <SOUNDPARAMETER id="1045"/>
+      <SOUNDPARAMETER id="1046"/>
+      <SOUNDPARAMETER id="1047"/>
+      <SOUNDPARAMETER id="1048"/>
+      <SOUNDPARAMETER id="1049"/>
+      <SOUNDPARAMETER id="1050"/>
+      <SOUNDPARAMETER id="1051"/>
+    </SOUNDLAYER>
+    <SOUNDLAYER active="1" name="Rendered clip(6)" reverse="0" base64:sampleData="366.lwTXCA...HBA.R.f.D.F.D.FJPrPvC...XKqasFROAHsX2sxHrUY8tZ7DB..n.B...fbkYVYxUlaiUFHrklXFwTPCARLtLiKw.hLvDCMwDiL0.....v+3mFh.TKET.....f.fgf...HHHH...BBBB..ffffM1RhBdY.ggggQOPXXX3SDDFFFF8.gggQOMB.............p.C..........AXMPWSvHGHLb7MxABCCmajPvvy3HGHLbrcBBACOiejPvvy3GIDL7L9ABBCCiibfvs.G..Lv5.TCD.....X.4APj+Px4GHHLL7MBBBCCeifPvvy4GHDL7LNBBBCCeibfvvw2HHDL7LNxABCGeibfzfA..PAF..nwrCSZH33yCDBN9FEwfgigQQLX3XXTDCFNFFEwfgigQOPH336yDDRNxBA.ffggB..Hn3HQ..BFJBH.ffgfAD.HXXHw.ABBNJH.ffijCD.HX.....Pza"
+                sampleDataName="Rendered clip(6).flac" sampleIn="15" sampleLoopIn="0"
+                sampleOut="182" sampleLoopOut="182" rootNote="66" lowVelocity="0"
+                highVelocity="127" lowNote="66" highNote="66" sampleDataHash="d41d8cd98f00b204e9800998ecf8427e">
+      <SOUNDPARAMETER id="1004"/>
+      <SOUNDPARAMETER id="1005" value="0.0"/>
+      <SOUNDPARAMETER id="1006"/>
+      <SOUNDPARAMETER id="1007"/>
+      <SOUNDPARAMETER id="1008" value="0.0"/>
+      <SOUNDPARAMETER id="1009"/>
+      <SOUNDPARAMETER id="1010"/>
+      <SOUNDPARAMETER id="1011"/>
+      <SOUNDPARAMETER id="1012"/>
+      <SOUNDPARAMETER id="1013"/>
+      <SOUNDPARAMETER id="1014"/>
+      <SOUNDPARAMETER id="1015"/>
+      <SOUNDPARAMETER id="1016"/>
+      <SOUNDPARAMETER id="1017"/>
+      <SOUNDPARAMETER id="1018"/>
+      <SOUNDPARAMETER id="1019"/>
+      <SOUNDPARAMETER id="1020"/>
+      <SOUNDPARAMETER id="1021"/>
+      <SOUNDPARAMETER id="1022"/>
+      <SOUNDPARAMETER id="1023"/>
+      <SOUNDPARAMETER id="1024"/>
+      <SOUNDPARAMETER id="1025"/>
+      <SOUNDPARAMETER id="1026"/>
+      <SOUNDPARAMETER id="1027"/>
+      <SOUNDPARAMETER id="1028"/>
+      <SOUNDPARAMETER id="1029"/>
+      <SOUNDPARAMETER id="1030"/>
+      <SOUNDPARAMETER id="1031"/>
+      <SOUNDPARAMETER id="1032"/>
+      <SOUNDPARAMETER id="1033"/>
+      <SOUNDPARAMETER id="1034"/>
+      <SOUNDPARAMETER id="1035"/>
+      <SOUNDPARAMETER id="1036"/>
+      <SOUNDPARAMETER id="1037"/>
+      <SOUNDPARAMETER id="1038"/>
+      <SOUNDPARAMETER id="1039"/>
+      <SOUNDPARAMETER id="1040"/>
+      <SOUNDPARAMETER id="1041"/>
+      <SOUNDPARAMETER id="1042"/>
+      <SOUNDPARAMETER id="1043"/>
+      <SOUNDPARAMETER id="1044"/>
+      <SOUNDPARAMETER id="1045"/>
+      <SOUNDPARAMETER id="1046"/>
+      <SOUNDPARAMETER id="1047"/>
+      <SOUNDPARAMETER id="1048"/>
+      <SOUNDPARAMETER id="1049"/>
+      <SOUNDPARAMETER id="1050"/>
+      <SOUNDPARAMETER id="1051"/>
+    </SOUNDLAYER>
+    <SOUNDLAYER active="1" name="Rendered clip(7)" reverse="0" base64:sampleData="357.lwTXCA...HBA.R.f.DvC.DvCJPrPvC...La+IIKiIm4bfFauFGxfOTgwDB..n.B...fbkYVYxUlaiUFHrklXFwTPCARLtLiKw.hLvDCMwDiL0.....v+3mFh.Ha.R...B.FBB..fffgB..HXHnP..BJBB..ffghA..HHHnP..BJFJDvg1MNAjHNUjHBLhHfC+8XrryygrkNmSJnaMj26BLO...........PB7AfVZD4JRDRFQDAB+bN126wP5RmyQI7Ml.7zYNOKiwTH74RYjFaEBBZTIGeMkPJjMFoHT.zGA1M......7DXF3cKERttVHrwVoXhIcB4beojRoSQHjk.984Eg9ccbecE8xl11lXljgQg8a2VVUUaSIU2v1.C.LveJHjmieSyqhkzyv1jR.rqqqGyuphhhYXmllhR.sXnnqRAEJNdt2jjfgpAB.HXHnP..BJBFH.fffg...HnP....Llc"
+                sampleDataName="Rendered clip(7).flac" sampleIn="29" sampleLoopIn="0"
+                sampleOut="179" sampleLoopOut="179" rootNote="42" lowVelocity="0"
+                highVelocity="127" lowNote="42" highNote="42" sampleDataHash="d41d8cd98f00b204e9800998ecf8427e">
+      <SOUNDPARAMETER id="1004"/>
+      <SOUNDPARAMETER id="1005" value="0.0"/>
+      <SOUNDPARAMETER id="1006"/>
+      <SOUNDPARAMETER id="1007"/>
+      <SOUNDPARAMETER id="1008" value="0.0"/>
+      <SOUNDPARAMETER id="1009"/>
+      <SOUNDPARAMETER id="1010"/>
+      <SOUNDPARAMETER id="1011"/>
+      <SOUNDPARAMETER id="1012"/>
+      <SOUNDPARAMETER id="1013"/>
+      <SOUNDPARAMETER id="1014"/>
+      <SOUNDPARAMETER id="1015"/>
+      <SOUNDPARAMETER id="1016"/>
+      <SOUNDPARAMETER id="1017"/>
+      <SOUNDPARAMETER id="1018"/>
+      <SOUNDPARAMETER id="1019"/>
+      <SOUNDPARAMETER id="1020"/>
+      <SOUNDPARAMETER id="1021"/>
+      <SOUNDPARAMETER id="1022"/>
+      <SOUNDPARAMETER id="1023"/>
+      <SOUNDPARAMETER id="1024"/>
+      <SOUNDPARAMETER id="1025"/>
+      <SOUNDPARAMETER id="1026"/>
+      <SOUNDPARAMETER id="1027"/>
+      <SOUNDPARAMETER id="1028"/>
+      <SOUNDPARAMETER id="1029"/>
+      <SOUNDPARAMETER id="1030"/>
+      <SOUNDPARAMETER id="1031"/>
+      <SOUNDPARAMETER id="1032"/>
+      <SOUNDPARAMETER id="1033"/>
+      <SOUNDPARAMETER id="1034"/>
+      <SOUNDPARAMETER id="1035"/>
+      <SOUNDPARAMETER id="1036"/>
+      <SOUNDPARAMETER id="1037"/>
+      <SOUNDPARAMETER id="1038"/>
+      <SOUNDPARAMETER id="1039"/>
+      <SOUNDPARAMETER id="1040"/>
+      <SOUNDPARAMETER id="1041"/>
+      <SOUNDPARAMETER id="1042"/>
+      <SOUNDPARAMETER id="1043"/>
+      <SOUNDPARAMETER id="1044"/>
+      <SOUNDPARAMETER id="1045"/>
+      <SOUNDPARAMETER id="1046"/>
+      <SOUNDPARAMETER id="1047"/>
+      <SOUNDPARAMETER id="1048"/>
+      <SOUNDPARAMETER id="1049"/>
+      <SOUNDPARAMETER id="1050"/>
+      <SOUNDPARAMETER id="1051"/>
+    </SOUNDLAYER>
+    <SOUNDLAYER active="1" name="Track 1 Recording 1(8)" reverse="0" base64:sampleData="2926.lwTXCA...HBA.R.f..vf.TPCJPrPvC..OTBgQBFzcQVSaM.N.cxzbQS7DB..n.B...fbkYVYxUlaiUFHrklXFwTPCARLtLiKw.hLvDCMwDiL0.....v+3mCh.7DF.....7++++e.fG9XgDdHiGRXiM53gBNnf.BHf.RniGB3fBRngAJXfDVngERXfFdnfAJHf.BHf.BHf.RniGB3fBBHfD53g.V3fJ9HiEZ3gDFnfARXfBd3fFdnfAJHf.RngAJXhIR3gBR3iEBXgCZ3gBFnf.BHfD53g.V3fBFHf.BHgEZXgLdHfCJHf.BHfD53gDdHiGB3fFZXfBFHf.hXiLVnfENngCJ3gCJXf.BHfHlHhCBXgEJXfBBHf.BHgN9nhAR3gFVHgEBHgOVHfCJHf.BHgFFnfABHf.BHfDVngERXfJtHgGJHfGdHiNVngMVHfCJHfD53gD1Xg.Nnf.BHgFFnfIlHgGpnhCBXf.BHhIR3gFBXfBRngAJXhIh3fDNngOVHfEdHg.FngFFnfABHf.BHf.BHf.hXhDdniR1HjOB4iHFHfAhXhHNHhKh3fDNngO1niGZ3gDFnfABHf.hXiLVnfENngGJXfBBHgNdHfCJHfD53g.NngNdHfCJHgNdHfCJHgFFnfABHfDFngO1nhAR3gFVHiGB3fBBHf.BHhIh3fFVnmCtZnHZnthd5lelK3RCo2Vm6hWJnixZ5lJpMneOHigHZW3d0c0nDV8Tp0C+gfXs8esUV6omiMQPlFjHPzD4kRGE0QjtkaecMHO1Zu.0tWozsbuVBjETEHXZVF2ZXzhVS.idOiRLNxEnFp.L.zA....f.bA.......D.t....RUXrfxUfNHGkAhWDPKN2GhsIhB3T.xQIfCfC.AyfT80heuKB7V6BPG.B.zzAXAfCP7XBBAAmpSJQQfL.XAn.zf.D..F.A.AaExgd9LaQhVcdCfgONBMFlkKM1p4t4GaTr.oXspIZInh8tCF3OfJPaY3aJFD7Larhr9JFf7EhPAF.hSBFqdkB8OAKGY.jXQRvBCgLI1Bp3PmbZSX8HTQtrFwBEunmjA2.qBkBv8szrMVTdMmH7nAHf.zZVBvAvBRBVpwY+V2HSiID.+zO.d4.Nm.8Nha00h5Pfw44O.k8r7aV7pJPBtAhvDkh4ZjHCHinKKGDwV.pG4IP1ovK0nPqCr5Wnh2AAwGKAq+UnlImQjI+9htNZWtfCKzWm66enGjCuFpZXvpWkIvXpJNoohv78haGBobPpDIRxSN8L.D3x8.7fM6zM3RZ0oZ8ebLTtmxtxBc+0zeAQ2JoMYoNwM2lZ7g0DidDfrXE.Ygf4q2vosu7uWbk.J0.vcN.SQ3d42WqMDTzUIYZbJiHfC0Sst1TFHTtZ0FsncAip6ddoTN1mDrIRG.bWLY+pZqpe68DPCeCCC47Ej7lwEWfbZXPOA4Ia1BU9kSJ3WNzN1NwZ4loB5he5HlzUHkWTtqAwWUOWc3XGd4O3M0BELI2wM6YvD6ImvpI++EaaJdxIm1midQgEmXZYFinaNjvWMkVqd8Mnb5ME5VCLxS0lLZZQiYz0Tsrb+wFSUQ5RRUl8FhCkRaMt0POLbr.qHyVc9wqEjU.B+pUSG5leK0U7SSL+8r3yEuqjQ6ZnMqrxnRJV+Zs8LetU12FQTX5sr0suzQEErQDg3wfkfD1xgNxxu4wgu7sDZueTj8yyTwTSDTVQUUeMXcucA8JZbQkVb4kV8COyhC2TDAt3yiN8CC+IPBAV5h2bV0AxESWI54rQ88vNuVVMcE86qdw3MhNkBZqsmNXtU6syvZd1aWalAdpofRHgj15hEFf....sg1+3mCpAXNFM7fBbdPSCLY.vnBCAVS1RnAFnXxB.Jh.s2H.PywCkXkPmBMOA.TRgCoL5TASm4pGsHFquRnCXT.fPMG.hL.HqVlCITS7PJi.hKJf.IvPBx0yOYsuvX8zLH6G2AGDjDjAlmpHAErXZHiHzYDxyKxIaGXHBhTIsqG0PH8RLVtm5pBerV.AI1hghRr2fU3FYnhlwycHnDoYrYPCHTRipVFejfRsNS3QDUEvvCZbj0DhthDjvgDsGJTnwiADXvgQgEiLpi3A..YZhFFDXxMJvvSblDDjHpbYKv.GXso3rqIBGHPzl3RD17XxRnGwLW41L6AIC2Ty3AZwjjq+Y1s6sb8N0aazjPProl4QuPJmK7p7wkEvS5wP7cXMo8VKxt89r2lXbDFdwOFAF7ZUFE0MZWzHxdCK3Do3FSgfsMaxsxR8VVzT9hXZOG1C0Rrm2Z5Jyj+55w6nZJtxXfUHJ21ux93Mp75kyaDt2Jx0wuRKcrxoo0Xz0nGigdGrKQQR1XSkoQCZNF0ys6gWQSNzipQRJ8WCydWcHr9+si13LL20SyWuwh1ajYd+Zs82UegTK.QJDOY5d7ZVlsop2zHBg8bbJL9NRhvLAWkYlLDdxo5Jr4Y7GeRUa0DcbUja2dUdlwx4ZZJ4KS0s2topmUVeslRAkPVKuWCEfY0tLa2j3XDLQlXsZpkdmSI2IHppxzotGmWRyovSSVOcLt0X1LpcmfWcOzxSRg9VX3ZKXaKyWRprhhhR5Ezag3T7Y0UN+s8mygWWDwhTUR44H0pW10pnMFNgoh0YHQ4RGuKYYo4NkG+Ev8kkA1ZtIBplWH7UF9F86QqzGFaW5o5RLcVDdsiqUd76YKcokx7UQQbO8FTN1mgkkkkSvUJmYpv5JkdGKqC2QIL9DBKow5l7oqG8ZNC6qvfSywdaloZswsxv7Hepmv22yYYsczmJyiIogvwnInlsEww2akGIsfgc9reFDNsvz2YrMLBZNSsrQR7s33LxfxHncFJkixbaHIbzclRtegS+mniTRYYLKLNOcFBBNAeSLr8VOh2gTQXu45FZuYwUIHb1BwCmypzRWWa5Hrc7bF9BFwg+mlRHZPp5T3+oYpk7u+BZBgcmiliTQA....P759O94fp.uaw+G3+39OM.ad4Ax46Kp1JBhX.zRmHRz62BEdunQAJkfvnMpddGWeLRjiOZYPvS0kqRkO2nhcS9wRHQg.kJU71E9vngskBJCJEJv2yWJKVshEADhD0BwfTAzuW3gvnogJxZp76tUVn2yDSj1fjm4.VucnqeDFVDxloasj20SR40Hf6mMPgPg1NUV42kkEQp37nnamkR.QpyYfjmoTiLm55QR0gHiZGRE8lu6Jp15xzwzPJpcq.H6iktT3MMMsc5hTzxw0j8RVpRLmxmQhjTe4VqHiOPg5wjhVpUZEFQ85iXIRkPoWG5Etl1MKylxSwPRhagMMNGQhjo4bpzDSkitQJUWtFVhxyHkdcjS0bIRiTgxb6t1YGudp9PgtPlIW0oEIxoKoMNONQoRVFZlliHQp86RjrL09cRxXKNEaTNWV1ZlXE65Jq5KC437TV1ZQsrIYhT4bgUcUIqNGhV37XFzsowcQhjkMhn4XwImgVqTrnDIWxaZmLRn3YYnQpcJ18IRSpT4bAUx1z36n0xYPmjL0pZbQJVNGsVIiDJCYtcxlzV1qXzZgyijJ4YXHkVNWTh9joVIWRYRWZlD60QiTqjIUIqJGFSGVRkwvD48uKKkIcoYhTrWZkb4zgnQhb6T33Qhj9J6TjHFamrIshKUVYEhFIxsWgnQpcJcLJioHBsRkiELRg0jFukyD4X4XgLoShjT8oRWpGHlh0xmBgUiIYxjH4sjamhVOajisSQn0JX....NUv+3mGpCD.oCIA.G.vZVUqVpVqpqp05lbYUlzpZp1kU5ZYsT6pk0tVWpTqqpV0ZcUEU0pl5cozpk5ZoUWEU5V5xZotVpqpppp5ktnppopk5ppppppppcUUUUUUUUUUUUUUUpUcUUUUUUUUUUUUUpoppppppppppppZ0UUUUAAH...fun."
+                sampleDataName="Track 1 Recording 1(8).flac" sampleIn="395" sampleLoopIn="0"
+                sampleOut="3877" sampleLoopOut="3877" rootNote="38" lowVelocity="0"
+                highVelocity="127" lowNote="38" highNote="38" chokeGroup="0"
+                outputPair="0" sampleDataHash="d41d8cd98f00b204e9800998ecf8427e">
+      <SOUNDPARAMETER id="1004"/>
+      <SOUNDPARAMETER id="1005" value="0.0"/>
+      <SOUNDPARAMETER id="1006"/>
+      <SOUNDPARAMETER id="1007"/>
+      <SOUNDPARAMETER id="1008" value="0.0"/>
+      <SOUNDPARAMETER id="1009"/>
+      <SOUNDPARAMETER id="1010"/>
+      <SOUNDPARAMETER id="1011"/>
+      <SOUNDPARAMETER id="1012"/>
+      <SOUNDPARAMETER id="1013"/>
+      <SOUNDPARAMETER id="1014"/>
+      <SOUNDPARAMETER id="1015"/>
+      <SOUNDPARAMETER id="1016"/>
+      <SOUNDPARAMETER id="1017"/>
+      <SOUNDPARAMETER id="1018"/>
+      <SOUNDPARAMETER id="1019"/>
+      <SOUNDPARAMETER id="1020"/>
+      <SOUNDPARAMETER id="1021"/>
+      <SOUNDPARAMETER id="1022"/>
+      <SOUNDPARAMETER id="1023"/>
+      <SOUNDPARAMETER id="1024"/>
+      <SOUNDPARAMETER id="1025"/>
+      <SOUNDPARAMETER id="1026"/>
+      <SOUNDPARAMETER id="1027"/>
+      <SOUNDPARAMETER id="1028"/>
+      <SOUNDPARAMETER id="1029"/>
+      <SOUNDPARAMETER id="1030"/>
+      <SOUNDPARAMETER id="1031"/>
+      <SOUNDPARAMETER id="1032"/>
+      <SOUNDPARAMETER id="1033"/>
+      <SOUNDPARAMETER id="1034"/>
+      <SOUNDPARAMETER id="1035"/>
+      <SOUNDPARAMETER id="1036"/>
+      <SOUNDPARAMETER id="1037"/>
+      <SOUNDPARAMETER id="1038"/>
+      <SOUNDPARAMETER id="1039"/>
+      <SOUNDPARAMETER id="1040"/>
+      <SOUNDPARAMETER id="1041"/>
+      <SOUNDPARAMETER id="1042"/>
+      <SOUNDPARAMETER id="1043"/>
+      <SOUNDPARAMETER id="1044"/>
+      <SOUNDPARAMETER id="1045"/>
+      <SOUNDPARAMETER id="1046"/>
+      <SOUNDPARAMETER id="1047"/>
+      <SOUNDPARAMETER id="1048"/>
+      <SOUNDPARAMETER id="1049"/>
+      <SOUNDPARAMETER id="1050"/>
+      <SOUNDPARAMETER id="1051"/>
+    </SOUNDLAYER>
+    <SOUNDLAYER active="1" name="Track 1 Recording 1(9)" reverse="0" base64:sampleData="2499.lwTXCA...HBA.R.f..fe.TvWJPrPvC..JvmQzs7YsMvAWw04WDcLFfmQDB..n.B...fbkYVYxUlaiUFHrklXFwTPCARLtLiKw.hLvDCMwDiL0.....v+3mCh.7DF..v+++++++e.fCJHf.BHf.RniGB3fBBHf.BHf.BHf.BHf.BHfDZXfJtHgG5niEJ3fBBHf.BHf.BHf.BHf.BHf.BHf.BHf.BHf.BHf.BHf.BHf.RniGB3fBBHf.BHf.BHf.BHf.BHf.BHf.BHgNdHfCJHf.RngERHfAJHf.BHf.BHf.BHf.BHf.BHf.BHf.BHfDZXgDh3hJNHfABHf.BHf.BHf.BHf.BHf.BHf.BHf.BHf.BHf.BHf.RniGB3fBBHf.BHf.BHf.BHf.BHf.BHf.BHfD53g.Nnf.BHf.BHf.BHf.BHgNdHfCJHf.BHf.BHf.BHf.BHf.BHf.BHf.BHf.BHf.BHgNdHfCJHf.BHf.BHf.BHf.BHf.BHf.BHf.hXhHNHfABHf.BHf.BHf.BHgNdHgMVHfCJHf.BHf.BHf.BHf.BHgFVHf.d3g.R3iEB3fBBHf.BHf.RniGR3gDFngGZXgL9niGZ3gLdHfCJHf.BHf.BHf.BHf.BHf.BHf.BHf.BHf.BHf.RniGBXgGRHfAJHf.BHf.RniGB3fBBHf.BHf.BHf.BHf.BHf.BHf.BHgFFngCJ3gGRHfAJHgNdHfCJHf.BHf.ZXhABIjydDI0k8B5ae4LZIiFRSs6bbfDfXLMpiA1FlQ.58iD.9YjIHD3GbF.6BQYyTcDH7+Zmi3FNwnr5.jWP6XJBABgCaUYo6CRZn0hGfrC...n.z....1.37.XxK.P2fjvn+RHBHBvRAHC.Avg.ngPL7gI.ekFAHbjFfaD.QT.VzLAfM.f.HV.3.TC...j.7.7AvAvH..b.VF.OFYIVvpzdcy..gI.KU.9AnnAnU.D.OV.XF0OJDUHNxb7I36Lb8yCkO.7lASgWGfTx3EW9rApN.EFfIA.D.Kbj8Ffv.T4v8vYSA2jp3kqDvCBO.RL...H.Y.HySDD.qAPGZFfoPzadGEM7xrc.V.DT1..f7.fMF9LNCZz2IA0WmZra+CUwfHaHAXRA+nfvP.ATZ7bEtDHLz0N.O1zDXUDbh18Gock7N9ojxyv3HUAhI.3Agf2AXYXZBnnPaUtATq9+YFWHr6P.jQ.1.LMCvDA.Iw9IJz1TyBka6fV6YKFmeQE.rTnL7ihC6V.w5T3SyQxgl+tDEYDpSN4rJcToZ+ELkrP6hvm8LpOlkOuZhmHXfynnkiMH6K3IXH.raj4Bz03acVW9lVrRBGPxAv..lzCf.bK.ulwgGXUV6XC5GK8.UeHOgK.gBcBx.HqvPbM8nmwPAfoUfFRllGTICva7..v9AnSvOYCOmwh.DSOBfa.TQ8LDswR67dDpv7BfsRHvK1gqyc.EfuN.aqFigFQW1bcP3LO.OD7bnYVs2yjzkPuUGbj3FDFpOFfFNFCjCiASnmsb4Q33RllmxvI4shgzDCFodJLQKPwMWTkjmgnc6c..72jJwnTdaxZvHBUjYyYY+BAj1sz5woarqy3ijt9km8zgvQWwJJM3jlKUs4+mmZRALTUORlMhlbp2iWrA.oT.Yy1zm+dA4JZbZCRkMHCjE.5LT74XbWue4U2UHy9tfYE.qD.zx.bziZsdalNubpTJjS4TzHWHhaLJuS.nEawLlp7rqDKEgvLbYdd1AwPHUSnXrhE8r21Yvo0KcLBnmd3UHNQk1cCpT0evXpuwSQ1TwDM8FnYSYjJ1fBui74821ScnCANT0oHJ7OTbfVXE2gaW2gtoFdspsfQuts3zM+oCNXmzI00FJTDKATjhQOEbr7FgxJWWq8aTw0xeY+xa1rT1HMs+dIyW6nxpkN0VQxjUrh01qYQ3omn6QlJpX4hjljJTn.A...HIn+ieNnFf4VbOOySe7fD..N.B.TAPUvf..nk..iADC.F.TaL.nF.rMuLwvACDvmBLemDGnFLfhvG.n.vB.PALacH.3lAFdELH3C.dlTG.3.F.j...e.vFvE.HA.HHHohe..A.H.DHb4FC0.t..FPge8KA5x..C.J.qTFhD+hCHxrvm8wuk..ICA.jBEbiQnxjCGB8C.DuqpZxB.V.PAPwwOZyHCCHNFnhHzYCAEC.dB.HMCHr.i+NBF.DcHXKrHUSbPlO+CdhXbQEl3A.N.HEYFeDZRr.eWANRGfX.GBH5A.U.+VJpQncn.0BvX+ACp5LPP5vBV.BKLfDaSPPxK.wX9ETDUojgBCZ5WJ.vHsjX8mBwD.dIvikArhUXPEgCx6mKew0VpGYDLQzJPBMKPLIGwthNmXLgBTDnq7y7mODXafOZXzizf0tPR72iHhX.fQgD.iaQU73SCXVe.hVjv4xE6SJkIKPIXSg.dzQDEA7zNH4oViSUeYPc0eDB6VuxrL3n2ChPXRrFXE8Pp7IcwSDqxjuBV.rxilFupQpymDkHLsJUbsj0ZZsut3K3ZKFGskgZa6j0t4XVEmPqOx5i4k5eXyEfdRaSuvK6KOxrLXaIVZrIFMYJmMUOWaswUeNKOuyQWV4J2xZu0nzvYnaiV9VoWnYDbmBxuRzpnZ535PxcXQnOEWMM5RJn5S46vR1kQ9NudRhlHGA89Ch9kdpm5OYQneBRCIsSTUXJ3odOCYn2Nxs+m89J1HytX0OXTVQ86rVRUrSS+MIgo1eZeHh3p0XD5tw8s4TneU6gfujZpq46YJOSklmz924uR8PpC+xPzY3tHNDKiXutD5un7Za9YYT5uT5Lcq46kcYDkJifzDFms1z2WV+EmtZqVaU0qqfVeQb6IHcFkWwX0Pb4JoLMtVBlRQQughyXxXbaMDZNJKCo5QZEiQewo6kITNWyhWAsgswQ7zZI+ZFzblG2B4u9aP5Hqo8DE9ZSxX8YKpMMpmkg6v95zPXa7YEELVxVFgy6upjzcWe3MpckT9p6ZeIsqnnvUW3pJXjDtthBFIQqihfPPPXI3nk8LFBBBMEkssmQSUXH+cGDt9xhZew8wof31yXHHXT0TVBWVAUiiffPRzZnaYDDDt5hR2c8mglvSU3pK7UEE9phBeMsqflvUUbXpIbjU1FFJYKigjfUQSXHIb0EE2dFWcAsu3t3UTb6P....zTY+iednJP.6siD+uO.poZo0Ik0qdUKcUkKpdIU5doRk6JWstVpoo5ktvplb0pV4pltcojqktppZU8jcQUpWpR5ZccKqUUUZUsZVm6UKYhqUpbSUopptVYqZUqZqp0pUUkZUWUUWsTkZUqVMIUYUakpsVkZqpUsKoJpf....DTD"
+                sampleDataName="Track 1 Recording 1(9).flac" sampleIn="426" sampleLoopIn="0"
+                sampleOut="2684" sampleLoopOut="2684" rootNote="40" lowVelocity="0"
+                highVelocity="127" lowNote="40" highNote="40" chokeGroup="0"
+                outputPair="0" sampleDataHash="d41d8cd98f00b204e9800998ecf8427e">
+      <SOUNDPARAMETER id="1004"/>
+      <SOUNDPARAMETER id="1005" value="0.0"/>
+      <SOUNDPARAMETER id="1006"/>
+      <SOUNDPARAMETER id="1007"/>
+      <SOUNDPARAMETER id="1008" value="0.0"/>
+      <SOUNDPARAMETER id="1009"/>
+      <SOUNDPARAMETER id="1010"/>
+      <SOUNDPARAMETER id="1011"/>
+      <SOUNDPARAMETER id="1012"/>
+      <SOUNDPARAMETER id="1013"/>
+      <SOUNDPARAMETER id="1014"/>
+      <SOUNDPARAMETER id="1015"/>
+      <SOUNDPARAMETER id="1016"/>
+      <SOUNDPARAMETER id="1017"/>
+      <SOUNDPARAMETER id="1018"/>
+      <SOUNDPARAMETER id="1019"/>
+      <SOUNDPARAMETER id="1020"/>
+      <SOUNDPARAMETER id="1021"/>
+      <SOUNDPARAMETER id="1022"/>
+      <SOUNDPARAMETER id="1023"/>
+      <SOUNDPARAMETER id="1024"/>
+      <SOUNDPARAMETER id="1025"/>
+      <SOUNDPARAMETER id="1026"/>
+      <SOUNDPARAMETER id="1027"/>
+      <SOUNDPARAMETER id="1028"/>
+      <SOUNDPARAMETER id="1029"/>
+      <SOUNDPARAMETER id="1030"/>
+      <SOUNDPARAMETER id="1031"/>
+      <SOUNDPARAMETER id="1032"/>
+      <SOUNDPARAMETER id="1033"/>
+      <SOUNDPARAMETER id="1034"/>
+      <SOUNDPARAMETER id="1035"/>
+      <SOUNDPARAMETER id="1036"/>
+      <SOUNDPARAMETER id="1037"/>
+      <SOUNDPARAMETER id="1038"/>
+      <SOUNDPARAMETER id="1039"/>
+      <SOUNDPARAMETER id="1040"/>
+      <SOUNDPARAMETER id="1041"/>
+      <SOUNDPARAMETER id="1042"/>
+      <SOUNDPARAMETER id="1043"/>
+      <SOUNDPARAMETER id="1044"/>
+      <SOUNDPARAMETER id="1045"/>
+      <SOUNDPARAMETER id="1046"/>
+      <SOUNDPARAMETER id="1047"/>
+      <SOUNDPARAMETER id="1048"/>
+      <SOUNDPARAMETER id="1049"/>
+      <SOUNDPARAMETER id="1050"/>
+      <SOUNDPARAMETER id="1051"/>
+    </SOUNDLAYER>
+    <SOUNDLAYER active="1" name="Track 1 Recording 1(10)" reverse="0" base64:sampleData="3190.lwTXCA...HBA.R.f.Dvk.XPGJPrPvC..LjFVmYVsLgbczXFrJm810ibzDB..n.B...fbkYVYxUlaiUFHrklXFwTPCARLtLiKw.hLvDCMwDiL0.....v+3mCh.7DF.....7++++u.fgkBBDH3H6g..BBBJbvffhuNEDHXH6g..BJVZD.fffiNQHHnXnvACBBVVn.fffoHA.HHn3gCCBN5dPPffglCHHH3nIw.ABFxVTvfffmDEDHnXX.BBBFBpb.ffhgFC.H3nYP.ABJNNPPffhsPMHHHXX.BBBNZZz.gffuPMDHnn4BB.BFBFffffipILDH3HYgA.BFFRPvffirBE.HnHH...BFZNLPfffhBIHHn3IgACFFB93PffgiDDDHXnnPAABJBdvPffih...HHHH...BBFRHfffgn.GLHH3I.BBBNhBbvffhuNG.HHnYvBEFBF5b.ffflCA.HHHYP.BBB9ZMgffhhMP.HX3JTCBBBNhzvffffIH.HH3IyA.BBJJ.Pffir1O3pYKKS0ABphdYKhkl1.Uco7JHdMTNN91wAirrgyLG+pOVKAeijf6PzrRQckrnY8oj9JgjoHV4LqbLWkszQ5idVFVACobqKRVQjA.uD3R8AVvdm+qNxrdIKFhGk.B2CjjZMvirDZVGUziRAlEIm8wDuhHIQTlE3i4BrwCTIAJ3.1ODGIZ1iE5Mxxz.F0MRTn.2r.fDP1.9DpPm.nyxRkAfUR5hpkBW70.ODv3H3aArp6mA80AQhoP9Bvhw7JkD.Q.lZwPL..ZVf82.BLCcO..IRMVmD.BHBB.ACDwysfxWfO6.q5.d5hIRFA9Zv6I1gAiNMkP3jiH2OPgGj+aBcAPN4iD6LmP13weSEy4AfBHpBf1A98Nk2NG3r5GydFTOiQ2B0P3huUHki5rBX9b.eDnNhTznmDty3zhT5If3CjQiGnPD4tDnQRhXtJ.uKw5ajBYjBBZbQA5n1XthefdgMnkHt8Xn8pFizArgfhrlwBZT.Z2Cr36KID.g3JF34X6pRnrHQ04EngVHc8xrkxVJgZ28GiQq2NNxYFn3swj4RomuGCfMCD.LBP...XfsBA97Rn6zhjKELMvoXRTeV.GU1cpoMbhWrxIErI1MnBKE32L1SNRs7itlPJXyQRFQpsK.ghHOrq4mEt0A5gMy0VB6hhy8FTgR7wDNdz5iDGypcMQFQyVcv395wnl5TpmVNKW6z6OJDH4BEcXsxkRbkx5.3bIl4bS504T4UbAW3cMzqiSOqsGyVMrHbIIBBwOE+oEhGo2Ycur7hO9o2lsSQC91UsdEslqwqKg7aSvQbx0rFJ9KNlQvJAO+BQyWC9Y68lm6WjTPpixLeq3dU4AUa7JlrIrls+SjKeBQ+lQvRafYhbuz8h6fKoz6U6Rye5a5tgRD4FiL6xw+m6RiJdHDK1phYlLja0.PxRgb4yvo51EWks4nyMER8yDuxjntjtRHT2EHefWo2xG9Q3MDUG79uTv0pSUmGwQcf8696vF+L7Lh32JHPpwX2VlBGDGRryl15MYSWquZ1LjUr0XS6wl2a78ldh8PD0Qx7eENTTsbun97PbYJoR4THTihx8tlyEtjux928Kmz8HgKqlK0zbjjvapJHqHtT4CttFzsF1mjlxYB7zqDzqJLkuGQiy8nJqZ7niXuKwEwCsdcrfwNitw.IVJey9lVNteRsQU4xXpgD6FTQbILwwAW9xFb4fjkr0v67pTuUJ8OcI6iQYRP7+EnrrszoPckGioXlQW10BNpV1e+RHscY84Xk8vzc71DjMzgDi1sslfx5KHq93+JV9Vt1qXbBTANUuSMPR4YZlxLT7l5ArwWKSqhJNlponzyga6gnuF2gIy9oGnM5pYjpCkMokdH6caG0IzAAm6kBz7+2hDHB40LkX56+ia7LDkRZo3PpLMuN2x.+mljjPNS3j6cvfYJMZRdVNF0Yuzg0Tn+zDBLZ3hipxZDZ5trJHXR8CCPJcQQ1WDEE0tMC0T2y4gy.ez6dzafFc7F4l1M8YtpHbNJSnwJ1phY1hv2o+pvtLpYxoHdBxNTsonwrfFgXa64NJvNBq1QP3fpiuijn3JHhnlB2NJYejuuowznKoI6aGVVZBFWjgfmptBO3JYI6Iylt9pBJnkqrHCtLYqn8TH9tJRD4nfquYwLbJI51HQF691B4pkphhP0oZXXUQ1BD....ts7O94fZ.laQ+Syed6GX.BJkH3eEECixVP..LCLFdRDD8t5xCJIL3lrh.Xy.Yx..uzfWTbp9.HgQx.q.v3QUYQbjrp3MHm..ybE.OCfyqjvoJMb.QAykCgPIkF.rURvCjLAh1H3O.jZfQgPkEDsELt8.vuTQgPIRgzGANXnnDlsAvFqg9F.reZ.4PnLtp6iL+DDNNdhP3bp9NKL854phAPsNmzHPrIy5QKxlqZyzCKILFhfXYCcJ+mGPfzj2TrffyWZLM0lf.JkJ7wVc8dFXJJvlTBFNq2iDxVou+aEU6xDN.QCi3kjsZmzBIPosxSwx5WLXIgPfgoIOlHb3RrPLLC0gWGH9gneXLEWkQw.bFLHD9tZJgPCN48CyTHHJKwBfcfUmsNBQVOEDlUpGbBhR2PINxRjZimlg5xdTv6TydkJqJQOkUNzfnY40dSOqIEwQJ+.NjBJ1r406S9vcKKdI6mrocZRXBRzku49+xImbd78sCq+sXRSiRK7K6yfCbtZ6xyofWF1dSzMmLPCFUO5fZMtplPxm89taKaZgdTwi0L0ueCQ1DIcyP2hE5bc91WIqY6L20unSiGnXj0slDb0eKoPhW0MUg6I4bj4ip7NO3YKlTNjv5+bNFTXRTZtpJh2D6dgJvM0B4j3yReM4.9t6iBS0vY6NCtGO2LpHww0KC3RBcyZ0aTRO1Gc.ClYYl9xdLRPYofPo+1lhTFwtgpukzvBcte5H2zl1qpfBXmM13RHYYM.Y1HgO+4riUm6KGXbcjmDR929AucTcU91We.xDSOZga8OyIsmc903kRRSARQrSW253XESfU3GK3J0pJGoc86CwDlhq5M57uq8I18XI1IyflkWpZKEY8cfd4gz2ONmss3rxTBp5nAgSsppxMxnM+tWsDrDAy1B4Kglwr.o97GF9jDoPCkQodyl4hP4Qb66NhR4Vx81dcxbntK8Yka4k5Q9gNhXUePDFkSTJP1O3ceoawE5JN4QM2MZnBkTnc6CyYpEoJh9b9OlzFmX5zbB3f1Y7697VIxmtJT301lIc1JwUY6wqsqssFLnz0t.ez+vcBYf5bg5YY7N6r304g7z5jnGTvRX08bzwrkkpsLkMehdCUxenckwXTmLDfZt4h1tlVhkci5oBIIM+7C+nXrtoUwF9gRXWRSOCPtO3PUgFkkM70udxiPm+vuZCUOcYn+stSWgzcgxzte1iongOLkO3+znAWm784KPReWURVaNg2odgnimooDh+th3zntPgNQuNUKOCGococOknGbnNsq7ToVzx9PcJ0+pVyIbca.coNTjyjm+ThVzih0mZx8ZDMIZ+IP+nMzoMkmWTl1zIZxWRQapEunZceik3FMktDiITfhvJBQKhPAZ.GYLCH.koEbkQDlKziJwc5xHpwA5gobTU3dMrVMhPrhozqJQAlQtB4qJPsaWw5C8nHdx38oXbntQKtQIJxepDWoX47i0pBNqh7hjTn9PDFwPJyOJ.IZJk3T+oBDngklyjt....Zj7+3mGpBL.ZnIw+zCvbHTbT7fIWYonLES1xJmUcYgQVTVlnXPDFmb4xsrJDwXxHRTyJRstT0tNsCMALdRU0iNAkC0hIbxzQHfQTEZ8jSXEiSg.LGQHFfTLFG0ZdY3Fgg8vBHnWX0HCMtpE2W45IWwZl.BD7fHFr.FLagHoX0cRKUcBU19BDDicHQhXPANfPXvat3ABLQHpAA.PXir.bLhDLFRxxFEAoDSdxTRFxZZsolvElZhbw0ZZhSJMjhAgvzXjVDKsLXCBFBw.BLHBCcQlocECFdEBkDSFi7ZDQ4OgXoMoEnazSDv.IKiTwBy.ouxEwtGQhsVX5rNYHIx.DDCNPhAtiZcYYIGofFLEDEa5HhX.AqAFPgAAXah.1cgQHhFCCPFrAjPlWLARXxAyfDf2PuLAWP.CmLEEhfOXQSRhX5UFM6xhuIGtFgSSwYfgULkIFdFBgocmTkQbLpk7xTUJ0xxfVgTpoWRShslnkpx.BoAyPPTLLCZAiYI3.A3QDllpbUiJvFhHXAUngK.SmDaMsMA....vd0B"
+                sampleDataName="Track 1 Recording 1(10).flac" sampleIn="0" sampleLoopIn="0"
+                sampleOut="3177" sampleLoopOut="3177" rootNote="36" lowVelocity="0"
+                highVelocity="127" lowNote="36" highNote="36" chokeGroup="0"
+                outputPair="0" sampleDataHash="d41d8cd98f00b204e9800998ecf8427e">
+      <SOUNDPARAMETER id="1004"/>
+      <SOUNDPARAMETER id="1005" value="0.0"/>
+      <SOUNDPARAMETER id="1006" value="0.9555382132530212"/>
+      <SOUNDPARAMETER id="1007"/>
+      <SOUNDPARAMETER id="1008" value="0.0"/>
+      <SOUNDPARAMETER id="1009"/>
+      <SOUNDPARAMETER id="1010"/>
+      <SOUNDPARAMETER id="1011"/>
+      <SOUNDPARAMETER id="1012"/>
+      <SOUNDPARAMETER id="1013"/>
+      <SOUNDPARAMETER id="1014"/>
+      <SOUNDPARAMETER id="1015"/>
+      <SOUNDPARAMETER id="1016"/>
+      <SOUNDPARAMETER id="1017"/>
+      <SOUNDPARAMETER id="1018"/>
+      <SOUNDPARAMETER id="1019"/>
+      <SOUNDPARAMETER id="1020"/>
+      <SOUNDPARAMETER id="1021"/>
+      <SOUNDPARAMETER id="1022"/>
+      <SOUNDPARAMETER id="1023"/>
+      <SOUNDPARAMETER id="1024"/>
+      <SOUNDPARAMETER id="1025"/>
+      <SOUNDPARAMETER id="1026"/>
+      <SOUNDPARAMETER id="1027"/>
+      <SOUNDPARAMETER id="1028"/>
+      <SOUNDPARAMETER id="1029"/>
+      <SOUNDPARAMETER id="1030"/>
+      <SOUNDPARAMETER id="1031"/>
+      <SOUNDPARAMETER id="1032"/>
+      <SOUNDPARAMETER id="1033"/>
+      <SOUNDPARAMETER id="1034"/>
+      <SOUNDPARAMETER id="1035"/>
+      <SOUNDPARAMETER id="1036"/>
+      <SOUNDPARAMETER id="1037"/>
+      <SOUNDPARAMETER id="1038"/>
+      <SOUNDPARAMETER id="1039"/>
+      <SOUNDPARAMETER id="1040"/>
+      <SOUNDPARAMETER id="1041"/>
+      <SOUNDPARAMETER id="1042"/>
+      <SOUNDPARAMETER id="1043"/>
+      <SOUNDPARAMETER id="1044"/>
+      <SOUNDPARAMETER id="1045"/>
+      <SOUNDPARAMETER id="1046"/>
+      <SOUNDPARAMETER id="1047"/>
+      <SOUNDPARAMETER id="1048"/>
+      <SOUNDPARAMETER id="1049"/>
+      <SOUNDPARAMETER id="1050"/>
+      <SOUNDPARAMETER id="1051"/>
+    </SOUNDLAYER>
+  </MICROSAMPLER>
+</PRESET>

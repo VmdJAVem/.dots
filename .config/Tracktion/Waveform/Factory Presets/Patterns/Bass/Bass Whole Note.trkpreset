@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Bass: Whole Note" tags="Pattern|Bass" type="pattern" subtype="Bass"
+        presetVersion="2" factory="1">
+  <BASSPATTERN name="Whole Note">
+    <BAR length="4">
+      <NOTE start="0" length="4" velocity="127" pitch="0"/>
+    </BAR>
+  </BASSPATTERN>
+</PRESET>

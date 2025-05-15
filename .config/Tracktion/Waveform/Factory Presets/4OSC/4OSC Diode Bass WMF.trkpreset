@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Diode Bass WMF" tags="Plugin|Analog|Bass" description="A lush bass sound with three oscillators"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          waveShape1="2" pulseWidth1="0.23163314163684844971" tune1="-12.00000000000000000000"
+          ampVelocity="0.00000000000000000000" masterLevel="-10.01844024658203125000"
+          ampAttack="0.00100000004749745131" ampDecay="0.09198281168937683105"
+          ampSustain="62.12121200561523437500" waveShape2="2" pulseWidth2="0.18277095258235931396"
+          fineTune2="-1.61562347412109375000" level2="-9.63856506347656250000"
+          ampRelease="0.09198281168937683105" filterSlope="24" filterAmount="0.41265630722045898438"
+          filterAttack="0.00000000000000000000" filterDecay="0.18300195038318634033"
+          filterSustain="32.57575607299804687500" filterVelocity="89.77812194824218750000"
+          voiceMode="1" legato="19.17187500000000000000" waveShape3="4"
+          tune3="-24.00000000000000000000" level3="-16.69853973388671875000"
+          filterResonance="10.89062500000000000000" filterRelease="0.18300195038318634033">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="0.25209376215934753418"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

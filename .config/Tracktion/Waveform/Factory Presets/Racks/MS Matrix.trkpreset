@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="MS Matrix" tags="Rack" builtIn="1" type="rack" presetVersion="2"
+        factory="1">
+  <RACK id="1001" name="MS Matrix">
+    <PLUGININSTANCE x="0.496688753" y="0.498233229">
+      <PLUGIN id="1002" type="volume" enabled="1" volume="0.637628138" pan="0"
+              applyToMidi="0" ignoreVca="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.0145278452" y="0.815450668">
+      <PLUGIN id="1003" type="4bandEq" enabled="1" phaseInvert="1" loGain="0"
+              loFreq="80" loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0"
+              midFreq1="3000" midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.49372384" y="0.805653691">
+      <PLUGIN id="1004" type="volume" enabled="1" volume="0.637628138" pan="0"
+              applyToMidi="0" ignoreVca="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.765133142" y="0.34375">
+      <PLUGIN id="1005" type="text" title="read me" body="&quot;MS&quot; stands for &quot;Mid and Side&quot; (sometimes also known as &quot;Sum and Difference&quot;) which is an alternative way to represent stereo signals: instead of seperate channels for the left and right speakers as in conventional stereo, MS stereo uses one channel for the mono sum and the other for the stereo difference.&#10;&#10;Converting from conventional &quot;AB&quot; stereo to MS stereo and back is very simple: the mid channel is the sum of the left and right channels, while the side channel is derived by subtracting the right channel from the left (or by inverting the right channel before adding it to the left, which amounts to the same thing... in this rack the native EQ filter is used just to invert the signal and should be left flat).&#10;&#10;To convert back simply repeat the process: adding the mid channel to the side channel creates the left channel, while subtracting the side channel from the mid channel creates the right channel.&#10;&#10;This &quot;MS Matrix&quot; rack can therefore be used to convert AB stereo to MS stereo, or to convert MS stereo to AB stereo, and if you use two instances of the rack you can convert from one to the other and back again with no loss.&#10;&#10;For example, if you insert an MS Matrix rack on a conventional stereo track, followed by a volume &amp; pan filter and then another MS Matrix rack, the volume &amp; pan filter will be processing a mid side version of the signal, so the balance control will now work as a simple stereo width control instead. If you replace the volume filter with an EQ plug that allows seperate settings for the left and right channels you will be able to adjust the stereo width of specific frequencies.&#10;&#10;DW">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="0" srcPin="1" dst="1002" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="1002" dstPin="1"/>
+    <CONNECTION src="0" srcPin="1" dst="1004" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="1003" dstPin="1"/>
+    <CONNECTION src="1003" srcPin="1" dst="1004" dstPin="1"/>
+    <CONNECTION src="1002" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1004" srcPin="1" dst="0" dstPin="2"/>
+    <CONNECTION src="0" srcPin="0" dst="0" dstPin="0"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="input 1 (left)" midi="0"/>
+    <INPUT name="input 2 (right)" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="output 1 (left)" midi="0"/>
+    <OUTPUT name="output 2 (right)" midi="0"/>
+  </RACK>
+</PRESET>

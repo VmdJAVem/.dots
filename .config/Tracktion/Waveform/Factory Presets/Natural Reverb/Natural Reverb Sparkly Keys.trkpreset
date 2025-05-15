@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="naturalReverb" name="Natural Reverb: Sparkly Keys"
+        tags="Plugin" factory="1">
+  <PLUGIN type="naturalReverb" id="1006" enabled="1" windowX="936" windowY="572"
+          windowLocked="0" preDelay="0.0" size="0.4880000054836273" decay="0.2559999823570251"
+          diffusion="0.5640000104904175" definition="1.0" slope="0.3059999644756317"
+          highCut="0.871999979019165" lowDamp="0.0" highDamp="1.0">
+    <MACROPARAMETERS id="1010"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

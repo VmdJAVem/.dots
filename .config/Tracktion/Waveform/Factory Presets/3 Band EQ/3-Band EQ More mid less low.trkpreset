@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="3bandEq" name="3-Band EQ: More mid less low"
+        tags="Plugin" factory="1">
+  <PLUGIN type="3bandEq" id="1134" enabled="1" freq1="38.82512283325195"
+          freq3="94.32508850097656" gain2="6.0" gain1="-20.0" gain3="-0.3499999940395355"
+          windowX="859" windowY="574" windowLocked="0">
+    <MACROPARAMETERS id="1135"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

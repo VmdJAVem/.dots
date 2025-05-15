@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Tech 5th WMF" tags="Plugin|Analog|Lead" description="A Techno 5th lead sound "
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          ampAttack="0.00100000004749745131" ampDecay="3.71682882308959960938"
+          ampSustain="89.39393615722656250000" ampRelease="0.01629147119820117950"
+          ampVelocity="0.00000000000000000000" filterAttack="0.00000000000000000000"
+          filterDecay="0.22639809548854827881" filterSustain="0.00000000000000000000"
+          filterRelease="0.22639809548854827881" filterAmount="0.00000000000000000000"
+          waveShape1="3" filterFreq="135.07623291015625000000" masterLevel="-14.27058410644531250000"
+          voices1="4" detune1="0.40317967534065246582" waveShape2="3" fineTune2="4.96875000000000000000"
+          voices2="4" detune2="0.39805468916893005371" spread1="100.00000000000000000000"
+          spread2="100.00000000000000000000" modAttack1="0.00000000000000000000"
+          modDecay1="0.07745298743247985840" modSustain1="0.00000000000000000000"
+          modRelease1="0.06415199488401412964" filterSlope="24" tune1="-12.00000000000000000000"
+          tune2="-5.00000000000000000000" filterResonance="0.00000000000000000000"
+          reverbOn="1" reverbWidth="1.00000000000000000000" reverbMix="0.07846875488758087158"
+          reverbSize="0.80456244945526123047" reverbDamping="0.30892187356948852539"
+          voices="32">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="-0.39665627479553222656"/>
+      <MODMATRIXITEM modParam="fineTune2" modItem="env1" modDepth="-0.35885939002037048340"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Stab Synth WMF" tags="Plugin|Analog|Synth|Brass"
+        description="Synth brass sound with hard attack" type="plugin"
+        subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          ampAttack="0.00100000004749745131" ampDecay="0.33881282806396484375"
+          ampSustain="54.54544830322265625000" ampRelease="0.27865749597549438477"
+          ampVelocity="24.90000152587890625000" filterAttack="0.27766212821006774902"
+          filterDecay="4.17983436584472656250" filterSustain="0.00000000000000000000"
+          filterRelease="1.11272156238555908203" filterAmount="-0.47675007581710815430"
+          waveShape1="3" filterSlope="24" level2="0.00000000000000000000"
+          waveShape2="0" tune1="-12.00000000000000000000" pulseWidth2="0.46379742026329040527"
+          filterFreq="135.07623291015625000000" filterKey="27.20780754089355468750"
+          reverbSize="0.28314062952995300293" reverbDamping="0.31318750977516174316"
+          reverbWidth="1.00000000000000000000" reverbMix="0.31959372758865356445"
+          delay="0.12500000000000000000" delayFeedback="-100.00000000000000000000"
+          delayCrossfeed="-100.00000000000000000000" delayMix="0.12326565384864807129"
+          chosusSpeed="0.67778599262237548828" chorusMix="0.47467187047004699707"
+          level1="-4.25496673583984375000" detune1="0.12739844620227813721"
+          voices1="3" detune2="0.17704688012599945068" voices2="4" lfoRate1="6.04796934127807617188"
+          pulseWidth1="0.50000000000000000000" tune2="-12.00000000000000000000"
+          lfoRate2="500.00000000000000000000" lfoDepth2="1.00000000000000000000"
+          lfoWaveShape2="6" chorusOn="0" filterVelocity="0.00000000000000000000"
+          masterLevel="-6.71398925781250000000" reverbOn="1" delayOn="1"
+          fineTune1="-0.16562652587890625000" tune3="0.00000000000000000000"
+          fineTune3="0.00000000000000000000" level3="-100.00000000000000000000"
+          spread3="0.00000000000000000000" waveShape3="5" voices3="1" lfoDepth1="0.26407811045646667480"
+          modAttack1="2.24036502838134765625" modDecay1="0.41656073927879333496"
+          modSustain1="100.00000000000000000000" modRelease1="0.11480196565389633179"
+          modAttack2="0.00000000000000000000" modDecay2="0.06315304338932037354"
+          modSustain2="0.00000000000000000000" modRelease2="60.00000000000000000000">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterAmount" modItem="midiVelocity" modDepth="0.13960938155651092529"/>
+      <MODMATRIXITEM modParam="level3" modItem="env2" modDepth="1.00000000000000000000"/>
+      <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.75889062881469726562"/>
+      <MODMATRIXITEM modParam="ampRelease" modItem="midiVelocity" modDepth="-0.09635937958955764771"/>
+      <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.14428125321865081787"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Dub Bass WMF" tags="Plugin|Analog|Bass" description="Bright pulse wave bass sound"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          ampAttack="0.00100000004749745131" ampDecay="3.29503846168518066406"
+          ampSustain="0.00000000000000000000" ampRelease="0.48920792341232299805"
+          ampVelocity="41.63125228881835937500" filterAttack="0.00000000000000000000"
+          filterDecay="0.07040189951658248901" filterSustain="25.00000000000000000000"
+          filterRelease="0.08646350353956222534" filterAmount="0.32240617275238037109"
+          waveShape1="2" filterFreq="87.23107147216796875000" masterLevel="-5.75122833251953125000"
+          fineTune1="0.00000000000000000000" filterVelocity="50.00000000000000000000"
+          tune1="-12.00000000000000000000" waveShape2="4" tune2="14.00000000000000000000"
+          level2="-100.00000000000000000000" modAttack1="0.00000000000000000000"
+          modDecay1="0.23908230662345886230" modSustain1="0.00000000000000000000"
+          modRelease1="0.16690687835216522217" waveShape3="2" tune3="28.00000000000000000000"
+          level3="-100.00000000000000000000" pulseWidth1="0.43680530786514282227"
+          pulseWidth3="0.89846187829971313477" filterResonance="43.28906250000000000000"
+          filterSlope="12" voiceMode="2" delayOn="0" voices1="1" detune1="0.00000000000000000000"
+          waveShape4="2" pulseWidth4="0.42882749438285827637" level4="-100.00000000000000000000">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="0.19995313882827758789"/>
+      <MODMATRIXITEM modParam="level4" modItem="cc1" modDepth="1.00000000000000000000"/>
+      <MODMATRIXITEM modParam="level3" modItem="env1" modDepth="0.55079692602157592773"/>
+      <MODMATRIXITEM modParam="level2" modItem="env1" modDepth="0.88626569509506225586"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

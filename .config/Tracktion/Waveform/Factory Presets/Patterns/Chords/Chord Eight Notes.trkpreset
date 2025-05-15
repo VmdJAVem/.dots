@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Chord: Eight Notes" tags="Pattern|Chord" type="pattern"
+        subtype="Chord" presetVersion="2" factory="1">
+  <CHORDPATTERN name="Eight Notes">
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="127"/>
+      <NOTE start="0.5" length="0.5" velocity="127"/>
+      <NOTE start="1" length="0.5" velocity="127"/>
+      <NOTE start="1.5" length="0.5" velocity="127"/>
+      <NOTE start="2" length="0.5" velocity="127"/>
+      <NOTE start="2.5" length="0.5" velocity="127"/>
+      <NOTE start="3" length="0.5" velocity="127"/>
+      <NOTE start="3.5" length="0.5" velocity="127"/>
+    </BAR>
+  </CHORDPATTERN>
+</PRESET>

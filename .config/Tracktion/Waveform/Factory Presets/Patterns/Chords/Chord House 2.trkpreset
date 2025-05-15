@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Chord: House 2" tags="Pattern|Chord" type="pattern" subtype="Chord"
+        presetVersion="2" factory="1">
+  <CHORDPATTERN name="House 2">
+    <BAR length="4">
+      <NOTE start="0.25" length="0.22495866985991597176" velocity="127" pitch="0"
+            octave="1"/>
+      <NOTE start="0.5" length="0.22501808498054742813" velocity="127" pitch="0"
+            octave="1"/>
+      <NOTE start="1.75" length="0.22500857291743159294" velocity="127" pitch="5"
+            octave="0"/>
+      <NOTE start="2" length="0.22502434253692626953" velocity="127" pitch="0"
+            octave="1"/>
+      <NOTE start="2.75" length="0.22503758640959858894" velocity="127" pitch="0"
+            octave="1"/>
+      <NOTE start="3.5" length="0.22508009336888790131" velocity="127" pitch="0"
+            octave="1"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.22502279514446854591" velocity="127" pitch="0"
+            octave="1"/>
+      <NOTE start="0.25" length="0.22498240415006875992" velocity="127" pitch="0"
+            octave="1"/>
+      <NOTE start="1.5" length="0.22501808404922485352" velocity="127" pitch="5"
+            octave="0"/>
+      <NOTE start="1.75" length="0.22500914242118597031" velocity="127" pitch="0"
+            octave="1"/>
+      <NOTE start="2.5" length="0.2249805377796292305" velocity="127" pitch="0"
+            octave="1"/>
+      <NOTE start="3.25" length="0.22501539997756481171" velocity="127" pitch="0"
+            octave="1"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.22499321401119232178" velocity="127" pitch="0"
+            octave="1"/>
+      <NOTE start="0.25" length="0.22498354176059365273" velocity="127" pitch="0"
+            octave="1"/>
+      <NOTE start="1.5" length="0.2250448223203420639" velocity="127" pitch="5"
+            octave="0"/>
+      <NOTE start="1.75" length="0.22501255525276064873" velocity="127" pitch="0"
+            octave="1"/>
+      <NOTE start="2.5" length="0.225039701908826828" velocity="127" pitch="0"
+            octave="1"/>
+      <NOTE start="3.25" length="0.22502905363216996193" velocity="127" pitch="0"
+            octave="1"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.2250444130040705204" velocity="127" pitch="0"
+            octave="1"/>
+      <NOTE start="0.25" length="0.22496818192303180695" velocity="127" pitch="0"
+            octave="1"/>
+      <NOTE start="1.5" length="0.22501979069784283638" velocity="127" pitch="5"
+            octave="0"/>
+      <NOTE start="1.75" length="0.22501369286328554153" velocity="127" pitch="0"
+            octave="1"/>
+      <NOTE start="2.5" length="0.22500784462317824364" velocity="127" pitch="0"
+            octave="1"/>
+      <NOTE start="3.25" length="0.22496704431250691414" velocity="127" pitch="0"
+            octave="1"/>
+    </BAR>
+  </CHORDPATTERN>
+</PRESET>

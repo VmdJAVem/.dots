@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Sampler Rack" tags="Rack" builtIn="1" type="rack" presetVersion="2"
+        factory="1">
+  <RACK id="1001" name="Sampler Rack">
+    <PLUGININSTANCE x="0.23094169795513153" y="0">
+      <PLUGIN id="1002" type="sampler" enabled="1" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.10614524781703949" y="0.0069930069148540497">
+      <PLUGIN id="1003" type="text" title="1: Name" body="" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.68834078311920166" y="0">
+      <PLUGIN id="1004" type="volume" enabled="1" volume="0.74081820249557495"
+              pan="0" applyToMidi="0" ignoreVca="0" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.68946188688278198" y="0.25174826383590698">
+      <PLUGIN id="1005" type="volume" enabled="1" volume="0.74081820249557495"
+              pan="0" applyToMidi="0" ignoreVca="0" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.23318386077880859" y="0.24475523829460144">
+      <PLUGIN id="1006" type="sampler" enabled="1" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.10762331634759903" y="0.25174826383590698">
+      <PLUGIN id="1007" type="text" title="2: Name" body="" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.38228699564933777" y="0">
+      <PLUGIN id="1008" type="4bandEq" enabled="1" phaseInvert="0" loGain="0"
+              loFreq="80" loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0"
+              midFreq1="3000" midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5"
+              frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.3834080696105957" y="0.24475523829460144">
+      <PLUGIN id="1009" type="4bandEq" enabled="1" phaseInvert="0" loGain="0"
+              loFreq="80" loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0"
+              midFreq1="3000" midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5"
+              frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.10874439775943756" y="0.49650350213050842">
+      <PLUGIN id="1010" type="text" title="3: Name" body="" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.10650224238634109" y="1">
+      <PLUGIN id="1011" type="text" title="5: Name" body="" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.10650224238634109" y="0.74825173616409302">
+      <PLUGIN id="1012" type="text" title="4: Name" body="" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.23094169795513153" y="0.49650350213050842">
+      <PLUGIN id="1013" type="sampler" enabled="1" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.23094169795513153" y="0.74825173616409302">
+      <PLUGIN id="1014" type="sampler" enabled="1" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.23206278681755066" y="1">
+      <PLUGIN id="1015" type="sampler" enabled="1" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.3834080696105957" y="0.74825173616409302">
+      <PLUGIN id="1016" type="4bandEq" enabled="1" phaseInvert="0" loGain="0"
+              loFreq="80" loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0"
+              midFreq1="3000" midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5"
+              frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.38452914357185364" y="1">
+      <PLUGIN id="1017" type="4bandEq" enabled="1" phaseInvert="0" loGain="0"
+              loFreq="80" loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0"
+              midFreq1="3000" midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5"
+              frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.3834080696105957" y="0.49650350213050842">
+      <PLUGIN id="1018" type="4bandEq" enabled="1" phaseInvert="0" loGain="0"
+              loFreq="80" loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0"
+              midFreq1="3000" midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5"
+              frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.53475338220596313" y="0">
+      <PLUGIN id="1019" type="compressor" enabled="1" threshold="0.50118720531463623"
+              ratio="0.5" attack="100" release="100" outputDb="0" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.53251123428344727" y="0.25174826383590698">
+      <PLUGIN id="1020" type="compressor" enabled="1" threshold="0.50118720531463623"
+              ratio="0.5" attack="100" release="100" outputDb="0" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.53139013051986694" y="0.49650350213050842">
+      <PLUGIN id="1021" type="compressor" enabled="1" threshold="0.50118720531463623"
+              ratio="0.5" attack="100" release="100" outputDb="0" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.68946188688278198" y="0.48951047658920288">
+      <PLUGIN id="1022" type="volume" enabled="1" volume="0.74081820249557495"
+              pan="0" applyToMidi="0" ignoreVca="0" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.53363227844238281" y="0.74324321746826172">
+      <PLUGIN id="1023" type="compressor" enabled="1" threshold="0.50118720531463623"
+              ratio="0.5" attack="100" release="100" outputDb="0" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.69058293104171753" y="0.74125874042510986">
+      <PLUGIN id="1024" type="volume" enabled="1" volume="0.74081820249557495"
+              pan="0" applyToMidi="0" ignoreVca="0" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.53475338220596313" y="1">
+      <PLUGIN id="1025" type="compressor" enabled="1" threshold="0.50118720531463623"
+              ratio="0.5" attack="100" release="100" outputDb="0" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.69282513856887817" y="0.98601400852203369">
+      <PLUGIN id="1026" type="volume" enabled="1" volume="0.74081820249557495"
+              pan="0" applyToMidi="0" ignoreVca="0" frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0" y="1">
+      <PLUGIN id="1027" type="text" title="Read Me" body="A rack of 5 Samplers.  They each go through their own EQ and compressor filter... the output then goes to both the main stereo out (adjust mix with volume controls) and an individual output for each sampler. &#10;&#10;Remember that each Sampler can hold many samples.&#10;&#10;(See Chapter 9.5 for how to use the individual outputs on separate tracks)"
+              frozen="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="1002" srcPin="0" dst="0" dstPin="0"/>
+    <CONNECTION src="1003" srcPin="1" dst="1002" dstPin="1"/>
+    <CONNECTION src="1003" srcPin="2" dst="1002" dstPin="2"/>
+    <CONNECTION src="1004" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1004" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1003" srcPin="0" dst="1002" dstPin="0"/>
+    <CONNECTION src="0" srcPin="0" dst="1003" dstPin="0"/>
+    <CONNECTION src="0" srcPin="0" dst="1007" dstPin="0"/>
+    <CONNECTION src="1007" srcPin="1" dst="1006" dstPin="1"/>
+    <CONNECTION src="1007" srcPin="2" dst="1006" dstPin="2"/>
+    <CONNECTION src="1005" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1005" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1002" srcPin="1" dst="1008" dstPin="1"/>
+    <CONNECTION src="1002" srcPin="2" dst="1008" dstPin="2"/>
+    <CONNECTION src="1006" srcPin="1" dst="1009" dstPin="1"/>
+    <CONNECTION src="1006" srcPin="2" dst="1009" dstPin="2"/>
+    <CONNECTION src="1010" srcPin="1" dst="1013" dstPin="1"/>
+    <CONNECTION src="1010" srcPin="2" dst="1013" dstPin="2"/>
+    <CONNECTION src="0" srcPin="0" dst="1010" dstPin="0"/>
+    <CONNECTION src="0" srcPin="0" dst="1012" dstPin="0"/>
+    <CONNECTION src="0" srcPin="0" dst="1011" dstPin="0"/>
+    <CONNECTION src="1010" srcPin="0" dst="1013" dstPin="0"/>
+    <CONNECTION src="1012" srcPin="0" dst="1014" dstPin="0"/>
+    <CONNECTION src="1012" srcPin="1" dst="1014" dstPin="1"/>
+    <CONNECTION src="1012" srcPin="2" dst="1014" dstPin="2"/>
+    <CONNECTION src="1011" srcPin="0" dst="1015" dstPin="0"/>
+    <CONNECTION src="1011" srcPin="1" dst="1015" dstPin="1"/>
+    <CONNECTION src="1011" srcPin="2" dst="1015" dstPin="2"/>
+    <CONNECTION src="1013" srcPin="1" dst="1018" dstPin="1"/>
+    <CONNECTION src="1013" srcPin="2" dst="1018" dstPin="2"/>
+    <CONNECTION src="1014" srcPin="1" dst="1016" dstPin="1"/>
+    <CONNECTION src="1014" srcPin="2" dst="1016" dstPin="2"/>
+    <CONNECTION src="1015" srcPin="1" dst="1017" dstPin="1"/>
+    <CONNECTION src="1015" srcPin="2" dst="1017" dstPin="2"/>
+    <CONNECTION src="0" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1008" srcPin="1" dst="1019" dstPin="1"/>
+    <CONNECTION src="1008" srcPin="2" dst="1019" dstPin="2"/>
+    <CONNECTION src="1019" srcPin="1" dst="1004" dstPin="1"/>
+    <CONNECTION src="1019" srcPin="2" dst="1004" dstPin="2"/>
+    <CONNECTION src="1019" srcPin="1" dst="0" dstPin="3"/>
+    <CONNECTION src="1019" srcPin="2" dst="0" dstPin="4"/>
+    <CONNECTION src="1009" srcPin="1" dst="1020" dstPin="1"/>
+    <CONNECTION src="1009" srcPin="2" dst="1020" dstPin="2"/>
+    <CONNECTION src="1020" srcPin="1" dst="0" dstPin="5"/>
+    <CONNECTION src="1020" srcPin="2" dst="0" dstPin="6"/>
+    <CONNECTION src="1020" srcPin="1" dst="1005" dstPin="1"/>
+    <CONNECTION src="1020" srcPin="2" dst="1005" dstPin="2"/>
+    <CONNECTION src="1018" srcPin="1" dst="1021" dstPin="1"/>
+    <CONNECTION src="1018" srcPin="2" dst="1021" dstPin="2"/>
+    <CONNECTION src="1021" srcPin="1" dst="0" dstPin="7"/>
+    <CONNECTION src="1021" srcPin="2" dst="0" dstPin="8"/>
+    <CONNECTION src="1021" srcPin="2" dst="1022" dstPin="2"/>
+    <CONNECTION src="1021" srcPin="1" dst="1022" dstPin="1"/>
+    <CONNECTION src="1022" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1022" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1016" srcPin="1" dst="1023" dstPin="1"/>
+    <CONNECTION src="1016" srcPin="2" dst="1023" dstPin="2"/>
+    <CONNECTION src="1023" srcPin="1" dst="0" dstPin="9"/>
+    <CONNECTION src="1023" srcPin="2" dst="0" dstPin="10"/>
+    <CONNECTION src="1023" srcPin="1" dst="1024" dstPin="1"/>
+    <CONNECTION src="1023" srcPin="2" dst="1024" dstPin="2"/>
+    <CONNECTION src="1024" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1024" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1017" srcPin="1" dst="1025" dstPin="1"/>
+    <CONNECTION src="1017" srcPin="2" dst="1025" dstPin="2"/>
+    <CONNECTION src="1025" srcPin="1" dst="1026" dstPin="1"/>
+    <CONNECTION src="1025" srcPin="2" dst="1026" dstPin="2"/>
+    <CONNECTION src="1026" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1026" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1025" srcPin="1" dst="0" dstPin="11"/>
+    <CONNECTION src="1025" srcPin="2" dst="0" dstPin="12"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="Left" midi="0"/>
+    <INPUT name="Right" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="Left" midi="0"/>
+    <OUTPUT name="Right" midi="0"/>
+    <OUTPUT name="Out 1 Left" midi="0"/>
+    <OUTPUT name="Out 1 Right" midi="0"/>
+    <OUTPUT name="Out 2 Left" midi="0"/>
+    <OUTPUT name="Out 2 Right" midi="0"/>
+    <OUTPUT name="Out 3 Left" midi="0"/>
+    <OUTPUT name="Out 3 Right" midi="0"/>
+    <OUTPUT name="Out 4 Left" midi="0"/>
+    <OUTPUT name="Out 4 Right" midi="0"/>
+    <OUTPUT name="Out 5 Left" midi="0"/>
+    <OUTPUT name="Out 5 Right" midi="0"/>
+  </RACK>
+</PRESET>

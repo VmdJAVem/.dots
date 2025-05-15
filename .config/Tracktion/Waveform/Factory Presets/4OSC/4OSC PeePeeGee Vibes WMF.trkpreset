@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: PeePeeGee Vibes WMF" tags="Plugin|Digital|Bell|Vibraphone"
+        description="A vibraphone or bell sound reminding of the PPG Wave synth"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          waveShape1="1" ampAttack="0.00100000004749745131" ampDecay="26.04860115051269531250"
+          ampSustain="0.00000000000000000000" ampRelease="0.40896996855735778809"
+          filterSlope="12" filterFreq="56.32394409179687500000" filterKey="53.75781631469726562500"
+          filterResonance="0.00000000000000000000" filterAmount="0.55018758773803710938"
+          filterDecay="15.65873432159423828125" filterSustain="0.00000000000000000000"
+          ampVelocity="36.10625076293945312500" filterVelocity="37.97343826293945312500"
+          filterRelease="1.97162902355194091797" filterAttack="0.00000000000000000000"
+          delayFeedback="-53.54360580444335937500" delayMix="0.16107812523841857910"
+          delay="0.12500000000000000000" voices1="2" detune1="0.17386718094348907471"
+          waveShape2="1" pulseWidth2="0.03733281046152114868" level1="-6.23553466796875000000"
+          tune1="-12.00000000000000000000" level2="0.00000000000000000000"
+          modAttack1="0.00000000000000000000" modDecay1="1.04294693470001220703"
+          modSustain1="0.00000000000000000000" modRelease1="0.72372996807098388672"
+          spread2="0.00000000000000000000" voices2="2" detune2="0.17407029867172241211"
+          chorusOn="1" chorusMix="0.70870310068130493164" reverbOn="1"
+          reverbMix="0.32164061069488525391" reverbSize="0.60079687833786010742"
+          reverbDamping="0.67179685831069946289" reverbWidth="1.00000000000000000000"
+          masterLevel="-6.00000000000000000000" pan1="0.00000000000000000000"
+          spread1="0.00000000000000000000" lfoRate1="1.63620662689208984375"
+          chosusSpeed="1.00000000000000000000" chorusDepth="11.30451869964599609375"
+          chrousWidth="0.66012501716613769531" lfoWaveShape2="2" lfoRate2="0.98895442485809326172"
+          fineTune2="0.00000000000000000000" lfoDepth2="1.00000000000000000000"
+          lfoDepth1="0.49842187762260437012" tune2="12.00000000000000000000"
+          waveShape3="4" waveShape4="4" voices3="2" detune3="0.17287500202655792236"
+          detune4="0.16571874916553497314" voices4="2" tune3="22.00000000000000000000"
+          tune4="30.00000000000000000000" level3="-5.14768218994140625000"
+          level4="-4.07768249511718750000" lfoWaveShape1="2">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="ampDecay" modItem="midiNote" modDepth="-0.30975002050399780273"/>
+      <MODMATRIXITEM modParam="fineTune4" modItem="lfo1" modDepth="0.17185938358306884766"/>
+      <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.49315625429153442383"/>
+      <MODMATRIXITEM modParam="fineTune3" modItem="lfo1" modDepth="0.13623437285423278809"/>
+      <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.09789063036441802979"/>
+      <MODMATRIXITEM modParam="level4" modItem="lfo2" modDepth="-0.39809376001358032227"/>
+      <MODMATRIXITEM modParam="level4" modItem="midiNote" modDepth="-0.12856251001358032227"/>
+      <MODMATRIXITEM modParam="level3" modItem="midiNote" modDepth="-0.10725000500679016113"/>
+      <MODMATRIXITEM modParam="fineTune2" modItem="lfo1" modDepth="0.12381251156330108643"/>
+      <MODMATRIXITEM modParam="lfoDepth2" modItem="cc1" modDepth="0.51762503385543823242"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

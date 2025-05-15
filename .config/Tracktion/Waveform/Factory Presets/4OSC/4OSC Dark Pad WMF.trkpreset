@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Dark Pad WMF" tags="Plugin|Warm|Analog|Pad|Dark"
+        description="Dark pulsewidth-modulated pad" type="plugin" subtype="4osc"
+        presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          waveShape1="2" ampAttack="0.41037344932556152344" ampDecay="1.19585335254669189453"
+          ampSustain="100.00000000000000000000" ampRelease="1.12218880653381347656"
+          filterSlope="24" filterFreq="79.10401916503906250000" filterKey="24.87187576293945312500"
+          filterResonance="1.27031254768371582031" filterAmount="0.10850000381469726562"
+          filterDecay="1.64268672466278076172" filterSustain="0.00000000000000000000"
+          ampVelocity="64.69062805175781250000" filterRelease="1.64268672466278076172"
+          filterAttack="0.00100000004749745131" delayFeedback="-24.57273864746093750000"
+          delayMix="0.13829687237739562988" delay="1.00000000000000000000"
+          voices1="8" detune1="0.27235937118530273438" waveShape2="3" pulseWidth2="0.74477028846740722656"
+          level1="0.00000000000000000000" tune1="-12.00000000000000000000"
+          level2="-16.48030853271484375000" voices2="4" detune2="0.25828906893730163574"
+          chorusMix="0.69331252574920654297" reverbMix="0.14193750917911529541"
+          reverbSize="0.74150002002716064453" reverbDamping="0.26098436117172241211"
+          reverbWidth="1.00000000000000000000" spread1="0.00000000000000000000"
+          lfoRate1="4.19694566726684570312" chosusSpeed="0.63988751173019409180"
+          chorusDepth="4.52172708511352539062" chrousWidth="1.00000000000000000000"
+          fineTune2="6.21249389648437500000" lfoWaveShape1="2" delayCrossfeed="-100.00000000000000000000"
+          ampAnalog="1" filterVelocity="33.41406250000000000000" pulseWidth1="0.70033341646194458008"
+          tune2="0.00000000000000000000" lfoRate2="0.23910044133663177490"
+          lfoBeat2="3.00000000000000000000" lfoDepth2="1.00000000000000000000"
+          lfoWaveShape2="2" lfoSync2="0" modAttack1="0.00000000000000000000"
+          modDecay1="0.72280228137969970703" modSustain1="0.00000000000000000000"
+          modRelease1="0.40072029829025268555" chorusOn="1">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterFreq" modItem="mpePressure" modDepth="0.18860937654972076416"/>
+      <MODMATRIXITEM modParam="level2" modItem="env1" modDepth="0.35125002264976501465"/>
+      <MODMATRIXITEM modParam="level2" modItem="mpeTimbre" modDepth="0.44357815384864807129"/>
+      <MODMATRIXITEM modParam="ampAttack" modItem="midiVelocity" modDepth="-0.24134376645088195801"/>
+      <MODMATRIXITEM modParam="fineTune2" modItem="lfo1" modDepth="0.06407812982797622681"/>
+      <MODMATRIXITEM modParam="pulseWidth1" modItem="lfo2" modDepth="0.49979686737060546875"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

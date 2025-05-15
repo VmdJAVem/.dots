@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="plateReverb" name="Plate Reverb: Rock Guitar"
+        tags="Plugin" factory="1">
+  <PLUGIN type="plateReverb" id="1024" enabled="1" decay="0.1720000058412552"
+          windowX="80" windowY="103" windowLocked="0" size="0.4919999837875366"
+          definition="0.6960000395774841" diffusion="0.6240000128746033"
+          highDamp="0.9639999866485596" lowDamp="0.3039999902248383" slope="0.8300000429153442"
+          mix="0.3079999685287476" preDelay="0.0" highCut="1.0">
+    <MACROPARAMETERS id="1028"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

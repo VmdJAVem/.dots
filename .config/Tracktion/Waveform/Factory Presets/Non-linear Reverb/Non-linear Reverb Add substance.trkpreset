@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="nonLinearReverb" name="Non-linear Reverb: Add substance"
+        tags="Plugin" factory="1">
+  <PLUGIN type="nonLinearReverb" id="1046" enabled="1" preDelay="0.05200000107288361"
+          decay="0.5640000104904175" windowX="80" windowY="103" windowLocked="0"
+          mix="0.3799999952316284" lowDamp="0.0" highDamp="1.0" size="0.1800000071525574"
+          definition="0.6499999761581421" diffusion="0.843999981880188">
+    <MACROPARAMETERS id="1049"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

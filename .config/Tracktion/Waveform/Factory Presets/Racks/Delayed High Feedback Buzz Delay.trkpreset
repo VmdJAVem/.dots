@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Delayed High Feedback Buzz Delay" tags="Rack" builtIn="1"
+        type="rack" presetVersion="2" factory="1">
+  <RACK id="1001" name="Delayed High Feedback Buzz Delay">
+    <PLUGININSTANCE x="0.438323349" y="0.888059676">
+      <PLUGIN id="1002" type="delay" enabled="1" length="31" feedback="-3.01075268"
+              mix="1">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.738922179" y="0.552238822">
+      <PLUGIN id="1003" type="volume" enabled="1" volume="0.740818202" pan="0"
+              applyToMidi="0" ignoreVca="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.741967857" y="0.905405402">
+      <PLUGIN id="1004" type="volume" enabled="1" volume="0.740818202" pan="0"
+              applyToMidi="0" ignoreVca="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.270658672" y="0.574626863">
+      <PLUGIN id="1005" type="4bandEq" enabled="1" phaseInvert="0" loGain="0"
+              loFreq="80" loQ="0.5" hiGain="-20" hiFreq="4935.15869" hiQ="0.5"
+              midGain1="0" midFreq1="3000" midQ1="0.5" midGain2="0" midFreq2="5000"
+              midQ2="0.5">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.275449097" y="0.902985096">
+      <PLUGIN id="1006" type="4bandEq" enabled="1" phaseInvert="0" loGain="-20"
+              loFreq="332.237549" loQ="0.5" hiGain="-20" hiFreq="9841.01563"
+              hiQ="0.5" midGain1="0" midFreq1="3000" midQ1="0.5" midGain2="5"
+              midFreq2="2167.24707" midQ2="0.5">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.494610786" y="0">
+      <PLUGIN id="1007" type="volume" enabled="1" volume="0.740818202" pan="0"
+              applyToMidi="0" ignoreVca="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.436746985" y="0.57432431">
+      <PLUGIN id="1008" type="delay" enabled="1" length="42" feedback="-2.15053797"
+              mix="1">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.589357436" y="0.560810804">
+      <PLUGIN id="1009" type="delay" enabled="1" length="500" feedback="-6"
+              mix="0.300000012">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.592814386" y="0.895522416">
+      <PLUGIN id="1010" type="delay" enabled="1" length="500" feedback="-6"
+              mix="0.304659486">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.138554215" y="0.0337837823">
+      <PLUGIN id="1011" type="text" title="Read Me" body="Delayed High Feedback Buzz Delay Rack&#10;&#10;Great for: Drums, Keys, Synths&#10;&#10;This Rack splits the signal in two sends both through a high feedback buzz delay followed by a longer delay.&#10;&#10;Use the EQs to choose the frequency band to process in each leg.&#10;&#10;The first delay creates the buzz.  The second delay creates the echo delay.  Adjust delay times to taste.&#10;&#10;Use the three volume filters to adjust the mix between the dry signal and the two delay lines.">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="1003" srcPin="0" dst="0" dstPin="0"/>
+    <CONNECTION src="1003" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1003" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1004" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1004" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1006" srcPin="1" dst="1002" dstPin="1"/>
+    <CONNECTION src="1006" srcPin="2" dst="1002" dstPin="2"/>
+    <CONNECTION src="0" srcPin="0" dst="1005" dstPin="0"/>
+    <CONNECTION src="0" srcPin="1" dst="1005" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="1005" dstPin="2"/>
+    <CONNECTION src="0" srcPin="1" dst="1006" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="1006" dstPin="2"/>
+    <CONNECTION src="0" srcPin="1" dst="1007" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="1007" dstPin="2"/>
+    <CONNECTION src="1007" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1007" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1005" srcPin="1" dst="1008" dstPin="1"/>
+    <CONNECTION src="1005" srcPin="2" dst="1008" dstPin="2"/>
+    <CONNECTION src="1008" srcPin="1" dst="1009" dstPin="1"/>
+    <CONNECTION src="1008" srcPin="2" dst="1009" dstPin="2"/>
+    <CONNECTION src="1002" srcPin="1" dst="1010" dstPin="1"/>
+    <CONNECTION src="1002" srcPin="2" dst="1010" dstPin="2"/>
+    <CONNECTION src="1010" srcPin="1" dst="1004" dstPin="1"/>
+    <CONNECTION src="1010" srcPin="2" dst="1004" dstPin="2"/>
+    <CONNECTION src="1009" srcPin="1" dst="1003" dstPin="1"/>
+    <CONNECTION src="1009" srcPin="2" dst="1003" dstPin="2"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="input 1 (left)" midi="0"/>
+    <INPUT name="input 2 (right)" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="output 1 (left)" midi="0"/>
+    <OUTPUT name="output 2 (right)" midi="0"/>
+  </RACK>
+</PRESET>

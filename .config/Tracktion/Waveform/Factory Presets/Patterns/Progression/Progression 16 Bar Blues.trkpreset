@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Progression: 16 Bar Blues" tags="Pattern|Progression" type="pattern"
+        subtype="Progression" presetVersion="2" factory="1">
+  <PROGRESSION>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="iv"/>
+    <PROGRESSIONITEM name="iv"/>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="v"/>
+    <PROGRESSIONITEM name="iv"/>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="i"/>
+  </PROGRESSION>
+</PRESET>

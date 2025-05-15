@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="1bandEq" name="1-Band EQ: Sound HiFi"
+        tags="Plugin" factory="1">
+  <PLUGIN type="1bandEq" id="1059" enabled="1" freq="126.2326507568359"
+          gain="2.239997863769531" windowX="487" windowY="514" windowLocked="0">
+    <MACROPARAMETERS id="1062"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

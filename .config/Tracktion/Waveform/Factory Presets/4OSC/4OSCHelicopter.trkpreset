@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Helicopter" tags="Plugin" description="Hold down C1 and C2"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="4"
+          waveShape1="1" filterAmount="-0.88000005483627319336" filterDecay="0.00000000000000000000"
+          filterSustain="100.00000000000000000000" filterAttack="5.65142202377319335938"
+          ampVelocity="50.00000762939453125000" showFaceplate="0" faceplateWidth="420"
+          faceplateHeight="200" filterFreq="48.62744522094726562500" filterVelocity="51.20001602172851562500"
+          reverbMix="0.15599995851516723633" tune1="-5.00000000000000000000"
+          level2="-37.97523498535156250000" waveShape2="5" masterLevel="-8.79336547851562500000"
+          filterResonance="11.69998931884765625000" detune1="0.23199999332427978516"
+          voices1="1" detune2="0.06400000303983688354" voices2="1" tune2="0.00000000000000000000"
+          filterKey="83.60000610351562500000" filterSlope="24" fineTune1="-2.40000152587890625000"
+          pulseWidth1="0.51175999641418457031" spread1="-2.40000152587890625000"
+          distortion="0.00000000000000000000" delay="1.00000000000000000000"
+          delayFeedback="-15.73850250244140625000" delayCrossfeed="-33.80497741699218750000"
+          delayMix="0.00000000000000000000" chosusSpeed="0.56440001726150512695"
+          chorusDepth="6.10439968109130859375" chorusMix="0.00000000000000000000"
+          legato="82.00000762939453125000" voiceMode="2" ampAnalog="0"
+          level1="-8.14136505126953125000" pan1="0.00800001621246337891"
+          fineTune2="4.79999542236328125000" pan2="0.00000000000000000000"
+          lfoRate2="0.03359418734908103943" lfoWaveShape2="1" modAttack1="0.00677214469760656357"
+          modDecay1="0.02223653905093669891" modSustain1="0.00000000000000000000"
+          ampAttack="4.41460275650024414062" ampDecay="0.07176200300455093384"
+          ampSustain="100.00000000000000000000" ampRelease="10.00000000000000000000"
+          filterRelease="10.00000000000000000000" reverbSize="0.73199999332427978516"
+          reverbWidth="0.57999998331069946289" reverbOn="1" spread2="1.60000610351562500000"
+          level3="-14.91894531250000000000" waveShape3="0" lfoRate1="9.34128761291503906250"
+          lfoDepth1="1.00000000000000000000" lfoWaveShape1="3" modRelease1="0.00167181598953902721">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="pan2" modItem="lfo2" modDepth="1.00000000000000000000"/>
+      <MODMATRIXITEM modParam="level1" modItem="lfo1" modDepth="1.00000000000000000000"/>
+      <MODMATRIXITEM modParam="pan1" modItem="lfo2" modDepth="1.00000000000000000000"/>
+      <MODMATRIXITEM modParam="level2" modItem="lfo1" modDepth="0.78799998760223388672"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

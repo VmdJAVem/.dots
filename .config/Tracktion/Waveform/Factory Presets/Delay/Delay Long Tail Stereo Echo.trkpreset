@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="stereoDelay" name="Long Tail Stereo Echo"
+        tags="Plugin" factory="1">
+  <PLUGIN type="stereoDelay" windowLocked="1" id="1136" enabled="1" feedbackL="36.0"
+          delaySyncOffL="700.0" sync="0.0" panL="-1.0" panR="0.9999999403953552"
+          windowX="493" windowY="166" delaySyncOffR="600.0" mix="0.1097812131047249"
+          feedbackR="40.5" crossL="42.5" crossR="41.5" lowcut="284.5" highcut="4169.0"
+          volL="0.0" delaySyncOnL="23.0" delaySyncOnR="23.0">
+    <MACROPARAMETERS id="1137"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.0" height="4.0" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

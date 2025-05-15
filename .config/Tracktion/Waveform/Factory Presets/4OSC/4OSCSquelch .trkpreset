@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Squelch" tags="Plugin" description="Classic lead-ModWheel controls filter"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          waveShape1="3" pulseWidth1="0.50392001867294311523" voices1="1"
+          detune1="0.00000000000000000000" spread1="-2.40000152587890625000"
+          fineTune1="4.79999542236328125000" tune1="-0.00000381469726562500"
+          waveShape2="3" fineTune2="11.19999694824218750000" filterFreq="24.31372261047363281250"
+          filterResonance="50.09999847412109375000" filterAmount="1.00000000000000000000"
+          filterDecay="0.92310780286788940430" filterSustain="27.00606536865234375000"
+          masterLevel="-10.97953033447265625000" filterVelocity="100.00000000000000000000"
+          filterKey="8.00000000000000000000" filterSlope="24" filterAttack="0.04888292029500007629"
+          voiceMode="1" legato="82.00000762939453125000" ampAnalog="1"
+          ampVelocity="51.59999847412109375000" distortion="0.46400001645088195801"
+          chorusMix="0.39199998974800109863" chosusSpeed="0.56440001726150512695"
+          chorusDepth="6.10439968109130859375" delayMix="0.31200000643730163574"
+          showFaceplate="0" faceplateWidth="420" faceplateHeight="200"
+          pan1="0.48800003528594970703" pan2="-0.45599997043609619141"
+          voices2="4" reverbMix="0.14399999380111694336" delayFeedback="-14.59204101562500000000"
+          delay="1.00000000000000000000" delayCrossfeed="-9.73029327392578125000"
+          detune2="0.05000000074505805969">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="1.00000000000000000000"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

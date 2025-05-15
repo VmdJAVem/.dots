@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Chord: Syncopation" tags="Pattern|Chord" type="pattern"
+        subtype="Chord" presetVersion="2" factory="1">
+  <CHORDPATTERN name="Syncopation">
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="108"/>
+      <NOTE start="2.5" length="0.5" velocity="100"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="99"/>
+      <NOTE start="2.5" length="0.5" velocity="97"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="95"/>
+      <NOTE start="2.5" length="0.5" velocity="103"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="99"/>
+      <NOTE start="2.5" length="0.5" velocity="95"/>
+    </BAR>
+  </CHORDPATTERN>
+</PRESET>

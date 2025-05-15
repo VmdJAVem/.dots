@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Pick Bass WMF" tags="Plugin|Analog|Bass" description="Analog rendition of a picked bass"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          waveShape1="2" pulseWidth1="0.15255549550056457520" tune1="-12.00000000000000000000"
+          ampVelocity="32.53750228881835937500" masterLevel="-10.01844024658203125000"
+          ampAttack="0.00100000004749745131" ampDecay="47.78687286376953125000"
+          ampSustain="0.00000000000000000000" waveShape2="2" pulseWidth2="0.11002125591039657593"
+          fineTune2="-1.61562347412109375000" level2="-12.41361236572265625000"
+          ampRelease="0.09198281168937683105" filterSlope="24" filterAmount="0.37003135681152343750"
+          filterAttack="0.00000000000000000000" filterDecay="0.13459646701812744141"
+          filterSustain="0.00000000000000000000" filterVelocity="78.93280029296875000000"
+          voiceMode="0" legato="19.17187500000000000000" waveShape3="4"
+          tune3="-24.00000000000000000000" level3="-27.23699188232421875000"
+          filterResonance="9.92968845367431640625" filterRelease="0.11612161248922348022"
+          filterFreq="64.98992156982421875000" modAttack1="0.00000000000000000000"
+          modDecay1="12.40462875366210937500" modSustain1="0.00000000000000000000"
+          modRelease1="0.55097085237503051758" filterKey="15.85312461853027343750"
+          fineTune1="0.00000000000000000000" lfoWaveShape1="1" lfoRate1="2.51000356674194335938"
+          lfoDepth1="0.15214061737060546875">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="lfoRate1" modItem="cc1" modDepth="0.04042187705636024475"/>
+      <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="1.00000000000000000000"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

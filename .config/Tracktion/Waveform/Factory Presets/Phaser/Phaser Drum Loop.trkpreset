@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="phaser2" name="Phaser: Drum Loop"
+        tags="Plugin" factory="1">
+  <PLUGIN type="phaser2" id="1068" enabled="1" floor="640.0" stages="8.0"
+          ceiling="943.0" sync="1.0" rateSyncOn="13.0" feedback="51.5"
+          windowX="600" windowY="528" windowLocked="0" rateSyncOff="0.1199999898672104">
+    <MACROPARAMETERS id="1071"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

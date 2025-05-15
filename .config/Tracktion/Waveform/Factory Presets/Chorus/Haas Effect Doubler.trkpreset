@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="chorusEffect" name="Chorus: Haas Effect Doubler"
+        tags="Plugin" factory="1">
+  <PLUGIN type="chorusEffect" windowLocked="1" id="1002" enabled="1" mode="1.0"
+          windowX="592" windowY="-755" rateSyncOff="0.01999999955296516"
+          depth="0.0" delay="23.0" mix="1.0">
+    <MACROPARAMETERS id="1004"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.0" height="4.0" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

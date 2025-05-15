@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Bass Buzz Delay" tags="Rack" builtIn="1" type="rack" presetVersion="2"
+        factory="1">
+  <RACK id="1001" name="Bass Buzz Delay">
+    <PLUGININSTANCE x="0.490963846" y="0.141891897">
+      <PLUGIN id="1002" type="volume" enabled="1" volume="0.740818202" pan="0"
+              applyToMidi="0" ignoreVca="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.633534133" y="0.148648649">
+      <PLUGIN id="1003" type="4bandEq" enabled="1" phaseInvert="0" loGain="6.66666698"
+              loFreq="470.34964" loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5"
+              midGain1="0" midFreq1="3000" midQ1="0.5" midGain2="0" midFreq2="5000"
+              midQ2="0.5">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.342369467" y="0.668918908">
+      <PLUGIN id="1004" type="lowpass" enabled="1" frequency="907" mode="highpass">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.502008021" y="0.662162185">
+      <PLUGIN id="1005" type="delay" enabled="1" length="19" feedback="-1.5053755"
+              mix="1">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.502008021" y="0.986486495">
+      <PLUGIN id="1006" type="text" title="Read Me" body="Bass Buzz Delay Rack&#10;&#10;Use  this rack to apply a buzz to bass/synth tracks.  It splits the incoming signal and applies a very short delay to the high frequency component while slightly boosting the low frequency content.  &#10;&#10;Adjust the direct path volume control to raise/lower the amount of clean bass signal mixed with the buzz.&#10;&#10;Adjust the High Pass Filter frequency to control the harmonic content of the buzz.">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="0" srcPin="1" dst="1002" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="1002" dstPin="2"/>
+    <CONNECTION src="1002" srcPin="1" dst="1003" dstPin="1"/>
+    <CONNECTION src="1002" srcPin="2" dst="1003" dstPin="2"/>
+    <CONNECTION src="1003" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1003" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="0" srcPin="1" dst="1004" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="1004" dstPin="2"/>
+    <CONNECTION src="1004" srcPin="1" dst="1005" dstPin="1"/>
+    <CONNECTION src="1004" srcPin="2" dst="1005" dstPin="2"/>
+    <CONNECTION src="1005" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1005" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="0" srcPin="0" dst="1002" dstPin="0"/>
+    <CONNECTION src="1002" srcPin="0" dst="1003" dstPin="0"/>
+    <CONNECTION src="1003" srcPin="0" dst="0" dstPin="0"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="Left input" midi="0"/>
+    <INPUT name="Right input" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="Left output" midi="0"/>
+    <OUTPUT name="Right output" midi="0"/>
+  </RACK>
+</PRESET>

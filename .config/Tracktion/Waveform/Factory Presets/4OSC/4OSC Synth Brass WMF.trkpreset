@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Synth Brass WMF" tags="Plugin|Analog|Bright|Brass"
+        description="Synth brass sound with some narrow pulse attack"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          waveShape1="3" ampAttack="0.00807482283562421799" ampDecay="0.21129372715950012207"
+          ampSustain="65.90908813476562500000" ampRelease="0.09389131516218185425"
+          filterSlope="24" filterFreq="59.66918945312500000000" filterKey="50.27968978881835937500"
+          filterResonance="0.00000000000000000000" filterAmount="0.52409374713897705078"
+          filterDecay="0.40516975522041320801" filterSustain="45.45454406738281250000"
+          ampVelocity="36.10625076293945312500" filterVelocity="44.87656402587890625000"
+          filterRelease="0.50993466377258300781" filterAttack="0.04015323892235755920"
+          delayFeedback="-53.54360580444335937500" delayMix="0.16107812523841857910"
+          delay="0.12500000000000000000" voices1="2" detune1="0.10179687291383743286"
+          waveShape2="2" pulseWidth2="0.03733281046152114868" level1="0.00000000000000000000"
+          tune1="-12.00000000000000000000" level2="-19.35806274414062500000"
+          modAttack1="0.00000000000000000000" modDecay1="1.04294693470001220703"
+          modSustain1="0.00000000000000000000" modRelease1="0.72372996807098388672"
+          spread2="0.00000000000000000000" voices2="4" detune2="0.34951561689376831055">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterAttack" modItem="midiVelocity" modDepth="-0.12423437833786010742"/>
+      <MODMATRIXITEM modParam="level2" modItem="env1" modDepth="0.42998439073562622070"/>
+      <MODMATRIXITEM modParam="level2" modItem="midiVelocity" modDepth="0.23165626823902130127"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

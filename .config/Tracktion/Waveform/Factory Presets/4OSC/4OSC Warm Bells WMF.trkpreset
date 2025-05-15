@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Warm Bells WMF" tags="Plugin|Warm|Bell" description="Warm bell sound with one harmonic kicking in shortly after note on"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          ampAttack="0.00100000004749745131" ampDecay="10.00000000000000000000"
+          ampSustain="0.00000000000000000000" ampRelease="1.12218880653381347656"
+          ampVelocity="41.66562652587890625000" filterAttack="0.00000000000000000000"
+          filterDecay="1.64268672466278076172" filterSustain="0.00000000000000000000"
+          filterRelease="1.64268672466278076172" filterAmount="0.16278123855590820312"
+          waveShape1="1" level2="-99.56253814697265625000" waveShape2="1"
+          filterFreq="101.24807739257812500000" filterKey="24.94531250000000000000"
+          modAttack1="2.19429755210876464844" modDecay1="4.82506656646728515625"
+          modSustain1="0.00000000000000000000" modRelease1="2.31935906410217285156"
+          lfoRate1="4.19694566726684570312" reverbSize="0.74150002002716064453"
+          reverbWidth="1.00000000000000000000" reverbMix="0.14193750917911529541"
+          modAttack2="0.00000000000000000000" modDecay2="1.74348497390747070312"
+          modSustain2="0.00000000000000000000" filterResonance="0.00000000000000000000"
+          filterVelocity="68.74531555175781250000" reverbDamping="0.26098436117172241211"
+          delay="1.00000000000000000000" delayFeedback="-24.57273864746093750000"
+          delayMix="0.16646875441074371338" chosusSpeed="0.21186718344688415527"
+          chorusDepth="13.96645355224609375000" chrousWidth="1.00000000000000000000"
+          chorusMix="0.69331252574920654297" filterSlope="24" tune1="0.34875106811523437500"
+          level1="-0.60031127929687500000" detune1="0.27235937118530273438"
+          spread1="0.00000000000000000000" voices1="8" tune2="26.00000000000000000000"
+          fineTune2="0.00000000000000000000" pulseWidth2="0.50000000000000000000"
+          detune2="0.22731250524520874023" voices2="4" tune3="34.00000000000000000000"
+          level3="-100.00000000000000000000" waveShape3="1" tune4="15.78150177001953125000"
+          level4="-100.00000000000000000000" waveShape4="1" lfoWaveShape1="2"
+          delayCrossfeed="-100.00000000000000000000" ampAnalog="1" chorusOn="1"
+          delayOn="1" reverbOn="1" spread2="0.00000000000000000000">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="ampAttack" modItem="midiVelocity" modDepth="-0.24134376645088195801"/>
+      <MODMATRIXITEM modParam="fineTune4" modItem="lfo1" modDepth="0.03654687851667404175"/>
+      <MODMATRIXITEM modParam="level3" modItem="env2" modDepth="0.47478127479553222656"/>
+      <MODMATRIXITEM modParam="level4" modItem="env1" modDepth="0.37640628218650817871"/>
+      <MODMATRIXITEM modParam="level4" modItem="env2" modDepth="0.24687501788139343262"/>
+      <MODMATRIXITEM modParam="fineTune2" modItem="lfo1" modDepth="0.02490624785423278809"/>
+      <MODMATRIXITEM modParam="level2" modItem="env2" modDepth="0.77078121900558471680"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="naturalReverb" name="Natural Reverb: Crystal Stairwell"
+        tags="Plugin" factory="1">
+  <PLUGIN type="naturalReverb" id="1006" enabled="1" windowX="936" windowY="572"
+          windowLocked="0" preDelay="0.0" size="0.3760000169277191" decay="0.5479999780654907"
+          diffusion="0.1679999977350235" definition="0.4079999923706055"
+          slope="0.3059999644756317" highCut="0.871999979019165" lowDamp="0.0"
+          highDamp="1.0">
+    <MACROPARAMETERS id="1010"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

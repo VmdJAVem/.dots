@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="dualGuitarIR" name="Dual Guitar IR: Beach Twang"
+        tags="Plugin" factory="1">
+  <PLUGIN type="dualGuitarIR" id="1062" enabled="1" windowX="711" windowY="286"
+          windowLocked="0" width="0.6359999775886536" delay="69.0">
+    <MACROPARAMETERS id="1063"/>
+    <IMPULSEA id="1064" enabled="1" filterSlope="0.3779999911785126" name=""
+              lowPassFrequency="135.0762329101563">
+      <MACROPARAMETERS id="1065"/>
+      <MODIFIERASSIGNMENTS/>
+    </IMPULSEA>
+    <IMPULSEB id="1066" enabled="1" name="">
+      <MACROPARAMETERS id="1067"/>
+      <MODIFIERASSIGNMENTS/>
+    </IMPULSEB>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Soft Brass WMF" tags="Plugin|Brass|Analog|Warm" description="A warm and soft brass sound"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          waveShape1="3" ampAttack="0.00807482283562421799" ampDecay="1.72018170356750488281"
+          ampSustain="71.21212768554687500000" ampRelease="0.40896996855735778809"
+          filterSlope="24" filterFreq="37.37105941772460937500" filterKey="40.70937728881835937500"
+          filterResonance="9.30937290191650390625" filterAmount="0.55018758773803710938"
+          filterDecay="2.25286149978637695312" filterSustain="46.96969985961914062500"
+          ampVelocity="36.10625076293945312500" filterVelocity="56.42655944824218750000"
+          filterRelease="1.97162902355194091797" filterAttack="0.14653119444847106934"
+          delayFeedback="-53.54360580444335937500" delayMix="0.16107812523841857910"
+          delay="0.12500000000000000000" voices1="2" detune1="0.10179687291383743286"
+          waveShape2="0" pulseWidth2="0.03733281046152114868" level1="0.00000000000000000000"
+          tune1="-12.00000000000000000000" level2="-19.35806274414062500000"
+          modAttack1="0.00000000000000000000" modDecay1="1.04294693470001220703"
+          modSustain1="0.00000000000000000000" modRelease1="0.72372996807098388672"
+          spread2="0.00000000000000000000" voices2="4" detune2="0.34951561689376831055"
+          chorusOn="1" chorusMix="0.25339061021804809570" reverbOn="1"
+          reverbMix="0.13292187452316284180" reverbSize="0.60079687833786010742"
+          reverbDamping="0.67179685831069946289" reverbWidth="1.00000000000000000000">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterAttack" modItem="midiVelocity" modDepth="-0.07354687154293060303"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

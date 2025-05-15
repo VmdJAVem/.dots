@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Chord: Classic" tags="Pattern|Chord" type="pattern" subtype="Chord"
+        presetVersion="2" factory="1">
+  <CHORDPATTERN name="Classic">
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="101"/>
+      <NOTE start="0.75" length="0.5" velocity="110"/>
+      <NOTE start="1.75" length="0.25" velocity="99"/>
+      <NOTE start="2" length="0.25" velocity="98"/>
+      <NOTE start="2.25" length="0.5" velocity="99"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="95"/>
+      <NOTE start="0.75" length="0.5" velocity="102"/>
+      <NOTE start="1.75" length="0.25" velocity="101"/>
+      <NOTE start="2" length="0.5" velocity="110"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="100"/>
+      <NOTE start="0.75" length="0.5" velocity="97"/>
+      <NOTE start="1.75" length="0.25" velocity="107"/>
+      <NOTE start="2" length="0.25" velocity="108"/>
+      <NOTE start="2.25" length="0.5" velocity="106"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="100"/>
+      <NOTE start="0.75" length="0.5" velocity="100"/>
+      <NOTE start="1.75" length="0.25" velocity="97"/>
+      <NOTE start="2" length="0.5" velocity="109"/>
+    </BAR>
+  </CHORDPATTERN>
+</PRESET>

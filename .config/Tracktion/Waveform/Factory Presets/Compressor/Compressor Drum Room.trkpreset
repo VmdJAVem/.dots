@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="comp" name="Compressor: Drum Room"
+        tags="Plugin" factory="1">
+  <PLUGIN type="comp" id="1059" enabled="1" threshold="-24.79000091552734"
+          ratio="6.150000095367432" release="182.3999938964844" attack="11.55000019073486"
+          windowX="622" windowY="387" windowLocked="0" knee="5.119999885559082"
+          outputDb="0.0">
+    <MACROPARAMETERS id="1062"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Arp: 55_55_55_55_555_" tags="Arp" type="pattern" subtype="Arp"
+        presetVersion="2" factory="1">
+  <ARPPATTERN length="4">
+    <BAR length="4">
+      <NOTE start="0.0" length="0.25" velocity="64" note="0"/>
+      <NOTE start="0.25" length="0.25" velocity="64" note="0"/>
+      <NOTE start="0.75" length="0.25" velocity="64" note="0"/>
+      <NOTE start="1.0" length="0.25" velocity="64" note="0"/>
+      <NOTE start="1.5" length="0.25" velocity="64" note="0"/>
+      <NOTE start="1.75" length="0.25" velocity="64" note="0"/>
+      <NOTE start="2.25" length="0.25" velocity="64" note="0"/>
+      <NOTE start="2.5" length="0.25" velocity="64" note="0"/>
+      <NOTE start="3.0" length="0.25" velocity="64" note="0"/>
+      <NOTE start="3.25" length="0.25" velocity="64" note="0"/>
+      <NOTE start="3.5" length="0.25" velocity="64" note="0"/>
+    </BAR>
+  </ARPPATTERN>
+</PRESET>

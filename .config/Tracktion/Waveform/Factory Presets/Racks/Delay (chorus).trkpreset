@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Delay (chorus)" tags="Rack" builtIn="1" type="rack" presetVersion="2"
+        factory="1">
+  <RACK id="1001" name="Delay (chorus)">
+    <PLUGININSTANCE x="0.322033912" y="0.2360515">
+      <PLUGIN id="1002" type="delay" enabled="1" length="404" feedback="-4.30188608"
+              mix="1" quickParamName="feedback">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.493946731" y="0.2360515">
+      <PLUGIN id="1003" type="4bandEq" enabled="1" phaseInvert="0" loGain="-10.0680275"
+              loFreq="357.587769" loQ="0.422236204" hiGain="-6.80272102" hiFreq="8501.53418"
+              hiQ="1.22705936" midGain1="3.26530623" midFreq1="315.956757"
+              midQ1="1.00990248" midGain2="3.53741503" midFreq2="1622.23706"
+              midQ2="0.875288069">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.66585958" y="0.2360515">
+      <PLUGIN id="1004" type="volume" enabled="1" volume="0.40656966" pan="0"
+              applyToMidi="0" ignoreVca="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.83414042" y="0.2360515">
+      <PLUGIN id="1005" type="level" showMidi="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.838983059" y="1">
+      <PLUGIN id="1006" type="level" showMidi="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.670702159" y="1">
+      <PLUGIN id="1007" type="volume" enabled="1" volume="0.740818202" pan="0"
+              applyToMidi="0" ignoreVca="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.147699758" y="0.2360515">
+      <PLUGIN id="1008" type="chorus" enabled="1" depthMs="11.7396231" speedHz="0.100000001"
+              width="0.260377347" mix="1">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.496368051" y="0.614583313">
+      <PLUGIN id="1009" type="text" title="read me" body="This rack is set up to provide a delay effect, with chorus and EQ applied just to the delay repeats and not the dry signal.&#10;&#10;The rack is set up as an insert effect, with the upper volume filter controlling the delay level and the lower volume filter controlling the dry level. To use this rack as a send effect simply mute or delete the lower volume filter and its level meter.&#10;&#10;The delay feedback can be adjusted using the quick controller on the filter icon.&#10;&#10;DW">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="1003" srcPin="1" dst="1004" dstPin="1"/>
+    <CONNECTION src="1003" srcPin="0" dst="1004" dstPin="0"/>
+    <CONNECTION src="1003" srcPin="2" dst="1004" dstPin="2"/>
+    <CONNECTION src="1002" srcPin="0" dst="1003" dstPin="0"/>
+    <CONNECTION src="1002" srcPin="1" dst="1003" dstPin="1"/>
+    <CONNECTION src="1002" srcPin="2" dst="1003" dstPin="2"/>
+    <CONNECTION src="1005" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1005" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1004" srcPin="1" dst="1005" dstPin="1"/>
+    <CONNECTION src="1004" srcPin="2" dst="1005" dstPin="2"/>
+    <CONNECTION src="1004" srcPin="0" dst="1005" dstPin="0"/>
+    <CONNECTION src="1005" srcPin="0" dst="0" dstPin="0"/>
+    <CONNECTION src="1006" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="1007" dstPin="2"/>
+    <CONNECTION src="0" srcPin="1" dst="1007" dstPin="1"/>
+    <CONNECTION src="1007" srcPin="1" dst="1006" dstPin="1"/>
+    <CONNECTION src="1007" srcPin="2" dst="1006" dstPin="2"/>
+    <CONNECTION src="1006" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1008" srcPin="1" dst="1002" dstPin="1"/>
+    <CONNECTION src="1008" srcPin="2" dst="1002" dstPin="2"/>
+    <CONNECTION src="0" srcPin="0" dst="1008" dstPin="0"/>
+    <CONNECTION src="0" srcPin="1" dst="1008" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="1008" dstPin="2"/>
+    <CONNECTION src="1008" srcPin="0" dst="1002" dstPin="0"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="input 1 (left)" midi="0"/>
+    <INPUT name="input 2 (right)" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="output 1 (left)" midi="0"/>
+    <OUTPUT name="output 2 (right)" midi="0"/>
+  </RACK>
+</PRESET>

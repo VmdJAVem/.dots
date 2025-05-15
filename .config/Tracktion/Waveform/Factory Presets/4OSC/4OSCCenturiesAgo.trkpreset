@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Centuries Ago" tags="Plugin|keys" description="Polykeys"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          waveShape1="1" pulseWidth1="0.50392001867294311523" voices1="1"
+          detune1="0.08799999952316284180" spread1="-2.40000152587890625000"
+          fineTune1="-1.60000610351562500000" tune1="0.28799438476562500000"
+          waveShape2="2" fineTune2="11.19999694824218750000" filterFreq="76.18299865722656250000"
+          filterResonance="14.09999847412109375000" filterAmount="0.13600003719329833984"
+          filterDecay="0.20010998845100402832" filterSustain="48.60606002807617187500"
+          masterLevel="-3.25557708740234375000" filterVelocity="54.79999923706054687500"
+          filterKey="8.00000000000000000000" filterSlope="24" filterAttack="0.00078385265078395605"
+          voiceMode="2" legato="82.00000762939453125000" ampAnalog="0"
+          ampVelocity="56.80000305175781250000" distortion="0.00000000000000000000"
+          chorusMix="0.32000005245208740234" chosusSpeed="3.61360001564025878906"
+          chorusDepth="0.33880034089088439941" delayMix="0.00000000643730180272"
+          showFaceplate="0" faceplateWidth="420" faceplateHeight="200"
+          pan1="0.56800007820129394531" pan2="-0.56799995899200439453"
+          voices2="1" reverbMix="0.48800000548362731934" delayFeedback="-14.59204101562500000000"
+          delay="1.00000000000000000000" delayCrossfeed="-9.73029327392578125000"
+          detune2="0.03400000184774398804" ampAttack="0.00147410004865378141"
+          ampRelease="5.35180759429931640625" filterRelease="2.20297217369079589844"
+          level1="-1.53498077392578125000" level2="-2.81679534912109375000"
+          spread2="0.00000000000000000000" ampDecay="5.44275856018066406250"
+          ampSustain="0.00000000000000000000" reverbSize="0.52799999713897705078"
+          reverbDamping="0.18399998545646667480" reverbWidth="0.48800003528594970703"
+          chrousWidth="0.92000001668930053711" chorusOn="1">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX/>
+  </PLUGIN>
+</PRESET>

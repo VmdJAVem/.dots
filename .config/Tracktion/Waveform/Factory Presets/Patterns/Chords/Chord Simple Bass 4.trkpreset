@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Chord: Simple Bass 4" tags="Pattern|Chord" type="pattern"
+        subtype="Chord" presetVersion="2" factory="1">
+  <CHORDPATTERN name="Simple Bass 4">
+    <BAR length="4">
+      <NOTE start="0.5" length="0.18572379695251584053" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="1.5" length="0.18579945946112275124" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="2.5" length="0.18569421442225575447" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3.5" length="0.18583928188309073448" velocity="96" pitch="0"
+            octave="0"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0.5" length="0.18582164589315652847" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="1.5" length="0.18581709451973438263" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="2.5" length="0.18577272165566682816" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3.5" length="0.18577897921204566956" velocity="96" pitch="0"
+            octave="0"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0.5" length="0.18576817074790596962" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="1.5" length="0.18577158357948064804" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="2.5" length="0.18574200104922056198" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3.5" length="0.18586033070459961891" velocity="96" pitch="0"
+            octave="0"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0.5" length="0.18580913031473755836" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="1.5" length="0.1857670322060585022" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="2.5" length="0.185745985247194767" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3.5" length="0.18569080112501978874" velocity="96" pitch="0"
+            octave="0"/>
+    </BAR>
+  </CHORDPATTERN>
+</PRESET>

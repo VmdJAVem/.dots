@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Wavetrack WMF" tags="Plugin|Warm|Pad|Digital" description="Rendition of a nice and warm wavetable pad"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          ampAttack="0.18399891257286071777" ampDecay="3.71682882308959960938"
+          ampSustain="89.39393615722656250000" ampRelease="1.11370313167572021484"
+          ampVelocity="74.32187652587890625000" filterAttack="0.81400120258331298828"
+          filterDecay="5.85606384277343750000" filterSustain="35.60606384277343750000"
+          filterRelease="6.52087783813476562500" filterAmount="-0.32378119230270385742"
+          waveShape1="3" filterFreq="135.07623291015625000000" masterLevel="-5.75122833251953125000"
+          waveShape2="1" tune2="33.00000000000000000000" lfoWaveShape2="5"
+          lfoRate2="1.10766243934631347656" level2="-7.18183135986328125000"
+          voices1="4" detune1="0.17502343654632568359" voices2="1" detune2="0.00000000000000000000"
+          filterVelocity="31.11406326293945312500" chorusOn="1" chorusMix="0.69684374332427978516"
+          chosusSpeed="0.49850311875343322754" tune1="-12.00000000000000000000"
+          filterResonance="21.37968635559082031250" lfoRate1="0.99999994039535522461"
+          modAttack1="0.80334091186523437500" modDecay1="4.77213335037231445312"
+          modRelease1="4.19066762924194335938" modSustain1="39.39393615722656250000"
+          chrousWidth="0.67217189073562622070" reverbOn="1" reverbMix="0.06485937535762786865"
+          reverbWidth="1.00000000000000000000" reverbSize="0.44406250119209289551"
+          reverbDamping="0.24253125488758087158">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="lfoRate2" modItem="midiNote" modDepth="0.10632812976837158203"/>
+      <MODMATRIXITEM modParam="pan2" modItem="lfo2" modDepth="1.00000000000000000000"/>
+      <MODMATRIXITEM modParam="level2" modItem="env1" modDepth="-0.33346876502037048340"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

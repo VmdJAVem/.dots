@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Hollow Pad WMF" tags="Plugin|Warm|Analog|Pad" description="Hollow square wave pad"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          ampAttack="0.41037344932556152344" ampDecay="1.19585335254669189453"
+          ampSustain="100.00000000000000000000" ampRelease="1.12218880653381347656"
+          ampVelocity="64.69062805175781250000" filterAttack="0.00100000004749745131"
+          filterDecay="1.64268672466278076172" filterSustain="0.00000000000000000000"
+          filterRelease="1.64268672466278076172" filterAmount="0.27556252479553222656"
+          waveShape1="2" filterSlope="24" level2="-18.82846832275390625000"
+          waveShape2="2" tune1="-12.00000000000000000000" pulseWidth1="0.51059627532958984375"
+          pulseWidth2="0.50000000000000000000" filterResonance="2.19062495231628417969"
+          filterVelocity="89.49062347412109375000" fineTune2="6.21249389648437500000"
+          filterFreq="96.34523010253906250000" filterKey="25.40781211853027343750"
+          reverbSize="0.74150002002716064453" reverbDamping="0.26098436117172241211"
+          reverbWidth="1.00000000000000000000" reverbMix="0.10728126019239425659"
+          delay="1.00000000000000000000" delayFeedback="-24.57273864746093750000"
+          delayCrossfeed="-100.00000000000000000000" delayMix="0.16646875441074371338"
+          chosusSpeed="0.69077968597412109375" chorusDepth="4.58857870101928710938"
+          chrousWidth="1.00000000000000000000" chorusMix="0.69331252574920654297"
+          ampAnalog="1" reverbOn="1" delayOn="1" chorusOn="1" level1="-0.15661621093750000000"
+          detune1="0.27235937118530273438" spread1="0.00000000000000000000"
+          voices1="8" tune2="0.00000000000000000000" detune2="0.25828906893730163574"
+          voices2="4" lfoRate1="4.19694566726684570312" lfoWaveShape1="2">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="0.14304688572883605957"/>
+      <MODMATRIXITEM modParam="ampAttack" modItem="midiVelocity" modDepth="-0.24134376645088195801"/>
+      <MODMATRIXITEM modParam="fineTune2" modItem="lfo1" modDepth="0.06407812982797622681"/>
+      <MODMATRIXITEM modParam="level2" modItem="mpePressure" modDepth="0.25618749856948852539"/>
+      <MODMATRIXITEM modParam="level2" modItem="midiVelocity" modDepth="0.22135938704013824463"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

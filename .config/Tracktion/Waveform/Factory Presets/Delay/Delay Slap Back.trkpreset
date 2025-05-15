@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="stereoDelay" name="Slap Back"
+        tags="Plugin" factory="1">
+  <PLUGIN type="stereoDelay" windowLocked="1" id="1136" enabled="1" feedbackL="0.0"
+          delaySyncOffL="0.0" sync="0.0" panL="-2.235174179077148e-8" panR="-2.235174179077148e-8"
+          windowX="493" windowY="166" delaySyncOffR="130.0" mix="0.3848125338554382"
+          feedbackR="0.0" crossL="0.0" crossR="0.0" lowcut="500.0" highcut="4087.0"
+          volL="0.0" volR="0.0">
+    <MACROPARAMETERS id="1137"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.0" height="4.0" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

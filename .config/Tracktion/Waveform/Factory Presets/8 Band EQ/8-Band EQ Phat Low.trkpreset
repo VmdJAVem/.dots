@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="8bandEq" name="8-Band Equaliser: Phat Low"
+        tags="Plugin" factory="1">
+  <PLUGIN type="8bandEq" id="1020" enabled="1" width="660" height="380"
+          freq2lm="51.80842208862305" gain2lm="-8.300000190734863" enable2lm="1"
+          freq1lm="35.18537139892578" gain1lm="0.0" shape1lm="6" q1lm="4.599999904632568"
+          enable4lm="0" enable3lm="0" analyzer="0" windowX="1576" windowY="498"
+          windowLocked="0" mode="0" editChannel="0" enable1lm="1" enable6lm="0"
+          freq6lm="127.2141723632813" gain6lm="0.0" shape6lm="6" q6lm="2.299999952316284"
+          q2lm="1.149999976158142" freq3lm="99.53787231445313" gain3lm="11.5"
+          q3lm="1.0" shape3lm="2" slope1lm="12">
+    <MACROPARAMETERS id="1023"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

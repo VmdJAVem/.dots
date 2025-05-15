@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="plateReverb" name="Plate Reverb: Large Library"
+        tags="Plugin" factory="1">
+  <PLUGIN type="plateReverb" id="1024" enabled="1" decay="0.2719999849796295"
+          windowX="80" windowY="103" windowLocked="0" size="0.5440000295639038"
+          definition="0.4160000085830688" diffusion="0.5960000157356262"
+          highDamp="0.9280000329017639" lowDamp="0.3519999980926514" slope="0.6260000467300415"
+          mix="0.8679999709129333">
+    <MACROPARAMETERS id="1028"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

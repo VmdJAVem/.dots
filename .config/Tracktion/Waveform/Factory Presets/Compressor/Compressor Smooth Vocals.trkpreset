@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="comp" name="Compressor: Smooth Vocals"
+        tags="Plugin" factory="1">
+  <PLUGIN type="comp" id="1059" enabled="1" threshold="-22.0" ratio="4.099999904632568"
+          release="51.0" attack="100.0" windowX="622" windowY="387" windowLocked="0"
+          knee="0.0">
+    <MACROPARAMETERS id="1062"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

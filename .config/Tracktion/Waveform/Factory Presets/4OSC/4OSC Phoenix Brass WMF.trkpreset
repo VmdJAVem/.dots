@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Phoenix Brass WMF" tags="Plugin|Brass|Bright|Trumpet"
+        description="Sharp trumpet brass sound" type="plugin" subtype="4osc"
+        presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          waveShape1="2" ampAttack="0.00102911447174847126" ampDecay="0.18399891257286071777"
+          ampSustain="51.51515197753906250000" ampRelease="0.00384321296587586403"
+          filterSlope="24" filterFreq="83.03736877441406250000" filterKey="50.27968978881835937500"
+          filterResonance="0.00000000000000000000" filterAmount="0.40174996852874755859"
+          filterDecay="0.40516975522041320801" filterSustain="45.45454406738281250000"
+          ampVelocity="14.74999904632568359375" filterVelocity="44.87656402587890625000"
+          filterRelease="0.50993466377258300781" filterAttack="0.00000475025944979279"
+          delayFeedback="-100.00000000000000000000" delayMix="0.26949608325958251953"
+          delay="0.12500000000000000000" voices1="3" detune1="0.24071875214576721191"
+          waveShape2="2" pulseWidth2="0.05076187849044799805" level1="0.00000000000000000000"
+          tune1="-12.00000000000000000000" level2="-7.85744476318359375000"
+          modAttack1="0.00000000000000000000" modDecay1="0.02537981793284416199"
+          modSustain1="0.00000000000000000000" modRelease1="0.05322715267539024353"
+          spread2="0.00000000000000000000" voices2="3" detune2="0.28730469942092895508"
+          pulseWidth1="0.00999999977648258209" waveShape3="2" pulseWidth3="0.02895687520503997803"
+          tune3="12.00000000000000000000" voices3="3" detune3="0.33823436498641967773"
+          modAttack2="0.91887754201889038086" modDecay2="0.04087441787123680115"
+          modSustain2="100.00000000000000000000" delayOn="1" reverbOn="1"
+          reverbSize="0.13623438775539398193" reverbMix="0.10762500017881393433"
+          reverbDamping="0.27628123760223388672" tune2="0.00000000000000000000">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="tune3" modItem="env1" modDepth="-0.03001562505960464478"/>
+      <MODMATRIXITEM modParam="level2" modItem="env1" modDepth="0.25971877574920654297"/>
+      <MODMATRIXITEM modParam="level2" modItem="env2" modDepth="0.21018750965595245361"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

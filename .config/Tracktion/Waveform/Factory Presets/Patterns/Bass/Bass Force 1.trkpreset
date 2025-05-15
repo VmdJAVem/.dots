@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Bass: Force 1" tags="Pattern|Bass" type="pattern" subtype="Bass"
+        presetVersion="2" factory="1">
+  <BASSPATTERN name="Force 1">
+    <BAR length="4">
+      <NOTE start="0" length="0.11611854610964655876" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="0.5" length="0.11613163026049733162" velocity="96" pitch="2"
+            octave="1"/>
+      <NOTE start="1" length="0.11612651078030467033" velocity="96" pitch="4"
+            octave="1"/>
+      <NOTE start="1.5" length="0.11611115094274282455" velocity="96" pitch="3"
+            octave="1"/>
+      <NOTE start="1.75" length="0.11607929319143295288" velocity="96" pitch="0"
+            octave="1"/>
+      <NOTE start="2.25" length="0.11607417324557900429" velocity="96" pitch="2"
+            octave="1"/>
+      <NOTE start="2.75" length="0.11604686640202999115" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3" length="0.11607815604656934738" velocity="96" pitch="3"
+            octave="1"/>
+      <NOTE start="3.75" length="0.11606962233781814575" velocity="96" pitch="4"
+            octave="1"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.11615268001332879066" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="0.5" length="0.1161031872034072876" velocity="96" pitch="2"
+            octave="1"/>
+      <NOTE start="1" length="0.11611342616379261017" velocity="96" pitch="4"
+            octave="1"/>
+      <NOTE start="1.5" length="0.11612480413168668747" velocity="96" pitch="3"
+            octave="1"/>
+      <NOTE start="1.75" length="0.11610261816531419754" velocity="96" pitch="0"
+            octave="1"/>
+      <NOTE start="2.25" length="0.11608896451070904732" velocity="96" pitch="2"
+            octave="1"/>
+      <NOTE start="2.75" length="0.11607132852077484131" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3" length="0.11606222717091441154" velocity="96" pitch="3"
+            octave="1"/>
+      <NOTE start="3.75" length="0.11612423555925488472" velocity="96" pitch="4"
+            octave="1"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.11608725786209106445" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="0.5" length="0.11608099937438964844" velocity="96" pitch="2"
+            octave="1"/>
+      <NOTE start="1" length="0.1160918092355132103" velocity="96" pitch="4"
+            octave="1"/>
+      <NOTE start="1.5" length="0.11612309748306870461" velocity="96" pitch="3"
+            octave="1"/>
+      <NOTE start="1.75" length="0.1160588129423558712" velocity="96" pitch="0"
+            octave="1"/>
+      <NOTE start="2.25" length="0.11605653772130608559" velocity="96" pitch="2"
+            octave="1"/>
+      <NOTE start="2.75" length="0.11609010258689522743" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3" length="0.11609636014327406883" velocity="96" pitch="3"
+            octave="1"/>
+      <NOTE start="3.75" length="0.11610147962346673012" velocity="96" pitch="4"
+            octave="1"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.11615438666194677353" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="0.5" length="0.11614699102938175201" velocity="96" pitch="2"
+            octave="1"/>
+      <NOTE start="1" length="0.11611342616379261017" velocity="96" pitch="4"
+            octave="1"/>
+      <NOTE start="1.5" length="0.11605198634788393974" velocity="96" pitch="3"
+            octave="1"/>
+      <NOTE start="1.75" length="0.11610204912722110748" velocity="96" pitch="0"
+            octave="1"/>
+      <NOTE start="2.25" length="0.11616633366793394089" velocity="96" pitch="2"
+            octave="1"/>
+      <NOTE start="2.75" length="0.11611285712569952011" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3" length="0.11610261816531419754" velocity="96" pitch="3"
+            octave="1"/>
+      <NOTE start="3.75" length="0.11606165813282132149" velocity="96" pitch="4"
+            octave="1"/>
+    </BAR>
+  </BASSPATTERN>
+</PRESET>

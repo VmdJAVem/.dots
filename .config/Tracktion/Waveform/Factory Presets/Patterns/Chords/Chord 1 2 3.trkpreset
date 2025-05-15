@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Chord: 1 2 3" tags="Pattern|Chord" type="pattern" subtype="Chord"
+        presetVersion="2" factory="1">
+  <CHORDPATTERN name="1 2 3">
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="110"/>
+      <NOTE start="1" length="0.5" velocity="102"/>
+      <NOTE start="2" length="0.5" velocity="106"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="102"/>
+      <NOTE start="1" length="0.5" velocity="104"/>
+      <NOTE start="2" length="0.5" velocity="97"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="95"/>
+      <NOTE start="1" length="0.5" velocity="105"/>
+      <NOTE start="2" length="0.5" velocity="101"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="105"/>
+      <NOTE start="1" length="0.5" velocity="100"/>
+      <NOTE start="2" length="0.5" velocity="107"/>
+    </BAR>
+  </CHORDPATTERN>
+</PRESET>

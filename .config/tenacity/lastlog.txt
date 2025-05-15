@@ -1,6 +1,6 @@
-16:29:06: Tenacity 1.3.4
-16:29:06: Error: No se pudo encontrar el símbolo «av_oformat_next» en la biblioteca dinámica: /usr/lib/libavformat.so.61: undefined symbol: av_oformat_next
-16:29:06: Error: No se pudo encontrar el símbolo «av_register_all» en la biblioteca dinámica: /usr/lib/libavformat.so.61: undefined symbol: av_register_all
-16:29:06: Error: No se pudo encontrar el símbolo «avcodec_register_all» en la biblioteca dinámica: /usr/lib/libavformat.so.61: undefined symbol: avcodec_register_all
-16:29:06: Error: No se pudo encontrar el símbolo «av_codec_next» en la biblioteca dinámica: /usr/lib/libavformat.so.61: undefined symbol: av_codec_next
-16:29:06: Error: No se pudo encontrar el símbolo «av_get_default_channel_layout» en la biblioteca dinámica: /usr/lib/libavformat.so.61: undefined symbol: av_get_default_channel_layout
+15:56:22: Tenacity 1.3.4
+15:56:22: Error: No se pudo encontrar el símbolo «av_oformat_next» en la biblioteca dinámica: /usr/lib/libavformat.so.61: undefined symbol: av_oformat_next
+15:56:22: Error: No se pudo encontrar el símbolo «av_register_all» en la biblioteca dinámica: /usr/lib/libavformat.so.61: undefined symbol: av_register_all
+15:56:22: Error: No se pudo encontrar el símbolo «avcodec_register_all» en la biblioteca dinámica: /usr/lib/libavformat.so.61: undefined symbol: avcodec_register_all
+15:56:22: Error: No se pudo encontrar el símbolo «av_codec_next» en la biblioteca dinámica: /usr/lib/libavformat.so.61: undefined symbol: av_codec_next
+15:56:22: Error: No se pudo encontrar el símbolo «av_get_default_channel_layout» en la biblioteca dinámica: /usr/lib/libavformat.so.61: undefined symbol: av_get_default_channel_layout

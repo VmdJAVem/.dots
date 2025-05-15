@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="8bandEq" name="8-Band Equaliser: Piano"
+        tags="Plugin" factory="1">
+  <PLUGIN type="8bandEq" id="1011" enabled="1" freq1lm="27.48682022094727"
+          gain1lm="-4.0" width="660" height="380" windowX="1360" windowY="110"
+          windowLocked="0" freq2lm="50.3695068359375" gain2lm="2.849999904632568"
+          q2lm="0.7099999785423279" q1lm="0.5299999713897705" freq4lm="123.0762329101563"
+          gain4lm="4.599999904632568" q4lm="0.7099999785423279" freq3lm="112.6947708129883"
+          gain3lm="3.099999904632568" shape3lm="2" enable3lm="1" q3lm="0.4000000059604645">
+    <MACROPARAMETERS id="1015"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

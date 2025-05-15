@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Overpass" tags="Plugin" description="SweepPad" type="plugin"
+        subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          waveShape1="3" pulseWidth1="0.50392001867294311523" voices1="2"
+          detune1="0.08799999952316284180" spread1="7.20000457763671875000"
+          fineTune1="-8.80000305175781250000" tune1="-7.20000076293945312500"
+          waveShape2="3" fineTune2="-2.40000152587890625000" filterFreq="8.64487934112548828125"
+          filterResonance="14.09999847412109375000" filterAmount="0.71200001239776611328"
+          filterDecay="6.76334953308105468750" filterSustain="67.00606536865234375000"
+          masterLevel="-8.27066040039062500000" filterVelocity="37.19999694824218750000"
+          filterKey="8.00000000000000000000" filterSlope="24" filterAttack="2.11008572578430175781"
+          voiceMode="2" legato="82.00000762939453125000" ampAnalog="1"
+          ampVelocity="29.99999809265136718750" distortion="0.03599999845027923584"
+          chorusMix="0.51999998092651367188" chosusSpeed="0.72280013561248779297"
+          chorusDepth="13.66640090942382812500" delayMix="0.00000000643730180272"
+          showFaceplate="0" faceplateWidth="420" faceplateHeight="200"
+          pan1="0.08000004291534423828" pan2="-0.10399997234344482422"
+          voices2="2" reverbMix="0.50400000810623168945" delayFeedback="-14.59204101562500000000"
+          delay="1.00000000000000000000" delayCrossfeed="-9.73029327392578125000"
+          detune2="0.08200000226497650146" level1="-7.25128173828125000000"
+          level2="-6.75395965576171875000" ampAttack="1.99211347103118896484"
+          ampRelease="19.17485237121582031250" filterRelease="20.15726280212402343750"
+          reverbSize="0.51599997282028198242" reverbWidth="0.65200001001358032227"
+          lfoRate1="0.69545441865921020508" lfoDepth1="0.06399999558925628662"
+          ampSustain="100.00000000000000000000" chrousWidth="0.68399995565414428711"
+          spread2="-4.00000762939453125000">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="1.00000000000000000000"/>
+      <MODMATRIXITEM modParam="fineTune2" modItem="lfo1" modDepth="0.58399999141693115234"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

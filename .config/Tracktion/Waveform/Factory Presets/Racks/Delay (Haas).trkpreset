@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Delay (Haas)" tags="Rack" builtIn="1" type="rack" presetVersion="2"
+        factory="1">
+  <RACK id="1001" name="Delay (Haas)">
+    <PLUGININSTANCE x="0.328313261" y="0.734848499">
+      <PLUGIN id="1002" type="delay" enabled="1" length="20" feedback="-30"
+              mix="1" quickParamName="feedback">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.563252985" y="0.0984848514">
+      <PLUGIN id="1003" type="volume" enabled="1" volume="0.740818202" pan="0"
+              applyToMidi="0" ignoreVca="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.770080328" y="0.0909090936">
+      <PLUGIN id="1004" type="level" showMidi="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.561244965" y="0.74242425">
+      <PLUGIN id="1005" type="volume" enabled="1" volume="0.740818202" pan="0"
+              applyToMidi="0" ignoreVca="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.772088349" y="0.727272749">
+      <PLUGIN id="1006" type="level" showMidi="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.0662650615" y="0.0530303046">
+      <PLUGIN id="1007" type="text" title="read me" body="This rack uses a short delay to fake stereo effects on mono signals. If a signal is delayed by less than 30-40 ms it will not sound like a distinct echo, but will blend with the dry sound. If it is panned differently to the dry signal the sound will still appear to come from the direction of the dry signal but with an extra sense of space and depth. This is known as the &quot;Haas effect&quot;, and it even works if the delayed signal is louder than the dry signal.&#10;&#10;You should take care to check your mix in mono when using this rack!&#10;&#10;DW">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="0" srcPin="2" dst="1002" dstPin="2"/>
+    <CONNECTION src="1004" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1004" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1003" srcPin="1" dst="1004" dstPin="1"/>
+    <CONNECTION src="1003" srcPin="2" dst="1004" dstPin="2"/>
+    <CONNECTION src="0" srcPin="1" dst="1003" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="1003" dstPin="2"/>
+    <CONNECTION src="0" srcPin="1" dst="1002" dstPin="1"/>
+    <CONNECTION src="1002" srcPin="1" dst="1005" dstPin="1"/>
+    <CONNECTION src="1002" srcPin="2" dst="1005" dstPin="2"/>
+    <CONNECTION src="1005" srcPin="1" dst="1006" dstPin="1"/>
+    <CONNECTION src="1005" srcPin="2" dst="1006" dstPin="2"/>
+    <CONNECTION src="1006" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1006" srcPin="2" dst="0" dstPin="2"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="Left" midi="0"/>
+    <INPUT name="Right" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="Left" midi="0"/>
+    <OUTPUT name="Right" midi="0"/>
+  </RACK>
+</PRESET>

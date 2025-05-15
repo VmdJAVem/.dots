@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Mono Pass Thru" tags="Rack" builtIn="1" type="rack" presetVersion="2"
+        factory="1">
+  <RACK id="1001" name="Mono Pass Thru">
+    <PLUGININSTANCE x="0.496052623" y="0.0337837823">
+      <PLUGIN id="1002" type="text" title="Read Me" body="Mono Pass Thru&#10;&#10;Great for: Aux Sends/Returns&#10;&#10;Can be used for advanced send and return routing.  Put a Mono Pass Thru on a track as a send with its Dry Setting at Max, and Wet setting at Min.&#10;&#10;Place another instance on a return track with the oposite Dry/Wet sendings.  It will act as an aux send.">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="0" srcPin="0" dst="0" dstPin="0"/>
+    <CONNECTION src="0" srcPin="1" dst="0" dstPin="1"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="input" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="output" midi="0"/>
+  </RACK>
+</PRESET>

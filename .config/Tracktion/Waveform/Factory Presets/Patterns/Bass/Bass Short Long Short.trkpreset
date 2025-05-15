@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Bass: Short Long Short" tags="Pattern|Bass" type="pattern"
+        subtype="Bass" presetVersion="2" factory="1">
+  <BASSPATTERN name="Short Long Short">
+    <BAR length="4">
+      <NOTE start="0" length="1" velocity="127" pitch="0"/>
+      <NOTE start="1" length="2" velocity="127" pitch="0"/>
+      <NOTE start="3" length="1" velocity="127" pitch="0"/>
+    </BAR>
+  </BASSPATTERN>
+</PRESET>

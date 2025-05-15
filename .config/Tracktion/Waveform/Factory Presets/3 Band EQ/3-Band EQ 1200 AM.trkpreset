@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="3bandEq" name="3-Band EQ: 12:00 AM"
+        tags="Plugin" factory="1">
+  <PLUGIN type="3bandEq" id="1134" enabled="1" freq1="75.02074432373047"
+          freq3="105.4370803833008" gain2="6.0" gain1="-20.0" gain3="-20.0"
+          windowX="859" windowY="574" windowLocked="0">
+    <MACROPARAMETERS id="1135"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

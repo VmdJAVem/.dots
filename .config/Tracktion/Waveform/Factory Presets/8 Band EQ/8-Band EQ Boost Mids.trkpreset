@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="8bandEq" name="8-Band EQ: Boost Mids"
+        tags="Plugin" factory="1">
+  <PLUGIN type="8bandEq" id="1011" enabled="1" freq1lm="36.17052459716797"
+          gain1lm="-3.5" width="660" height="380" windowX="1360" windowY="110"
+          windowLocked="0" freq2lm="82.80287170410156" gain2lm="4.0" q2lm="0.3255999684333801"
+          q1lm="0.5" freq4lm="111.9480895996094" gain4lm="-2.5" q4lm="0.365200012922287"
+          freq3lm="54.82263946533203" gain3lm="-4.0" shape3lm="2" enable3lm="0"
+          q3lm="1.0" enable5lm="0" freq5lm="106.9953308105469" gain5lm="3.0"
+          q5lm="0.3199999928474426" enable6lm="0" freq6lm="111.0079193115234"
+          gain6lm="6.5" q6lm="0.2899999916553497" enable4lm="1">
+    <MACROPARAMETERS id="1015"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

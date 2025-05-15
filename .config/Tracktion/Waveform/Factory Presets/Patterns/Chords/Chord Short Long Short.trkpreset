@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Chord: Short Long Short" tags="Pattern|Chord" type="pattern"
+        subtype="Chord" presetVersion="2" factory="1">
+  <CHORDPATTERN name="Short Long Short">
+    <BAR length="4">
+      <NOTE start="0" length="1" velocity="127"/>
+      <NOTE start="1" length="2" velocity="127"/>
+      <NOTE start="3" length="1" velocity="127"/>
+    </BAR>
+  </CHORDPATTERN>
+</PRESET>

@@ -1,0 +1,11 @@
+{
+                "tracktionPackV1":
+                {
+                    "ID":               "tracktion.waveform.factorycontent",
+                    "version":          "1.0",
+                    "name":             "Waveform Factory Content",
+                    "description":      "Factory presets for Waveform instruments, effects and clips",
+                    "manufacturer":     "Tracktion",
+                    "url":              "https://www.tracktion.com/products/waveform"
+                }
+            }

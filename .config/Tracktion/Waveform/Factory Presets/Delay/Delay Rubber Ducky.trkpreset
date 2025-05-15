@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="stereoDelay" name="Delay: Rubber Ducky"
+        tags="Plugin" factory="1">
+  <PLUGIN type="stereoDelay" id="1019" enabled="1" windowX="1049" windowY="211"
+          windowLocked="0" sync="1.0" feedbackL="78.0" delaySyncOnL="31.0"
+          delaySyncOnR="31.0" highcut="1200.0" crossL="5.0" feedbackR="78.0"
+          crossR="3.5" mix="0.574999988079071" lowcut="20.0" delaySyncOffL="50.0"
+          delaySyncOffR="50.0">
+    <MACROPARAMETERS id="1020"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

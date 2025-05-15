@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Chord: Techno 2" tags="Pattern|Chord" type="pattern" subtype="Chord"
+        presetVersion="2" factory="1">
+  <CHORDPATTERN name="Techno 2">
+    <BAR length="4">
+      <NOTE start="0.5" length="0.18572664167732000351" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="1.5" length="0.18580344179645180702" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="2.5" length="0.1857357444241642952" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3.5" length="0.18581026792526245117" velocity="96" pitch="0"
+            octave="0"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0.5" length="0.18572095269337296486" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="1.5" length="0.18582221493124961853" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="2.5" length="0.18580173468217253685" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3.25" length="0.18580002849921584129" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3.75" length="0.18573858914896845818" velocity="96" pitch="0"
+            octave="0"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0.5" length="0.18579888995736837387" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="1.5" length="0.18568738875910639763" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="2.5" length="0.18575622327625751495" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3.5" length="0.18581595690920948982" velocity="96" pitch="0"
+            octave="0"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0.5" length="0.18580344226211309433" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="1.5" length="0.18581140600144863129" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="2.5" length="0.18579604616388678551" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3.25" length="0.18575280997902154922" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3.75" length="0.18571412656456232071" velocity="96" pitch="0"
+            octave="0"/>
+    </BAR>
+  </CHORDPATTERN>
+</PRESET>

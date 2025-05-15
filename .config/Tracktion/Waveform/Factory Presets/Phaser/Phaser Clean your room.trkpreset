@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="phaser2" name="Phaser: Clean your room"
+        tags="Plugin" factory="1">
+  <PLUGIN type="phaser2" id="1010" enabled="1" stages="4.0" sync="0.0"
+          rateSyncOn="21.0" feedback="92.0" windowX="640" windowY="522"
+          windowLocked="0" rateSyncOff="0.1099999994039536" floor="2169.5"
+          ceiling="7601.5">
+    <MACROPARAMETERS id="1011"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

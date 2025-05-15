@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Keys - Atmospheric" tags="Rack" type="rack" presetVersion="2"
+        factory="1">
+  <RACK id="1001" name="Keys - Atmospheric" dirty="1">
+    <MACROPARAMETERS id="1002" dirty="1"/>
+    <WINDOWSTATE windowPos="148 43 1535 887" windowLocked="0" active="1" dirty="1"/>
+    <OUTPUT name="midi output" dirty="1"/>
+    <OUTPUT name="output 1 (left)" dirty="1"/>
+    <OUTPUT name="output 2 (right)" dirty="1"/>
+    <INPUT name="midi input" dirty="1"/>
+    <INPUT name="input 1 (left)" dirty="1"/>
+    <INPUT name="input 2 (right)" dirty="1"/>
+    <PLUGININSTANCE x="0.033666969972702458225" y="0.50495049504950495489" dirty="1">
+      <PLUGIN id="1003" type="vst" uid="436f6d70" filename="/Library/Audio/Plug-Ins/VST/#TCompressor.vst"
+              name="#TCompressor" manufacturer="Tracktion" windowLocked="1"
+              enabled="1" programNum="0" state="1279.CMlaKA....fQBMDZ....ALzasAG...Pe....A..............................................................................................................................................................................AeAkTOcjTA0D.AP.brU2Yo4VRDAP.MT.UC8VavIWYyM2axA.bx81YxEVaDklbzkG.ADf.iUmbxUlazAkbuclbg0F.ADQAFE1Xz8lb4ABQkYVX0wFc..mbuclbg0VRDA..AfATAIUPMAP.BjFY.D.BETlagIFakAfcgwVckAP.IP.........7+..TAIUPMAP.BjFY.DfCEPVdtEVaoM1bM8FYkAfcgwVckAP.IP.............TAIUPMAP.BjFY.DvBEPGZxU1bn8FajAfcgwVckAP.IP.....PpwqL.C.TAIUPMAP.BjFY.DvAEHWXzk1a.XWXrUWY.DPBD.....bEn9.P..UPRETS.Df.oQF.AfPAgQGcgM1Z.XWXrUWY.DPBD........jDP..UPRETS.Df.oQF.AXPAn8FajAfcgwVckAP.IP.............TAIUPMAP.BjFY.DPBEHWYrUVXyUF.1EFa0UF.Aj.A.......P+AD.PEjTA0D.AHPZjAP.KTPZtAWczcTXo4F.1EFa0UF.Aj.A............PEjTA0D.AHPZjAP.LTPagsVYUA2Qgkla.XWXrUWY.DPBD......b8n+O..UPRETS.Df.oQF.AnPAy8lYzsjakUF.1EFa0UF.Aj.A............PEjTA0D.AHPZjAP.KT.au81ZggVYgQF.1EFa0UF.Aj.A....fYlY1+C.PEjTA0D.AHPZjAP.GT.ao0VZzAfcgwVckAP.IP.............TAIUPMAP.BjFY.DfCET2bkMUZjU1XnEVZtAfcgwVckAP.IP.............TAIUPMAP.BjFY.DfDEz1atkFcuI2ToQVYigVXo4F.1EFa0UF.Aj.A............PEjTA0D.AHPZjAP.JTvbuYFcCwVZvAfcgwVckAP.IP.............TAIUPMAP.BjFY.DvDEL2alQ2PrkFbTglbkMGZuwFY.XWXrUWY.DPBD........fAv..UPRETS.Df.oQF.AjPAx01bPUVXqAfcgwVckAP.IP.............TAIUPMAP.BjFY.DfCEzVX3MUcsQTYzU1XzAfcgwVckAP.IP.............TAIUPMAP.BjFY.D.DEDVcz8VSgsVYUA2Qgkla.XWXrUWY.DPBD.........+O..UPRETS.Df.oQF.AzPAlkFazUlbSQWXzUF.1EFa0UF.Aj.A............PEjTA0D.AHPZjAP.MTfYowFckI2TnEFbkAfcgwVckAP.IP.............TAIUPMAP.BjFY.DPDEXVZrQWYxYjbkEWck41X4AfcgwVckAP.IP........3d.A.TAIUPMAP.BjFY.DPBEXVZrQWYxEE.1EFa0UF.Aj.A........v+C.PEjTA0D.AHPZjAP.LTfYowFckI2Qgkla.XWXrUWY.DPBD............."
+              base64:layout="131.LETVOUEU..P.BjjSPUEUSA..AHfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..BU0T.Df.o4FYkgG.ATP.A....vVX48VczAP.CTvP..vSUQETUQ0T..P.AHTUSAP.BjlajUFd.DPAA......agk2a0QG.ATPALAhT..."
+              windowX="1039" windowY="206" dirty="1">
+        <MACROPARAMETERS id="1004" dirty="1"/>
+        <MODIFIERASSIGNMENTS dirty="1"/>
+        <FACEPLATE width="8" height="4" autoSize="1" dirty="1"/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="0" dst="1003" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="0" dst="1003" srcPin="2" dstPin="2" dirty="1"/>
+    <CONNECTION src="0" dst="1003" srcPin="0" dstPin="0" dirty="1"/>
+    <CONNECTION src="1003" dst="0" srcPin="0" dstPin="0" dirty="1"/>
+    <PLUGININSTANCE x="0.20200181983621473547" y="0.52528548123980423057" dirty="1">
+      <PLUGIN id="1005" type="vst" uid="45517372" filename="/Library/Audio/Plug-Ins/VST/#TEqualiser.vst"
+              name="#TEqualiser" manufacturer="Tracktion" windowLocked="1"
+              enabled="1" programNum="0" state="2208.CMlaKA....fQBMDZ....ATTTyIG...Pe....A..............................................................................................................................................................................B..kTOcjTA0D.AX.brU2Yo4VRDAP.LT.UEEWcgwVZyUlb..mbuclbg0FQoIGc4AP.AHvX0Imbk4FcPI2amIWXsAP.QTfQgMFcuIWdfPTYlEVcrQG.vI2amIWXskDQ..PcocUZjQGZ.DPAAf9...PcogTYocFZzAP.ED.VB...AzBTAIUPMAP.BjFY.D.CEHVXtQVLSQWXzUF.1EFa0UF.Aj.A........v+C.PEjTA0D.AHPZjAP.PTfXg4FYwXjbkEWck41X4AfcgwVckAP.IP.....X2jvS.A.TAIUPMAP.BjFY.DvBEHVXtQVLGEVZtAfcgwVckAP.IP.....fgqOI.A.TAIUPMAP.BjFY.D.BEHVXtQVLQAfcgwVckAP.IP.........7+..TAIUPMAP.BjFY.D.CEHVXtQVLSgVXvUF.1EFa0UF.Aj.A........X.D.PEjTA0D.AHPZjAP.LTfXg4FYxLEcgQWY.XWXrUWY.DPBD.........+O..UPRETS.Df.oQF.A.QAhElajIiQxUVb0UlaikG.1EFa0UF.Aj.A.....ZljrAD.PEjTA0D.AHPZjAP.KTfXg4FYxbTXo4F.1EFa0UF.Aj.A.....LyLT.L.PEjTA0D.AHPZjAP.HTfXg4FYxDE.1EFa0UF.Aj.A........v+C.PEjTA0D.AHPZjAP.LTfXg4FYxLEZgAWY.XWXrUWY.DPBD..........P..UPRETS.Df.oQF.AvPAhElajMyTzEFckAfcgwVckAP.IP.........7+..TAIUPMAP.BjFY.D.DEHVXtQ1LFIWYwUWYtMVd.XWXrUWY.DPBD.....9RyvHP..UPRETS.Df.oQF.ArPAhElajMyQgkla.XWXrUWY.DPBD......1iB+O..UPRETS.Df.oQF.AfPAhElajMST.XWXrUWY.DPBD.....z14C.P..UPRETS.Df.oQF.AvPAhElajMyTnEFbkAfcgwVckAP.IP...........A.TAIUPMAP.BjFY.D.CEHVXtQFMSQWXzUF.1EFa0UF.Aj.A............PEjTA0D.AHPZjAP.PTfXg4FYzXjbkEWck41X4AfcgwVckAP.IP.....H..3d.A.TAIUPMAP.BjFY.DvBEHVXtQFMGEVZtAfcgwVckAP.IP.............TAIUPMAP.BjFY.D.BEHVXtQFMQAfcgwVckAP.IP.........7+..TAIUPMAP.BjFY.D.CEHVXtQFMSgVXvUF.1EFa0UF.Aj.A..........D.PEjTA0D.AHPZjAP.LTfXg4FY0LEcgQWY.XWXrUWY.DPBD.............UPRETS.Df.oQF.A.QAhElajUiQxUVb0UlaikG.1EFa0UF.Aj.A....f..f6AD.PEjTA0D.AHPZjAP.KTfXg4FY0bTXo4F.1EFa0UF.Aj.A............PEjTA0D.AHPZjAP.HTfXg4FY0DE.1EFa0UF.Aj.A........v+C.PEjTA0D.AHPZjAP.LTfXg4FY0LEZgAWY.XWXrUWY.DPBD..........P..UPRETS.Df.oQF.AvPAhElajYyTzEFckAfcgwVckAP.IP.............TAIUPMAP.BjFY.D.DEHVXtQlMFIWYwUWYtMVd.XWXrUWY.DPBD.....B..tGP..UPRETS.Df.oQF.ArPAhElajYyQgkla.XWXrUWY.DPBD.............UPRETS.Df.oQF.AfPAhElajYST.XWXrUWY.DPBD.........+O..UPRETS.Df.oQF.AvPAhElajYyTnEFbkAfcgwVckAP.IP...........A.TAIUPMAP.BjFY.D.CEHVXtQ1MSQWXzUF.1EFa0UF.Aj.A............PEjTA0D.AHPZjAP.PTfXg4FY2XjbkEWck41X4AfcgwVckAP.IP.....H..3d.A.TAIUPMAP.BjFY.DvBEHVXtQ1MGEVZtAfcgwVckAP.IP.............TAIUPMAP.BjFY.D.BEHVXtQ1MQAfcgwVckAP.IP.........7+..TAIUPMAP.BjFY.D.CEHVXtQ1MSgVXvUF.1EFa0UF.Aj.A..........D.PEjTA0D.AHPZjAP.LTfXg4FY3LEcgQWY.XWXrUWY.DPBD.............UPRETS.Df.oQF.A.QAhElajgiQxUVb0UlaikG.1EFa0UF.Aj.A....f..f6AD.PEjTA0D.AHPZjAP.KTfXg4FY3bTXo4F.1EFa0UF.Aj.A............PEjTA0D.AHPZjAP.HTfXg4FY3DE.1EFa0UF.Aj.A........v+C.PEjTA0D.AHPZjAP.LTfXg4FY3LEZgAWY.XWXrUWY.DPBD..........P..UPRETS.Df.oQF.AfPAk4VXhwVY.XWXrUWY.DPBD.........+O..UPRETS.Df.oQF.AvPAuUGcvUGcGEVZtAfcgwVckAP.IP.............TAIUPMAP.BjFY.DfBEL2ar8lPg4FY.XWXrUWY.DPBD.........+u..UPRETS.Df.oQF.AnPAy8FaucTXo4F.1EFa0UF.Aj.A............PEjTA0D.AHPZjAP.NTPXtEFa4MWYx0zajUF.1EFa0UF.Aj.A........H.D."
+              base64:layout="99.LETVOUEU..P.BjjSPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..OUEUPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA.."
+              windowX="406" windowY="382" dirty="1">
+        <MACROPARAMETERS id="1006" dirty="1"/>
+        <MODIFIERASSIGNMENTS dirty="1"/>
+        <FACEPLATE width="8" height="4" autoSize="1" dirty="1"/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="1003" dst="1005" srcPin="2" dstPin="2" dirty="1"/>
+    <CONNECTION src="1003" dst="1005" srcPin="1" dstPin="1" dirty="1"/>
+    <PLUGININSTANCE x="0.39672429481346677127" y="0.68352365415986948705" dirty="1">
+      <PLUGIN id="1007" type="vst" uid="52657662" filename="/Library/Audio/Plug-Ins/VST/#TReverber8.vst"
+              name="#TReverber8" manufacturer="Tracktion" windowLocked="1"
+              enabled="1" programNum="9" state="709.CMlaKA....fQBMDZ....AHUY1IF...Pe....A.............................................................................................................................................................................f.k.kTOcjTA0D.AX.brU2Yo4VRDAP.LT.URUlckImXkIGN..mbuclbg0FQoIGc4AP.AHvX0Imbk4FcPI2amIWXsAP.ITvTzEFYoUWa..mbuclbg0VRDAP.hT.M3X1MjEyMjMyMjUCMiQSXgkiX0fyLyPSNxPyXxPlMy.PcocUZjQGZ.DPAAT+...PcogTYocFZzAP.EDfnA...An.TAIUPMAP.BjFY.D.BETlagIFakAfcgwVckAP.IP.........7+..TAIUPMAP.BjFY.DPBEPVXsAWZtcF.1EFa0UF.ALPAv...PEjTA0D.AHPZjAP.IT.Yk41boQWd.XWXrUWY.D.FE.iKzjCMvTCN3DyM1HSMvPSM2biMybC...UPRETS.Df.oQF.ArPAhElajcWZjQGZ.XWXrUWY.Dv.EDC...UPRETS.Df.oQF.AbPAjU1XgkG.1EFa0UF.Aj.A.....qv.i+C.PEjTA0D.AHPZjAP.JT.bxUFYkwVX4AfcgwVckAP.CT.L...TAIUPMAP.BjFY.DfAELWZ5UF.1EFa0UF.AfQAv3xM3LSL3jCM2TSMyXyLzXCMyTSM0...PEjTA0D.AHPZjAP.FTvYgkla.XWXrUWY.Dv.EDC...UPRETS.Df.oQF.ATPAskFd.XWXrUWY.DPBD.....nu+T9O..UPRETS.Df.oQF.ArPAkElbrkGagQWY.XWXrUWY.DfAE.iK2TC..."
+              base64:layout="99.LETVOUEU..P.BjjSPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..OUEUPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA.."
+              windowX="148" windowY="169" dirty="1">
+        <MACROPARAMETERS id="1008" dirty="1"/>
+        <MODIFIERASSIGNMENTS dirty="1"/>
+        <FACEPLATE width="8" height="4" autoSize="1" dirty="1"/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="1005" dst="1007" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="1005" dst="1007" srcPin="2" dstPin="2" dirty="1"/>
+    <PLUGININSTANCE x="0.74249317561419470035" y="0.62642740619902115284" dirty="1">
+      <PLUGIN id="1009" type="volume" enabled="1" volume="0.64469158649444580078"
+              dirty="1">
+        <MACROPARAMETERS id="1010" dirty="1"/>
+        <MODIFIERASSIGNMENTS dirty="1"/>
+        <FACEPLATE width="8" height="4" autoSize="1" dirty="1"/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.20291173794358507987" y="0.40783034257748779217" dirty="1">
+      <PLUGIN id="1011" type="pitchShifter" enabled="1" semitonesUp="-7" elastiqueOptions="1/0/1/1/16"
+              mode="8" dirty="1">
+        <MACROPARAMETERS id="1012" dirty="1"/>
+        <MODIFIERASSIGNMENTS dirty="1"/>
+        <FACEPLATE width="8" height="4" autoSize="1" dirty="1"/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="1003" dst="1011" srcPin="2" dstPin="2" dirty="1"/>
+    <CONNECTION src="1011" dst="1009" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="1011" dst="1009" srcPin="2" dstPin="2" dirty="1"/>
+    <PLUGININSTANCE x="0.74249317561419470035" y="0.54649265905383359598" dirty="1">
+      <PLUGIN id="1013" type="vst" uid="5344656c" filename="/Library/Audio/Plug-Ins/VST/#TStereo Delay.vst"
+              name="#TStereo Delay" manufacturer="Tracktion" windowLocked="1"
+              enabled="1" windowX="783" windowY="322" programNum="2" state="1241.CMlaKA....fQBMDZ....ALEQkwF...Pe....A..............................................................................................................................................................................A4.kTOcjTA0D.AP.brU2Yo4VRDAP.OT.USQWYxU1afPTYrEVd..mbuclbg0FQoIGc4AP.AHvX0Imbk4FcPI2amIWXsAP.QTPLeQCHN8FckABQuQGckQF.vI2amIWXskDQ.DfHELVL0jiYzHyM3HlMjQiLzHVXzTlMiUiYyXVX0T1M0P1M.DvEPEjTA0D.AHPZjAP.HTPYtElXrUF.1EFa0UF.Aj.A............PEjTA0D.AHPZjAP.GTPZtAWczAfcgwVckAP.IP...........C.TAIUPMAP.BjFY.DvBEPVYrEVdykmaiAfcgwVckAP.IP.........7+..TAIUPMAP.BjFY.DPBEv1buUmbiUF.1EFa0UF.Aj.A........v+C.PEjTA0D.AHPZjAP.KT.alUVYjIVXisF.1EFa0UF.Aj.A........PAD.PEjTA0D.AHPZjAP.PT.aiI2ayMmYkUFYhE1XqAfcgwVckAP.IP........fD.A.TAIUPMAP.BjFY.D.CEvFYkwVX441azUF.1EFa0UF.Aj.A........H.D.PEjTA0D.AHPZjAP.NT.ajUFagk2alY1bkQG.1EFa0UF.Aj.A....fYLht+C.PEjTA0D.AHPZjAP.JT.ajUFagkWayAfcgwVckAP.IP........ze.A.TAIUPMAP.BjFY.DfAEvFbg4F.1EFa0UF.Aj.A........v+K.PEjTA0D.AHPZjAP.IT.ar81ciUGc.XWXrUWY.DPBD.......5NIP..UPRETS.Df.oQF.AnPArgVZmg1X0QG.1EFa0UF.Aj.A......fkNCD.PEjTA0D.AHPZjAP.ITfby8VcxMVY.XWXrUWY.DPBD..........P..UPRETS.Df.oQF.ArPAxYVYkQlXgM1Z.XWXrUWY.DPBD.......fFEv..UPRETS.Df.oQF.A.QAxMlbuM2blUVYjIVXisF.1EFa0UF.Aj.A........P.D.PEjTA0D.AHPZjAP.LTfbjUFagkmauQWY.XWXrUWY.DPBD..........P..UPRETS.Df.oQF.A3PAxQVYrEVduYlYyUFc.XWXrUWY.DPBD.....tGJc9O..UPRETS.Df.oQF.AnPAxQVYrEVdsMG.1EFa0UF.Aj.A.......P+AD.PEjTA0D.AHPZjAP.FTfbvEla.XWXrUWY.DPBD.........+O..UPRETS.Df.oQF.AjPAxw1a2MVczAfcgwVckAP.IP.......Hao.A.TAIUPMAP.BjFY.DfBEHGZocFZiUGc.XWXrUWY.DPBD.......HNMP..UPRETS.Df.oQF.AbPA2UFcjIF.1EFa0UF.Aj.A....f1jJ3.L.PEjTA0D.AHPZjAP.GT.YxkGYhAfcgwVckAP.IP........PR.C."
+              base64:layout="99.LETVOUEU..P.BjjSPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..OUEUPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA.."
+              dirty="1">
+        <MACROPARAMETERS id="1014" dirty="1"/>
+        <MODIFIERASSIGNMENTS dirty="1"/>
+        <FACEPLATE width="8" height="4" autoSize="1" dirty="1"/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="1011" dst="1013" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="1011" dst="1013" srcPin="2" dstPin="2" dirty="1"/>
+    <PLUGININSTANCE x="0.2065514103730664297" y="0.29690048939641111581" dirty="1">
+      <PLUGIN id="1015" type="pitchShifter" enabled="1" semitonesUp="24" dirty="1">
+        <MACROPARAMETERS id="1016" dirty="1"/>
+        <MODIFIERASSIGNMENTS dirty="1"/>
+        <FACEPLATE width="8" height="4" autoSize="1" dirty="1"/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="1003" dst="1011" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="1003" dst="1015" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="1003" dst="1015" srcPin="2" dstPin="2" dirty="1"/>
+    <PLUGININSTANCE x="0.74340309372156510026" y="0.44698205546492658646" dirty="1">
+      <PLUGIN id="1017" type="volume" enabled="1" volume="0.71076339483261108398"
+              pan="-1" dirty="1">
+        <MACROPARAMETERS id="1018" dirty="1"/>
+        <MODIFIERASSIGNMENTS dirty="1"/>
+        <FACEPLATE width="8" height="4" autoSize="1" dirty="1"/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="1015" dst="1017" srcPin="1" dstPin="1" dirty="1"/>
+    <PLUGININSTANCE x="0.74431301182893538915" y="0.36541598694942906134" dirty="1">
+      <PLUGIN id="1019" type="volume" enabled="1" pan="1" volume="0.70613342523574829102"
+              dirty="1">
+        <MACROPARAMETERS id="1020" dirty="1"/>
+        <MODIFIERASSIGNMENTS dirty="1"/>
+        <FACEPLATE width="8" height="4" autoSize="1" dirty="1"/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="1015" dst="1019" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="1015" dst="1017" srcPin="2" dstPin="2" dirty="1"/>
+    <CONNECTION src="1015" dst="1019" srcPin="2" dstPin="2" dirty="1"/>
+    <PLUGININSTANCE x="0.59053685168334846267" y="0.84013050570962477526" dirty="1">
+      <PLUGIN id="1021" type="vst" uid="4175746f" filename="/Library/Audio/Plug-Ins/VST/#TAuto Filter.vst"
+              name="#TAuto Filter" manufacturer="Tracktion" windowLocked="1"
+              enabled="1" windowX="396" windowY="519" programNum="12" state="869.CMlaKA....fQBMDZ....ADTcz8F...Pe....A.............................................................................................................................................................................f.ECkTOcjTA0D.AP.brU2Yo4VRDAP.NT.UAUGcuAhQowFckIG.vI2amIWXsQTZxQWd.DP.BLVcxIWYtQGTx81YxEVa.DfDELEckIWYuABRocFZf.UXyMG.vI2amIWXskDQ.DfHEbSLyHSXhciL3XiLlQCY3TVNyLSMvL1MjACLxTVYjYlY.DfCPEjTA0D.AHPZjAP.HTPYtElXrUF.1EFa0UF.Aj.A............PEjTA0D.AHPZjAP.GTvbnEFbkAfcgwVckAP.CTPL...TAIUPMAP.BjFY.DPBELVczQ2alYF.1EFa0UF.AbQA0TiKvPCNzPiL3PCL0biMwbSL3bSM...TAIUPMAP.BjFY.DvBEHWYy8lag41XkAfcgwVckAP.WTPMv3xL4jSN4byMwDSL3DiMz.iMxTC...UPRETS.Df.oQF.AXPA2ElckAfcgwVckAP.CTvL...TAIUPMAP.BjFY.DfAELWdtMF.1EFa0UF.ALPAw...PEjTA0D.AHPZjAP.FTfbgQWY.XWXrUWY.D.AEDyL...TAIUPMAP.BjFY.DfAEXlbkEG.1EFa0UF.ADQAxHSLx3hLzTSLwbSL3bSM...TAIUPMAP.BjFY.DvAEPVYvQGZ.XWXrUWY.DPBD.....xLS3DP..UPRETS.Df.oQF.ArPAykmaiAEZgMWY.XWXrUWY.DPAEDCNv...PEjTA0D.AHPZjAP.LTvbzUlbuAEZgMWY.XWXrUWY.DPDEHCLtHyL4jSNvHyLzLyM0...PEjTA0D.AHPZjAP.LT.b0w1bkcUZjQGZ.XWXrUWY.DfEELCNtPyL4.iMz.iL0fyM3jCL1HSM...TAIUPMAP.BjFY.DPAEbWYzAfcgwVckAP.IP......yXrF.C.TAIUPMAP.BjFY.DPAEPlb4AfcgwVckAP.IP........PR.C."
+              base64:layout="99.LETVOUEU..P.BjjSPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..OUEUPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA.."
+              dirty="1">
+        <MACROPARAMETERS id="1022" dirty="1"/>
+        <MODIFIERASSIGNMENTS dirty="1"/>
+        <FACEPLATE width="8" height="4" autoSize="1" dirty="1"/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="1007" dst="1021" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="1007" dst="1021" srcPin="2" dstPin="2" dirty="1"/>
+    <PLUGININSTANCE x="0.74340309372156510026" y="0.72756933115823818614" dirty="1">
+      <PLUGIN id="1023" type="volume" enabled="1" volume="0.71992313861846923828"
+              dirty="1">
+        <MACROPARAMETERS id="1024" dirty="1"/>
+        <MODIFIERASSIGNMENTS dirty="1"/>
+        <FACEPLATE width="8" height="4" autoSize="1" dirty="1"/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="1021" dst="1023" srcPin="2" dstPin="2" dirty="1"/>
+    <CONNECTION src="1021" dst="1023" srcPin="1" dstPin="1" dirty="1"/>
+    <PLUGININSTANCE x="0.85350318471337582871" y="0.55301794453507335803" dirty="1">
+      <PLUGIN id="1025" type="vst" uid="42436d70" filename="/Library/Audio/Plug-Ins/VST/#TBus Compressor.vst"
+              name="#TBus Compressor" manufacturer="Tracktion" windowLocked="1"
+              enabled="1" windowX="377" windowY="488" programNum="0" state="502.CMlaKA....fQBMDZ....AHzPsAG...Pe....A.............................................................................................................................................................................P.VAkTOcjTA0D.AP.brU2Yo4VRDAP.QT.UBU2bfLzasAmbkM2buIG.vI2amIWXsQTZxQWd.DP.BLVcxIWYtQGTx81YxEVa.DPDEXTXiQ2axkGHDUlYgUGazA.bx81YxEVaIQD..DfAPEjTA0D.AHPZjAP.HTPYtElXrUF.1EFa0UF.Aj.A........v+C.PEjTA0D.AHPZjAP.KT.cnIWYyg1arQF.1EFa0UF.Aj.A.....O0v1.L.PEjTA0D.AHPZjAP.GTfbgQWZuAfcgwVckAP.IP.....fbxP++..TAIUPMAP.BjFY.D.BEDFczE1XqAfcgwVckAP.IP.....H9SmO.A.TAIUPMAP.BjFY.DPBEHWYrUVXyUF.1EFa0UF.Aj.A....fyL6lAD.PEjTA0D.AHPZjAP.LTPagsVY0A2Qgkla.XWXrUWY.DPBD.....P8nv.P.."
+              base64:layout="99.LETVOUEU..P.BjjSPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA..OUEUPUEUSA..ADfPUME.AHPZtQVY3AP.ED......rEVduUGc.DPAEvDHRA.."
+              dirty="1">
+        <MACROPARAMETERS id="1026" dirty="1"/>
+        <MODIFIERASSIGNMENTS dirty="1"/>
+        <FACEPLATE width="8" height="4" autoSize="1" dirty="1"/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="1019" dst="1025" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="1017" dst="1025" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="1009" dst="1025" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="1023" dst="1025" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="1017" dst="1025" srcPin="2" dstPin="2" dirty="1"/>
+    <CONNECTION src="1009" dst="1025" srcPin="2" dstPin="2" dirty="1"/>
+    <CONNECTION src="1023" dst="1025" srcPin="2" dstPin="2" dirty="1"/>
+    <PLUGININSTANCE x="0.98453139217470431177" y="0.48939641109298531729" dirty="1">
+      <PLUGIN id="1027" type="volume" enabled="1" volume="0.47376754879951477051"
+              dirty="1">
+        <MACROPARAMETERS id="1028" dirty="1"/>
+        <MODIFIERASSIGNMENTS dirty="1"/>
+        <FACEPLATE width="8" height="4" autoSize="1" dirty="1"/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="1027" dst="0" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="1027" dst="0" srcPin="2" dstPin="2" dirty="1"/>
+    <PLUGININSTANCE x="0.98453139217470431177" y="0.55138662316476350078" dirty="1">
+      <PLUGIN id="1029" type="volume" enabled="1" volume="0.4349689483642578125"
+              dirty="1">
+        <MACROPARAMETERS id="1030" dirty="1"/>
+        <MODIFIERASSIGNMENTS dirty="1"/>
+        <FACEPLATE width="8" height="4" autoSize="1" dirty="1"/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="1025" dst="1029" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="1025" dst="1029" srcPin="2" dstPin="2" dirty="1"/>
+    <CONNECTION src="1029" dst="0" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="1029" dst="0" srcPin="2" dstPin="2" dirty="1"/>
+    <CONNECTION src="1013" dst="1027" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="1013" dst="1027" srcPin="2" dstPin="2" dirty="1"/>
+    <CONNECTION src="1007" dst="1029" srcPin="1" dstPin="1" dirty="1"/>
+    <CONNECTION src="1007" dst="1029" srcPin="2" dstPin="2" dirty="1"/>
+  </RACK>
+</PRESET>

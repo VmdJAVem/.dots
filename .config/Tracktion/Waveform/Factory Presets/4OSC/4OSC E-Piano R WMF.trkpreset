@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: E-Piano R WMF" tags="Plugin|Analog|E-Piano" description="Analog simulation of a classic e-piano"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          ampAttack="0.00100000004749745131" ampDecay="20.32782745361328125000"
+          ampSustain="0.00000000000000000000" ampRelease="0.22739432752132415771"
+          ampVelocity="60.26875305175781250000" filterAttack="0.00000000000000000000"
+          filterDecay="10.81018829345703125000" filterSustain="0.00000000000000000000"
+          filterRelease="0.13912251591682434082" filterAmount="0.22712504863739013672"
+          waveShape1="4" masterLevel="-14.01752471923828125000" filterResonance="0.00000000000000000000"
+          filterSlope="24" level2="-16.00577545166015625000" waveShape2="1"
+          tune3="29.00000000000000000000" level3="-100.00000000000000000000"
+          waveShape3="4" filterFreq="79.64569854736328125000" filterKey="100.00000000000000000000"
+          chosusSpeed="0.68969696760177612305" chorusDepth="5.20454692840576171875"
+          chorusMix="0.64428126811981201172" chorusOn="1" level1="-11.05603790283203125000"
+          tune2="12.00000000000000000000" fineTune3="49.10000610351562500000"
+          tune4="24.00000000000000000000" fineTune4="-4.97499847412109375000"
+          level4="-36.93435287475585937500" waveShape4="1" modAttack1="0.00000000000000000000"
+          modDecay1="0.43716436624526977539" modSustain1="0.00000000000000000000"
+          modRelease1="0.06415199488401412964">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterDecay" modItem="midiNote" modDepth="-0.22931250929832458496"/>
+      <MODMATRIXITEM modParam="level3" modItem="env1" modDepth="0.60137504339218139648"/>
+      <MODMATRIXITEM modParam="ampDecay" modItem="midiNote" modDepth="-0.26000002026557922363"/>
+      <MODMATRIXITEM modParam="level4" modItem="midiVelocity" modDepth="0.49810940027236938477"/>
+      <MODMATRIXITEM modParam="level2" modItem="midiVelocity" modDepth="0.40268751978874206543"/>
+      <MODMATRIXITEM modParam="level1" modItem="midiVelocity" modDepth="0.38032814860343933105"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

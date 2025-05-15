@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Chord: Drift Offbeat 1" tags="Pattern|Chord" type="pattern"
+        subtype="Chord" presetVersion="2" factory="1">
+  <CHORDPATTERN name="Drift Offbeat 1">
+    <BAR length="4">
+      <NOTE start="0.75" length="0.25539560802280902863" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="1.5" length="0.51081226440146565437" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="2.75" length="0.25541551923379302025" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3.5" length="0.51084582880139350891" velocity="96" pitch="0"
+            octave="0"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0.75" length="0.25545704783871769905" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="1.5" length="0.51084526022896170616" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="2.75" length="0.25539162568747997284" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3.5" length="0.51092376606538891792" velocity="96" pitch="0"
+            octave="0"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0.75" length="0.25540243461728096008" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="1.5" length="0.51083103753626346588" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="2.75" length="0.25551109248772263527" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3.5" length="0.5108839450404047966" velocity="96" pitch="0"
+            octave="0"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0.75" length="0.25547582143917679787" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="1.5" length="0.51086687762290239334" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="2.75" length="0.2554200710728764534" velocity="96" pitch="0"
+            octave="0"/>
+      <NOTE start="3.5" length="0.51081738434731960297" velocity="96" pitch="0"
+            octave="0"/>
+    </BAR>
+  </CHORDPATTERN>
+</PRESET>

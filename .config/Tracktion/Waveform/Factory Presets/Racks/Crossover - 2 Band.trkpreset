@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Crossover - 2 Band" tags="Rack" builtIn="1" type="rack"
+        presetVersion="2" factory="1">
+  <RACK id="1001" name="Crossover - 2 Band">
+    <PLUGININSTANCE x="0.449093431" y="0.858657241">
+      <PLUGIN id="1002" type="lowpass" enabled="1" frequency="800" mode="lowpass"
+              quickParamName="frequency">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.684797764" y="0.600706697">
+      <PLUGIN id="1003" type="4bandEq" enabled="1" phaseInvert="1" loGain="0"
+              loFreq="80" loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0"
+              midFreq1="3000" midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.917712688" y="0.293286204">
+      <PLUGIN id="1004" type="level" showMidi="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.91492331" y="0.858657241">
+      <PLUGIN id="1005" type="level" showMidi="0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.110169493" y="0">
+      <PLUGIN id="1006" type="text" title="read me" body="This rack is designed to split the input signal into separate low and high frequency bands, which can then be processed seperarately.&#10;&#10;The Low/High Pass Filter determines the cross-over frequency, and this can be adjusted with the quick controller on the filter itself. The high frequencies feed the first pair of rack outputs, while the low frequencies feed the second pair. &#10;&#10;The native EQ filter is used just to invert the polarity of the signal, and should be left set flat.&#10;&#10;DW">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="0" srcPin="1" dst="1002" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="1002" dstPin="2"/>
+    <CONNECTION src="1002" srcPin="1" dst="1003" dstPin="1"/>
+    <CONNECTION src="1002" srcPin="2" dst="1003" dstPin="2"/>
+    <CONNECTION src="1002" srcPin="1" dst="1005" dstPin="1"/>
+    <CONNECTION src="1002" srcPin="2" dst="1005" dstPin="2"/>
+    <CONNECTION src="1003" srcPin="1" dst="1004" dstPin="1"/>
+    <CONNECTION src="1003" srcPin="2" dst="1004" dstPin="2"/>
+    <CONNECTION src="0" srcPin="1" dst="1004" dstPin="1"/>
+    <CONNECTION src="0" srcPin="2" dst="1004" dstPin="2"/>
+    <CONNECTION src="1004" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1004" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1005" srcPin="2" dst="0" dstPin="4"/>
+    <CONNECTION src="1005" srcPin="1" dst="0" dstPin="3"/>
+    <CONNECTION src="0" srcPin="0" dst="0" dstPin="0"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="input 1 (left)" midi="0"/>
+    <INPUT name="input 2 (right)" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="High (left)" midi="0"/>
+    <OUTPUT name="High (right)" midi="0"/>
+    <OUTPUT name="Low (left)" midi="0"/>
+    <OUTPUT name="Low (right)" midi="0"/>
+  </RACK>
+</PRESET>

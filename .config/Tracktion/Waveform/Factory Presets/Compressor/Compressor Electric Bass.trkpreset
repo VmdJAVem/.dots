@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="comp" name="Compressor: Electric Bass"
+        tags="Plugin" factory="1">
+  <PLUGIN type="comp" id="1059" enabled="1" threshold="-27.0" ratio="5.800000190734863"
+          release="110.0" attack="29.0" windowX="622" windowY="387" windowLocked="0"
+          knee="2.019999980926514">
+    <MACROPARAMETERS id="1062"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

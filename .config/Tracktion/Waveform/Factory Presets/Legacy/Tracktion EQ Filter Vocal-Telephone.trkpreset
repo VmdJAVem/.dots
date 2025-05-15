@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Tracktion EQ Filter: Vocal-Telephone" tags="Tracktion EQ Filter"
+        type="plugin" subtype="4bandEq" presetVersion="2" factory="1">
+  <PLUGIN type="4bandEq" enabled="1" phaseInvert="0" loGain="-15.8209"
+          loFreq="165.1627" loQ="0.2257828" hiGain="-9.253732" hiFreq="2827.56"
+          hiQ="4." midGain1="9.850746" midFreq1="1330.287" midQ1="2.512008"
+          midGain2="-13.73134" midFreq2="11606.77" midQ2="3.">
+    <MODIFIERASSIGNMENTS/>
+  </PLUGIN>
+</PRESET>

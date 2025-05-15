@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Flute WMF" tags="Plugin|Analog|Flute" description="Analog rendition of a flute"
+        type="plugin" subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          ampAttack="0.06371425837278366089" ampDecay="1.29282605648040771484"
+          ampSustain="78.03030395507812500000" ampRelease="0.27865749597549438477"
+          ampVelocity="65.37187957763671875000" filterAttack="0.00000000000000000000"
+          filterDecay="0.09098432213068008423" filterSustain="29.54545593261718750000"
+          filterRelease="1.11272156238555908203" filterAmount="0.12162494659423828125"
+          waveShape1="2" masterLevel="-6.71398925781250000000" filterSlope="24"
+          level2="0.00000000000000000000" waveShape2="0" tune3="0.00000000000000000000"
+          level3="-27.33758544921875000000" waveShape3="5" filterFreq="91.95663452148437500000"
+          filterKey="27.20780754089355468750" chosusSpeed="0.67778599262237548828"
+          chorusMix="0.47467187047004699707" chorusOn="0" level1="-4.25496673583984375000"
+          tune2="-12.00000000000000000000" fineTune3="0.00000000000000000000"
+          modAttack1="2.24036502838134765625" modDecay1="0.41656073927879333496"
+          modSustain1="100.00000000000000000000" modRelease1="0.11480196565389633179"
+          reverbSize="0.70417189598083496094" reverbWidth="1.00000000000000000000"
+          reverbMix="0.19784374535083770752" reverbOn="1" tune1="0.00000000000000000000"
+          pulseWidth1="0.54991871118545532227" detune1="0.12739844620227813721"
+          voices1="1" pulseWidth2="0.46379742026329040527" detune2="0.17704688012599945068"
+          voices2="4" spread3="0.00000000000000000000" voices3="1" lfoRate1="4.60445642471313476562"
+          lfoDepth1="0.00000000000000000000" lfoRate2="500.00000000000000000000"
+          lfoDepth2="1.00000000000000000000" lfoWaveShape2="6" modAttack2="0.00000000000000000000"
+          modDecay2="0.11380385607481002808" modSustain2="0.00000000000000000000"
+          modRelease2="60.00000000000000000000">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="ampAttack" modItem="midiVelocity" modDepth="-0.09225001931190490723"/>
+      <MODMATRIXITEM modParam="level3" modItem="env2" modDepth="1.00000000000000000000"/>
+      <MODMATRIXITEM modParam="lfoDepth1" modItem="env1" modDepth="0.49982810020446777344"/>
+      <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.49848440289497375488"/>
+      <MODMATRIXITEM modParam="ampRelease" modItem="midiVelocity" modDepth="-0.09635937958955764771"/>
+      <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.06523437798023223877"/>
+      <MODMATRIXITEM modParam="fineTune2" modItem="lfo2" modDepth="0.11223436892032623291"/>
+      <MODMATRIXITEM modParam="level1" modItem="lfo1" modDepth="0.11026562750339508057"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

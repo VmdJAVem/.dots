@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="stereoDelay" name="Delay: 80's Guitar Solo"
+        tags="Plugin" factory="1">
+  <PLUGIN type="stereoDelay" windowLocked="1" id="1136" enabled="1" feedbackL="0.0"
+          delaySyncOffL="290.0" sync="0.0" panL="-0.4200000166893005" panR="0.2799999713897705"
+          windowX="493" windowY="166" delaySyncOffR="350.0" mix="0.126031219959259"
+          feedbackR="0.0" crossL="5.5" crossR="5.5" lowcut="302.0" highcut="5597.0"
+          volL="0.0" volR="0.0">
+    <MACROPARAMETERS id="1137"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.0" height="4.0" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

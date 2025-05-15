@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Tracktion Compressor: Brass/Guitar" tags="Tracktion Compressor"
+        type="plugin" subtype="compressor" presetVersion="2" factory="1">
+  <PLUGIN type="compressor" enabled="1" threshold="0.208" ratio="0.125053"
+          attack="0.3" release="10." outputDb="0.">
+    <MODIFIERASSIGNMENTS/>
+  </PLUGIN>
+</PRESET>

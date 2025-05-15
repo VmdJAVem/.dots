@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="comp" name="Compressor: Rock Bass"
+        tags="Plugin" factory="1">
+  <PLUGIN type="comp" id="1059" enabled="1" threshold="-22.0" ratio="6.800000190734863"
+          release="110.0" attack="29.0" windowX="622" windowY="387" windowLocked="0"
+          knee="9.380000114440918" outputDb="0.0">
+    <MACROPARAMETERS id="1062"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

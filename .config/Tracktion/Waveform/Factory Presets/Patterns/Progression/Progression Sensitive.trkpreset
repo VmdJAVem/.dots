@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Progression: Sensitive" tags="Pattern|Progression" type="pattern"
+        subtype="Progression" presetVersion="2" factory="1">
+  <PROGRESSION>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="vi"/>
+    <PROGRESSIONITEM name="iii"/>
+    <PROGRESSIONITEM name="vii"/>
+  </PROGRESSION>
+</PRESET>

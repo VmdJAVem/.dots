@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="3bandEq" name="3-Band EQ: Infrasonic"
+        tags="Plugin" factory="1">
+  <PLUGIN type="3bandEq" id="1134" enabled="1" freq1="31.34996032714844"
+          freq3="99.07623291015625" gain2="0.0" gain1="6.0" gain3="0.0"
+          windowX="859" windowY="574" windowLocked="0">
+    <MACROPARAMETERS id="1135"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

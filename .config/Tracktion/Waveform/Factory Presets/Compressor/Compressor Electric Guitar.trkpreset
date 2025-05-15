@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="comp" name="Compressor: Electric Guitar"
+        tags="Plugin" factory="1">
+  <PLUGIN type="comp" id="1059" enabled="1" threshold="-30.0" ratio="2.0"
+          release="500.0" attack="50.0" windowX="622" windowY="387" windowLocked="0"
+          knee="0.0">
+    <MACROPARAMETERS id="1062"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

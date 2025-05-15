@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Bass: Off Beat Octave" tags="Pattern|Bass" type="pattern"
+        subtype="Bass" presetVersion="2" factory="1">
+  <BASSPATTERN name="Off Beat Octave">
+    <BAR length="4">
+      <NOTE start="0.5" length="1" velocity="127" pitch="0"/>
+      <NOTE start="1.5" length="1" velocity="127" pitch="0" octave="1"/>
+      <NOTE start="2.5" length="1" velocity="127" pitch="0"/>
+      <NOTE start="3.5" length="1" velocity="127" pitch="0" octave="1"/>
+    </BAR>
+  </BASSPATTERN>
+</PRESET>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Sweep Pad WMF" tags="Plugin|Analog|Pad|Warm|Sweep"
+        description="Soft and warm 12dB low pass sweep" type="plugin"
+        subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          ampAttack="0.00807482283562421799" ampDecay="1.72018170356750488281"
+          ampSustain="71.21212768554687500000" ampRelease="0.40896996855735778809"
+          ampVelocity="36.10625076293945312500" filterAttack="0.00000000000000000000"
+          filterDecay="2.25286149978637695312" filterSustain="46.96969985961914062500"
+          filterRelease="1.97162902355194091797" filterAmount="0.55018758773803710938"
+          waveShape1="3" level2="0.00000000000000000000" waveShape2="3"
+          tune1="-12.00000000000000000000" filterFreq="37.37105941772460937500"
+          filterKey="40.70937728881835937500" detune1="0.17386718094348907471"
+          voices1="2" detune2="0.19715623557567596436" voices2="2" modAttack1="0.00000000000000000000"
+          modDecay1="1.04294693470001220703" modSustain1="0.00000000000000000000"
+          modRelease1="0.72372996807098388672" reverbSize="0.60079687833786010742"
+          reverbWidth="1.00000000000000000000" reverbMix="0.13292187452316284180"
+          chosusSpeed="0.19469690322875976562" chorusMix="0.70870310068130493164"
+          masterLevel="-6.00000000000000000000" reverbOn="1" chorusOn="1"
+          lfoRate1="2.48958230018615722656" lfoDepth1="0.50421875715255737305"
+          lfoRate2="2.25470614433288574219" lfoWaveShape2="2" filterResonance="62.54218673706054687500"
+          filterVelocity="56.42655944824218750000" reverbDamping="0.67179685831069946289"
+          delay="0.12500000000000000000" delayFeedback="-53.54360580444335937500"
+          delayMix="0.16107812523841857910" chorusDepth="11.30451869964599609375"
+          chrousWidth="0.66012501716613769531" filterSlope="12" level1="0.00000000000000000000"
+          spread1="100.00000000000000000000" pan1="0.00000000000000000000"
+          fineTune2="2.23437500000000000000" pulseWidth2="0.03733281046152114868"
+          spread2="0.00000000000000000000" lfoDepth2="0.49865624308586120605">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="lfoDepth2" modItem="cc1" modDepth="0.51762503385543823242"/>
+      <MODMATRIXITEM modParam="lfoDepth1" modItem="cc1" modDepth="0.53026562929153442383"/>
+      <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="0.06206250190734863281"/>
+      <MODMATRIXITEM modParam="fineTune2" modItem="lfo2" modDepth="0.18384374678134918213"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

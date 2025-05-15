@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Chord: 5ths" tags="Pattern|Chord" type="pattern" subtype="Chord"
+        presetVersion="2" factory="1">
+  <CHORDPATTERN name="5ths">
+    <BAR length="4">
+      <NOTE start="0" length="0.4895833432674407959" velocity="100"/>
+      <NOTE start="0.5" length="0.23958332836627960205" velocity="100"/>
+      <NOTE start="0.75" length="0.4895833432674407959" velocity="100"/>
+      <NOTE start="1.25" length="0.23958332836627960205" velocity="100"/>
+      <NOTE start="1.5" length="0.23958332836627960205" velocity="100"/>
+      <NOTE start="1.75" length="0.4895833432674407959" velocity="100"/>
+      <NOTE start="2.25" length="0.23958332836627960205" velocity="100"/>
+      <NOTE start="2.5" length="0.4895833432674407959" velocity="100"/>
+      <NOTE start="3" length="0.23958332836627960205" velocity="100"/>
+      <NOTE start="3.25" length="0.4895833432674407959" velocity="100"/>
+      <NOTE start="3.75" length="0.23958332836627960205" velocity="100"/>
+    </BAR>
+  </CHORDPATTERN>
+</PRESET>

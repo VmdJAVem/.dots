@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="plateReverb" name="Plate Reverb: Shimmer"
+        tags="Plugin" factory="1">
+  <PLUGIN type="plateReverb" id="1024" enabled="1" decay="0.5279999971389771"
+          windowX="80" windowY="103" windowLocked="0">
+    <MACROPARAMETERS id="1028"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

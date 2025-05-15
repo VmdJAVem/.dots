@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Chord: Hits" tags="Pattern|Chord" type="pattern" subtype="Chord"
+        presetVersion="2" factory="1">
+  <CHORDPATTERN name="Hits">
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="95"/>
+      <NOTE start="2" length="0.5" velocity="98"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="99"/>
+      <NOTE start="2.5" length="0.5" velocity="107"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="105"/>
+      <NOTE start="2" length="0.5" velocity="108"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="104"/>
+      <NOTE start="2.5" length="0.5" velocity="102"/>
+    </BAR>
+  </CHORDPATTERN>
+</PRESET>

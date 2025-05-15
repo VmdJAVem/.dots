@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Flight" tags="Plugin" type="plugin" subtype="4osc"
+        presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          waveShape1="3" pulseWidth1="0.50392001867294311523" voices1="3"
+          detune1="0.08799999952316284180" spread1="-2.40000152587890625000"
+          fineTune1="4.79999542236328125000" tune1="-0.00000381469726562500"
+          waveShape2="2" fineTune2="11.19999694824218750000" filterFreq="24.31372261047363281250"
+          filterResonance="76.40000152587890625000" filterAmount="0.86399996280670166016"
+          filterDecay="0.92310780286788940430" filterSustain="43.00606536865234375000"
+          masterLevel="-4.49396514892578125000" filterVelocity="54.00000762939453125000"
+          filterKey="8.00000000000000000000" filterSlope="12" filterAttack="0.00120043591596186161"
+          voiceMode="2" legato="82.00000762939453125000" ampAnalog="1"
+          ampVelocity="58.39999389648437500000" distortion="0.00000000000000000000"
+          chorusMix="0.37199997901916503906" chosusSpeed="2.22759985923767089844"
+          chorusDepth="2.36320018768310546875" delayMix="0.00000000000000000000"
+          showFaceplate="0" faceplateWidth="420" faceplateHeight="200"
+          pan1="0.07200002670288085938" pan2="-0.10399997234344482422"
+          voices2="1" reverbMix="0.14399999380111694336" delayFeedback="-14.59204101562500000000"
+          delay="0.50000000000000000000" delayCrossfeed="-9.73029327392578125000"
+          detune2="0.00000000000000000000" level2="-9.73029327392578125000"
+          level1="-0.50379943847656250000" tune2="-12.09599876403808593750"
+          pulseWidth2="0.48431998491287231445" lfoRate2="0.25604304671287536621"
+          lfoDepth2="0.47600001096725463867" lfoWaveShape2="2" modAttack1="0.00001891535612230655"
+          modDecay1="0.06743835657835006714" modSustain1="0.00000000000000000000">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="tune1" modItem="env1" modDepth="0.06400000303983688354"/>
+      <MODMATRIXITEM modParam="pulseWidth2" modItem="lfo2" modDepth="1.00000000000000000000"/>
+      <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="1.00000000000000000000"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

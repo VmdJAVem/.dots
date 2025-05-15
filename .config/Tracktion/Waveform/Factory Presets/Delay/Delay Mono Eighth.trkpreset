@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="stereoDelay" name="Mono Eighth"
+        tags="Plugin" factory="1">
+  <PLUGIN type="stereoDelay" windowLocked="1" id="1152" enabled="1" sync="1.0"
+          delaySyncOnL="24.0" crossR="0.0" crossL="0.0" mix="0.182687520980835"
+          panL="-2.235174179077148e-8" panR="-2.235174179077148e-8" volR="-0.02559328079223633"
+          delaySyncOnR="24.0" highcut="3443.0" lowcut="233.5" delaySyncOffL="1.0"
+          delaySyncOffR="300.0" feedbackR="8.5" feedbackL="7.5" windowX="855"
+          windowY="188">
+    <MACROPARAMETERS id="1153"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

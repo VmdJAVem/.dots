@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" name="Voiceover" tags="" type="removeSilence"
+        factory="1">
+  <REMOVESILENCE openThresholdDB="-36.0" closeThresholdDB="-42.0" minimumLengthS="0.06700000166893005"
+                 preRoll="0.01999999955296516" postRoll="0.0" fadeIn="0.0" fadeOut="0.0"
+                 release="0.04100000113248825"/>
+</PRESET>

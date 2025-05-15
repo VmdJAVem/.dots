@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="plateReverb" name="Plate Reverb: Piano practice room"
+        tags="Plugin" factory="1">
+  <PLUGIN type="plateReverb" id="1024" enabled="1" decay="0.164000004529953"
+          windowX="80" windowY="103" windowLocked="0" size="0.07200004905462265"
+          definition="0.7720000147819519" diffusion="0.5960000157356262"
+          highDamp="1.0" lowDamp="0.0279999990016222" slope="0.4100000262260437"
+          mix="0.5359999537467957" preDelay="0.03200000151991844" highCut="1.0">
+    <MACROPARAMETERS id="1028"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

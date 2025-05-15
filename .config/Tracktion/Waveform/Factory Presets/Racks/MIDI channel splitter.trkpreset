@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="MIDI channel splitter" tags="Rack" builtIn="1" type="rack"
+        presetVersion="2" factory="1">
+  <RACK id="1001" name="MIDI channel splitter" windowPos="148 327 600 500"
+        windowLocked="0">
+    <PLUGININSTANCE x="0.19230769574642181396" y="0.014999999664723873138">
+      <PLUGIN id="1002" type="midipatchbay" mappings="1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.19028340280055999756" y="0.34000000357627868652">
+      <PLUGIN id="1003" type="midipatchbay" mappings="0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.18825910985469818115" y="0.66500002145767211914">
+      <PLUGIN id="1004" type="midipatchbay" mappings="0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.18825910985469818115" y="0.98500001430511474609">
+      <PLUGIN id="1005" type="midipatchbay" mappings="0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.54655867815017700195" y="0.13500000536441802979">
+      <PLUGIN id="1006" type="text" title="Read me!" body="This rack demonstrates how to split an incoming MIDI signal so that each MIDI channel gets sent to a different synthesiser. Just replace these &quot;read me&quot; plugins with some real synths.&#10;&#10;Each MIDI patch-bay filter is set-up to only allow a single channel to pass-through, so each patch-bay should be connected to a separate synth plugin, and all the synth outputs connected to the rack's output.&#10;&#10;In this example the patch-bays are set-up to pass the channels through with their numbers unchanged, but they could also be changed so that they convert incoming channel numbers to whatever you need them to be.">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <PLUGININSTANCE x="0.54858297109603881836" y="0.48500001430511474609">
+      <PLUGIN id="1007" type="text" title="Read me!" body="This rack demonstrates how to split an incoming MIDI signal so that each MIDI channel gets sent to a different synthesiser. Just replace these &quot;read me&quot; plugins with some real synths.&#10;&#10;Each MIDI patch-bay filter is set-up to only allow a single channel to pass-through, so each patch-bay should be connected to a separate synth plugin, and all the synth outputs connected to the rack's output.&#10;&#10;In this example the patch-bays are set-up to pass the channels through with their numbers unchanged, but they could also be changed so that they convert incoming channel numbers to whatever you need them to be.">
+        <MODIFIERASSIGNMENTS/>
+      </PLUGIN>
+    </PLUGININSTANCE>
+    <CONNECTION src="0" srcPin="0" dst="1002" dstPin="0"/>
+    <CONNECTION src="0" srcPin="0" dst="1003" dstPin="0"/>
+    <CONNECTION src="0" srcPin="0" dst="1004" dstPin="0"/>
+    <CONNECTION src="0" srcPin="0" dst="1005" dstPin="0"/>
+    <CONNECTION src="1002" srcPin="0" dst="1006" dstPin="0"/>
+    <CONNECTION src="1006" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1006" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1006" srcPin="0" dst="0" dstPin="0"/>
+    <CONNECTION src="1007" srcPin="0" dst="0" dstPin="0"/>
+    <CONNECTION src="1007" srcPin="1" dst="0" dstPin="1"/>
+    <CONNECTION src="1007" srcPin="2" dst="0" dstPin="2"/>
+    <CONNECTION src="1003" srcPin="0" dst="1007" dstPin="0"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="input 1 (left)" midi="0"/>
+    <INPUT name="input 2 (right)" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="output 1 (left)" midi="0"/>
+    <OUTPUT name="output 2 (right)" midi="0"/>
+  </RACK>
+</PRESET>

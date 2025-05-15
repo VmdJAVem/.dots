@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Space Steel" tags="Plugin|Drums" type="plugin" subtype="4osc"
+        presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          waveShape1="2" filterAmount="0.22399997711181640625" filterDecay="0.00000000000000000000"
+          filterSustain="0.00000000000000000000" filterAttack="0.00000000000000000000"
+          ampVelocity="23.20001220703125000000" showFaceplate="0" faceplateWidth="420"
+          faceplateHeight="200" filterFreq="60.51416397094726562500" reverbMix="0.08399996161460876465"
+          tune1="0.00000000000000000000" waveShape2="2" masterLevel="-3.58860778808593750000"
+          filterKey="48.00000000000000000000" chosusSpeed="0.56440001726150512695"
+          chorusMix="0.00000000000000000000" filterVelocity="100.00000000000000000000"
+          filterResonance="46.09999084472656250000" distortion="0.00000000000000000000"
+          delay="0.03125000000000000000" delayMix="0.47200000286102294922"
+          legato="0.00000000000000000000" voiceMode="2" filterSlope="12"
+          ampAnalog="1" pulseWidth1="0.46471998095512390137" detune1="0.09199999272823333740"
+          spread1="-2.40000152587890625000" pan1="0.00800001621246337891"
+          voices1="1" detune2="0.08000000566244125366" pan2="0.00000000000000000000"
+          voices2="1" ampAttack="0.00142590864561498165" ampDecay="0.55364388227462768555"
+          ampSustain="0.00000000000000000000" ampRelease="0.00409266911447048187"
+          filterRelease="0.33746924996376037598" reverbSize="0.73199999332427978516"
+          reverbWidth="0.57999998331069946289" chorusOn="0" level1="-8.92543792724609375000"
+          level2="-9.73028564453125000000" delayFeedback="-15.73850250244140625000"
+          delayCrossfeed="-39.72412872314453125000" chorusDepth="6.10439968109130859375"
+          fineTune1="-8.80000305175781250000" fineTune2="13.59999084472656250000"
+          voices="8" reverbOn="1" tune2="0.00000000000000000000" level3="-14.91894531250000000000"
+          waveShape3="2" lfoRate1="1.49863719940185546875" lfoDepth1="1.00000000000000000000"
+          lfoWaveShape1="6" lfoRate2="1.20721054077148437500" lfoDepth2="0.87199997901916503906"
+          lfoWaveShape2="6" modAttack1="0.00000819626802694984" modDecay1="0.07984252274036407471"
+          modSustain1="0.00000000000000000000" modRelease1="0.09414755553007125854"
+          spread2="1.60000610351562500000" modAttack2="0.03250510245561599731"
+          modDecay2="37.03227996826171875000" modSustain2="52.39999771118164062500"
+          modRelease2="39.04283142089843750000" distortionOn="0" delayOn="0"
+          pulseWidth2="0.55096000432968139648" waveShape4="2" pulseWidth3="0.00999999977648258209"
+          pulseWidth4="0.00999999977648258209" fineTune3="-36.79999542236328125000"
+          fineTune4="45.59999084472656250000" level4="-13.49385070800781250000">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterFreq" modItem="midiVelocity" modDepth="0.39599999785423278809"/>
+      <MODMATRIXITEM modParam="pulseWidth3" modItem="lfo2" modDepth="0.48800000548362731934"/>
+      <MODMATRIXITEM modParam="pulseWidth1" modItem="lfo1" modDepth="-0.54000002145767211914"/>
+      <MODMATRIXITEM modParam="fineTune2" modItem="env1" modDepth="0.21999999880790710449"/>
+      <MODMATRIXITEM modParam="pulseWidth4" modItem="lfo2" modDepth="0.49200001358985900879"/>
+      <MODMATRIXITEM modParam="pulseWidth2" modItem="lfo1" modDepth="-0.69999998807907104492"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

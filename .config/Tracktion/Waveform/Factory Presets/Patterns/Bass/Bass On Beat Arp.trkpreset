@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Bass: On Beat Arp" tags="Pattern|Bass" type="pattern" subtype="Bass"
+        presetVersion="2" factory="1">
+  <BASSPATTERN name="On Beat Arp">
+    <BAR length="4">
+      <NOTE start="0" length="1" velocity="127" pitch="0"/>
+      <NOTE start="1" length="1" velocity="127" pitch="2"/>
+      <NOTE start="2" length="1" velocity="127" pitch="4"/>
+      <NOTE start="3" length="1" velocity="127" pitch="0" octave="1"/>
+    </BAR>
+  </BASSPATTERN>
+</PRESET>

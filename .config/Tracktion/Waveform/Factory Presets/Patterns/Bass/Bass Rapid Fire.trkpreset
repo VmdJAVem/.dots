@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Bass: Rapid Fire" tags="Pattern|Bass" type="pattern" subtype="Bass"
+        presetVersion="2" factory="1">
+  <BASSPATTERN name="Rapid Fire">
+    <BAR length="4">
+      <NOTE start="0" length="0.25" velocity="104" pitch="0" octave="0"/>
+      <NOTE start="0.25" length="0.25" velocity="104" pitch="0" octave="0"/>
+      <NOTE start="0.5" length="0.25" velocity="109" pitch="0" octave="0"/>
+      <NOTE start="0.75" length="0.25" velocity="105" pitch="0" octave="0"/>
+      <NOTE start="1" length="0.25" velocity="97" pitch="0" octave="0"/>
+      <NOTE start="1.25" length="0.25" velocity="97" pitch="0" octave="0"/>
+      <NOTE start="1.5" length="0.25" velocity="96" pitch="0" octave="0"/>
+      <NOTE start="1.75" length="0.25" velocity="98" pitch="0" octave="0"/>
+      <NOTE start="2" length="0.25" velocity="102" pitch="0" octave="0"/>
+      <NOTE start="2.25" length="0.25" velocity="109" pitch="0" octave="0"/>
+      <NOTE start="2.5" length="0.25" velocity="98" pitch="0" octave="0"/>
+      <NOTE start="2.75" length="0.5" velocity="96" pitch="0" octave="0"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.25" velocity="101" pitch="0" octave="0"/>
+      <NOTE start="0.25" length="0.25" velocity="96" pitch="0" octave="0"/>
+      <NOTE start="0.5" length="0.25" velocity="105" pitch="0" octave="0"/>
+      <NOTE start="0.75" length="0.25" velocity="105" pitch="0" octave="0"/>
+      <NOTE start="1" length="0.25" velocity="96" pitch="0" octave="0"/>
+      <NOTE start="1.25" length="0.25" velocity="95" pitch="0" octave="0"/>
+      <NOTE start="1.5" length="0.25" velocity="100" pitch="0" octave="0"/>
+      <NOTE start="1.75" length="0.25" velocity="107" pitch="0" octave="0"/>
+      <NOTE start="2" length="0.25" velocity="100" pitch="0" octave="0"/>
+      <NOTE start="2.25" length="0.25" velocity="95" pitch="0" octave="0"/>
+      <NOTE start="2.5" length="0.25" velocity="96" pitch="0" octave="0"/>
+      <NOTE start="2.75" length="0.5" velocity="109" pitch="0" octave="0"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.25" velocity="105" pitch="0" octave="0"/>
+      <NOTE start="0.25" length="0.25" velocity="102" pitch="0" octave="0"/>
+      <NOTE start="0.5" length="0.25" velocity="102" pitch="0" octave="0"/>
+      <NOTE start="0.75" length="0.25" velocity="107" pitch="0" octave="0"/>
+      <NOTE start="1" length="0.25" velocity="99" pitch="0" octave="0"/>
+      <NOTE start="1.25" length="0.25" velocity="109" pitch="0" octave="0"/>
+      <NOTE start="1.5" length="0.25" velocity="99" pitch="0" octave="0"/>
+      <NOTE start="1.75" length="0.25" velocity="97" pitch="0" octave="0"/>
+      <NOTE start="2" length="0.25" velocity="108" pitch="0" octave="0"/>
+      <NOTE start="2.25" length="0.25" velocity="108" pitch="0" octave="0"/>
+      <NOTE start="2.5" length="0.25" velocity="95" pitch="0" octave="0"/>
+      <NOTE start="2.75" length="0.5" velocity="101" pitch="0" octave="0"/>
+    </BAR>
+    <BAR length="4">
+      <NOTE start="0" length="0.25" velocity="101" pitch="0" octave="0"/>
+      <NOTE start="0.25" length="0.25" velocity="99" pitch="0" octave="0"/>
+      <NOTE start="0.5" length="0.25" velocity="102" pitch="0" octave="0"/>
+      <NOTE start="0.75" length="0.25" velocity="110" pitch="0" octave="0"/>
+      <NOTE start="1" length="0.25" velocity="106" pitch="0" octave="0"/>
+      <NOTE start="1.25" length="0.25" velocity="108" pitch="0" octave="0"/>
+      <NOTE start="1.5" length="0.25" velocity="108" pitch="0" octave="0"/>
+      <NOTE start="1.75" length="0.25" velocity="103" pitch="0" octave="0"/>
+      <NOTE start="2" length="0.25" velocity="104" pitch="0" octave="0"/>
+      <NOTE start="2.25" length="0.25" velocity="109" pitch="0" octave="0"/>
+      <NOTE start="2.5" length="0.25" velocity="95" pitch="0" octave="0"/>
+      <NOTE start="2.75" length="0.5" velocity="106" pitch="0" octave="0"/>
+    </BAR>
+  </BASSPATTERN>
+</PRESET>

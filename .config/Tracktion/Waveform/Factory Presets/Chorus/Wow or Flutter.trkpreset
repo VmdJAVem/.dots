@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="chorusEffect" name="Chorus: Wow or Flutter"
+        tags="Plugin" factory="1">
+  <PLUGIN type="chorusEffect" windowLocked="1" id="1002" enabled="1" mode="0.0"
+          windowX="592" windowY="-755" rateSyncOff="0.9199999570846558"
+          depth="1.700000047683716" delay="4.0" mix="1.0">
+    <MACROPARAMETERS id="1004"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.0" height="4.0" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

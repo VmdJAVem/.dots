@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Chord: Chord Change" tags="Pattern|Chord" type="pattern"
+        subtype="Chord" presetVersion="2" factory="1">
+  <CHORDPATTERN name="Chord Change">
+    <BAR length="4">
+      <NOTE start="0" length="0.5" velocity="100"/>
+    </BAR>
+  </CHORDPATTERN>
+</PRESET>

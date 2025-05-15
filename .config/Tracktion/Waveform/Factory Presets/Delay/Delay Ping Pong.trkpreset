@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="stereoDelay" name="Ping Pong"
+        tags="Plugin" factory="1">
+  <PLUGIN type="stereoDelay" windowLocked="1" id="1136" enabled="1" feedbackL="0.0"
+          delaySyncOffL="300.0" sync="0.0" panL="-0.699999988079071" panR="0.6399999856948853"
+          windowX="493" windowY="166" delaySyncOffR="500.0" mix="0.3302499651908875"
+          feedbackR="0.0" crossL="23.5" crossR="17.0" lowcut="302.0" highcut="6165.0"
+          volL="0.02643728256225586" volR="-1.599468469619751">
+    <MACROPARAMETERS id="1137"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.0" height="4.0" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>

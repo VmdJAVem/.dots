@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: The Works" tags="Plugin|keys" type="plugin" subtype="4osc"
+        presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          waveShape1="3" filterAmount="0.58399999141693115234" filterDecay="0.00903220009058713913"
+          filterSustain="5.60000133514404296875" filterAttack="0.00072999089024960995"
+          ampVelocity="18.79999923706054687500" showFaceplate="0" faceplateWidth="420"
+          faceplateHeight="200" ampAttack="0.00134746404364705086" ampRelease="1.49274623394012451172"
+          filterRelease="5.41782093048095703125" ampSustain="75.60000610351562500000"
+          ampDecay="0.51281464099884033203" filterFreq="67.53813171386718750000"
+          filterVelocity="69.60000610351562500000" reverbSize="0.70800006389617919922"
+          reverbMix="0.23200000822544097900" reverbOn="1" tune1="0.00000000000000000000"
+          level1="-10.83811187744140625000" level2="-24.55401611328125000000"
+          waveShape2="4" modAttack1="0.00028714319341816008" modDecay1="0.10326223820447921753"
+          modSustain1="2.79999923706054687500" modRelease1="60.00000000000000000000"
+          reverbWidth="1.00000000000000000000" chosusSpeed="1.47519993782043457031"
+          chorusDepth="2.36320018768310546875" chorusMix="0.18799997866153717041"
+          chorusOn="1" masterLevel="-10.00341796875000000000" distortion="0.20399999618530273438"
+          distortionOn="0" fineTune1="-0.80000305175781250000" tune2="31.00000000000000000000"
+          level3="-8.40048980712890625000" waveShape3="0" tune4="36.00000000000000000000"
+          level4="-13.49385070800781250000" waveShape4="0" filterResonance="71.59999847412109375000"
+          filterKey="54.40000152587890625000" delay="0.50000000000000000000"
+          delayFeedback="-17.82471466064453125000" delayCrossfeed="-26.74316406250000000000"
+          delayMix="0.44400000572204589844" legato="30.00001335144042968750"
+          voiceMode="2" voices="12" filterSlope="12" ampAnalog="1" delayOn="0"
+          pulseWidth1="0.50000005960464477539" detune1="0.09399999678134918213"
+          spread1="-2.40000152587890625000" pan1="0.03200006484985351562"
+          voices1="1" fineTune2="0.00000000000000000000" pulseWidth2="0.52744001150131225586"
+          detune2="0.29600000381469726562" pan2="-0.01600003242492675781"
+          voices2="1" tune3="12.00000000000000000000" fineTune3="-3.19999694824218750000"
+          pan3="-0.00799995660781860352" pan4="0.01600003242492675781"
+          lfoRate1="8.41961479187011718750" lfoBeat1="0.50000000000000000000"
+          lfoDepth1="0.53600001335144042969" lfoWaveShape1="1" lfoSync1="0"
+          lfoRate2="10.63248252868652343750" lfoBeat2="1.00000000000000000000"
+          lfoDepth2="0.70000004768371582031" lfoWaveShape2="6" lfoSync2="0"
+          modSustain2="0.00000000000000000000" modAttack2="0.00458793807774782181"
+          modDecay2="1.84164214134216308594" modRelease2="2.23111176490783691406">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.00000000000000000000" height="4.00000000000000000000"
+               autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="filterFreq" modItem="cc1" modDepth="1.00000000000000000000"/>
+      <MODMATRIXITEM modParam="level1" modItem="lfo1" modDepth="0.00000000000000000000"/>
+      <MODMATRIXITEM modParam="fineTune1" modItem="lfo1" modDepth="-0.03200000151991844177"/>
+      <MODMATRIXITEM modParam="fineTune1" modItem="lfo2" modDepth="0.46000000834465026855"/>
+      <MODMATRIXITEM modParam="level2" modItem="lfo2" modDepth="0.96799999475479125977"/>
+      <MODMATRIXITEM modParam="modSustain1" modItem="env1" modDepth="0.00000000000000000000"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

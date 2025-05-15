@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="4OSC: Bell Pad WMF" tags="Plugin|Pad|Analog|Warm|Bell"
+        description="Warm pad with a bell sound on note start" type="plugin"
+        subtype="4osc" presetVersion="2" factory="1">
+  <PLUGIN id="1001" type="4osc" windowLocked="1" enabled="1" filterType="1"
+          ampAttack="0.00100000004749745131" ampDecay="1.19585335254669189453"
+          ampSustain="100.00000000000000000000" ampRelease="1.12218880653381347656"
+          ampVelocity="41.66562652587890625000" filterAttack="0.00000000000000000000"
+          filterDecay="1.64268672466278076172" filterSustain="0.00000000000000000000"
+          filterRelease="1.64268672466278076172" filterFreq="101.24807739257812500000"
+          filterResonance="0.00000000000000000000" filterAmount="0.16278123855590820312"
+          filterKey="24.94531250000000000000" filterVelocity="68.74531555175781250000"
+          reverbSize="0.74150002002716064453" reverbDamping="0.26098436117172241211"
+          reverbWidth="1.00000000000000000000" reverbMix="0.14193750917911529541"
+          delay="1.00000000000000000000" delayFeedback="-24.57273864746093750000"
+          delayCrossfeed="-100.00000000000000000000" delayMix="0.16646875441074371338"
+          chosusSpeed="1.00000000000000000000" chorusDepth="3.46671700477600097656"
+          chrousWidth="1.00000000000000000000" chorusMix="0.69331252574920654297"
+          filterSlope="24" ampAnalog="1" chorusOn="1" tune1="-11.96212387084960937500"
+          level1="-0.60031127929687500000" detune1="0.27235937118530273438"
+          spread1="0.00000000000000000000" waveShape1="3" voices1="8" tune2="26.00000000000000000000"
+          fineTune2="0.00000000000000000000" level2="-99.56253814697265625000"
+          pulseWidth2="0.50000000000000000000" detune2="0.22731250524520874023"
+          waveShape2="1" voices2="4" tune3="34.00000000000000000000" level3="-100.00000000000000000000"
+          waveShape3="1" tune4="15.78150177001953125000" level4="-100.00000000000000000000"
+          waveShape4="1" lfoRate1="4.19694566726684570312" lfoWaveShape1="2"
+          modAttack1="0.15322770178318023682" modDecay1="5.72476959228515625000"
+          modSustain1="100.00000000000000000000" modRelease1="2.31935906410217285156"
+          modAttack2="0.00000000000000000000" modDecay2="1.74348497390747070312"
+          modSustain2="0.00000000000000000000" delayOn="0" reverbOn="1">
+    <MACROPARAMETERS id="1001"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8" height="4" autoSize="1"/>
+    <MODMATRIX>
+      <MODMATRIXITEM modParam="ampAttack" modItem="midiVelocity" modDepth="-0.24134376645088195801"/>
+      <MODMATRIXITEM modParam="level3" modItem="env2" modDepth="0.47478127479553222656"/>
+      <MODMATRIXITEM modParam="level4" modItem="env2" modDepth="0.24687501788139343262"/>
+      <MODMATRIXITEM modParam="fineTune2" modItem="lfo1" modDepth="0.06826562434434890747"/>
+      <MODMATRIXITEM modParam="level2" modItem="env2" modDepth="0.77078121900558471680"/>
+    </MODMATRIX>
+  </PLUGIN>
+</PRESET>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET presetVersion="2" type="plugin" subtype="stereoDelay" name="Comb Filter 1"
+        tags="Plugin" factory="1">
+  <PLUGIN type="stereoDelay" windowLocked="1" id="1136" enabled="1" feedbackL="20.0"
+          delaySyncOffL="0.0" sync="0.0" panL="-2.235174179077148e-8" panR="-0.02000002190470695"
+          windowX="493" windowY="166" delaySyncOffR="1.0" mix="1.0" feedbackR="19.5"
+          crossL="0.0" crossR="0.0" lowcut="20.0" highcut="20000.0" volL="0.02643728256225586"
+          volR="-1.599468469619751">
+    <MACROPARAMETERS id="1137"/>
+    <MODIFIERASSIGNMENTS/>
+    <FACEPLATE width="8.0" height="4.0" autoSize="1">
+      <RESOURCES/>
+    </FACEPLATE>
+  </PLUGIN>
+</PRESET>
