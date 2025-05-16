@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Sugar",
       "asset_id": "Sugar",
-      "build_version": "BC2_Update54+481382",
+      "build_version": "BC2_Update54+483820",
       "catalog_item_id": "530145df28a24424923f5828cc9031a1",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -3752,7 +3752,7 @@
         ],
         "id": "8ba2879a3e654993939eb0460c3b4078",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2025-03-28T18:02:47.329Z",
+        "lastModifiedDate": "2025-05-15T14:36:22.215Z",
         "mainGameItem": {
           "id": "530145df28a24424923f5828cc9031a1",
           "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
@@ -3770,6 +3770,182 @@
         "requiresSecureAccount": false,
         "status": "ACTIVE",
         "title": "Mega Sale Wheel",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-05T21:16:24.946Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Rocket League\u00ae - Season 19 Rookie Pack",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "414ae1567d354d5c90ac3ee34969c1a5",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "414ae1567d354d5c90ac3ee34969c1a5",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-05-05T21:16:24.946Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Season 19 Rookie Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-05T21:17:37.970Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Rocket League\u00ae - Season 19 Veteran Pack",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "cf2b3c60c0cc443dac9cbd905569388d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cf2b3c60c0cc443dac9cbd905569388d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-05-05T21:17:37.970Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Season 19 Veteran Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-05T21:18:52.721Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Rocket League\u00ae - Season 19 Elite Pack",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "4cdf0456710a485482a0dbbc838ddd69",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4cdf0456710a485482a0dbbc838ddd69",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-05-05T21:18:52.721Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Season 19 Elite Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-05T21:19:39.509Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Rocket League\u00ae - Season 19 Rocketeer Pack",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "e53a35dc816747b888477358dfdad86f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e53a35dc816747b888477358dfdad86f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-05-05T21:19:39.509Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Season 19 Rocketeer Pack",
         "unsearchable": true
       }
     ],
@@ -3802,7 +3978,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-03-28T18:02:47.338Z",
+    "lastModifiedDate": "2025-05-05T21:19:39.524Z",
     "mainGameItemList": [],
     "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
     "releaseInfo": [

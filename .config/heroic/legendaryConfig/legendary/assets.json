@@ -127,7 +127,7 @@
     {
       "app_name": "33030b24b1df4dd5b6bcfb0314c17f39",
       "asset_id": "33030b24b1df4dd5b6bcfb0314c17f39",
-      "build_version": "688",
+      "build_version": "689",
       "catalog_item_id": "975a3a2eca7c42ca9c610443ab0ae0bd",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -504,7 +504,7 @@
     {
       "app_name": "a79746038c6948558274065d24f3faa3",
       "asset_id": "a79746038c6948558274065d24f3faa3",
-      "build_version": "14.3.0.0.9773198-9773990-multiversion",
+      "build_version": "14.4.0.0.9953613-9958803-multiversion",
       "catalog_item_id": "b9e23e5fa8e84064b356677022beb37a",
       "label_name": "Live-Windows",
       "metadata": {
@@ -601,7 +601,7 @@
     {
       "app_name": "Sugar",
       "asset_id": "Sugar",
-      "build_version": "BC2_Update54+481382",
+      "build_version": "BC2_Update54+483820",
       "catalog_item_id": "530145df28a24424923f5828cc9031a1",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -752,7 +752,7 @@
     {
       "app_name": "93228a1a7b2b4205811d8edf930a0c18",
       "asset_id": "93228a1a7b2b4205811d8edf930a0c18",
-      "build_version": "v20250417_0155",
+      "build_version": "v20250514_0306",
       "catalog_item_id": "f630390312144c1f84314e61319c4779",
       "label_name": "Live-Windows",
       "metadata": {
@@ -951,7 +951,7 @@
     {
       "app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
       "asset_id": "9361c8c6d2f34b42b5f2f61093eedf48",
-      "build_version": "35.1.2.25",
+      "build_version": "35.2.1.53",
       "catalog_item_id": "498ff2997ac2491a9fc7c0e95991afd8",
       "label_name": "Live-Windows",
       "metadata": {
@@ -1033,7 +1033,7 @@
     {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-35.00-CL-42223143-Windows",
+      "build_version": "++Fortnite+Release-35.10-CL-42476511-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {

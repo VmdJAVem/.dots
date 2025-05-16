@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "93228a1a7b2b4205811d8edf930a0c18",
       "asset_id": "93228a1a7b2b4205811d8edf930a0c18",
-      "build_version": "v20250417_0155",
+      "build_version": "v20250514_0306",
       "catalog_item_id": "f630390312144c1f84314e61319c4779",
       "label_name": "Live-Windows",
       "metadata": {
@@ -597,7 +597,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2025-04-11T11:03:25.375Z",
+        "creationDate": "2025-04-03T06:36:47.452Z",
         "description": "RAWMEN Sakura Gusoku Cosmetic Set",
         "developer": "tinyBuild Games",
         "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
@@ -628,7 +628,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-11T11:03:25.375Z",
+        "lastModifiedDate": "2025-04-25T07:19:07.999Z",
         "mainGameItem": {
           "id": "f630390312144c1f84314e61319c4779",
           "namespace": "b9665613f2b94636bf4536a411002d22",
@@ -675,7 +675,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-04-11T11:03:25.595Z",
+    "lastModifiedDate": "2025-05-02T11:20:13.087Z",
     "mainGameItemList": [],
     "namespace": "b9665613f2b94636bf4536a411002d22",
     "releaseInfo": [

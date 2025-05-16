@@ -5,7 +5,7 @@
 [miscellaneous]
 
 path=/home/vmdjavem/Music
-version=3.3.0
+version=3.3.2
 allowNotifications=1
 hideLogo=0
 hideHelp=0
@@ -164,7 +164,6 @@ showPlaylistAlt=
 showLibraryAlt=
 showTrackAlt=
 showSearchAlt=
-showRadioSearchAlt=
 showKeysAlt=
 
 # For special keys use terminal codes: OS, for F4 for instance. This can depend on the terminal.

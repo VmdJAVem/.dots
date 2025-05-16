@@ -343,3 +343,8 @@ USB Stream Output; ioid:
 15 May 2025 16:50:56  Wrote settings file: /home/vmdjavem/.config/Tracktion/Waveform/Waveform.settings
 15 May 2025 16:50:56  Saving..
 15 May 2025 16:50:56  Closing devices..
+15 May 2025 17:49:43  Maintenance took: 4 ms
+15 May 2025 17:49:43  closing MIDI output: Midi Through Port-0
+15 May 2025 17:49:43  Closing MIDI in device: Midi Through Port-0
+15 May 2025 17:49:43  Cleaning up temp files..
+15 May 2025 17:49:43  Finished shutdown

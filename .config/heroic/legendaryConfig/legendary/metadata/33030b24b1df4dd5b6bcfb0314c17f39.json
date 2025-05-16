@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "33030b24b1df4dd5b6bcfb0314c17f39",
       "asset_id": "33030b24b1df4dd5b6bcfb0314c17f39",
-      "build_version": "688",
+      "build_version": "689",
       "catalog_item_id": "975a3a2eca7c42ca9c610443ab0ae0bd",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -523,6 +523,50 @@
         "title": "hemingway S2 UFE audience",
         "unsearchable": true,
         "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-04-07T19:35:17.017Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "SMITE 2 Thanatoasty Bundle",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "3f3f237975df4131b3aacab8157f3096",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3f3f237975df4131b3aacab8157f3096",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-05-15T14:46:28.917Z",
+        "mainGameItem": {
+          "id": "975a3a2eca7c42ca9c610443ab0ae0bd",
+          "namespace": "16ed9f15b1b449ccb59cb610b13df5b8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "975a3a2eca7c42ca9c610443ab0ae0bd",
+            "namespace": "16ed9f15b1b449ccb59cb610b13df5b8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "16ed9f15b1b449ccb59cb610b13df5b8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SMITE 2 Thanatoasty Bundle",
+        "unsearchable": true
       }
     ],
     "endOfSupport": false,
@@ -553,7 +597,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-04-09T16:03:03.061Z",
+    "lastModifiedDate": "2025-05-15T14:46:28.959Z",
     "mainGameItemList": [],
     "namespace": "16ed9f15b1b449ccb59cb610b13df5b8",
     "releaseInfo": [

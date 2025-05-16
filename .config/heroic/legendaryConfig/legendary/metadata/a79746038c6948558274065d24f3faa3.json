@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "a79746038c6948558274065d24f3faa3",
       "asset_id": "a79746038c6948558274065d24f3faa3",
-      "build_version": "14.3.0.0.9773198-9773990-multiversion",
+      "build_version": "14.4.0.0.9953613-9958803-multiversion",
       "catalog_item_id": "b9e23e5fa8e84064b356677022beb37a",
       "label_name": "Live-Windows",
       "metadata": {
@@ -80,7 +80,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2021-01-13T15:41:09.026Z",
+        "creationDate": "2025-05-16T09:55:11.277Z",
         "customAttributes": {},
         "description": "AShiploadofCreditsAudience",
         "developer": "Wargaming Group Limited",
@@ -94,7 +94,7 @@
         "id": "138b928c4f41485cb9b40594e32f9741",
         "itemType": "CONSUMABLE",
         "keyImages": [],
-        "lastModifiedDate": "2023-06-22T14:53:41.650Z",
+        "lastModifiedDate": "2025-05-16T15:43:38.987Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -257,7 +257,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2021-01-13T15:42:20.004Z",
+        "creationDate": "2025-05-16T09:55:11.280Z",
         "customAttributes": {},
         "description": "17500DoubloonsAudience",
         "developer": "Wargaming Group Limited",
@@ -271,7 +271,7 @@
         "id": "79b04185e3584d2d9e216a2fe1353b1a",
         "itemType": "CONSUMABLE",
         "keyImages": [],
-        "lastModifiedDate": "2023-06-22T14:53:41.675Z",
+        "lastModifiedDate": "2025-05-16T15:43:38.987Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -298,7 +298,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2022-03-04T14:57:43.097Z",
+        "creationDate": "2024-04-08T19:51:50.763Z",
         "customAttributes": {
           "CanRunOffline": {
             "type": "STRING",
@@ -316,7 +316,29 @@
         ],
         "id": "0afcef0f2d484cfab94b1ff48c008a75",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2022-03-24T13:39:22.112Z",
+        "keyImages": [
+          {
+            "alt": "World of Warships \u2014 Long Live the King-522145",
+            "height": 1440,
+            "md5": "8ac0918f55892d5070572a235079fcae",
+            "size": 525359,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-03-21T11:31:30.290Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsLongLivetheKing_Wargaming_AddOn_S1_2560x1440-8ac0918f55892d5070572a235079fcae",
+            "width": 2560
+          },
+          {
+            "alt": "World of Warships \u2014 Long Live the King-954574",
+            "height": 1600,
+            "md5": "a83b16872f10ad378ecbcaaf2f44cfe1",
+            "size": 332307,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-03-21T11:31:26.755Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsLongLivetheKing_Wargaming_AddOn_S2_1200x1600-a83b16872f10ad378ecbcaaf2f44cfe1",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-05-16T15:43:38.045Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -432,7 +454,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2021-07-15T02:53:34.423Z",
+        "creationDate": "2025-05-16T09:55:12.129Z",
         "customAttributes": {},
         "description": "50000DoubloonsAudience",
         "developer": "Wargaming Group Limited",
@@ -447,7 +469,7 @@
         "installModes": [],
         "itemType": "CONSUMABLE",
         "keyImages": [],
-        "lastModifiedDate": "2023-06-22T14:53:41.683Z",
+        "lastModifiedDate": "2025-05-16T15:43:39.927Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -777,7 +799,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2021-01-13T15:41:45.628Z",
+        "creationDate": "2025-05-16T09:55:10.333Z",
         "customAttributes": {},
         "description": "5000DoubloonsAudience",
         "developer": "Wargaming Group Limited",
@@ -791,7 +813,7 @@
         "id": "0b9229c905a94215b4708f03e41f4dd6",
         "itemType": "CONSUMABLE",
         "keyImages": [],
-        "lastModifiedDate": "2023-06-22T14:53:41.662Z",
+        "lastModifiedDate": "2025-05-16T15:43:38.987Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -819,7 +841,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2021-01-13T15:41:59.240Z",
+        "creationDate": "2025-05-16T09:55:10.348Z",
         "customAttributes": {},
         "description": "7500DoubloonsAudience",
         "developer": "Wargaming Group Limited",
@@ -833,7 +855,7 @@
         "id": "de0c3494c82744cb936ef2d99a22c20b",
         "itemType": "CONSUMABLE",
         "keyImages": [],
-        "lastModifiedDate": "2023-06-22T14:53:41.667Z",
+        "lastModifiedDate": "2025-05-16T15:43:38.045Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -860,7 +882,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2022-03-04T14:56:45.497Z",
+        "creationDate": "2024-04-08T19:51:50.747Z",
         "customAttributes": {
           "CanRunOffline": {
             "type": "STRING",
@@ -878,7 +900,29 @@
         ],
         "id": "e0d4cd0139684e9fbc1425f55b36a763",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2022-03-24T13:39:22.128Z",
+        "keyImages": [
+          {
+            "alt": "World of Warships \u2014 German Ordnung-744110",
+            "height": 1440,
+            "md5": "343b9b312cf6a545406a07fbaa4820ac",
+            "size": 888073,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-03-21T11:33:42.237Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsGermanOrdnung_Wargaming_AddOn_S1_2560x1440-343b9b312cf6a545406a07fbaa4820ac",
+            "width": 2560
+          },
+          {
+            "alt": "World of Warships \u2014 German Ordnung-27070",
+            "height": 1600,
+            "md5": "784216654ee8a099d6b8ada4385065cd",
+            "size": 673295,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-03-21T11:33:38.269Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsGermanOrdnung_Wargaming_AddOn_S2_1200x1600-784216654ee8a099d6b8ada4385065cd",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-05-16T15:43:38.045Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -904,7 +948,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2022-09-29T15:05:41.919Z",
+        "creationDate": "2024-04-08T19:51:50.773Z",
         "customAttributes": {
           "CanRunOffline": {
             "type": "STRING",
@@ -922,7 +966,29 @@
         ],
         "id": "d7a0aaf082f8434d85d95aafd819a69b",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2022-10-07T12:17:22.941Z",
+        "keyImages": [
+          {
+            "alt": "World of Warships \u2014 Starter Pack: Ishizuchi-51819",
+            "height": 1440,
+            "md5": "748ff6360c9ce80ff44a21355e4ab335",
+            "size": 1032665,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-03-06T16:09:19.227Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackIshizuchi_Wargaming_AddOn_S1_2560x1440-748ff6360c9ce80ff44a21355e4ab335",
+            "width": 2560
+          },
+          {
+            "alt": "World of Warships \u2014 Starter Pack: Ishizuchi-728856",
+            "height": 1600,
+            "md5": "730afe535350b1f9826ebba0a0011376",
+            "size": 933561,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-03-06T16:09:15.295Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackIshizuchi_Wargaming_AddOn_S2_1200x1600-730afe535350b1f9826ebba0a0011376",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-05-16T15:43:38.045Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -992,7 +1058,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2022-10-25T15:20:41.270Z",
+        "creationDate": "2025-05-16T09:55:11.284Z",
         "customAttributes": {
           "SupportedPlatforms": {
             "type": "STRING",
@@ -1010,7 +1076,7 @@
         ],
         "id": "e4d25c6225c045c7abd38d35fb79f504",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2023-08-04T20:02:06.444Z",
+        "lastModifiedDate": "2025-05-16T15:43:38.987Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -1127,7 +1193,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2021-01-13T15:41:26.838Z",
+        "creationDate": "2025-05-16T09:55:10.342Z",
         "customAttributes": {},
         "description": "1250DoubloonsAudience",
         "developer": "Wargaming Group Limited",
@@ -1141,7 +1207,7 @@
         "id": "bec83a7aca5d4073a5a6bd8d66557de0",
         "itemType": "CONSUMABLE",
         "keyImages": [],
-        "lastModifiedDate": "2023-06-22T14:53:41.655Z",
+        "lastModifiedDate": "2025-05-16T15:43:38.045Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -1272,7 +1338,7 @@
         "id": "da8c5c0f08154124a93631e274cfa997",
         "itemType": "CONSUMABLE",
         "keyImages": [],
-        "lastModifiedDate": "2025-02-26T10:47:13.677Z",
+        "lastModifiedDate": "2025-05-16T15:43:38.045Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -1300,7 +1366,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2021-01-13T15:40:57.883Z",
+        "creationDate": "2025-05-16T09:55:10.349Z",
         "customAttributes": {},
         "description": "OfferoftheMonthAudience",
         "developer": "Wargaming Group Limited",
@@ -1314,7 +1380,7 @@
         "id": "f0bc68afae7b40c2bccdb9baed5b89a9",
         "itemType": "CONSUMABLE",
         "keyImages": [],
-        "lastModifiedDate": "2023-06-22T14:53:41.646Z",
+        "lastModifiedDate": "2025-05-16T15:43:38.045Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -1342,7 +1408,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2021-01-13T15:42:29.334Z",
+        "creationDate": "2025-05-16T09:55:10.339Z",
         "customAttributes": {},
         "description": "25000DoubloonsAudience",
         "developer": "Wargaming Group Limited",
@@ -1356,7 +1422,7 @@
         "id": "3ed5ca7ecb6f4bd280a922a365798ffd",
         "itemType": "CONSUMABLE",
         "keyImages": [],
-        "lastModifiedDate": "2023-06-22T14:53:41.680Z",
+        "lastModifiedDate": "2025-05-16T15:43:38.045Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -1471,7 +1537,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2021-01-13T15:40:24.550Z",
+        "creationDate": "2025-05-16T09:55:10.337Z",
         "customAttributes": {},
         "description": "SmallCreditStockAudience",
         "developer": "Wargaming Group Limited",
@@ -1485,7 +1551,7 @@
         "id": "38e53a34c0524bea93a01b7ee97b8950",
         "itemType": "CONSUMABLE",
         "keyImages": [],
-        "lastModifiedDate": "2023-06-22T14:53:41.638Z",
+        "lastModifiedDate": "2025-05-16T15:43:38.987Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -1512,7 +1578,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2022-03-04T14:57:08.325Z",
+        "creationDate": "2024-04-08T19:51:50.758Z",
         "customAttributes": {
           "CanRunOffline": {
             "type": "STRING",
@@ -1530,7 +1596,29 @@
         ],
         "id": "439bbda159bf4c668a804c1f4cd6f9ef",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2022-03-24T13:39:22.121Z",
+        "keyImages": [
+          {
+            "alt": "World of Warships \u2014 Way of the Warrior-217032",
+            "height": 1440,
+            "md5": "01df5a308145a1fd2224bec0f865d66c",
+            "size": 931133,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-03-21T11:36:19.414Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsWayoftheWarrior_Wargaming_AddOn_S1_2560x1440-01df5a308145a1fd2224bec0f865d66c",
+            "width": 2560
+          },
+          {
+            "alt": "World of Warships \u2014 Way of the Warrior-357147",
+            "height": 1600,
+            "md5": "369ddd6aa64d53e491069deed11b97b8",
+            "size": 791850,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-03-21T11:36:15.538Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsWayoftheWarrior_Wargaming_AddOn_S2_1200x1600-369ddd6aa64d53e491069deed11b97b8",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-05-16T15:43:38.045Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -1556,7 +1644,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2022-03-04T14:56:07.519Z",
+        "creationDate": "2024-04-08T19:51:50.763Z",
         "customAttributes": {
           "CanRunOffline": {
             "type": "STRING",
@@ -1574,7 +1662,29 @@
         ],
         "id": "37ef41c291ec4726b81b6ba4fab24ad9",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2022-03-24T13:39:22.120Z",
+        "keyImages": [
+          {
+            "alt": "World of Warships \u2014 American Freedom-812843",
+            "height": 1440,
+            "md5": "40edec19ab85305e2be17134d244cddc",
+            "size": 1011965,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-03-21T11:39:03.860Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsAmericanFreedom_Wargaming_AddOn_S1_2560x1440-40edec19ab85305e2be17134d244cddc",
+            "width": 2560
+          },
+          {
+            "alt": "World of Warships \u2014 American Freedom-676984",
+            "height": 1600,
+            "md5": "5a4636a59a7564eb5bdc47d7e5240d6e",
+            "size": 654804,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-03-21T11:39:00.046Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsAmericanFreedom_Wargaming_AddOn_S2_1200x1600-5a4636a59a7564eb5bdc47d7e5240d6e",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-05-16T15:43:38.045Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -1601,7 +1711,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2021-01-13T15:40:41.885Z",
+        "creationDate": "2025-05-16T09:55:10.343Z",
         "customAttributes": {},
         "description": "WeekendPassAudience",
         "developer": "Wargaming Group Limited",
@@ -1615,7 +1725,7 @@
         "id": "ccb2c038b22c4ab4a79f3b3a3227d6bc",
         "itemType": "CONSUMABLE",
         "keyImages": [],
-        "lastModifiedDate": "2023-06-22T14:53:41.643Z",
+        "lastModifiedDate": "2025-05-16T15:43:38.045Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -1734,14 +1844,14 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2024-05-31T08:56:10.810Z",
+        "creationDate": "2024-04-08T19:51:50.748Z",
         "customAttributes": {
           "CanRunOffline": {
             "type": "STRING",
             "value": "true"
           }
         },
-        "description": "Warhammer 40,000: Chaos and Ork Commander Pack",
+        "description": "Warhammer__40,000: Chaos and Ork Commander Pack",
         "developer": "Wargaming Group Limited",
         "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
         "endOfSupport": false,
@@ -1754,27 +1864,27 @@
         "itemType": "DURABLE",
         "keyImages": [
           {
-            "alt": "Warhammer 40,000: Chaos and Ork Commander Pack-626326",
+            "alt": "World of Warships Warhammer 40,000: Chaos and Ork Commander Pack_ Offer",
             "height": 1440,
-            "md5": "1ebfe05c15817a7d674dc3050d6ab526",
-            "size": 977140,
+            "md5": "fdb648314d5f50d1c8ed619c75c650af",
+            "size": 3236911,
             "type": "DieselGameBox",
-            "uploadedDate": "2023-04-25T14:55:01.729Z",
-            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_Warhammer40000ChaosandOrkCommanderPack_Wargaming_AddOn_S1_2560x1440-1ebfe05c15817a7d674dc3050d6ab526",
+            "uploadedDate": "2025-04-25T15:35:02.203Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1i4cb.jpg",
             "width": 2560
           },
           {
-            "alt": "Warhammer 40,000: Chaos and Ork Commander Pack-594673",
+            "alt": "Download World of Warships Warhammer 40,000: Chaos and Ork Commander Pack_ Offer",
             "height": 1600,
-            "md5": "3546da43fa1f2187d932e5d9c97e14b5",
-            "size": 578751,
+            "md5": "98b4bc4bd66c15a6abddee1d6363c214",
+            "size": 1702693,
             "type": "DieselGameBoxTall",
-            "uploadedDate": "2023-04-25T14:54:40.490Z",
-            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_Warhammer40000ChaosandOrkCommanderPack_Wargaming_AddOn_S2_1200x1600-3546da43fa1f2187d932e5d9c97e14b5",
+            "uploadedDate": "2025-04-25T15:35:01.363Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-7rbu3.jpg",
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2024-06-11T08:41:02.169Z",
+        "lastModifiedDate": "2025-05-06T08:09:38.897Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -1791,7 +1901,7 @@
         "releaseInfo": [],
         "requiresSecureAccount": false,
         "status": "ACTIVE",
-        "title": "Warhammer 40,000: Chaos and Ork Commander Pack",
+        "title": "Warhammer__40,000: Chaos and Ork Commander Pack",
         "unsearchable": true
       },
       {
@@ -2947,7 +3057,7 @@
             "path": "public"
           }
         ],
-        "creationDate": "2023-12-27T15:08:37.816Z",
+        "creationDate": "2025-05-16T09:55:10.336Z",
         "customAttributes": {
           "SupportedPlatforms": {
             "type": "STRING",
@@ -2965,7 +3075,7 @@
         ],
         "id": "30cfcba3deed4570a818ade581777cad",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2023-12-28T15:58:43.951Z",
+        "lastModifiedDate": "2025-05-16T15:43:38.045Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -2994,7 +3104,7 @@
             "path": "public"
           }
         ],
-        "creationDate": "2023-12-27T15:08:38.316Z",
+        "creationDate": "2025-05-16T09:55:11.279Z",
         "customAttributes": {
           "SupportedPlatforms": {
             "type": "STRING",
@@ -3012,7 +3122,7 @@
         ],
         "id": "4aff6e9772744c0f9fc1321cad874021",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2023-12-28T15:58:43.952Z",
+        "lastModifiedDate": "2025-05-16T15:43:38.987Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -3041,7 +3151,7 @@
             "path": "public"
           }
         ],
-        "creationDate": "2023-12-27T15:08:35.428Z",
+        "creationDate": "2025-05-16T09:55:11.283Z",
         "customAttributes": {
           "SupportedPlatforms": {
             "type": "STRING",
@@ -3059,7 +3169,7 @@
         ],
         "id": "bd76ca719e1a40ce81f8e3839d0802e7",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2023-12-28T15:58:43.952Z",
+        "lastModifiedDate": "2025-05-16T15:43:38.987Z",
         "mainGameItem": {
           "id": "b9e23e5fa8e84064b356677022beb37a",
           "namespace": "84c76746bce94effb8e1047fabfd7eb7",
@@ -4254,6 +4364,236 @@
         "status": "ACTIVE",
         "title": "World of Warships \u2014 Anniversary Party Favor",
         "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-04-29T16:14:49.314Z",
+        "description": " Oh-l\u00e0-l\u00e0, \u00a1la excelencia de la Armada francesa se merece un homenaje a lo grande!",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "e87f7e75e23b4a10bd279bef870777e3",
+        "entitlementType": "EXECUTABLE",
+        "id": "e87f7e75e23b4a10bd279bef870777e3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships World of Warships \u2014 Courbet Epic Plunder Pack Offer",
+            "height": 1440,
+            "md5": "fd7faf3db7add0c7a8aaaf31fee88fc5",
+            "size": 835732,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-04-25T15:43:08.772Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1p1ov.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download World of Warships World of Warships \u2014 Courbet Epic Plunder Pack Offer",
+            "height": 1600,
+            "md5": "b3572bd538e4e6a15541423f79460c3b",
+            "size": 527312,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-04-25T15:43:08.355Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-scarp.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-29T16:14:49.314Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships: bot\u00edn \u00e9pico del Courbet",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-07T08:43:09.786Z",
+        "description": "Este DLC gratuito, maravilloso para los fan\u00e1ticos de Azur Lane, \u00a1desbloquea una misi\u00f3n muy especial!",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "4f8506038c5b4581ba584dd778f80141",
+        "entitlementType": "EXECUTABLE",
+        "id": "4f8506038c5b4581ba584dd778f80141",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships World of Warships x Azur Lane \u2014 Quest for AL Avrora Offer",
+            "height": 1440,
+            "md5": "e8756ebf4a8f384f1fa0524132813c7a",
+            "size": 2091724,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-05-06T15:20:47.395Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1gji4.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download World of Warships World of Warships x Azur Lane \u2014 Quest for AL Avrora Offer",
+            "height": 1600,
+            "md5": "ac3eb18fbba451e054acd894afa99da0",
+            "size": 1537316,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-05-06T15:20:47.901Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-b2j3l.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-05-07T08:43:09.786Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships x Azur Lane \u2014 Misi\u00f3n del AL Avrora",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-07T08:43:09.792Z",
+        "customAttributes": {},
+        "description": "Disfruta de la dicha de la batalla mientras dejas un rastro de destrucci\u00f3n en la galaxia con Arthas Roqthar el Fr\u00edo, el Campe\u00f3n de Khorne, y sacias tu hambre de matanza en el pr\u00f3ximo WAAAGH! con el despiadado Kaudillo Grotmaz Smart, ambos con doblaje \u00fanico.",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "c60dec8ae2ea4baabdfc3e82724ce110",
+        "entitlementType": "EXECUTABLE",
+        "id": "c60dec8ae2ea4baabdfc3e82724ce110",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships NEW_Warhammer Offer",
+            "height": 1440,
+            "md5": "fdb648314d5f50d1c8ed619c75c650af",
+            "size": 3236911,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-05-05T13:50:19.502Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1sc5h.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download World of Warships NEW_Warhammer Offer",
+            "height": 1600,
+            "md5": "98b4bc4bd66c15a6abddee1d6363c214",
+            "size": 1702693,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-05-05T13:50:18.839Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1s4xp.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-05-07T08:43:09.792Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Warhammer 40,000: Paquete de comandante Caos y Orco",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2025-05-16T15:43:38.070Z",
+        "description": "World of Warships \u2014 Starter Pack: Dreadnought",
+        "developer": "Wargaming Group Limited",
+        "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+        "endOfSupport": false,
+        "entitlementName": "899bd83da135490ab350fda35456c528",
+        "entitlementType": "EXECUTABLE",
+        "id": "899bd83da135490ab350fda35456c528",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "World of Warships \u2014 Starter Pack: Dreadnought-443560",
+            "height": 1440,
+            "md5": "79289dff4669a2f7a943a05e08ab957d",
+            "size": 1013035,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-03-21T11:24:43.287Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackDreadnought_Wargaming_AddOn_S1_2560x1440-79289dff4669a2f7a943a05e08ab957d",
+            "width": 2560
+          },
+          {
+            "alt": "World of Warships \u2014 Starter Pack: Dreadnought-513901",
+            "height": 1600,
+            "md5": "f9c3241dfb9e3ef094c1c3656a00d0e6",
+            "size": 628183,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-03-21T11:24:39.137Z",
+            "url": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackDreadnought_Wargaming_AddOn_S2_1200x1600-f9c3241dfb9e3ef094c1c3656a00d0e6",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-05-16T15:43:38.070Z",
+        "mainGameItem": {
+          "id": "b9e23e5fa8e84064b356677022beb37a",
+          "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b9e23e5fa8e84064b356677022beb37a",
+            "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World of Warships \u2014 Starter Pack: Dreadnought",
+        "unsearchable": false
       }
     ],
     "endOfSupport": false,
@@ -4269,25 +4609,25 @@
       {
         "alt": "World of Warships Offer",
         "height": 1440,
-        "md5": "9d250b3158f0757da8a136efe2eda2ed",
-        "size": 1114586,
+        "md5": "5e1955de87ec2a0fdb0ad9c3eb3644e9",
+        "size": 1456772,
         "type": "DieselGameBox",
-        "uploadedDate": "2025-04-17T08:24:26.654Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1ah8x.png",
+        "uploadedDate": "2025-05-14T14:38:33.730Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-bvmos.png",
         "width": 2560
       },
       {
         "alt": "Download World of Warships Offer",
         "height": 1600,
-        "md5": "de41bee0c0f73f1872ee4d73e278ee11",
-        "size": 821499,
+        "md5": "cb6b5330c682b3285786945788808052",
+        "size": 656687,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2025-04-17T08:24:29.376Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-9pmy6.png",
+        "uploadedDate": "2025-05-14T14:38:33.221Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1m6tm.png",
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-04-22T08:00:53.130Z",
+    "lastModifiedDate": "2025-05-16T15:43:38.841Z",
     "mainGameItemList": [],
     "namespace": "84c76746bce94effb8e1047fabfd7eb7",
     "releaseInfo": [
