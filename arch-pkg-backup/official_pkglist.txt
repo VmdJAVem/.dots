@@ -3,6 +3,7 @@ alsa-firmware
 alsa-plugins
 alsa-utils
 amd-ucode
+android-tools
 ark
 aspell
 aspell-es
@@ -75,7 +76,6 @@ gimp
 git
 glances
 gnome-calendar
-grub-customizer
 gsfonts
 gst-libav
 gst-plugin-pipewire
@@ -147,6 +147,7 @@ meld
 mesa-utils
 modemmanager
 mtools
+mtpfs
 nano
 nano-syntax-highlighting
 nautilus
