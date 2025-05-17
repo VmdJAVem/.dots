@@ -10,6 +10,7 @@ alias clock='tty-clock -c -s -b -f "%H:%M:%S" -C 3 -B "#6a2c8d" -t'
 alias cowsay='fortune | command cowsay -f stegosaurus'
 alias ff='fastfetch'
 alias config='/usr/bin/git --git-dir=$HOME/poo --work-tree=$HOME'
+alias archfetch='neofetch --source neofetch_ascii/arch.txt'
 function fish_greeting
     fortune -a
 end
