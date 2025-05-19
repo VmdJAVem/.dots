@@ -20,7 +20,8 @@
 		"Hearts of iron iV": "Sun Apr 27 2025 20:01:22 GMT-0500 (hora estándar oriental)",
 		"Hearts of irons IV": "Thu May 08 2025 18:02:09 GMT-0500 (hora estándar oriental)",
 		"BioShock Remastered": "Fri May 09 2025 22:12:05 GMT-0500 (hora estándar oriental)",
-		"Wolfenstein The New Order": "Sat May 10 2025 20:21:58 GMT-0500 (hora estándar oriental)"
+		"Wolfenstein The New Order": "Sat May 10 2025 20:21:58 GMT-0500 (hora estándar oriental)",
+		"Dowser": "Sun May 18 2025 15:30:08 GMT-0500 (hora estándar oriental)"
 	},
 	"Fallout new vegas": {
 		"pcgamingwiki": {
@@ -268,6 +269,16 @@
 			"compatibilityLevel": "platinum",
 			"steamDeckCatagory": 3
 		},
+		"umuId": null
+	},
+	"Dowser": {
+		"pcgamingwiki": null,
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": null,
 		"umuId": null
 	}
 }
