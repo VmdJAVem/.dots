@@ -20,6 +20,7 @@ bluez-utils
 bridge-utils
 btop
 btrfs-progs
+cabal-install
 cantarell-fonts
 cava
 cliphist
@@ -71,6 +72,7 @@ foomatic-db-ppds
 fortune-mod
 fwupd
 gamescope
+ghc
 ghostscript
 gimp
 git
@@ -152,7 +154,6 @@ nano
 nano-syntax-highlighting
 nautilus
 ncdu
-neofetch
 neovim
 netctl
 networkmanager
@@ -212,6 +213,7 @@ rsync
 rtkit
 ruby
 sane
+sassc
 sddm
 sg3_utils
 smartmontools
@@ -229,6 +231,8 @@ systemd-sysvcompat
 tenacity
 texinfo
 tldr
+tor
+torbrowser-launcher
 ttf-bitstream-vera
 ttf-dejavu
 ttf-fira-code

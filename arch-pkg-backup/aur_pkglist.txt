@@ -37,6 +37,7 @@ libastal-wireplumber-git
 libcava
 libpamac-full
 mommy
+neofetch
 nerd-fonts-noto-sans-mono
 openrgb-git
 pamac-all
@@ -57,3 +58,4 @@ ttf-ms-fonts
 tty-clock
 waveform13
 waypaper
+youtube-music-bin
