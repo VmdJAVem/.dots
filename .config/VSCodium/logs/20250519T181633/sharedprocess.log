@@ -1,0 +1,8 @@
+2025-05-19 18:16:33.721 [info] ComputeTargetPlatform: linux-x64
+2025-05-19 18:16:33.774 [info] Marked extension as removed asvetliakov.vscode-neovim-1.18.20-universal
+2025-05-19 18:16:33.774 [info] Marked extension as removed asvetliakov.vscode-neovim-1.18.21-universal
+2025-05-19 18:16:33.779 [info] Deleted marked for removal extension from disk rust-lang.rust-analyzer /home/vmdjavem/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.2441-linux-x64
+2025-05-19 18:16:33.779 [info] Deleted marked for removal extension from disk asvetliakov.vscode-neovim /home/vmdjavem/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.20-universal
+2025-05-19 18:16:33.779 [info] Deleted marked for removal extension from disk asvetliakov.vscode-neovim /home/vmdjavem/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.21-universal
+2025-05-19 18:16:33.782 [info] Deleted marked for removal extension from disk rust-lang.rust-analyzer /home/vmdjavem/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.2466-linux-x64
+2025-05-19 18:16:35.924 [info] ComputeTargetPlatform: linux-x64

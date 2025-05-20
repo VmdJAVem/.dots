@@ -348,3 +348,299 @@ USB Stream Output; ioid:
 15 May 2025 17:49:43  Closing MIDI in device: Midi Through Port-0
 15 May 2025 17:49:43  Cleaning up temp files..
 15 May 2025 17:49:43  Finished shutdown
+
+**********************************************************
+Waveform 64-bit version: 13.3.13 (Built: 21 February 2025)
+Log started: 19 May 2025 6:58:27pm
+
+19 May 2025 18:58:27  Initialising...
+19 May 2025 18:58:27  ALSA: scanForDevices()
+19 May 2025 18:58:27  ALSA: ID: null; desc: Discard all samples (playback) or generate zero samples (capture); ioid: 
+19 May 2025 18:58:27  ALSA: ID: lavrate; desc: Rate Converter Plugin Using Libav/FFmpeg Library; ioid: 
+19 May 2025 18:58:27  ALSA: ID: samplerate; desc: Rate Converter Plugin Using Samplerate Library; ioid: 
+19 May 2025 18:58:27  ALSA: ID: speexrate; desc: Rate Converter Plugin Using Speex Resampler; ioid: 
+19 May 2025 18:58:27  ALSA: ID: jack; desc: JACK Audio Connection Kit; ioid: 
+19 May 2025 18:58:27  ALSA: ID: oss; desc: Open Sound System; ioid: 
+19 May 2025 18:58:27  ALSA: ID: pipewire; desc: PipeWire Sound Server; ioid: 
+19 May 2025 18:58:27  ALSA: ID: pulse; desc: PulseAudio Sound Server; ioid: 
+19 May 2025 18:58:27  ALSA: ID: speex; desc: Plugin using Speex DSP (resample, agc, denoise, echo, dereverb); ioid: 
+19 May 2025 18:58:27  ALSA: ID: upmix; desc: Plugin for channel upmix (4,6,8); ioid: 
+19 May 2025 18:58:27  ALSA: ID: vdownmix; desc: Plugin for channel downmix (stereo) with a simple spacialization; ioid: 
+19 May 2025 18:58:27  ALSA: ID: default; desc: Default ALSA Output (currently PulseAudio Sound Server); ioid: 
+19 May 2025 18:58:27  ALSA: ID: hdmi:CARD=HDMI,DEV=0; desc: HDA ATI HDMI, VZ249QG1R
+HDMI Audio Output; ioid: Output
+19 May 2025 18:58:27  ALSA: ID: hdmi:CARD=HDMI,DEV=1; desc: HDA ATI HDMI, HDMI 1
+HDMI Audio Output; ioid: Output
+19 May 2025 18:58:27  ALSA: ID: hdmi:CARD=HDMI,DEV=2; desc: HDA ATI HDMI, HDMI 2
+HDMI Audio Output; ioid: Output
+19 May 2025 18:58:27  ALSA: ID: hdmi:CARD=HDMI,DEV=3; desc: HDA ATI HDMI, HDMI 3
+HDMI Audio Output; ioid: Output
+19 May 2025 18:58:27  ALSA: ID: usbstream:CARD=HDMI; desc: HDA ATI HDMI
+USB Stream Output; ioid: 
+19 May 2025 18:58:27  ALSA: ID: hdmi:CARD=Generic,DEV=0; desc: HD-Audio Generic, HDMI 0
+HDMI Audio Output; ioid: Output
+19 May 2025 18:58:27  ALSA: ID: hdmi:CARD=Generic,DEV=1; desc: HD-Audio Generic, HDMI 1
+HDMI Audio Output; ioid: Output
+19 May 2025 18:58:27  ALSA: ID: hdmi:CARD=Generic,DEV=2; desc: HD-Audio Generic, HDMI 2
+HDMI Audio Output; ioid: Output
+19 May 2025 18:58:27  ALSA: ID: hdmi:CARD=Generic,DEV=3; desc: HD-Audio Generic, HDMI 3
+HDMI Audio Output; ioid: Output
+19 May 2025 18:58:27  ALSA: ID: usbstream:CARD=Generic; desc: HD-Audio Generic
+USB Stream Output; ioid: 
+19 May 2025 18:58:27  ALSA: ID: sysdefault:CARD=Generic_1; desc: HD-Audio Generic, ALC897 Analog
+Default Audio Device; ioid: 
+19 May 2025 18:58:27  ALSA: ID: front:CARD=Generic_1,DEV=0; desc: HD-Audio Generic, ALC897 Analog
+Front output / input; ioid: 
+19 May 2025 18:58:27  ALSA: ID: surround21:CARD=Generic_1,DEV=0; desc: HD-Audio Generic, ALC897 Analog
+2.1 Surround output to Front and Subwoofer speakers; ioid: Output
+19 May 2025 18:58:27  ALSA: ID: surround40:CARD=Generic_1,DEV=0; desc: HD-Audio Generic, ALC897 Analog
+4.0 Surround output to Front and Rear speakers; ioid: Output
+19 May 2025 18:58:27  ALSA: ID: surround41:CARD=Generic_1,DEV=0; desc: HD-Audio Generic, ALC897 Analog
+4.1 Surround output to Front, Rear and Subwoofer speakers; ioid: Output
+19 May 2025 18:58:27  ALSA: ID: surround50:CARD=Generic_1,DEV=0; desc: HD-Audio Generic, ALC897 Analog
+5.0 Surround output to Front, Center and Rear speakers; ioid: Output
+19 May 2025 18:58:27  ALSA: ID: surround51:CARD=Generic_1,DEV=0; desc: HD-Audio Generic, ALC897 Analog
+5.1 Surround output to Front, Center, Rear and Subwoofer speakers; ioid: Output
+19 May 2025 18:58:27  ALSA: ID: surround71:CARD=Generic_1,DEV=0; desc: HD-Audio Generic, ALC897 Analog
+7.1 Surround output to Front, Center, Side, Rear and Woofer speakers; ioid: Output
+19 May 2025 18:58:27  ALSA: ID: usbstream:CARD=Generic_1; desc: HD-Audio Generic
+USB Stream Output; ioid: 
+19 May 2025 18:58:27  ALSA: getDeviceProperties(default)
+19 May 2025 18:58:27  ALSA: getDeviceNumChannels: 1 32
+19 May 2025 18:58:27  ALSA: getDeviceProperties(default)
+19 May 2025 18:58:27  ALSA: getDeviceNumChannels: 1 32
+19 May 2025 18:58:27  ALSA: getDeviceProperties(default)
+19 May 2025 18:58:27  ALSA: getDeviceNumChannels: 1 32
+19 May 2025 18:58:27  ALSA: getDeviceProperties(default)
+19 May 2025 18:58:27  ALSA: getDeviceNumChannels: 1 32
+19 May 2025 18:58:27  ALSA: snd_pcm_open (default, forInput=1)
+19 May 2025 18:58:27  ALSA: ALSADevice::setParameters(default, 44100, 32, 512)
+19 May 2025 18:58:27  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=32
+19 May 2025 18:58:27  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+19 May 2025 18:58:27  ALSA: snd_pcm_open (default, forInput=0)
+19 May 2025 18:58:27  ALSA: ALSADevice::setParameters(default, 44100, 32, 512)
+19 May 2025 18:58:27  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=32
+19 May 2025 18:58:27  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+19 May 2025 18:58:27  Audio block size: 512  Rate: 44100
+19 May 2025 18:58:27  Creating Default Controllers...
+19 May 2025 18:58:27  Loading Custom Controllers...
+19 May 2025 18:58:27  Initialising windows...
+19 May 2025 18:58:27  Language: es
+19 May 2025 18:58:27  Rebuilding Wave Device List...
+19 May 2025 18:58:27  Wave In: channel 1 (enabled): 0 (L)
+19 May 2025 18:58:27  Wave In: channel 2 (enabled): 1 (L)
+19 May 2025 18:58:27  Wave In: channel 3 (enabled): 2 (L)
+19 May 2025 18:58:27  Wave In: channel 4 (enabled): 3 (L)
+19 May 2025 18:58:27  Wave In: channel 5 (enabled): 4 (L)
+19 May 2025 18:58:27  Wave In: channel 6 (enabled): 5 (L)
+19 May 2025 18:58:27  Wave In: channel 7 (enabled): 6 (L)
+19 May 2025 18:58:27  Wave In: channel 8 (enabled): 7 (L)
+19 May 2025 18:58:27  Wave In: channel 9 (enabled): 8 (L)
+19 May 2025 18:58:27  Wave In: channel 10 (enabled): 9 (L)
+19 May 2025 18:58:27  Wave In: channel 11 (enabled): 10 (L)
+19 May 2025 18:58:27  Wave In: channel 12 (enabled): 11 (L)
+19 May 2025 18:58:27  Wave In: channel 13 (enabled): 12 (L)
+19 May 2025 18:58:27  Wave In: channel 14 (enabled): 13 (L)
+19 May 2025 18:58:27  Wave In: channel 15 (enabled): 14 (L)
+19 May 2025 18:58:27  Wave In: channel 16 (enabled): 15 (L)
+19 May 2025 18:58:27  Wave In: channel 17 (enabled): 16 (L)
+19 May 2025 18:58:27  Wave In: channel 18 (enabled): 17 (L)
+19 May 2025 18:58:27  Wave In: channel 19 (enabled): 18 (L)
+19 May 2025 18:58:27  Wave In: channel 20 (enabled): 19 (L)
+19 May 2025 18:58:27  Wave In: channel 21 (enabled): 20 (L)
+19 May 2025 18:58:27  Wave In: channel 22 (enabled): 21 (L)
+19 May 2025 18:58:27  Wave In: channel 23 (enabled): 22 (L)
+19 May 2025 18:58:27  Wave In: channel 24 (enabled): 23 (L)
+19 May 2025 18:58:27  Wave In: channel 25 (enabled): 24 (L)
+19 May 2025 18:58:27  Wave In: channel 26 (enabled): 25 (L)
+19 May 2025 18:58:27  Wave In: channel 27 (enabled): 26 (L)
+19 May 2025 18:58:27  Wave In: channel 28 (enabled): 27 (L)
+19 May 2025 18:58:27  Wave In: channel 29 (enabled): 28 (L)
+19 May 2025 18:58:27  Wave In: channel 30 (enabled): 29 (L)
+19 May 2025 18:58:27  Wave In: channel 31 (enabled): 30 (L)
+19 May 2025 18:58:27  Wave In: channel 32 (enabled): 31 (L)
+19 May 2025 18:58:27  Wave Out: channel 1 + 2 (enabled): 0 (L), 1 (R)
+19 May 2025 18:58:27  Wave Out: channel 3 + 4 (enabled): 2 (L), 3 (R)
+19 May 2025 18:58:27  Wave Out: channel 5 + 6 (enabled): 4 (L), 5 (R)
+19 May 2025 18:58:27  Wave Out: channel 7 + 8 (enabled): 6 (L), 7 (R)
+19 May 2025 18:58:27  Wave Out: channel 9 + 10 (enabled): 8 (L), 9 (R)
+19 May 2025 18:58:27  Wave Out: channel 11 + 12 (enabled): 10 (L), 11 (R)
+19 May 2025 18:58:27  Wave Out: channel 13 + 14 (enabled): 12 (L), 13 (R)
+19 May 2025 18:58:27  Wave Out: channel 15 + 16 (enabled): 14 (L), 15 (R)
+19 May 2025 18:58:27  Wave Out: channel 17 + 18 (enabled): 16 (L), 17 (R)
+19 May 2025 18:58:27  Wave Out: channel 19 + 20 (enabled): 18 (L), 19 (R)
+19 May 2025 18:58:27  Wave Out: channel 21 + 22 (enabled): 20 (L), 21 (R)
+19 May 2025 18:58:27  Wave Out: channel 23 + 24 (enabled): 22 (L), 23 (R)
+19 May 2025 18:58:27  Wave Out: channel 25 + 26 (enabled): 24 (L), 25 (R)
+19 May 2025 18:58:27  Wave Out: channel 27 + 28 (enabled): 26 (L), 27 (R)
+19 May 2025 18:58:27  Wave Out: channel 29 + 30 (enabled): 28 (L), 29 (R)
+19 May 2025 18:58:27  Wave Out: channel 31 + 32 (enabled): 30 (L), 31 (R)
+19 May 2025 18:58:27  Default Wave Out: channel 1 + 2
+19 May 2025 18:58:27  Default MIDI Out: 
+19 May 2025 18:58:27  Default Wave In: channel 1
+19 May 2025 18:58:27  Default MIDI In: 
+19 May 2025 18:58:27  Initialising plugins...
+19 May 2025 18:58:27  Image database loaded 0 images in 0 seconds
+19 May 2025 18:58:27  Wrote settings file: /home/vmdjavem/.config/Tracktion/Waveform/Waveform.settings
+19 May 2025 18:58:27  /usr/bin/Waveform13
+19 May 2025 18:58:27  Linux
+19 May 2025 18:58:27  CPU: 4270MHz  Cores: 12  31184MB
+19 May 2025 18:58:27  Events file size: 53 bytes
+19 May 2025 18:58:27  Initialising file formats...
+19 May 2025 18:58:27  Initialising projects...
+19 May 2025 18:58:27  Initialising devices...
+19 May 2025 18:58:27  Loop library loaded 3 loops in 14 ms
+19 May 2025 18:58:27  Initialising ReWire...
+19 May 2025 18:58:27  Preset database loaded 918 presets in 279 ms seconds
+19 May 2025 18:58:29  Reloading Windows...
+19 May 2025 18:58:29  Machine ID: L274375202:LE2B28767D U
+19 May 2025 18:58:29  Feature set: auto
+19 May 2025 18:58:29  Starting checking for updates
+19 May 2025 18:58:29  MIDI Input devices scanned in: 0
+19 May 2025 18:58:29  Updating MIDI I/O devices
+19 May 2025 18:58:29  Found MIDI in: midiin_170f06 ("Midi Through Port-0") (enabled)
+19 May 2025 18:58:29  Found MIDI in: all_midi_in ("All MIDI Ins") (enabled)
+19 May 2025 18:58:29  Found MIDI out: out_c31d4a06 ("Midi Through Port-0") (enabled)
+19 May 2025 18:58:29  opening MIDI out device: out_c31d4a06 (Midi Through Port-0)
+19 May 2025 18:58:29  opening MIDI in device: midiin_170f06 (Midi Through Port-0)
+19 May 2025 18:58:29  Wrote settings file: /home/vmdjavem/.config/Tracktion/Waveform/Waveform.settings
+19 May 2025 18:58:29  Loaded edit: Test Edit 1
+19 May 2025 18:58:32  Finished checking for updates: 3 secs
+19 May 2025 18:58:35  Wrote settings file: /home/vmdjavem/.config/Tracktion/Waveform/Waveform.settings
+19 May 2025 18:58:37  Wrote settings file: /home/vmdjavem/.config/Tracktion/Waveform/Waveform.settings
+19 May 2025 18:58:50  Wrote settings file: /home/vmdjavem/.config/Tracktion/Waveform/Waveform.settings
+19 May 2025 18:58:53  Loaded edit: EDM
+19 May 2025 18:58:54  Loaded edit: LOLL Edit 1
+19 May 2025 18:58:55  Wrote settings file: /home/vmdjavem/.config/Tracktion/Waveform/Waveform.settings
+19 May 2025 19:00:07  ALSA: getDeviceProperties(default)
+19 May 2025 19:00:07  ALSA: getDeviceNumChannels: 1 32
+19 May 2025 19:00:07  ALSA: getDeviceProperties(pulse)
+19 May 2025 19:00:07  ALSA: getDeviceNumChannels: 1 32
+19 May 2025 19:00:07  ALSA: snd_pcm_open (default, forInput=1)
+19 May 2025 19:00:07  ALSA: ALSADevice::setParameters(default, 44100, 32, 512)
+19 May 2025 19:00:07  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=32
+19 May 2025 19:00:07  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+19 May 2025 19:00:07  ALSA: snd_pcm_open (pulse, forInput=0)
+19 May 2025 19:00:07  ALSA: ALSADevice::setParameters(pulse, 44100, 32, 512)
+19 May 2025 19:00:07  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=32
+19 May 2025 19:00:07  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+19 May 2025 19:00:07  Rebuilding Wave Device List...
+19 May 2025 19:00:07  Wave In: channel 1 (enabled): 0 (L)
+19 May 2025 19:00:07  Wave In: channel 2 (enabled): 1 (L)
+19 May 2025 19:00:07  Wave In: channel 3 (enabled): 2 (L)
+19 May 2025 19:00:07  Wave In: channel 4 (enabled): 3 (L)
+19 May 2025 19:00:07  Wave In: channel 5 (enabled): 4 (L)
+19 May 2025 19:00:07  Wave In: channel 6 (enabled): 5 (L)
+19 May 2025 19:00:07  Wave In: channel 7 (enabled): 6 (L)
+19 May 2025 19:00:07  Wave In: channel 8 (enabled): 7 (L)
+19 May 2025 19:00:07  Wave In: channel 9 (enabled): 8 (L)
+19 May 2025 19:00:07  Wave In: channel 10 (enabled): 9 (L)
+19 May 2025 19:00:07  Wave In: channel 11 (enabled): 10 (L)
+19 May 2025 19:00:07  Wave In: channel 12 (enabled): 11 (L)
+19 May 2025 19:00:07  Wave In: channel 13 (enabled): 12 (L)
+19 May 2025 19:00:07  Wave In: channel 14 (enabled): 13 (L)
+19 May 2025 19:00:07  Wave In: channel 15 (enabled): 14 (L)
+19 May 2025 19:00:07  Wave In: channel 16 (enabled): 15 (L)
+19 May 2025 19:00:07  Wave In: channel 17 (enabled): 16 (L)
+19 May 2025 19:00:07  Wave In: channel 18 (enabled): 17 (L)
+19 May 2025 19:00:07  Wave In: channel 19 (enabled): 18 (L)
+19 May 2025 19:00:07  Wave In: channel 20 (enabled): 19 (L)
+19 May 2025 19:00:07  Wave In: channel 21 (enabled): 20 (L)
+19 May 2025 19:00:07  Wave In: channel 22 (enabled): 21 (L)
+19 May 2025 19:00:07  Wave In: channel 23 (enabled): 22 (L)
+19 May 2025 19:00:07  Wave In: channel 24 (enabled): 23 (L)
+19 May 2025 19:00:07  Wave In: channel 25 (enabled): 24 (L)
+19 May 2025 19:00:07  Wave In: channel 26 (enabled): 25 (L)
+19 May 2025 19:00:07  Wave In: channel 27 (enabled): 26 (L)
+19 May 2025 19:00:07  Wave In: channel 28 (enabled): 27 (L)
+19 May 2025 19:00:07  Wave In: channel 29 (enabled): 28 (L)
+19 May 2025 19:00:07  Wave In: channel 30 (enabled): 29 (L)
+19 May 2025 19:00:07  Wave In: channel 31 (enabled): 30 (L)
+19 May 2025 19:00:07  Wave In: channel 32 (enabled): 31 (L)
+19 May 2025 19:00:07  Wave Out: channel 1 + 2 (enabled): 0 (L), 1 (R)
+19 May 2025 19:00:07  Wave Out: channel 3 + 4 (enabled): 2 (L), 3 (R)
+19 May 2025 19:00:07  Wave Out: channel 5 + 6 (enabled): 4 (L), 5 (R)
+19 May 2025 19:00:07  Wave Out: channel 7 + 8 (enabled): 6 (L), 7 (R)
+19 May 2025 19:00:07  Wave Out: channel 9 + 10 (enabled): 8 (L), 9 (R)
+19 May 2025 19:00:07  Wave Out: channel 11 + 12 (enabled): 10 (L), 11 (R)
+19 May 2025 19:00:07  Wave Out: channel 13 + 14 (enabled): 12 (L), 13 (R)
+19 May 2025 19:00:07  Wave Out: channel 15 + 16 (enabled): 14 (L), 15 (R)
+19 May 2025 19:00:07  Wave Out: channel 17 + 18 (enabled): 16 (L), 17 (R)
+19 May 2025 19:00:07  Wave Out: channel 19 + 20 (enabled): 18 (L), 19 (R)
+19 May 2025 19:00:07  Wave Out: channel 21 + 22 (enabled): 20 (L), 21 (R)
+19 May 2025 19:00:07  Wave Out: channel 23 + 24 (enabled): 22 (L), 23 (R)
+19 May 2025 19:00:07  Wave Out: channel 25 + 26 (enabled): 24 (L), 25 (R)
+19 May 2025 19:00:07  Wave Out: channel 27 + 28 (enabled): 26 (L), 27 (R)
+19 May 2025 19:00:07  Wave Out: channel 29 + 30 (enabled): 28 (L), 29 (R)
+19 May 2025 19:00:07  Wave Out: channel 31 + 32 (enabled): 30 (L), 31 (R)
+19 May 2025 19:00:07  Default Wave Out: channel 1 + 2
+19 May 2025 19:00:07  Default MIDI Out: Midi Through Port-0
+19 May 2025 19:00:07  Default Wave In: channel 1
+19 May 2025 19:00:07  Default MIDI In: All MIDI Ins
+19 May 2025 19:00:25  ALSA: getDeviceProperties(default)
+19 May 2025 19:00:25  ALSA: getDeviceNumChannels: 1 32
+19 May 2025 19:00:25  ALSA: getDeviceProperties(jack)
+19 May 2025 19:00:25  ALSA: getDeviceNumChannels: 2 2
+19 May 2025 19:00:25  ALSA: snd_pcm_open (default, forInput=1)
+19 May 2025 19:00:25  ALSA: ALSADevice::setParameters(default, 44100, 32, 512)
+19 May 2025 19:00:25  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=32
+19 May 2025 19:00:25  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+19 May 2025 19:00:25  ALSA: snd_pcm_open (jack, forInput=0)
+19 May 2025 19:00:25  ALSA: ALSADevice::setParameters(jack, 44100, 2, 512)
+19 May 2025 19:00:25  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=2
+19 May 2025 19:00:25  ALSA: ALSA error: Error de entrada/salida
+19 May 2025 19:00:25  Rebuilding Wave Device List...
+19 May 2025 19:00:25  Default Wave Out: 
+19 May 2025 19:00:25  Default MIDI Out: Midi Through Port-0
+19 May 2025 19:00:25  Default Wave In: 
+19 May 2025 19:00:25  Default MIDI In: All MIDI Ins
+19 May 2025 19:00:30  ALSA: getDeviceProperties(lavrate)
+19 May 2025 19:00:30  ALSA: Error: line 123: code -2 (No existe el fichero o el directorio)
+19 May 2025 19:00:34  ALSA: getDeviceProperties(hdmi:CARD=Generic,DEV=0)
+19 May 2025 19:00:34  ALSA: getDeviceNumChannels: 2 8
+19 May 2025 19:00:34  ALSA: snd_pcm_open (hdmi:CARD=Generic,DEV=0, forInput=0)
+19 May 2025 19:00:34  ALSA: ALSADevice::setParameters(hdmi:CARD=Generic,DEV=0, 44100, 8, 512)
+19 May 2025 19:00:34  ALSA: format: bitDepth=32, isFloat=0, isLittleEndian=1, numChannels=8
+19 May 2025 19:00:34  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+19 May 2025 19:00:34  Rebuilding Wave Device List...
+19 May 2025 19:00:34  Wave Out: channel 1 + 2 (enabled): 0 (L), 1 (R)
+19 May 2025 19:00:34  Wave Out: channel 3 + 4 (enabled): 2 (L), 3 (R)
+19 May 2025 19:00:34  Wave Out: channel 5 + 6 (enabled): 4 (L), 5 (R)
+19 May 2025 19:00:34  Wave Out: channel 7 + 8 (enabled): 6 (L), 7 (R)
+19 May 2025 19:00:34  Default Wave Out: channel 1 + 2
+19 May 2025 19:00:34  Default MIDI Out: Midi Through Port-0
+19 May 2025 19:00:34  Default Wave In: 
+19 May 2025 19:00:34  Default MIDI In: All MIDI Ins
+19 May 2025 19:00:38  ALSA: getDeviceProperties(default)
+19 May 2025 19:00:38  ALSA: getDeviceNumChannels: 1 32
+19 May 2025 19:00:38  ALSA: snd_pcm_open (default, forInput=0)
+19 May 2025 19:00:38  ALSA: ALSADevice::setParameters(default, 44100, 32, 512)
+19 May 2025 19:00:38  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=32
+19 May 2025 19:00:38  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+19 May 2025 19:00:38  Rebuilding Wave Device List...
+19 May 2025 19:00:38  Wave Out: channel 1 + 2 (enabled): 0 (L), 1 (R)
+19 May 2025 19:00:38  Wave Out: channel 3 + 4 (enabled): 2 (L), 3 (R)
+19 May 2025 19:00:38  Wave Out: channel 5 + 6 (enabled): 4 (L), 5 (R)
+19 May 2025 19:00:38  Wave Out: channel 7 + 8 (enabled): 6 (L), 7 (R)
+19 May 2025 19:00:38  Wave Out: channel 9 + 10 (enabled): 8 (L), 9 (R)
+19 May 2025 19:00:38  Wave Out: channel 11 + 12 (enabled): 10 (L), 11 (R)
+19 May 2025 19:00:38  Wave Out: channel 13 + 14 (enabled): 12 (L), 13 (R)
+19 May 2025 19:00:38  Wave Out: channel 15 + 16 (enabled): 14 (L), 15 (R)
+19 May 2025 19:00:38  Wave Out: channel 17 + 18 (enabled): 16 (L), 17 (R)
+19 May 2025 19:00:38  Wave Out: channel 19 + 20 (enabled): 18 (L), 19 (R)
+19 May 2025 19:00:38  Wave Out: channel 21 + 22 (enabled): 20 (L), 21 (R)
+19 May 2025 19:00:38  Wave Out: channel 23 + 24 (enabled): 22 (L), 23 (R)
+19 May 2025 19:00:38  Wave Out: channel 25 + 26 (enabled): 24 (L), 25 (R)
+19 May 2025 19:00:38  Wave Out: channel 27 + 28 (enabled): 26 (L), 27 (R)
+19 May 2025 19:00:38  Wave Out: channel 29 + 30 (enabled): 28 (L), 29 (R)
+19 May 2025 19:00:38  Wave Out: channel 31 + 32 (enabled): 30 (L), 31 (R)
+19 May 2025 19:00:38  Default Wave Out: channel 1 + 2
+19 May 2025 19:00:38  Default MIDI Out: Midi Through Port-0
+19 May 2025 19:00:38  Default Wave In: 
+19 May 2025 19:00:38  Default MIDI In: All MIDI Ins
+19 May 2025 19:00:54  ----- Ended Plugin Scan
+19 May 2025 19:01:02  LoopLibrary scanned 3 loops in 2 ms
+19 May 2025 19:03:44  Closing window..
+19 May 2025 19:03:46  Wrote settings file: /home/vmdjavem/.config/Tracktion/Waveform/Waveform.settings
+19 May 2025 19:03:46  Saving..
+19 May 2025 19:03:46  Closing devices..

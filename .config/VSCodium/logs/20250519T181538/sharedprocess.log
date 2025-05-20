@@ -1,0 +1,20 @@
+2025-05-19 18:15:39.151 [info] ComputeTargetPlatform: linux-x64
+2025-05-19 18:15:41.376 [info] ComputeTargetPlatform: linux-x64
+2025-05-19 18:15:46.113 [info] Getting Manifest... asvetliakov.vscode-neovim
+2025-05-19 18:15:46.113 [info] Getting Manifest... rust-lang.rust-analyzer
+2025-05-19 18:15:48.360 [info] Installing extension: rust-lang.rust-analyzer {"productVersion":{"version":"1.100.23258","date":"2025-05-15T18:24:48.143Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vmdjavem/.vscode-oss/extensions/extensions.json","path":"/home/vmdjavem/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-05-19 18:15:48.380 [info] Installing extension: asvetliakov.vscode-neovim {"productVersion":{"version":"1.100.23258","date":"2025-05-15T18:24:48.143Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vmdjavem/.vscode-oss/extensions/extensions.json","path":"/home/vmdjavem/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-05-19 18:15:49.321 [info] Extracted extension to file:///home/vmdjavem/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.21-universal: asvetliakov.vscode-neovim
+2025-05-19 18:15:49.325 [info] Renamed to /home/vmdjavem/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.21-universal
+2025-05-19 18:15:49.336 [info] Marked extension as removed asvetliakov.vscode-neovim-1.18.20-universal
+2025-05-19 18:15:49.342 [info] Extension installed successfully: asvetliakov.vscode-neovim vscode-userdata:/home/vmdjavem/.vscode-oss/extensions/extensions.json
+2025-05-19 18:15:52.458 [info] Extracted extension to file:///home/vmdjavem/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.2466-linux-x64: rust-lang.rust-analyzer
+2025-05-19 18:15:52.462 [info] Renamed to /home/vmdjavem/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.2466-linux-x64
+2025-05-19 18:15:52.472 [info] Marked extension as removed rust-lang.rust-analyzer-0.3.2441-linux-x64
+2025-05-19 18:15:52.477 [info] Extension installed successfully: rust-lang.rust-analyzer vscode-userdata:/home/vmdjavem/.vscode-oss/extensions/extensions.json
+2025-05-19 18:16:01.479 [info] Uninstalling extension from the profile: rust-lang.rust-analyzer@0.3.2466 vscode-userdata:/home/vmdjavem/.vscode-oss/extensions/extensions.json
+2025-05-19 18:16:01.493 [info] Marked extension as removed rust-lang.rust-analyzer-0.3.2466-linux-x64
+2025-05-19 18:16:01.724 [info] Successfully uninstalled extension from the profile rust-lang.rust-analyzer@0.3.2466 vscode-userdata:/home/vmdjavem/.vscode-oss/extensions/extensions.json
+2025-05-19 18:16:05.355 [info] Uninstalling extension from the profile: asvetliakov.vscode-neovim@1.18.21 vscode-userdata:/home/vmdjavem/.vscode-oss/extensions/extensions.json
+2025-05-19 18:16:05.365 [info] Marked extension as removed asvetliakov.vscode-neovim-1.18.21-universal
+2025-05-19 18:16:05.592 [info] Successfully uninstalled extension from the profile asvetliakov.vscode-neovim@1.18.21 vscode-userdata:/home/vmdjavem/.vscode-oss/extensions/extensions.json
