@@ -11,6 +11,7 @@ alias cowsay='fortune | command cowsay -f stegosaurus'
 alias ff='fastfetch'
 alias config='/usr/bin/git --git-dir=$HOME/poo --work-tree=$HOME'
 alias archfetch='neofetch --source neofetch_ascii/arch.txt'
+alias cd='z'
 function fish_greeting
     fortune -a
 end
@@ -39,5 +40,7 @@ fzf --fish | source
 # PATH configuration
 set -gx PATH $PATH /home/vmdjavem/.local/bin
 
+#zoxide
+zoxide init fish | source
 # Start fastfetch
 ff
