@@ -38,12 +38,11 @@
     {
       "app_name": "da5b18cb1e7a452196c3142f2c1d7dd3",
       "asset_id": "da5b18cb1e7a452196c3142f2c1d7dd3",
-      "build_version": "1.15.01",
+      "build_version": "1.16.00",
       "catalog_item_id": "c8e3c334b682458a8489cfa06063d7f6",
       "label_name": "Live-Windows",
       "metadata": {
-        "installationPoolId": "82672dc352fa4aab910d9fd05aaf0b38",
-        "update_type": "MINOR"
+        "installationPoolId": "82672dc352fa4aab910d9fd05aaf0b38"
       },
       "namespace": "0d89655f53884b09b241b60c07e684af",
       "sidecar_rev": 0
@@ -127,7 +126,7 @@
     {
       "app_name": "33030b24b1df4dd5b6bcfb0314c17f39",
       "asset_id": "33030b24b1df4dd5b6bcfb0314c17f39",
-      "build_version": "690",
+      "build_version": "695",
       "catalog_item_id": "975a3a2eca7c42ca9c610443ab0ae0bd",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -951,7 +950,7 @@
     {
       "app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
       "asset_id": "9361c8c6d2f34b42b5f2f61093eedf48",
-      "build_version": "35.2.1.53",
+      "build_version": "35.2.1.61",
       "catalog_item_id": "498ff2997ac2491a9fc7c0e95991afd8",
       "label_name": "Live-Windows",
       "metadata": {

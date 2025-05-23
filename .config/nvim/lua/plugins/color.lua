@@ -4,7 +4,7 @@ return {
     name = "catppuccin",
     priority = 1000, -- Ensure it loads first
     opts = {
-      flavour = "mocha", -- Specify Mocha flavor
+      flavour = "macchiato", -- Specify Mocha flavor
       integrations = {
         aerial = true,
         alpha = true,

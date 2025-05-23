@@ -10070,7 +10070,7 @@
   <VALUE name="midiColour2ex" val="ffaaff00"/>
   <VALUE name="midiColour3ex" val="ff00aaff"/>
   <VALUE name="midiColour4ex" val="ffff0000"/>
-  <VALUE name="lastUpdate" val="2025-05-19T18:58:29.347-05:00"/>
+  <VALUE name="lastUpdate" val="2025-05-21T18:46:42.745-05:00"/>
   <VALUE name="presetPaths" val=""/>
   <VALUE name="presetDirsChecked" val=""/>
   <VALUE name="hasEnabledMidiDefaultDevs" val="1"/>
@@ -10088,7 +10088,7 @@
   <VALUE name="knownMidiInputs" val="Midi Through Port-0"/>
   <VALUE name="knownMidiOutputs" val="Midi Through Port-0"/>
   <VALUE name="longPopupDelay" val="0"/>
-  <VALUE name="watchVideosUpdate" val="1747699151641"/>
+  <VALUE name="watchVideosUpdate" val="1747953480590"/>
   <VALUE name="analytics">
     <ANALYTICS exceptions="0" info="0" usage="0"/>
   </VALUE>
@@ -10098,11 +10098,11 @@
         <WELCOME/>
         <PROJECTS>
           <OPEN id="!root" scrollPos="0">
-            <SELECTED id="/!root/8fae57a2/5f4e9b9a"/>
+            <SELECTED id="/!root/8fae57a2/56126e70"/>
           </OPEN>
         </PROJECTS>
         <SETTINGS/>
-        <EDIT id="83bb0a/51e977"/>
+        <EDIT id="127786/1c1c9da"/>
       </WINDOW>
     </WINDOWS>
   </VALUE>
@@ -10123,13 +10123,13 @@
     </TABLELAYOUT>
   </VALUE>
   <VALUE name="customPluginMenuOpenness">
-    <OPEN id="984397" scrollPos="0"/>
+    <OPEN id="85c916" scrollPos="0"/>
   </VALUE>
   <VALUE name="keyMappingsDiff">
     <KEYMAPPINGS basedOnDefaults="1"/>
   </VALUE>
   <VALUE name="customScriptTreeOpenness">
-    <OPEN id="3177f8" scrollPos="0"/>
+    <OPEN id="a7d10e" scrollPos="0"/>
   </VALUE>
   <VALUE name="projectListColumns">
     <TABLELAYOUT sortedCol="6" sortForwards="0">
@@ -10156,6 +10156,9 @@
       <ACTIVE uid="8fae57a2">
         <PROJECT file="/home/vmdjavem/Documents/Test/Test.tracktion" uid="a2980a98"/>
         <PROJECT file="/home/vmdjavem/Documents/LOLL/LOLL.tracktion" uid="5f4e9b9a"/>
+        <PROJECT file="/home/vmdjavem/Documents/EDM/EDM.tracktion" uid="a93c85d3"/>
+        <PROJECT file="/home/vmdjavem/Documents/EDDDD/EDDDD.tracktion" uid="6d1b218f"/>
+        <PROJECT file="/home/vmdjavem/Documents/Dccv/Dccv.tracktion" uid="56126e70"/>
       </ACTIVE>
       <LIBRARY uid="8fc4e260"/>
     </ROOT>
@@ -10371,7 +10374,7 @@
   <VALUE name="completedTasks" val="1,2,3,4,5,8,9"/>
   <VALUE name="lastpath_projectfile" val="/home/vmdjavem/Documents"/>
   <VALUE name="hasEverOpenedAnEdit" val="1"/>
-  <VALUE name="recentEditFilesList" val="/home/vmdjavem/Documents/LOLL/EDM.tracktionedit&#10;/home/vmdjavem/Documents/Test/Test Edit 1.tracktionedit"/>
+  <VALUE name="recentEditFilesList" val="/home/vmdjavem/Documents/EDDDD/EDDDD Edit 1.tracktionedit&#10;/home/vmdjavem/Documents/Dccv/Dccv Edit 1.tracktionedit&#10;/home/vmdjavem/Documents/LOLL/LOLL Edit 1.tracktionedit&#10;/home/vmdjavem/Documents/Test/Test Edit 1.tracktionedit"/>
   <VALUE name="virtualmidiin_TRACKTION_TRACK_DEVICE">
     <SETTINGS inputDevices="" enabled="0" monitorMode="automatic" recEnabled="1"
               mergeRecordings="1" replaceExisting="0" recordToNoteAutomation="0"
@@ -10380,26 +10383,26 @@
   </VALUE>
   <VALUE name="Track Wave Inputin_1003_alias" val="Track 1"/>
   <VALUE name="Track MIDI Inputin_1003_alias" val="Track 1"/>
-  <VALUE name="Track Wave Inputin_1006_alias" val="SC Kick"/>
-  <VALUE name="Track MIDI Inputin_1006_alias" val="SC Kick"/>
+  <VALUE name="Track Wave Inputin_1006_alias" val="Track 2"/>
+  <VALUE name="Track MIDI Inputin_1006_alias" val="Track 2"/>
   <VALUE name="Track Wave Inputin_1009_alias" val="Track 3"/>
   <VALUE name="Track MIDI Inputin_1009_alias" val="Track 3"/>
-  <VALUE name="Track Wave Inputin_1012_alias" val="Hi-Hats"/>
-  <VALUE name="Track MIDI Inputin_1012_alias" val="Hi-Hats"/>
+  <VALUE name="Track Wave Inputin_1012_alias" val="Track 4"/>
+  <VALUE name="Track MIDI Inputin_1012_alias" val="Track 4"/>
   <VALUE name="Track Wave Inputin_1015_alias" val="Track 5"/>
   <VALUE name="Track MIDI Inputin_1015_alias" val="Track 5"/>
   <VALUE name="Track Wave Inputin_1018_alias" val="Track 6"/>
   <VALUE name="Track MIDI Inputin_1018_alias" val="Track 6"/>
   <VALUE name="Track Wave Inputin_1021_alias" val="Track 7"/>
   <VALUE name="Track MIDI Inputin_1021_alias" val="Track 7"/>
-  <VALUE name="Track Wave Inputin_1024_alias" val="Bass"/>
-  <VALUE name="Track MIDI Inputin_1024_alias" val="Bass"/>
+  <VALUE name="Track Wave Inputin_1024_alias" val="Track 8"/>
+  <VALUE name="Track MIDI Inputin_1024_alias" val="Track 8"/>
   <VALUE name="browserDirectory" val="/home/vmdjavem"/>
-  <VALUE name="recentlyUsedPlugins" val="4osc"/>
-  <VALUE name="midiToolStatusVelocity" val="127"/>
-  <VALUE name="midiToolStatusLength" val="3417"/>
+  <VALUE name="recentlyUsedPlugins" val="4osc|TracktionInternal-Micro Drum Sampler-22775d8a-0"/>
+  <VALUE name="midiToolStatusVelocity" val="43"/>
+  <VALUE name="midiToolStatusLength" val="8641"/>
   <VALUE name="midiToolStatusCurrentBank" val="0"/>
-  <VALUE name="midiToolStatusAftertouchNote" val="46"/>
+  <VALUE name="midiToolStatusAftertouchNote" val="57"/>
   <VALUE name="midiToolStatusTool" val="1"/>
   <VALUE name="midiToolStatusColour" val="0"/>
   <VALUE name="midiNoteExpression" val="0"/>
@@ -10472,4 +10475,8 @@
   </VALUE>
   <VALUE name="lastPluginScanPath_VST" val="/usr/lib/vst;/usr/local/lib/vst;~/.vst"/>
   <VALUE name="firstRunVisible" val="0"/>
+  <VALUE name="Track Wave Inputin_1010_alias" val="Track 2"/>
+  <VALUE name="Track MIDI Inputin_1010_alias" val="Track 2"/>
+  <VALUE name="Track Wave Inputin_1013_alias" val="Track 3"/>
+  <VALUE name="Track MIDI Inputin_1013_alias" val="Track 3"/>
 </PROPERTIES>

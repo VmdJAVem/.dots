@@ -1,4 +1,3 @@
-2025/05/17-22:44:52.726 cf1b Reusing MANIFEST /home/vmdjavem/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/05/17-22:44:52.726 cf1b Recovering log #18
-2025/05/17-22:44:52.726 cf1b Reusing old log /home/vmdjavem/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000018.log 
-2025/05/17-22:44:52.726 cf1b Delete type=2 #17
+2025/05/20-17:57:04.091 c855 Reusing MANIFEST /home/vmdjavem/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/20-17:57:04.092 c855 Recovering log #18
+2025/05/20-17:57:04.093 c855 Reusing old log /home/vmdjavem/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000018.log 
