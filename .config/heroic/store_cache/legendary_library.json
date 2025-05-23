@@ -46994,7 +46994,7 @@
 							"value": "true"
 						}
 					},
-					"description": "Founder's Pack VII",
+					"description": "Este paquete de fundador ÉPICO está lleno de contenido exclusivo, mejoras raras y contenido premium para que te aventures aún más en los Reinos Olvidados.",
 					"developer": "Codename Entertainment",
 					"developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
 					"endOfSupport": false,
@@ -47007,12 +47007,13 @@
 					"itemType": "DURABLE",
 					"keyImages": [
 						{
+							"alt": "Idle Champions of the Forgotten Realms Founder's Pack VII Offer",
 							"height": 1440,
-							"md5": "2eda20c960a6b4a3c677f7279aa9880d",
-							"size": 732480,
+							"md5": "496ad59f87ef584026ba8946c904df47",
+							"size": 765608,
 							"type": "DieselGameBox",
-							"uploadedDate": "2024-08-27T19:03:34.357Z",
-							"url": "https://cdn1.epicgames.com/item/7e508f543b05465abe3a935960eb70ac/EGS_FoundersPackVII_CodenameEntertainment_AddOn_S1_2560x1440-2eda20c960a6b4a3c677f7279aa9880d",
+							"uploadedDate": "2025-05-21T21:49:30.617Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-6v0ys.jpg",
 							"width": 2560
 						},
 						{
@@ -47025,7 +47026,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-01-22T15:40:25.484Z",
+					"lastModifiedDate": "2025-05-22T23:47:56.919Z",
 					"mainGameItem": {
 						"id": "48353a502e72433298f25827e03dbff0",
 						"namespace": "7e508f543b05465abe3a935960eb70ac",
@@ -47052,7 +47053,7 @@
 					"releaseInfo": [],
 					"requiresSecureAccount": false,
 					"status": "ACTIVE",
-					"title": "Founder's Pack VII",
+					"title": "Paquete de los fundadores VII",
 					"unsearchable": true
 				},
 				{
@@ -75089,6 +75090,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Fri May 23 2025 14:53:10 GMT-0500 (hora estándar oriental)"
+		"library": "Fri May 23 2025 18:13:15 GMT-0500 (hora estándar oriental)"
 	}
 }

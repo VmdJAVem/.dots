@@ -1,9 +1,12 @@
-[22/5/2025, 4:58:54 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
-legendary version "0.20.36", codename "Urban Flight (Heroic)"
-[22/5/2025, 4:58:55 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+[23/5/2025, 6:13:12 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+legendary version "0.20.37", codename "Exit 17 (Heroic)"
+[23/5/2025, 6:13:12 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary cleanup
+[23/5/2025, 6:13:12 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+[cli] INFO: Cleanup complete! Removed 0.00 MiB.
 [cli] INFO: Logging in...
 [Core] INFO: Trying to re-use existing login session...
 [cli] INFO: Getting game list... (this may take a while)
+[Core] INFO: Fetching metadata for 2 app(s).
 
 Available games:
  * 20 Minutes Till Dawn (App name: 4656facc740742a39e265b026e13d075 | Version: 1.0-win)
@@ -54,7 +57,7 @@ Available games:
  * Hell Let Loose (App name: 3e02273b543f4ff0a1c24d3b534a9ac3 | Version: 324.979985)
  * Heroes & Generals WWII (App name: 8836f84a700140bb86103556cd7db0d4 | Version: live-173288)
  * Hood Outlaws and Legends (App name: 098f5323a3994362b6c68503d8cf3d57 | Version: HoodStaging2022R14Client_Win64Epic_Shipping_1601377.zip_Live)
- * Idle Champions de Forgotten Realms (App name: 40cb42e38c0b4a14a1bb133eb3291572 | Version: IdleDragons623064Live)
+ * Idle Champions de Forgotten Realms (App name: 40cb42e38c0b4a14a1bb133eb3291572 | Version: IdleDragons624064Live)
  * INDUSTRIA (App name: 78903903b1f1419bae248467f27ff470 | Version: 1.3.2)
  * Iratus (App name: 82ab0adb6e0b41bea531fcbb0c43cfc7 | Version: 0.96010)
  * Jotun Valhalla Edition (App name: Grouse | Version: 1.02)
@@ -82,7 +85,7 @@ Available games:
  * Severed Steel (App name: 7179f095efcc4f92a950a6d9dbd9c602 | Version: 5.5.0)
  * shapez (App name: e87a43f695bc409ca8858206678ac7e7 | Version: 1.5.5)
  * Sifu (App name: d36336f190094951873ed6138ac208d8 | Version: 6736)
- * SMITE 2 (App name: 33030b24b1df4dd5b6bcfb0314c17f39 | Version: 695)
+ * SMITE 2 (App name: 33030b24b1df4dd5b6bcfb0314c17f39 | Version: 696)
  * Star Trek Online (App name: 0fb6e06aacd14e88b1aaea8f54dd8525 | Version: CL_2023_07_14_17_29)
  * Star Wars Squadrons (App name: bobcat | Version: None)
   - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin bobcat" to activate and/or run the game.
@@ -96,7 +99,7 @@ Available games:
  * Them's Fightin' Herds (App name: 2d9d7555ccdd4ceaa1b60e501ba0bacd | Version: 1712160892)
  * VALORANT (App name: 602eb4abc8764c87b7f2607a1ef8c18e | Version: 2609-591)
  * Vampire Survivors (App name: 1136763135c0482cbbb4b2d45e978156 | Version: EGS_WINDOWS-Release-BaseGame-1.13.109-32841115)
- * Warhammer 40,000: Gladius - Relics of War (App name: da5b18cb1e7a452196c3142f2c1d7dd3 | Version: 1.15.01)
+ * Warhammer 40,000: Gladius - Relics of War (App name: da5b18cb1e7a452196c3142f2c1d7dd3 | Version: 1.16.00)
  * Wildcat Gun Machine (App name: e9c18eae78964527853bfa2053d346e2 | Version: 1.002E)
  * Windbound (App name: a95bf4df6627431ca5baff8173c59635 | Version: 1.3.40746.206)
  * Wizard of Legend (App name: 89443d0c5afa4ef586c72445c0399a8b | Version: 1.23.4a)
@@ -106,7 +109,7 @@ Available games:
  * Yooka-Laylee and the Impossible Lair (App name: Duckbill | Version: 1.0.28131)
 
 Total: 95
-[22/5/2025, 4:58:56 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+[23/5/2025, 6:13:15 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
 [cli] INFO: Logging in...
 [Core] INFO: Trying to re-use existing login session...
 [cli] INFO: Getting game list... (this may take a while)
@@ -160,7 +163,7 @@ Available games:
  * Hell Let Loose (App name: 3e02273b543f4ff0a1c24d3b534a9ac3 | Version: 324.979985)
  * Heroes & Generals WWII (App name: 8836f84a700140bb86103556cd7db0d4 | Version: live-173288)
  * Hood Outlaws and Legends (App name: 098f5323a3994362b6c68503d8cf3d57 | Version: HoodStaging2022R14Client_Win64Epic_Shipping_1601377.zip_Live)
- * Idle Champions de Forgotten Realms (App name: 40cb42e38c0b4a14a1bb133eb3291572 | Version: IdleDragons623064Live)
+ * Idle Champions de Forgotten Realms (App name: 40cb42e38c0b4a14a1bb133eb3291572 | Version: IdleDragons624064Live)
  * INDUSTRIA (App name: 78903903b1f1419bae248467f27ff470 | Version: 1.3.2)
  * Iratus (App name: 82ab0adb6e0b41bea531fcbb0c43cfc7 | Version: 0.96010)
  * Jotun Valhalla Edition (App name: Grouse | Version: 1.02)
@@ -188,7 +191,7 @@ Available games:
  * Severed Steel (App name: 7179f095efcc4f92a950a6d9dbd9c602 | Version: 5.5.0)
  * shapez (App name: e87a43f695bc409ca8858206678ac7e7 | Version: 1.5.5)
  * Sifu (App name: d36336f190094951873ed6138ac208d8 | Version: 6736)
- * SMITE 2 (App name: 33030b24b1df4dd5b6bcfb0314c17f39 | Version: 695)
+ * SMITE 2 (App name: 33030b24b1df4dd5b6bcfb0314c17f39 | Version: 696)
  * Star Trek Online (App name: 0fb6e06aacd14e88b1aaea8f54dd8525 | Version: CL_2023_07_14_17_29)
  * Star Wars Squadrons (App name: bobcat | Version: None)
   - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin bobcat" to activate and/or run the game.
@@ -202,7 +205,7 @@ Available games:
  * Them's Fightin' Herds (App name: 2d9d7555ccdd4ceaa1b60e501ba0bacd | Version: 1712160892)
  * VALORANT (App name: 602eb4abc8764c87b7f2607a1ef8c18e | Version: 2609-591)
  * Vampire Survivors (App name: 1136763135c0482cbbb4b2d45e978156 | Version: EGS_WINDOWS-Release-BaseGame-1.13.109-32841115)
- * Warhammer 40,000: Gladius - Relics of War (App name: da5b18cb1e7a452196c3142f2c1d7dd3 | Version: 1.15.01)
+ * Warhammer 40,000: Gladius - Relics of War (App name: da5b18cb1e7a452196c3142f2c1d7dd3 | Version: 1.16.00)
  * Wildcat Gun Machine (App name: e9c18eae78964527853bfa2053d346e2 | Version: 1.002E)
  * Windbound (App name: a95bf4df6627431ca5baff8173c59635 | Version: 1.3.40746.206)
  * Wizard of Legend (App name: 89443d0c5afa4ef586c72445c0399a8b | Version: 1.23.4a)

@@ -4,7 +4,7 @@ Installed in: /home/vmdjavem/Games/Heroic/Prefixes/default/Fallout New Vegas/dri
 
 System Info:
 CPU: 12x AMD Ryzen 5 7600X 6-Core Processor
-Memory: 32.7 GB (used: 5.21 GB)
+Memory: 32.7 GB (used: 5.1 GB)
 GPUs:
   GPU 0:
     Name: Advanced Micro Devices, Inc. [AMD/ATI] Raphael
@@ -14,14 +14,14 @@ GPUs:
     Name: Advanced Micro Devices, Inc. [AMD/ATI] Navi 32 [Radeon RX 7700 XT / 7800 XT]
     IDs: D=747e V=1002 SD=f475 SV=1da2
     Driver: amdgpu
-OS: EndeavourOS 6.14.5-arch1-1 (linux)
+OS: EndeavourOS 6.14.6-arch1-1 (linux)
 
 The current system is not a Steam Deck
 We are not running inside a Flatpak container
 
 Software Versions:
-  Heroic: 2.16.1 Scopper Gaban
-  Legendary: 0.20.36 Urban Flight (Heroic)
+  Heroic: 2.17.0 Cutty Flam Franky
+  Legendary: 0.20.37 Exit 17 (Heroic)
   gogdl: 1.1.2
   comet: comet 0.2.0
   Nile: 1.1.2 Will A. Zeppeli
@@ -32,7 +32,6 @@ Game Settings: {
 	"autoInstallVkd3d": true,
 	"preferSystemLibs": false,
 	"enableEsync": true,
-	"enableMsync": false,
 	"enableFsync": true,
 	"nvidiaPrime": false,
 	"enviromentOptions": [],
@@ -48,14 +47,6 @@ Game Settings: {
 		"enableUpscaling": false,
 		"enableLimiter": false,
 		"enableForceGrabCursor": false,
-		"windowType": "fullscreen",
-		"gameWidth": "",
-		"gameHeight": "",
-		"upscaleHeight": "",
-		"upscaleWidth": "",
-		"upscaleMethod": "fsr",
-		"fpsLimiter": "",
-		"fpsLimiterNoFocus": "",
 		"additionalOptions": ""
 	},
 	"verboseLogs": false,
@@ -67,12 +58,10 @@ Game Settings: {
 		"lib32": "/home/vmdjavem/.config/heroic/tools/wine/Wine-GE-latest/lib",
 		"wineserver": "/home/vmdjavem/.config/heroic/tools/wine/Wine-GE-latest/bin/wineserver"
 	},
-	"winePrefix": "/home/vmdjavem/Games/Heroic/Prefixes/default/Fallout New Vegas",
-	"wineCrossoverBottle": ""
+	"winePrefix": "/home/vmdjavem/Games/Heroic/Prefixes/default/Fallout New Vegas"
 }
 
-Game launched at: Fri May 09 2025 21:41:29 GMT-0500 (hora estándar oriental)
+Game launched at: Fri May 23 2025 18:13:20 GMT-0500 (hora estándar oriental)
 
 Winetricks packages: 
 
-============= End of log =============
