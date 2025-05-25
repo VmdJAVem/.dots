@@ -1,3 +1,4 @@
+/home/vmdjavem/Music/2 Low Key, Lil Chucky - On That Devil Shit.mp3
 /home/vmdjavem/Music/2Pac - No More Pain.mp3
 /home/vmdjavem/Music/2Pac, Roger, Dr. Dre - California Love - Original Version.mp3
 /home/vmdjavem/Music/6ix, Joey Valence & Brae, FELIX!, Buddy, KYLE, Blu - Raw.mp3
@@ -57,6 +58,11 @@
 /home/vmdjavem/Music/Beastie Boys - Right Right Now Now.mp3
 /home/vmdjavem/Music/berlioz, Ted Jasper - nyc in 1940.mp3
 /home/vmdjavem/Music/Björk - Hidden Place.mp3
+/home/vmdjavem/Music/Boards of Canada - An Eagle In Your Mind.mp3
+/home/vmdjavem/Music/Boards of Canada - The Color Of The Fire.mp3
+/home/vmdjavem/Music/Boards of Canada - Telephasic Workshop.mp3
+/home/vmdjavem/Music/Boards of Canada - Sixtyten.mp3
+/home/vmdjavem/Music/Boards of Canada - Roygbiv.mp3
 /home/vmdjavem/Music/Boards of Canada - Music Is Math.mp3
 /home/vmdjavem/Music/Bolden. - Dawn in LA..mp3
 /home/vmdjavem/Music/Bolden., Mauricesax - I'm here..mp3
@@ -262,6 +268,7 @@
 /home/vmdjavem/Music/Rxnde Akozta, Rodesens - 'COSAS DEL QUERER'.mp3
 /home/vmdjavem/Music/Sabaton - To Hell and Back.mp3
 /home/vmdjavem/Music/Sadfriendd, Towa - Pumpfake.mp3
+/home/vmdjavem/Music/Samsung/Over_the_Horizon.mp3
 /home/vmdjavem/Music/Science Of Sound, A Tribe Called Quest - Rhymery.mp3
 /home/vmdjavem/Music/Selene, Tatiana Gomez Rap, Eddy Mugre, Arion - ¿Algo Que Decir.mp3
 /home/vmdjavem/Music/Señor Marrano, Eddy Mugre - Sistema - Remix.mp3
@@ -312,6 +319,7 @@
 /home/vmdjavem/Music/Venetian Snares - This Bitter Earth.mp3
 /home/vmdjavem/Music/Venetian Snares - Szerencsétlen.mp3
 /home/vmdjavem/Music/Venetian Snares - Öngyilkos Vasárnap.mp3
+/home/vmdjavem/Music/Venetian Snares - Hajnal.mp3
 /home/vmdjavem/Music/Venetian Snares - Gentleman.mp3
 /home/vmdjavem/Music/Venetian Snares - Ultraviolent Junglist.mp3
 /home/vmdjavem/Music/Vertigoaway, Schizoscriptures - Break This The Breaking Point 2.mp3

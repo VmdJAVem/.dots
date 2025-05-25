@@ -4,7 +4,7 @@ Installed in: /home/vmdjavem/Games/Heroic/Prefixes/default/Fallout New Vegas/dri
 
 System Info:
 CPU: 12x AMD Ryzen 5 7600X 6-Core Processor
-Memory: 32.7 GB (used: 5.1 GB)
+Memory: 32.7 GB (used: 3.73 GB)
 GPUs:
   GPU 0:
     Name: Advanced Micro Devices, Inc. [AMD/ATI] Raphael
@@ -14,7 +14,7 @@ GPUs:
     Name: Advanced Micro Devices, Inc. [AMD/ATI] Navi 32 [Radeon RX 7700 XT / 7800 XT]
     IDs: D=747e V=1002 SD=f475 SV=1da2
     Driver: amdgpu
-OS: EndeavourOS 6.14.6-arch1-1 (linux)
+OS: EndeavourOS 6.14.7-arch2-1 (linux)
 
 The current system is not a Steam Deck
 We are not running inside a Flatpak container
@@ -61,7 +61,7 @@ Game Settings: {
 	"winePrefix": "/home/vmdjavem/Games/Heroic/Prefixes/default/Fallout New Vegas"
 }
 
-Game launched at: Fri May 23 2025 18:13:20 GMT-0500 (hora estándar oriental)
+Game launched at: Sun May 25 2025 13:56:54 GMT-0500 (hora estándar oriental)
 
 Winetricks packages: 
 

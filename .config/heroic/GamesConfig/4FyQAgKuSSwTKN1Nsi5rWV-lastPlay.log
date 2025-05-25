@@ -4,7 +4,7 @@ Installed in: /home/vmdjavem/Games/Heroic/Prefixes/default/Hearts of irons IV/dr
 
 System Info:
 CPU: 12x AMD Ryzen 5 7600X 6-Core Processor
-Memory: 32.7 GB (used: 6.48 GB)
+Memory: 32.7 GB (used: 3.82 GB)
 GPUs:
   GPU 0:
     Name: Advanced Micro Devices, Inc. [AMD/ATI] Raphael
@@ -14,17 +14,17 @@ GPUs:
     Name: Advanced Micro Devices, Inc. [AMD/ATI] Navi 32 [Radeon RX 7700 XT / 7800 XT]
     IDs: D=747e V=1002 SD=f475 SV=1da2
     Driver: amdgpu
-OS: EndeavourOS 6.14.5-arch1-1 (linux)
+OS: EndeavourOS 6.14.7-arch2-1 (linux)
 
 The current system is not a Steam Deck
 We are not running inside a Flatpak container
 
 Software Versions:
-  Heroic: 2.16.1 Scopper Gaban
-  Legendary: 0.20.36 Urban Flight (Heroic)
+  Heroic: 2.17.0 Cutty Flam Franky
+  Legendary: 0.20.37 Exit 17 (Heroic)
   gogdl: 1.1.2
   comet: comet 0.2.0
-  Nile: 1.1.2 Will A. Zeppeli
+  Nile: invalid
 
 Game Settings: {
 	"autoInstallDxvk": true,
@@ -32,7 +32,6 @@ Game Settings: {
 	"autoInstallVkd3d": true,
 	"preferSystemLibs": false,
 	"enableEsync": true,
-	"enableMsync": false,
 	"enableFsync": true,
 	"nvidiaPrime": false,
 	"enviromentOptions": [],
@@ -51,12 +50,10 @@ Game Settings: {
 		"type": "wine",
 		"wineserver": "/usr/bin/wineserver"
 	},
-	"winePrefix": "/home/vmdjavem/Games/Heroic/Prefixes/default/Hearts of irons IV",
-	"wineCrossoverBottle": ""
+	"winePrefix": "/home/vmdjavem/Games/Heroic/Prefixes/default/Hearts of irons IV"
 }
 
-Game launched at: Thu May 08 2025 18:03:04 GMT-0500 (hora estándar oriental)
+Game launched at: Sun May 25 2025 13:54:36 GMT-0500 (Eastern Standard Time)
 
 Winetricks packages: 
 
-============= End of log =============

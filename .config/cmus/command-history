@@ -1,6 +1,15 @@
+filter
+filter genre="Phonk"
+filter genre="Rap"
+filter jazz
+filter genre="Jazz"
+filter artist="Royal Quartet"
+artist="Royal Quartet"
 q
-colorscheme catppuccin
 quit
+filter artist="Boards of Canada"
+add ~/Music
+colorscheme catppuccin
 filter artist="Alcolirykoz"
 filter artist="Rxnde Akozta"
 filter artist="Canserbero"
@@ -11,7 +20,6 @@ a
 filter album="FLYING BEAGLE"
 filter album="FLYING BEABLE"
 update-cache -f
-add ~/Music
 clear
 filter artist="Pink Pantheres"
 qauit

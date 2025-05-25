@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-35.10-CL-42696140-Windows",
+      "build_version": "++Fortnite+Release-35.10-CL-42906078-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {
@@ -170,7 +170,7 @@
       },
       "SysTrayRestore": {
         "type": "STRING",
-        "value": "{\"SysTrayRestoreDisable\": \"2023-12-02T07:00:00.000Z\", \"SysTrayRestoreEnable\": \"2023-12-03T12:00:00.000Z\"}"
+        "value": "{\"SysTrayRestoreDisable\": \"2025-06-07T14:00:00.000Z\", \"SysTrayRestoreEnable\": \"2025-06-07T20:00:00.000Z\"}"
       },
       "TouchPadCheck": {
         "type": "STRING",
@@ -1529,7 +1529,7 @@
         "width": 800
       }
     ],
-    "lastModifiedDate": "2025-05-02T06:03:12.192Z",
+    "lastModifiedDate": "2025-05-23T19:35:28.327Z",
     "legalFooterText": "\u00a9 2024 Epic Games, Inc. Todos los derechos reservados. Epic, Epic Games, el logotipo de Epic Games, Unreal, Unreal Engine, UE5, el logotipo de Unreal Engine, Fortnite, el logotipo de Fortnite, Fortnite Festival y Rocket Racing son marcas comerciales o marcas registradas de Epic Games, Inc. tanto en Estados Unidos de Am\u00e9rica como en el resto del mundo. Rocket League \u00a92024 Psyonix LLC. LEGO and the LEGO logo are trademarks of the LEGO Group. \u00a9 2024 The LEGO Group. El resto de las marcas comerciales pertenecen a sus respectivos propietarios.",
     "longDescription": "Fortnite para dispositivos m\u00f3viles tiene todo lo que te encanta del juego en tu dispositivo port\u00e1til favorito. \u00a1\u00danete y habla con tus amigos, sin importar la plataforma en la que se encuentren, y progresa en el pase de batalla tal y como lo har\u00edas en una PC o consola!\n\nRequiere una conexi\u00f3n a Internet.\n\nDesarrollado con Unreal Engine.",
     "mainGameItemList": [],

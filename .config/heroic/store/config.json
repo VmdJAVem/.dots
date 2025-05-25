@@ -1,10 +1,10 @@
 {
 	"general-logs": {
-		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-23T23_13_11-heroic.log",
-		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-23T19_53_07-heroic.log",
-		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-23T23_13_11-legendary.log",
-		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-23T23_13_11-gogdl.log",
-		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-23T23_13_11-nile.log"
+		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-25T23_40_31-heroic.log",
+		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-25T22_27_02-heroic.log",
+		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-25T23_40_31-legendary.log",
+		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-25T23_40_31-gogdl.log",
+		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-25T23_40_31-nile.log"
 	},
 	"userHome": "/home/vmdjavem",
 	"language": "en",
@@ -16,7 +16,7 @@
 	"window-props": {
 		"x": 17,
 		"y": 57,
-		"width": 1886,
+		"width": 936,
 		"height": 1006,
 		"maximized": false
 	},
@@ -70,6 +70,10 @@
 	"games": {
 		"recent": [
 			{
+				"appName": "tbhWercQ8m1gTSVqCEncDK",
+				"title": "Fallout New Vegas"
+			},
+			{
 				"appName": "uLC5WCMuWeTTzKyFyQMato",
 				"title": "Dowser"
 			},
@@ -84,10 +88,6 @@
 			{
 				"appName": "bc2c95c6ff564a16b26644f1d3ac3c55",
 				"title": "BioShock Remastered"
-			},
-			{
-				"appName": "tbhWercQ8m1gTSVqCEncDK",
-				"title": "Fallout New Vegas"
 			},
 			{
 				"appName": "4FyQAgKuSSwTKN1Nsi5rWV",
