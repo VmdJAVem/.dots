@@ -1,3 +1,4 @@
+q
 filter
 filter genre="Phonk"
 filter genre="Rap"
@@ -5,7 +6,6 @@ filter jazz
 filter genre="Jazz"
 filter artist="Royal Quartet"
 artist="Royal Quartet"
-q
 quit
 filter artist="Boards of Canada"
 add ~/Music
