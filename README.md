@@ -1,1 +1,1 @@
-My dotfiles and some others things
+My dotfiles bruh
