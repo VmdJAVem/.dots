@@ -3708,7 +3708,8 @@
     "status": "Broken",
     "reference": "",
     "anticheats": [
-      "Anti-Cheat Expert"
+      "Anti-Cheat Expert",
+      "miHoYo Protect"
     ],
     "notes": [
       [
@@ -3728,7 +3729,7 @@
         "slug": "honkai-star-rail"
       }
     },
-    "dateChanged": "2024-07-31T00:00:00.000Z"
+    "dateChanged": "2025-05-26T16:54:01.0000000-04:00"
   },
   {
     "url": "",
@@ -7355,7 +7356,7 @@
     "name": "Wuthering Waves",
     "logo": "",
     "native": false,
-    "status": "Broken",
+    "status": "Planned",
     "reference": "",
     "anticheats": [
       "Anti-Cheat Expert"
@@ -7369,10 +7370,14 @@
       [
         "Might be playable on native Steam Deck hardware (non-OLED only).",
         null
+      ],
+      [
+        "Publisher claims to be looking into better Steam Deck compatibility on the Steam store page description.",
+        "https://store.steampowered.com/app/3513350/Wuthering_Waves/"
       ]
     ],
     "storeIds": {},
-    "dateChanged": "2025-03-02T14:19:28.0000000-05:00"
+    "dateChanged": "2025-05-26T17:02:16.0000000-04:00"
   },
   {
     "url": "",
@@ -7898,10 +7903,14 @@
       [
         "Runs on native Steam Deck hardware only.",
         null
+      ],
+      [
+        "Developers said they would like to enable wide Linux support in the future.",
+        "https://steamcommunity.com/app/1282270/discussions/4/4626981087516566932/?ctp=2#comment_603023633548348038"
       ]
     ],
     "storeIds": {},
-    "dateChanged": "2024-12-07T20:44:24.865Z"
+    "dateChanged": "2025-05-26T16:58:56.0000000-04:00"
   },
   {
     "url": "",
@@ -8281,7 +8290,7 @@
     "name": "Delta Force: Hawk Ops",
     "logo": "",
     "native": false,
-    "status": "Broken",
+    "status": "Denied",
     "reference": "",
     "anticheats": [
       "Anti-Cheat Expert"
@@ -8289,12 +8298,16 @@
     "updates": [],
     "notes": [
       [
-        "Runs on native Steam Deck hardware only.",
+        "Maybe runs on native Steam Deck (non-OLED) hardware only.",
         null
+      ],
+      [
+        "Game Director says you should play on mobile through Google Play. (Waydroid might be usuable here?)",
+        "https://www.reddit.com/r/gaming/comments/1k8evyo/comment/mpc3vcd/"
       ]
     ],
     "storeIds": {},
-    "dateChanged": "2024-12-07T19:29:55.985Z"
+    "dateChanged": "2025-05-26T17:05:13.0000000-04:00"
   },
   {
     "url": "",
@@ -19775,5 +19788,26 @@
     },
     "slug": "infinity-nikki",
     "dateChanged": "2024-12-06T02:30:00.000Z"
+  },
+  {
+    "url": "",
+    "slug": "rematch",
+    "name": "REMATCH",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "updates": [],
+    "notes": [
+      [
+        "Running in Closed Play Test.",
+        null
+      ]
+    ],
+    "storeIds": {},
+    "dateChanged": "2025-05-26T17:07:53.0000000-04:00"
   }
 ]

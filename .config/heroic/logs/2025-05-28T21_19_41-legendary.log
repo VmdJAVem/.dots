@@ -1,9 +1,10 @@
-[25/5/2025, 5:27:02 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+[28/5/2025, 4:19:42 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
 legendary version "0.20.37", codename "Exit 17 (Heroic)"
-[25/5/2025, 5:27:03 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+[28/5/2025, 4:19:43 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
 [cli] INFO: Logging in...
-[Core] INFO: Trying to re-use existing login session...
+[Core] INFO: Logging in...
 [cli] INFO: Getting game list... (this may take a while)
+[Core] INFO: Fetching metadata for 4 app(s).
 
 Available games:
  * 20 Minutes Till Dawn (App name: 4656facc740742a39e265b026e13d075 | Version: 1.0-win)
@@ -36,7 +37,7 @@ Available games:
  * EARTHLOCK (App name: 4a4ffcf1a8354008bcc3b28280dd2419 | Version: Windows.0.1.1_dev_7_Win64)
  * Empyrion - Galactic Survival (App name: 16db0e48c4d84d1490ab96be62a83c4c | Version: 1.12.1-4742)
  * Encased (App name: af0facaba8e643c1b9850d0683ff56df | Version: 1.3.1517.1645)
- * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_10015)
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_10134)
  * Fallout 2: A Post Nuclear Role Playing Game (App name: 74034e8449f2470d9f45115f3a49f9aa | Version: 1.3)
  * Fallout Tactics: Brotherhood of Steel (App name: 908f75e7f1624819a70c27f543741dcd | Version: 1.4)
  * Fallout: A Post Nuclear Role Playing Game (App name: f8ef168f3522419caad27d82878e0329 | Version: 1.3)
@@ -45,7 +46,7 @@ Available games:
  * Galactic Civilizations III (App name: 5f1c66366b2c4a6496d535d88c56e6cf | Version: v4.52.368416)
  * Galactic Civilizations III (Test branch) (App name: 8931f79300d04c5889799bffc8ef70bd | Version: v4.52.368416)
  * Geneforge 1: Mutagen (App name: caa2c69bf2dc40b2b883e4cbbf5b0ab2 | Version: gfwinr1021)
- * Genshin Impact (App name: 41869934302e4b8cafac2d3c0e7c293d | Version: 101)
+ * Genshin Impact (App name: 41869934302e4b8cafac2d3c0e7c293d | Version: 103)
  * Ghostrunner 2 (App name: cc3213f280df4b428e85b771c09d1891 | Version: 42294_57)
  * Ghostwire Tokyo (App name: 007ff8f4e30845a687e66aa77eb3e965 | Version: CL642509-A)
  * Golden Light (App name: 0eeaae41305043f7a465310eb2cbaff9 | Version: 1.0.5)
@@ -72,7 +73,7 @@ Available games:
  * Never Alone (Kisima Ingitchuna) (App name: f38de9fa4c6d43eabac080942cb394a1 | Version: NeverAlone-Win-1.2.8)
  * Outliver: Tribulation (App name: f5b2bda11e0f4e22b552f03be3f15f62 | Version: 1.1.3)
  * PREY (App name: 52d88e9a6df248da913c8e99f1e4c526 | Version: 1.8)
- * PUBG: BATTLEGROUNDS (App name: 9361c8c6d2f34b42b5f2f61093eedf48 | Version: 35.2.1.61)
+ * PUBG: BATTLEGROUNDS (App name: 9361c8c6d2f34b42b5f2f61093eedf48 | Version: 35.2.2.3)
  * RAWMEN: Food Fighter Arena 🍜 (App name: 93228a1a7b2b4205811d8edf930a0c18 | Version: v20250514_0306)
  * Redout: Enhanced Edition (App name: 1be5efb848844b1dabf9d67f8017a7ae | Version: 85e552)
  * Rocket League® (App name: Sugar | Version: BC2_Update54+483820)
@@ -82,7 +83,7 @@ Available games:
  * Severed Steel (App name: 7179f095efcc4f92a950a6d9dbd9c602 | Version: 5.5.0)
  * shapez (App name: e87a43f695bc409ca8858206678ac7e7 | Version: 1.5.5)
  * Sifu (App name: d36336f190094951873ed6138ac208d8 | Version: 6736)
- * SMITE 2 (App name: 33030b24b1df4dd5b6bcfb0314c17f39 | Version: 697)
+ * SMITE 2 (App name: 33030b24b1df4dd5b6bcfb0314c17f39 | Version: 698)
  * Star Trek Online (App name: 0fb6e06aacd14e88b1aaea8f54dd8525 | Version: CL_2023_07_14_17_29)
  * Star Wars Squadrons (App name: bobcat | Version: None)
   - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin bobcat" to activate and/or run the game.
@@ -106,7 +107,7 @@ Available games:
  * Yooka-Laylee and the Impossible Lair (App name: Duckbill | Version: 1.0.28131)
 
 Total: 95
-[25/5/2025, 5:27:04 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+[28/5/2025, 4:19:47 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
 [cli] INFO: Logging in...
 [Core] INFO: Trying to re-use existing login session...
 [cli] INFO: Getting game list... (this may take a while)
@@ -142,7 +143,7 @@ Available games:
  * EARTHLOCK (App name: 4a4ffcf1a8354008bcc3b28280dd2419 | Version: Windows.0.1.1_dev_7_Win64)
  * Empyrion - Galactic Survival (App name: 16db0e48c4d84d1490ab96be62a83c4c | Version: 1.12.1-4742)
  * Encased (App name: af0facaba8e643c1b9850d0683ff56df | Version: 1.3.1517.1645)
- * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_10015)
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_10134)
  * Fallout 2: A Post Nuclear Role Playing Game (App name: 74034e8449f2470d9f45115f3a49f9aa | Version: 1.3)
  * Fallout Tactics: Brotherhood of Steel (App name: 908f75e7f1624819a70c27f543741dcd | Version: 1.4)
  * Fallout: A Post Nuclear Role Playing Game (App name: f8ef168f3522419caad27d82878e0329 | Version: 1.3)
@@ -151,7 +152,7 @@ Available games:
  * Galactic Civilizations III (App name: 5f1c66366b2c4a6496d535d88c56e6cf | Version: v4.52.368416)
  * Galactic Civilizations III (Test branch) (App name: 8931f79300d04c5889799bffc8ef70bd | Version: v4.52.368416)
  * Geneforge 1: Mutagen (App name: caa2c69bf2dc40b2b883e4cbbf5b0ab2 | Version: gfwinr1021)
- * Genshin Impact (App name: 41869934302e4b8cafac2d3c0e7c293d | Version: 101)
+ * Genshin Impact (App name: 41869934302e4b8cafac2d3c0e7c293d | Version: 103)
  * Ghostrunner 2 (App name: cc3213f280df4b428e85b771c09d1891 | Version: 42294_57)
  * Ghostwire Tokyo (App name: 007ff8f4e30845a687e66aa77eb3e965 | Version: CL642509-A)
  * Golden Light (App name: 0eeaae41305043f7a465310eb2cbaff9 | Version: 1.0.5)
@@ -178,7 +179,7 @@ Available games:
  * Never Alone (Kisima Ingitchuna) (App name: f38de9fa4c6d43eabac080942cb394a1 | Version: NeverAlone-Win-1.2.8)
  * Outliver: Tribulation (App name: f5b2bda11e0f4e22b552f03be3f15f62 | Version: 1.1.3)
  * PREY (App name: 52d88e9a6df248da913c8e99f1e4c526 | Version: 1.8)
- * PUBG: BATTLEGROUNDS (App name: 9361c8c6d2f34b42b5f2f61093eedf48 | Version: 35.2.1.61)
+ * PUBG: BATTLEGROUNDS (App name: 9361c8c6d2f34b42b5f2f61093eedf48 | Version: 35.2.2.3)
  * RAWMEN: Food Fighter Arena 🍜 (App name: 93228a1a7b2b4205811d8edf930a0c18 | Version: v20250514_0306)
  * Redout: Enhanced Edition (App name: 1be5efb848844b1dabf9d67f8017a7ae | Version: 85e552)
  * Rocket League® (App name: Sugar | Version: BC2_Update54+483820)
@@ -188,7 +189,7 @@ Available games:
  * Severed Steel (App name: 7179f095efcc4f92a950a6d9dbd9c602 | Version: 5.5.0)
  * shapez (App name: e87a43f695bc409ca8858206678ac7e7 | Version: 1.5.5)
  * Sifu (App name: d36336f190094951873ed6138ac208d8 | Version: 6736)
- * SMITE 2 (App name: 33030b24b1df4dd5b6bcfb0314c17f39 | Version: 697)
+ * SMITE 2 (App name: 33030b24b1df4dd5b6bcfb0314c17f39 | Version: 698)
  * Star Trek Online (App name: 0fb6e06aacd14e88b1aaea8f54dd8525 | Version: CL_2023_07_14_17_29)
  * Star Wars Squadrons (App name: bobcat | Version: None)
   - This game has to be activated, installed, and launched via Origin, use "legendary launch --origin bobcat" to activate and/or run the game.

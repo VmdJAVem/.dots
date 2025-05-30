@@ -1,0 +1,4 @@
+plugin_dirs = ['/home/vmdjavem/.wine/drive_c/Program Files/Common Files/VST3']
+vst2_location = 'centralized'
+no_verify = false
+blacklist = []
