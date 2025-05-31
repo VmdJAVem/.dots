@@ -6546,7 +6546,7 @@
     "name": "ヘブンバーンズレッド (Heaven Burns Red)",
     "logo": "",
     "native": false,
-    "status": "Broken",
+    "status": "Running",
     "reference": "",
     "anticheats": [
       "Crackproof",
@@ -6555,12 +6555,16 @@
     "updates": [],
     "notes": [
       [
+        "Requires Wine 10.5+ or Proton 10+.",
+        null
+      ],
+      [
         "Playable on Waydroid",
         null
       ]
     ],
     "storeIds": {},
-    "dateChanged": "2024-07-31T00:01:49.712Z"
+    "dateChanged": "2025-05-30T17:20:03.0000000-04:00"
   },
   {
     "url": "",
@@ -7828,7 +7832,7 @@
     "name": "Mabinogi",
     "logo": "",
     "native": false,
-    "status": "Broken",
+    "status": "Running",
     "reference": "",
     "anticheats": [
       "AhnLab HackShield",
@@ -7837,7 +7841,7 @@
     "updates": [],
     "notes": [],
     "storeIds": {},
-    "dateChanged": "2024-10-07T22:48:08.575Z"
+    "dateChanged": "2025-05-29T18:21:47.0000000-04:00"
   },
   {
     "url": "",
@@ -19809,5 +19813,37 @@
     ],
     "storeIds": {},
     "dateChanged": "2025-05-26T17:07:53.0000000-04:00"
+  },
+  {
+    "url": "",
+    "slug": "nba-2k25",
+    "name": "NBA 2K25",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2025-05-29T18:34:45.0000000-04:00"
+  },
+  {
+    "url": "",
+    "slug": "elden-ring-nightreign",
+    "name": "Elden Ring: Nightreign",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2025-05-30T17:20:59.0000000-04:00"
   }
 ]

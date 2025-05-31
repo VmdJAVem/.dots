@@ -126,7 +126,7 @@
     {
       "app_name": "33030b24b1df4dd5b6bcfb0314c17f39",
       "asset_id": "33030b24b1df4dd5b6bcfb0314c17f39",
-      "build_version": "698",
+      "build_version": "699",
       "catalog_item_id": "975a3a2eca7c42ca9c610443ab0ae0bd",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -491,7 +491,7 @@
     {
       "app_name": "40cb42e38c0b4a14a1bb133eb3291572",
       "asset_id": "40cb42e38c0b4a14a1bb133eb3291572",
-      "build_version": "IdleDragons624064Live",
+      "build_version": "IdleDragons625264Live",
       "catalog_item_id": "48353a502e72433298f25827e03dbff0",
       "label_name": "Live-Windows",
       "metadata": {
@@ -1032,7 +1032,7 @@
     {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-35.10-CL-42906078-Windows",
+      "build_version": "++Fortnite+Release-35.20-CL-42911808-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {

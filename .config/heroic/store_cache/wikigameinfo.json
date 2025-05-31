@@ -1,1 +1,51 @@
-{}
+{
+	"GTA IV": {
+		"pcgamingwiki": {
+			"steamID": "12210",
+			"howLongToBeatID": "4062",
+			"metacritic": {
+				"score": "90",
+				"urlid": "grand-theft-auto-iv"
+			},
+			"opencritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"igdb": {
+				"score": "88",
+				"urlid": "grand-theft-auto-iv"
+			},
+			"direct3DVersions": [
+				"9.0c"
+			],
+			"genres": [
+				"OpenWorld",
+				"Action"
+			],
+			"releaseDate": [
+				"Windows: December 2, 2008"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"mainStory": 27,
+			"mainExtra": 41,
+			"completionist": 74,
+			"gameId": 4062,
+			"gameName": "Grand Theft Auto IV",
+			"gameImageUrl": "https://howlongtobeat.com/games/4062_Grand_Theft_Auto_IV.png",
+			"gameWebLink": "https://howlongtobeat.com/game/4062"
+		},
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 2
+		},
+		"umuId": null
+	},
+	"__timestamp": {
+		"GTA IV": "Fri May 30 2025 18:15:38 GMT-0500 (hora estándar oriental)"
+	}
+}

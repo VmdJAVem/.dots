@@ -1,10 +1,10 @@
 {
 	"general-logs": {
-		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-28T21_19_41-heroic.log",
-		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-25T23_40_31-heroic.log",
-		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-28T21_19_41-legendary.log",
-		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-28T21_19_41-gogdl.log",
-		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-28T21_19_41-nile.log"
+		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-30T23_03_53-heroic.log",
+		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-30T21_51_59-heroic.log",
+		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-30T23_03_53-legendary.log",
+		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-30T23_03_53-gogdl.log",
+		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-30T23_03_53-nile.log"
 	},
 	"userHome": "/home/vmdjavem",
 	"language": "en",
@@ -14,8 +14,8 @@
 		"user": "vmdjavem"
 	},
 	"window-props": {
-		"x": 17,
-		"y": 57,
+		"x": 15,
+		"y": 55,
 		"width": 1886,
 		"height": 1006,
 		"maximized": false
@@ -69,6 +69,10 @@
 	},
 	"games": {
 		"recent": [
+			{
+				"appName": "qiF6wurL2vEmoJPF3nrpj1",
+				"title": "GTA IV"
+			},
 			{
 				"appName": "tbhWercQ8m1gTSVqCEncDK",
 				"title": "Fallout New Vegas"
