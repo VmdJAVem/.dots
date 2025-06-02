@@ -1,9 +1,12 @@
 q
+qa!
+colorscheme gruvbox
+theme gruvbox
+filter
+filter artist="Joey Valence & Brae"
 h
 EZ
 Q
-qa!
-filter
 filter genre="Phonk"
 filter genre="Rap"
 filter jazz
@@ -32,7 +35,6 @@ pause
 p
 filter artist='rage against the machine'
 hide
-colorscheme gruvbox
 filter artist="Charli xcx"
 search Igorrr
 search

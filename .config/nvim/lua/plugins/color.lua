@@ -1,33 +1,13 @@
+-- ~/.config/nvim/lua/plugins/color.lua
 return {
   {
-    "catppuccin/nvim",
-    name = "catppuccin",
-    priority = 1000, -- Ensure it loads first
+    "ellisonleao/gruvbox.nvim",
+    priority = 1000,
+    config = true,
     opts = {
-      flavour = "macchiato", -- Specify Mocha flavor
-      integrations = {
-        aerial = true,
-        alpha = true,
-        cmp = true,
-        gitsigns = true,
-        treesitter = true,
-        telescope = true,
-        native_lsp = {
-          enabled = true,
-          underlines = {
-            errors = { "undercurl" },
-            warnings = { "undercurl" },
-          },
-        },
-        -- Add other integrations as needed :cite[1]:cite[2]
-      },
+      -- Your customization options here
+      contrast = "hard",
     },
   },
-  -- Configure LazyVim to load Catppuccin
-  {
-    "LazyVim/LazyVim",
-    opts = {
-      colorscheme = "catppuccin",
-    },
-  },
+  -- Add other color-related plugins here
 }

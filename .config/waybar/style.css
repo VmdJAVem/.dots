@@ -7,7 +7,7 @@
 
 window#waybar {
     background: transparent;
-    color: #B8C0E0; /* Changed from #fbf1c7 */
+    color: #A89984; /* Changed from #fbf1c7 */
 }
 
 #waybar {
@@ -31,7 +31,7 @@ window#waybar {
 #pulseaudio,
 #bluetooth,
 #custom-playerctl {
-    color: #B8C0E0; /* Changed from #fbf1c7 */
+    color: #A89984; /* Changed from #fbf1c7 */
     padding: 0 12px;
     margin: 0 2px;
 }
@@ -44,28 +44,28 @@ window#waybar {
 
 /* Workspace numbers */
 #hyprland-workspaces button {
-    color: #B8C0E0; /* Changed from #fbf1c7 */
+    color: #A89984; /* Changed from #fbf1c7 */
     padding: 0 8px;
 }
 
 /* Active/focused workspace */
 #hyprland-workspaces button.focused {
-    color: #B8C0E0; /* Changed from #fbf1c7 */
+    color: #A89984; /* Changed from #fbf1c7 */
 }
 
 /* Urgent workspace */
 #hyprland-workspaces button.urgent {
-    color: #B8C0E0; /* Changed from #fbf1c7 */
+    color: #A89984; /* Changed from #fbf1c7 */
 }
 
 .custom-arrow {
-    color: #B8C0E0; /* Changed from #fbf1c7 */
+    color: #A89984; /* Changed from #fbf1c7 */
     font-size: 18px;
     padding: 0;
     margin: 0 -6px;
 }
 
-/* All text changed to #B8C0E0 */
+/* All text changed to #A89984 */
 #custom-pacman,
 #cpu,
 #memory,
@@ -74,11 +74,11 @@ window#waybar {
 #bluetooth,
 #custom-playerctl,
 #clock {
-    color: #B8C0E0; /* Changed from #fbf1c7 */
+    color: #A89984; /* Changed from #fbf1c7 */
 }
 
 /* State colors */
-#network.disconnected { color: #B8C0E0; } /* Changed from #fbf1c7 */
-#pulseaudio.muted { color: #B8C0E0; } /* Changed from #fbf1c7 */
-#temperature.critical { color: #B8C0E0; } /* Changed from #fbf1c7 */
-#battery.critical:not(.charging) { color: #B8C0E0; } /* Changed from #fbf1c7 */
+#network.disconnected { color: #A89984; } /* Changed from #fbf1c7 */
+#pulseaudio.muted { color: #A89984; } /* Changed from #fbf1c7 */
+#temperature.critical { color: #A89984; } /* Changed from #fbf1c7 */
+#battery.critical:not(.charging) { color: #A89984; } /* Changed from #fbf1c7 */
