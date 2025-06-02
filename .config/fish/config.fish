@@ -13,7 +13,7 @@ alias config='/usr/bin/git --git-dir=$HOME/poo --work-tree=$HOME'
 alias archfetch='neofetch --source neofetch_ascii/arch.txt'
 alias cd='z'
 function fish_greeting
-    fortune -a
+    echo "hi :3"
 end
 # Prompt customization
 function fish_prompt
@@ -42,7 +42,8 @@ set -gx PATH $PATH /home/vmdjavem/.local/bin
 
 #zoxide
 zoxide init fish | source
-# Start fastfetch
-ff
+# Start hyfetch
+hyfetch
 
-set -q GHCUP_INSTALL_BASE_PREFIX[1]; or set GHCUP_INSTALL_BASE_PREFIX $HOME ; set -gx PATH $HOME/.cabal/bin $PATH /home/vmdjavem/.ghcup/bin # ghcup-env
+set -q GHCUP_INSTALL_BASE_PREFIX[1]; or set GHCUP_INSTALL_BASE_PREFIX $HOME
+set -gx PATH $HOME/.cabal/bin $PATH /home/vmdjavem/.ghcup/bin # ghcup-env
