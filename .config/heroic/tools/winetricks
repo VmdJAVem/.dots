@@ -2327,8 +2327,8 @@ w_set_winver()
         # These are the mismatched ones:
         # winecfg doesn't accept 'default' as an option (as of wine-5.9):
         # https://bugs.winehq.org/show_bug.cgi?id=49241
-        # For now, assuming win7:
-        default)  _W_winver="win7";;
+        # For now, assuming win10:
+        default)  _W_winver="win10";;
         win2k3)   _W_winver="win2003";;
         win2k8)   _W_winver="win2008";;
         win2k8r2) _W_winver="win2008r2";;
@@ -7698,6 +7698,41 @@ load_dxvk_nvapi0061()
     helper_dxvk_nvapi "${file1}" "7.1" "nvapi,nvapi64"
 }
 
+w_metadata dxvk_nvapi009 dlls \
+    title="Alternative NVAPI Vulkan implementation on top of DXVK for Linux / Wine (0.9.0)" \
+    publisher="Jens Peters" \
+    year="2025" \
+    media="download" \
+    file1="dxvk-nvapi-v0.9.0.tar.gz" \
+    installed_file1="${W_SYSTEM32_DLLS_WIN}/nvapi.dll" \
+    installed_file2="${W_SYSTEM32_DLLS_WIN}/nvapi64.dll"
+
+load_dxvk_nvapi009()
+{
+    w_download "https://github.com/jp7677/dxvk-nvapi/releases/download/v0.9.0/dxvk-nvapi-v0.9.0.tar.gz" 98be815a7a10e7e0474ad9a01f205ca5279cf6d749f5094e94b39f3d09a39f1d
+    helper_dxvk_nvapi "${file1}" "7.1" "nvapi,nvapi64"
+}
+
+#----------------------------------------------------------------
+
+w_metadata dxvk_nvapi dlls \
+    title="Alternative NVAPI Vulkan implementation on top of DXVK for Linux / Wine (latest)" \
+    publisher="Jens Peters" \
+    year="2025" \
+    media="download" \
+    installed_file1="${W_SYSTEM32_DLLS_WIN}/nvapi.dll" \
+    installed_file2="${W_SYSTEM32_DLLS_WIN}/nvapi64.dll"
+
+load_dxvk_nvapi()
+{
+    # https://github.com/jp7677/dxvk-nvapi
+    _W_dxvk_nvapi_version="$(w_get_github_latest_release jp7677 dxvk-nvapi)"
+    _W_dxvk_nvapi_version="${_W_dxvk_nvapi_version#v}"
+    w_linkcheck_ignore=1 w_download "https://github.com/jp7677/dxvk-nvapi/releases/download/v${_W_dxvk_nvapi_version}/dxvk-nvapi-v${_W_dxvk_nvapi_version}.tar.gz"
+    helper_dxvk_nvapi "dxvk-nvapi-v${_W_dxvk_nvapi_version}.tar.gz" "7.1" "nvapi,nvapi64"
+    unset _W_dxvk_nvapi_version
+}
+
 #----------------------------------------------------------------
 
 # $1 - vkd3d-proton archive name (required)
@@ -9900,10 +9935,32 @@ load_galliumnine09()
     helper_galliumnine "${file1}"
 }
 
+
+w_metadata galliumnine010 dlls \
+    title="Gallium Nine Standalone (v0.10)" \
+    publisher="Gallium Nine Team" \
+    year="2024" \
+    media="download" \
+    file1="gallium-nine-standalone-v0.10.tar.gz" \
+    installed_file1="${W_SYSTEM32_DLLS_WIN}/d3d9-nine.dll" \
+    installed_file2="${W_SYSTEM32_DLLS_WIN}/ninewinecfg.exe" \
+    homepage="https://github.com/iXit/wine-nine-standalone"
+
+
+load_galliumnine010()
+{
+    w_package_broken "https://github.com/iXit/wine-nine-standalone/issues/149" "" 5.7
+
+    w_download "https://github.com/iXit/wine-nine-standalone/releases/download/v0.10/gallium-nine-standalone-v0.10.tar.gz" 42126d753b1e0f139a98b096982a864b29e4b63be25903036255d0493bdc8f8d
+    w_warn "Gallium Nine is Deprecated and will be removed in Mesa3D 25.2 release https://cgit.freedesktop.org/mesa/mesa/commit/?id=6b6cb825e92ad3bf33b1e032151e32c7b79d8323"
+    helper_galliumnine "${file1}"
+}
+
+
 w_metadata galliumnine dlls \
     title="Gallium Nine Standalone (latest)" \
     publisher="Gallium Nine Team" \
-    year="2023" \
+    year="2024" \
     media="download" \
     installed_file1="${W_SYSTEM32_DLLS_WIN}/d3d9-nine.dll" \
     installed_file2="${W_SYSTEM32_DLLS_WIN}/ninewinecfg.exe" \
@@ -9918,6 +9975,7 @@ load_galliumnine()
 
     _W_galliumnine_version="$(w_get_github_latest_release iXit wine-nine-standalone)"
     w_linkcheck_ignore=1 w_download "https://github.com/iXit/wine-nine-standalone/releases/download/${_W_galliumnine_version}/gallium-nine-standalone-${_W_galliumnine_version}.tar.gz"
+    w_warn "Gallium Nine is deprecated and will be removed in Mesa3D 25.2 release https://cgit.freedesktop.org/mesa/mesa/commit/?id=6b6cb825e92ad3bf33b1e032151e32c7b79d8323"
     helper_galliumnine "gallium-nine-standalone-${_W_galliumnine_version}.tar.gz"
     unset _W_galliumnine_version
 }

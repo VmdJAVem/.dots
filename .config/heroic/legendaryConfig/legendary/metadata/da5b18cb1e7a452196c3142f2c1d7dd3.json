@@ -5,11 +5,12 @@
     "Windows": {
       "app_name": "da5b18cb1e7a452196c3142f2c1d7dd3",
       "asset_id": "da5b18cb1e7a452196c3142f2c1d7dd3",
-      "build_version": "1.16.00",
+      "build_version": "1.16.01",
       "catalog_item_id": "c8e3c334b682458a8489cfa06063d7f6",
       "label_name": "Live-Windows",
       "metadata": {
-        "installationPoolId": "82672dc352fa4aab910d9fd05aaf0b38"
+        "installationPoolId": "82672dc352fa4aab910d9fd05aaf0b38",
+        "update_type": "MINOR"
       },
       "namespace": "0d89655f53884b09b241b60c07e684af",
       "sidecar_rev": 0

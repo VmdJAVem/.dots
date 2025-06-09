@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "04a54ed532ce4fbfbf8fd5833f60def0",
       "asset_id": "04a54ed532ce4fbfbf8fd5833f60def0",
-      "build_version": "DL_1.50.0f2",
+      "build_version": "DL_1.51.0",
       "catalog_item_id": "9421139e63f34d6281c18698b54d1e63",
       "label_name": "Live-Windows",
       "metadata": {
@@ -67,7 +67,7 @@
       }
     },
     "description": "Dying Light",
-    "developer": "Techland",
+    "developer": "Techland S.A.",
     "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
     "dlcItemList": [
       {
@@ -84,7 +84,7 @@
         "creationDate": "2021-06-12T04:19:27.920Z",
         "customAttributes": {},
         "description": "siren White Death Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "0d223de8853541d69b7df1d7386f3f9c",
@@ -96,7 +96,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-09T16:50:17.624Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.875Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -130,7 +130,7 @@
         "creationDate": "2021-06-12T04:21:52.210Z",
         "customAttributes": {},
         "description": "siren SHU Warrior Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "58608efff2a840c9917f88eb034c9339",
@@ -142,7 +142,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-09T16:50:17.650Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.943Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -181,7 +181,7 @@
           }
         },
         "description": "Savvy Gamer Bundle audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "22708bd52e8c4faf8cc92c386086f1fd",
@@ -192,7 +192,7 @@
         "id": "22708bd52e8c4faf8cc92c386086f1fd",
         "installModes": [],
         "itemType": "DURABLE",
-        "lastModifiedDate": "2024-05-09T16:50:17.631Z",
+        "lastModifiedDate": "2025-05-07T10:29:12.714Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -226,7 +226,7 @@
         "creationDate": "2021-06-12T04:18:00.590Z",
         "customAttributes": {},
         "description": "siren Combat Armor Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "7b5c1a55dc7040b6999294bd2eff6d6f",
@@ -238,7 +238,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-09T16:50:17.658Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.830Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -277,7 +277,7 @@
           }
         },
         "description": "Chivalry Weapon Pack audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "1a506d9f27f9448fa26cf6f9f058e4cf",
@@ -288,7 +288,7 @@
         "id": "1a506d9f27f9448fa26cf6f9f058e4cf",
         "installModes": [],
         "itemType": "DURABLE",
-        "lastModifiedDate": "2022-06-09T16:58:54.424Z",
+        "lastModifiedDate": "2025-05-07T10:29:13.042Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -327,7 +327,7 @@
           }
         },
         "description": "Unturned Weapon Pack audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "c64f5415d90a435a82eaf182b1f10d1c",
@@ -338,7 +338,7 @@
         "id": "c64f5415d90a435a82eaf182b1f10d1c",
         "installModes": [],
         "itemType": "DURABLE",
-        "lastModifiedDate": "2022-06-09T16:58:54.432Z",
+        "lastModifiedDate": "2025-05-07T10:29:12.997Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -409,7 +409,7 @@
           }
         },
         "description": "Dying Light Hellraid",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "3f1a46ae5f284594805c58465669fb63",
@@ -440,7 +440,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-02-07T10:17:36.553Z",
+        "lastModifiedDate": "2025-05-07T10:29:12.032Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -482,7 +482,7 @@
         "creationDate": "2021-06-12T04:13:33.087Z",
         "customAttributes": {},
         "description": "siren Gun Psycho Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "c041bfb1c5544492b97379191c90c129",
@@ -494,7 +494,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-09T16:50:17.672Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.698Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -528,7 +528,7 @@
         "creationDate": "2021-06-12T04:22:19.405Z",
         "customAttributes": {},
         "description": "siren Godfather Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "f38a585869f14e76a9995278d34d3aff",
@@ -540,7 +540,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-09T16:50:17.680Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.966Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -574,7 +574,7 @@
         "creationDate": "2021-04-20T18:59:11.424Z",
         "customAttributes": {},
         "description": "Harran Inmate Bundle Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "198e2b7b3b3144028998ecc98e3aa899",
@@ -586,7 +586,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-09T16:50:17.625Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.428Z",
         "longDescription": "Harran Inmate Bundle Audience",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
@@ -621,7 +621,7 @@
         "creationDate": "2021-06-12T04:14:20.002Z",
         "customAttributes": {},
         "description": "siren Harran Ranger Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "afcbbf5e8904439e9675079238c6c6f2",
@@ -633,7 +633,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-09T16:50:17.668Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.721Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -667,7 +667,7 @@
         "creationDate": "2021-06-12T04:16:07.441Z",
         "customAttributes": {},
         "description": "siren Vintage Gunslinger Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "67ebb80df82b463fa21ab7307e47578d",
@@ -679,7 +679,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-09T16:50:17.654Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.787Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -713,7 +713,7 @@
         "creationDate": "2021-06-12T04:18:42.243Z",
         "customAttributes": {},
         "description": "siren Raiders of Harran Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "1d4561fd4aa64846bdce4111232a69e2",
@@ -725,7 +725,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-09T16:50:17.626Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.852Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -764,7 +764,7 @@
           }
         },
         "description": "L4D2 Bill and Gnome Chompski Pack audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "562eec422ea04230a529bdc0f646fc23",
@@ -775,7 +775,7 @@
         "id": "562eec422ea04230a529bdc0f646fc23",
         "installModes": [],
         "itemType": "DURABLE",
-        "lastModifiedDate": "2022-06-09T16:58:54.429Z",
+        "lastModifiedDate": "2025-05-07T10:29:12.953Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -809,7 +809,7 @@
         "creationDate": "2021-06-12T04:12:11.780Z",
         "customAttributes": {},
         "description": "siren Crash Test Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "3c9e51c75c834a1c8b4e60d6b219095e",
@@ -821,7 +821,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-21T15:05:53.280Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.655Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -855,7 +855,7 @@
         "creationDate": "2021-06-12T04:14:52.326Z",
         "customAttributes": {},
         "description": "siren Harran Tactical Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "7ce0f090816c405eacac5c58e0d0a238",
@@ -867,7 +867,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-09T16:50:17.659Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.744Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -901,7 +901,7 @@
         "creationDate": "2021-06-12T04:20:43.912Z",
         "customAttributes": {},
         "description": "siren Rais Elite Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "b8263fd9c74e4c11bf0f9c7d5a261c76",
@@ -913,7 +913,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-09T16:50:17.670Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.897Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -984,7 +984,7 @@
           }
         },
         "description": "Dying Light The Bozak",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "5821c65a103144548f3b55e8ce011292",
@@ -1015,7 +1015,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2024-05-09T16:50:17.649Z",
+        "lastModifiedDate": "2025-05-07T10:29:12.054Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1062,7 +1062,7 @@
           }
         },
         "description": "Rust Weapon Pack audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "8044af23f1cb4550944090fb48473b66",
@@ -1073,7 +1073,7 @@
         "id": "8044af23f1cb4550944090fb48473b66",
         "installModes": [],
         "itemType": "DURABLE",
-        "lastModifiedDate": "2022-06-09T16:58:54.391Z",
+        "lastModifiedDate": "2025-05-07T10:29:12.670Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1112,7 +1112,7 @@
           }
         },
         "description": "Dieselpunk Bundle audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "c5db31b8fab84e21b8a2062d987e8322",
@@ -1123,7 +1123,7 @@
         "id": "c5db31b8fab84e21b8a2062d987e8322",
         "installModes": [],
         "itemType": "DURABLE",
-        "lastModifiedDate": "2024-05-09T16:50:17.673Z",
+        "lastModifiedDate": "2025-05-07T10:29:13.084Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1194,7 +1194,7 @@
           }
         },
         "description": "Dying Light The Following",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "c7475b5731fb483283651c9d67b86adb",
@@ -1225,7 +1225,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2024-05-09T16:50:17.674Z",
+        "lastModifiedDate": "2025-05-07T10:29:12.010Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1272,7 +1272,7 @@
           }
         },
         "description": "Snow Ops Bundle audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "011b93254f494eabbec65bffbd49bb72",
@@ -1283,7 +1283,7 @@
         "id": "011b93254f494eabbec65bffbd49bb72",
         "installModes": [],
         "itemType": "DURABLE",
-        "lastModifiedDate": "2024-05-09T16:50:17.622Z",
+        "lastModifiedDate": "2025-05-07T10:29:12.845Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1317,7 +1317,7 @@
         "creationDate": "2021-06-12T04:12:55.578Z",
         "customAttributes": {},
         "description": "siren Classified Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "7f5cb91cb2ec4210b269a6207d1536d6",
@@ -1329,7 +1329,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-09T16:50:17.660Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.676Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1363,7 +1363,7 @@
         "creationDate": "2021-06-12T04:17:07.713Z",
         "customAttributes": {},
         "description": "siren Volatile Hunter Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "2e56128339ec416e9d150d13829eafb2",
@@ -1375,7 +1375,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-09T16:50:17.634Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.809Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1409,7 +1409,7 @@
         "creationDate": "2021-06-12T04:22:47.510Z",
         "customAttributes": {},
         "description": "siren Ox Warrior Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "be56d6617b0a43f4a9dd84fd7d47c5ce",
@@ -1421,7 +1421,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2022-06-09T16:58:54.409Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.987Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1455,7 +1455,7 @@
         "creationDate": "2021-06-12T04:11:21.039Z",
         "customAttributes": {},
         "description": "siren 5th Anniversary Bundle Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "0cc60eaa48974f3585479f9f1e348b1c",
@@ -1467,7 +1467,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-09T16:50:17.623Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.633Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1501,7 +1501,7 @@
         "creationDate": "2021-06-12T04:15:28.832Z",
         "customAttributes": {},
         "description": "siren Ultimate Survivor Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "e922b43e49034080937cb80169cd498b",
@@ -1513,7 +1513,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-21T15:05:26.099Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.765Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1547,7 +1547,7 @@
         "creationDate": "2021-06-12T04:21:14.471Z",
         "customAttributes": {},
         "description": "siren Retrowave Audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "48b907006adb4758a503f2384c589c3c",
@@ -1559,7 +1559,7 @@
         "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2024-05-09T16:50:17.644Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.920Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1598,7 +1598,7 @@
           }
         },
         "description": "Astronaut Bundle audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "faa5143c9c6c4173b2228f91c0c3b13d",
@@ -1609,7 +1609,7 @@
         "id": "faa5143c9c6c4173b2228f91c0c3b13d",
         "installModes": [],
         "itemType": "DURABLE",
-        "lastModifiedDate": "2024-05-09T16:50:17.681Z",
+        "lastModifiedDate": "2025-05-07T10:29:12.758Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1648,7 +1648,7 @@
           }
         },
         "description": "Left 4 Dead 2 Weapon Pack audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "2da26c664de342ae9abd725218969425",
@@ -1659,7 +1659,7 @@
         "id": "2da26c664de342ae9abd725218969425",
         "installModes": [],
         "itemType": "DURABLE",
-        "lastModifiedDate": "2022-06-09T16:58:54.427Z",
+        "lastModifiedDate": "2025-05-07T10:29:12.910Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1698,7 +1698,7 @@
           }
         },
         "description": "Van Crane Bundle audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "948214825ae247dfaa2c9d7ddd494dce",
@@ -1709,7 +1709,7 @@
         "id": "948214825ae247dfaa2c9d7ddd494dce",
         "installModes": [],
         "itemType": "DURABLE",
-        "lastModifiedDate": "2024-05-09T16:50:17.663Z",
+        "lastModifiedDate": "2025-05-07T10:29:12.800Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1748,7 +1748,7 @@
           }
         },
         "description": "Dying LightEnhanced to Definitive Edition Upgrade audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "b4c09b5698f248d9af7d3d746a8263cb",
@@ -1758,7 +1758,7 @@
         ],
         "id": "b4c09b5698f248d9af7d3d746a8263cb",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2024-05-29T14:38:38.783Z",
+        "lastModifiedDate": "2025-05-07T10:29:13.805Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1797,7 +1797,7 @@
           }
         },
         "description": "DL2 Upgrade bundle audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "444e9b61c94d48f6a2660b5078557a9f",
@@ -1807,7 +1807,7 @@
         ],
         "id": "444e9b61c94d48f6a2660b5078557a9f",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2023-04-05T04:40:02.972Z",
+        "lastModifiedDate": "2025-05-07T10:29:13.889Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1843,7 +1843,7 @@
           }
         },
         "description": "Dying Light: Standard to Enhanced Edition Upgrade",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "abc75324a4d042d7bb252adf1d720bb5",
@@ -1853,7 +1853,7 @@
         ],
         "id": "abc75324a4d042d7bb252adf1d720bb5",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2024-05-29T14:24:15.571Z",
+        "lastModifiedDate": "2025-05-07T10:29:15.064Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1889,7 +1889,7 @@
           }
         },
         "description": "Dying Light: Standard to Definitive Edition Upgrade",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "214c88ff73d041fea0b52dd7be3b4657",
@@ -1899,7 +1899,7 @@
         ],
         "id": "214c88ff73d041fea0b52dd7be3b4657",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2024-05-29T14:32:23.331Z",
+        "lastModifiedDate": "2025-05-07T10:29:15.107Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1938,7 +1938,7 @@
           }
         },
         "description": "Dying Light: 10th Anniversary Bundle audience",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "e94cfa3362cb4b54813dc7c9d3e0ca31",
@@ -1948,7 +1948,7 @@
         ],
         "id": "e94cfa3362cb4b54813dc7c9d3e0ca31",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2025-01-28T10:48:49.539Z",
+        "lastModifiedDate": "2025-05-07T10:29:15.240Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1998,7 +1998,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-01-27T12:42:09.937Z",
+    "lastModifiedDate": "2025-05-07T10:29:11.332Z",
     "mainGameItemList": [],
     "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
     "releaseInfo": [

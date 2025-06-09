@@ -1,10 +1,10 @@
 {
 	"general-logs": {
-		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-30T23_03_53-heroic.log",
-		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-30T21_51_59-heroic.log",
-		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-30T23_03_53-legendary.log",
-		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-30T23_03_53-gogdl.log",
-		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-05-30T23_03_53-nile.log"
+		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-06T23_14_42-heroic.log",
+		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-06T19_57_19-heroic.log",
+		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-06T23_14_42-legendary.log",
+		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-06T23_14_42-gogdl.log",
+		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-06T23_14_42-nile.log"
 	},
 	"userHome": "/home/vmdjavem",
 	"language": "en",
@@ -14,13 +14,13 @@
 		"user": "vmdjavem"
 	},
 	"window-props": {
-		"x": 15,
+		"x": 17,
 		"y": 55,
 		"width": 1886,
-		"height": 1006,
+		"height": 1008,
 		"maximized": false
 	},
-	"theme": "dracula",
+	"theme": "gruvbox_dark",
 	"settings": {
 		"checkUpdatesInterval": 10,
 		"enableUpdates": false,
@@ -70,6 +70,10 @@
 	"games": {
 		"recent": [
 			{
+				"appName": "puJw5rzdvKHmsAjcxMTH1m",
+				"title": "Hearts of iron IV"
+			},
+			{
 				"appName": "qiF6wurL2vEmoJPF3nrpj1",
 				"title": "GTA IV"
 			},
@@ -80,10 +84,6 @@
 			{
 				"appName": "uLC5WCMuWeTTzKyFyQMato",
 				"title": "Dowser"
-			},
-			{
-				"appName": "puJw5rzdvKHmsAjcxMTH1m",
-				"title": "Hearts of iron IV"
 			},
 			{
 				"appName": "a64dcf9b711a4a60a3c0b6f052dfc7da",

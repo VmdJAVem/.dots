@@ -1,0 +1,55 @@
+(18:14:42) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary
+(18:14:42) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl
+(18:14:42) INFO:    [Connection]:       Connectivity: check-online
+(18:14:42) INFO:    [Connection]:       Pinging external endpoints
+(18:14:42) INFO:    [Gog]:              Checking for existing gog manifests
+(18:14:42) WARNING: [Backend]:          Protocol already registered.
+(18:14:42) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+(18:14:42) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json --version
+(18:14:42) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/vmdjavem/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/nile --version
+(18:14:42) INFO:    [Connection]:       Connectivity: online
+(18:14:42) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(18:14:42) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json auth
+(18:14:42) INFO:    [Backend]:          
+System Information:
+CPU: 12x AMD Ryzen 5 7600X 6-Core Processor
+Memory: 32.7 GB (used: 6.29 GB)
+GPUs:
+  GPU 0:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Raphael
+    IDs: D=164e V=1002 SD=7e26 SV=1462
+    Driver: amdgpu
+  GPU 1:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Navi 32 [Radeon RX 7700 XT / 7800 XT]
+    IDs: D=747e V=1002 SD=f475 SV=1da2
+    Driver: amdgpu
+OS: EndeavourOS 6.14.9-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.17.1 Cutty Flam Franky
+  Legendary: 0.20.37 Exit 17 (Heroic)
+  gogdl: 1.1.2
+  comet: comet 0.2.0
+  Nile: 1.1.2 Will A. Zeppeli
+
+(18:14:42) INFO:    [Frontend]:         Refreshing undefined Library
+(18:14:42) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(18:14:42) INFO:    [Legendary]:        Refreshing library...
+(18:14:42) INFO:    [Legendary]:        Refreshing Epic Games...
+(18:14:42) INFO:    [Backend]:          Frontend Ready
+(18:14:42) INFO:    [Backend]:          Checking for new Heroic Updates
+(18:14:42) INFO:    [Backend]:          Checking for current version changelog
+(18:14:42) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(18:14:43) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(18:14:44) INFO:    [Winetricks]:       Downloading Winetricks
+(18:14:46) INFO:    [Legendary]:        Game list updated, got 97 games & DLCs
+(18:14:46) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(18:14:46) INFO:    [Legendary]:        Checking for game updates: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(18:14:47) INFO:    [WineDownloader]:   Updating wine versions info
+(18:14:47) INFO:    [WineDownloader]:   Fetching upstream information...
+(18:14:47) INFO:    [WineDownloader]:   wine versions updated
+(18:14:47) INFO:    [Backend]:          Starting the Download Queue
+(18:14:48) INFO:    [Legendary]:        Found 0 games to update

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <PROPERTIES>
-  <VALUE name="windowX" val="500"/>
-  <VALUE name="windowY" val="365"/>
+  <VALUE name="windowX" val="502"/>
+  <VALUE name="windowY" val="368"/>
   <VALUE name="audioSetup" val=""/>
   <VALUE name="shouldMuteInput" val="1"/>
 </PROPERTIES>

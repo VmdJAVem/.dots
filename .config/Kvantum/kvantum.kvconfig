@@ -1,2 +1,5 @@
 [General]
 theme=Gruvbox-Dark-Brown
+
+[Applications]
+Gruvbox-Dark-Brown=openrgb

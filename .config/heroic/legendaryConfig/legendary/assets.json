@@ -38,11 +38,12 @@
     {
       "app_name": "da5b18cb1e7a452196c3142f2c1d7dd3",
       "asset_id": "da5b18cb1e7a452196c3142f2c1d7dd3",
-      "build_version": "1.16.00",
+      "build_version": "1.16.01",
       "catalog_item_id": "c8e3c334b682458a8489cfa06063d7f6",
       "label_name": "Live-Windows",
       "metadata": {
-        "installationPoolId": "82672dc352fa4aab910d9fd05aaf0b38"
+        "installationPoolId": "82672dc352fa4aab910d9fd05aaf0b38",
+        "update_type": "MINOR"
       },
       "namespace": "0d89655f53884b09b241b60c07e684af",
       "sidecar_rev": 0
@@ -126,7 +127,7 @@
     {
       "app_name": "33030b24b1df4dd5b6bcfb0314c17f39",
       "asset_id": "33030b24b1df4dd5b6bcfb0314c17f39",
-      "build_version": "699",
+      "build_version": "705",
       "catalog_item_id": "975a3a2eca7c42ca9c610443ab0ae0bd",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -220,7 +221,7 @@
     {
       "app_name": "71816b992ef04030b1c58af6b9845fe5",
       "asset_id": "71816b992ef04030b1c58af6b9845fe5",
-      "build_version": "BOZ_1.50.0f2",
+      "build_version": "BOZ_1.51.0",
       "catalog_item_id": "5821c65a103144548f3b55e8ce011292",
       "label_name": "Live-Windows",
       "metadata": {
@@ -232,7 +233,7 @@
     {
       "app_name": "04a54ed532ce4fbfbf8fd5833f60def0",
       "asset_id": "04a54ed532ce4fbfbf8fd5833f60def0",
-      "build_version": "DL_1.50.0f2",
+      "build_version": "DL_1.51.0",
       "catalog_item_id": "9421139e63f34d6281c18698b54d1e63",
       "label_name": "Live-Windows",
       "metadata": {
@@ -244,7 +245,7 @@
     {
       "app_name": "f653266870894ee1acbb5250e3b04bd1",
       "asset_id": "f653266870894ee1acbb5250e3b04bd1",
-      "build_version": "FOLL_1.50.0f2",
+      "build_version": "FOLL_1.51.0",
       "catalog_item_id": "c7475b5731fb483283651c9d67b86adb",
       "label_name": "Live-Windows",
       "metadata": {
@@ -491,7 +492,7 @@
     {
       "app_name": "40cb42e38c0b4a14a1bb133eb3291572",
       "asset_id": "40cb42e38c0b4a14a1bb133eb3291572",
-      "build_version": "IdleDragons625264Live",
+      "build_version": "IdleDragons626064Live",
       "catalog_item_id": "48353a502e72433298f25827e03dbff0",
       "label_name": "Live-Windows",
       "metadata": {
@@ -963,7 +964,7 @@
     {
       "app_name": "16db0e48c4d84d1490ab96be62a83c4c",
       "asset_id": "16db0e48c4d84d1490ab96be62a83c4c",
-      "build_version": "1.12.1-4742",
+      "build_version": "1.12.2-4745",
       "catalog_item_id": "2b524cdfced84a39b4d2110249ad7d84",
       "label_name": "Live-Windows",
       "metadata": {

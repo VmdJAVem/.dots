@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "f653266870894ee1acbb5250e3b04bd1",
       "asset_id": "f653266870894ee1acbb5250e3b04bd1",
-      "build_version": "FOLL_1.50.0f2",
+      "build_version": "FOLL_1.51.0",
       "catalog_item_id": "c7475b5731fb483283651c9d67b86adb",
       "label_name": "Live-Windows",
       "metadata": {
@@ -67,7 +67,7 @@
       }
     },
     "description": "Dying Light The Following",
-    "developer": "Techland",
+    "developer": "Techland S.A.",
     "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
     "endOfSupport": false,
     "entitlementName": "c7475b5731fb483283651c9d67b86adb",
@@ -98,7 +98,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2024-05-09T16:50:17.674Z",
+    "lastModifiedDate": "2025-05-07T10:29:12.010Z",
     "mainGameItem": {
       "ageGatings": {},
       "applicationId": "",
@@ -150,7 +150,7 @@
         }
       },
       "description": "Dying Light",
-      "developer": "Techland",
+      "developer": "Techland S.A.",
       "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
       "endOfSupport": false,
       "entitlementName": "9421139e63f34d6281c18698b54d1e63",
@@ -181,7 +181,7 @@
           "width": 1200
         }
       ],
-      "lastModifiedDate": "2025-01-27T12:42:09.937Z",
+      "lastModifiedDate": "2025-05-07T10:29:11.332Z",
       "mainGameItemList": [],
       "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
       "releaseInfo": [
@@ -250,7 +250,7 @@
           }
         },
         "description": "Dying Light",
-        "developer": "Techland",
+        "developer": "Techland S.A.",
         "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
         "endOfSupport": false,
         "entitlementName": "9421139e63f34d6281c18698b54d1e63",
@@ -281,7 +281,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-01-27T12:42:09.937Z",
+        "lastModifiedDate": "2025-05-07T10:29:11.332Z",
         "mainGameItemList": [],
         "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
         "releaseInfo": [

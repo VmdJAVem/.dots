@@ -1,3 +1,3 @@
-2025/05/09-21:36:28.551 798a Reusing MANIFEST /home/vmdjavem/.config/heroic/Partitions/epicstore/Local Storage/leveldb/MANIFEST-000001
-2025/05/09-21:36:28.551 798a Recovering log #3
-2025/05/09-21:36:28.552 798a Reusing old log /home/vmdjavem/.config/heroic/Partitions/epicstore/Local Storage/leveldb/000003.log 
+2025/05/16-18:36:12.098 ede6 Reusing MANIFEST /home/vmdjavem/.config/heroic/Partitions/epicstore/Local Storage/leveldb/MANIFEST-000001
+2025/05/16-18:36:12.098 ede6 Recovering log #3
+2025/05/16-18:36:12.099 ede6 Reusing old log /home/vmdjavem/.config/heroic/Partitions/epicstore/Local Storage/leveldb/000003.log 

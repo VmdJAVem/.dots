@@ -1,0 +1,85 @@
+    OpenRGB v0.9+ (git1290)
+    Commit: 45af044cd84032b9a9b5865cb5e12aa2cd98c47e from 2025-04-13 13:42:14 -0500
+    Launched: 20250608_182115
+====================================================================================================
+
+0     |Info:    [ProfileManager] Found file: lol.orp attempting to validate header
+1     |Info:    [ProfileManager] Valid v5 profile found for lol
+1     |Info:    [ProfileManager] Found file: blanco.orp attempting to validate header
+2     |Info:    [ProfileManager] Valid v5 profile found for blanco
+2     |Info:    [ProfileManager] Found file: Rojo.orp attempting to validate header
+2     |Info:    [ProfileManager] Valid v5 profile found for Rojo
+2     |Info:    [ProfileManager] Found file: Turquesa\.orp attempting to validate header
+2     |Info:    [ProfileManager] Valid v5 profile found for Turquesa\
+2     |Info:    [ProfileManager] Found file: free.orp attempting to validate header
+3     |Info:    [ProfileManager] Valid v5 profile found for free
+81    |Info:    [ResourceManager] Initializing HID interfaces: Success
+81    |Info:    ------------------------------------------------------
+81    |Info:    |               Start device detection               |
+81    |Info:    ------------------------------------------------------
+86    |Info:    ------------------------------------------------------
+86    |Info:    |             Detecting I2C interfaces               |
+86    |Info:    ------------------------------------------------------
+86    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-3 Device 1002:747E Subsystem: 1DA2:F475
+86    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+86    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-10 Device 0000:0000 Subsystem: 0000:0000
+86    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-1 Device 1022:790B Subsystem: 1462:7E26
+86    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+86    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-17 Device 0000:0000 Subsystem: 0000:0000
+86    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-8 Device 1002:747E Subsystem: 1DA2:F475
+86    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+86    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-15 Device 0000:0000 Subsystem: 0000:0000
+86    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-6 Device 1002:747E Subsystem: 1DA2:F475
+86    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-13 Device 1002:164E Subsystem: 1462:7E26
+86    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-4 Device 1002:747E Subsystem: 1DA2:F475
+86    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-11 Device 1002:164E Subsystem: 1462:7E26
+86    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-2 Device 1022:790B Subsystem: 1462:7E26
+86    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-0 Device 1022:790B Subsystem: 1462:7E26
+86    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+87    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-9 Device 0000:0000 Subsystem: 0000:0000
+87    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+87    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-16 Device 0000:0000 Subsystem: 0000:0000
+87    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-7 Device 1002:747E Subsystem: 1DA2:F475
+87    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-14 Device 1002:164E Subsystem: 1462:7E26
+87    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-5 Device 1002:747E Subsystem: 1DA2:F475
+87    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-12 Device 1002:164E Subsystem: 1462:7E26
+87    |Info:    ------------------------------------------------------
+87    |Info:    |               Detecting I2C devices                |
+87    |Info:    ------------------------------------------------------
+452   |Info:    [ENE DRAM] Registering RGB controller
+706   |Info:    [ENE DRAM] Registering RGB controller
+1914  |Info:    ------------------------------------------------------
+1914  |Info:    |            Detecting I2C DIMM modules              |
+1914  |Info:    ------------------------------------------------------
+2940  |Info:    [ResourceManager] Detected occupied slot 2, bus 2, type DDR5
+3966  |Info:    [ResourceManager] Detected occupied slot 4, bus 2, type DDR5
+3992  |Info:    [ResourceManager] Detected occupied slot 2, bus 10, type DDR5
+3996  |Info:    [ResourceManager] Detected occupied slot 4, bus 10, type DDR5
+4020  |Info:    [ResourceManager] Detected occupied slot 2, bus 11, type DDR5
+4025  |Info:    [ResourceManager] Detected occupied slot 4, bus 11, type DDR5
+4044  |Info:    ------------------------------------------------------
+4044  |Info:    |               Detecting I2C PCI devices            |
+4044  |Info:    ------------------------------------------------------
+4092  |Info:    ------------------------------------------------------
+4092  |Info:    |               Detecting HID devices                |
+4092  |Info:    ------------------------------------------------------
+4161  |Info:    [MSI B650 GAMING PLUS WIFI (MS-7E26)] Registering RGB controller
+4161  |Info:    ------------------------------------------------------
+4161  |Info:    |            Detecting libusb HID devices            |
+4161  |Info:    ------------------------------------------------------
+4242  |Info:    ------------------------------------------------------
+4242  |Info:    |              Detecting other devices               |
+4242  |Info:    ------------------------------------------------------
+4310  |Info:    [ResourceManager] Calling Post-detection callbacks
+4310  |Info:    ------------------------------------------------------
+4310  |Info:    |                Detection completed                 |
+4310  |Info:    ------------------------------------------------------
+5945  |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+5945  |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+5945  |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+7536  |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+7536  |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+7536  |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+9405  |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+9405  |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+9405  |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5

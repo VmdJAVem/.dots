@@ -1,0 +1,117 @@
+(14:57:19) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary
+(14:57:19) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl
+(14:57:19) INFO:    [Connection]:       Connectivity: check-online
+(14:57:19) INFO:    [Connection]:       Pinging external endpoints
+(14:57:19) INFO:    [Gog]:              Checking for existing gog manifests
+(14:57:19) WARNING: [Backend]:          Protocol already registered.
+(14:57:19) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+(14:57:19) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json --version
+(14:57:19) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/vmdjavem/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/nile --version
+(14:57:19) INFO:    [Backend]:          
+System Information:
+CPU: 12x AMD Ryzen 5 7600X 6-Core Processor
+Memory: 32.7 GB (used: 4.49 GB)
+GPUs:
+  GPU 0:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Raphael
+    IDs: D=164e V=1002 SD=7e26 SV=1462
+    Driver: amdgpu
+  GPU 1:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Navi 32 [Radeon RX 7700 XT / 7800 XT]
+    IDs: D=747e V=1002 SD=f475 SV=1da2
+    Driver: amdgpu
+OS: EndeavourOS 6.14.9-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.17.1 Cutty Flam Franky
+  Legendary: 0.20.37 Exit 17 (Heroic)
+  gogdl: 1.1.2
+  comet: comet 0.2.0
+  Nile: 1.1.2 Will A. Zeppeli
+
+(14:57:19) INFO:    [Frontend]:         Refreshing undefined Library
+(14:57:19) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(14:57:19) INFO:    [Legendary]:        Refreshing library...
+(14:57:19) INFO:    [Legendary]:        Refreshing Epic Games...
+(14:57:19) INFO:    [Backend]:          Frontend Ready
+(14:57:19) INFO:    [Backend]:          Checking for new Heroic Updates
+(14:57:20) INFO:    [Backend]:          Checking for current version changelog
+(14:57:22) WARNING: [DXVKInstaller]:    App offline, skipping possible DXVK update.
+(14:57:24) INFO:    [WineDownloader]:   Updating wine versions info
+(14:57:24) INFO:    [WineDownloader]:   Fetching upstream information...
+(14:57:24) INFO:    [Backend]:          Starting the Download Queue
+(14:57:29) INFO:    [Connection]:       All ping requests failed:
+(14:57:29) INFO:    [Connection]:       AggregateError: All promises were rejected
+(14:57:29) ERROR:   [Backend]:          Failed to get epic service status with AxiosError: timeout of 10000ms exceeded
+    at RedirectableRequest.handleRequestTimeout (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:657:16)
+    at RedirectableRequest.emit (node:events:518:28)
+    at Timeout.<anonymous> (/opt/Heroic/resources/app.asar/node_modules/follow-redirects/index.js:221:12)
+    at listOnTimeout (node:internal/timers:588:17)
+    at processTimers (node:internal/timers:523:7)
+    at Axios.request (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/Axios.js:45:41)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:549:9)
+    at processTimers (node:internal/timers:523:7)
+    at vt (/opt/Heroic/resources/app.asar/build/main/main.js:158:2195)
+    at Hf (/opt/Heroic/resources/app.asar/build/main/main.js:133:1292)
+    at Module.qf (/opt/Heroic/resources/app.asar/build/main/main.js:133:2023)
+    at async Promise.allSettled (index 2)
+    at /opt/Heroic/resources/app.asar/build/main/main.js:197:4994
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:106823)
+(14:57:29) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(14:57:29) ERROR:   [Backend]:          Error when checking for Heroic updates AxiosError: timeout of 10000ms exceeded
+    at RedirectableRequest.handleRequestTimeout (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:657:16)
+    at RedirectableRequest.emit (node:events:518:28)
+    at Timeout.<anonymous> (/opt/Heroic/resources/app.asar/node_modules/follow-redirects/index.js:221:12)
+    at listOnTimeout (node:internal/timers:588:17)
+    at processTimers (node:internal/timers:523:7)
+    at Axios.request (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/Axios.js:45:41)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:549:9)
+    at processTimers (node:internal/timers:523:7)
+    at Wg (/opt/Heroic/resources/app.asar/build/main/main.js:161:926)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:106823)
+(14:57:30) ERROR:   [Backend]:          Error when checking for current Heroic changelog
+(14:57:34) INFO:    [Connection]:       Pinging external endpoints
+(14:57:34) ERROR:   [WineDownloader]:   Error: Could not fetch available releases from https://api.github.com/repos/GloriousEggroll/wine-ge-custom/releases with error:
+ AxiosError: timeout of 10000ms exceeded
+    at /opt/Heroic/resources/app.asar/build/main/main.js:133:11705
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:549:9)
+    at processTimers (node:internal/timers:523:7)
+(14:57:44) INFO:    [Connection]:       All ping requests failed:
+(14:57:44) INFO:    [Connection]:       AggregateError: All promises were rejected
+(14:57:44) ERROR:   [WineDownloader]:   Error: Could not fetch available releases from https://api.github.com/repos/GloriousEggroll/proton-ge-custom/releases with error:
+ AxiosError: timeout of 10000ms exceeded
+    at /opt/Heroic/resources/app.asar/build/main/main.js:133:11705
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:549:9)
+    at processTimers (node:internal/timers:523:7)
+(14:57:44) INFO:    [WineDownloader]:   wine versions updated
+(14:57:50) INFO:    [Legendary]:        Game list updated, got 97 games & DLCs
+(14:57:50) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(14:57:54) INFO:    [Connection]:       Pinging external endpoints
+(14:58:04) INFO:    [Connection]:       All ping requests failed:
+(14:58:04) INFO:    [Connection]:       AggregateError: All promises were rejected
+(14:58:11) INFO:    [Connection]:       Connectivity: offline
+(14:58:15) INFO:    [Connection]:       Connectivity: check-online
+(14:58:15) INFO:    [Connection]:       Pinging external endpoints
+(14:58:16) INFO:    [Connection]:       Connectivity: online
+(14:58:16) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(14:58:16) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json auth
+(14:58:16) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(14:59:18) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(14:59:18) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(14:59:18) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(14:59:18) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(14:59:23) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(14:59:23) DEBUG:   [Backend]:          Running Wine command: run /home/vmdjavem/Games/Heroic/Prefixes/default/Hearts of iron IV/pfx/drive_c/Program Files (x86)/DODI-Repacks/Hearts of Iron IV/dowser.exe
+(16:07:36) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(16:07:36) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(16:07:36) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(16:07:36) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(16:07:40) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(16:07:40) DEBUG:   [Backend]:          Running Wine command: run /home/vmdjavem/Games/Heroic/Prefixes/default/Hearts of iron IV/pfx/drive_c/Program Files (x86)/DODI-Repacks/Hearts of Iron IV/dowser.exe
