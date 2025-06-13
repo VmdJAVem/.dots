@@ -1,7 +1,0 @@
-[6/6/2025, 2:57:19 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
-legendary version "0.20.37", codename "Exit 17 (Heroic)"
-[6/6/2025, 2:57:29 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
-[cli] INFO: Logging in...
-[Core] INFO: Logging in...
-[Core] ERROR: HTTP request for login failed: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\'account-public-service-prod03.ol.epicgames.com\', port=443): Max retries exceeded with url: /account/api/oauth/token (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1d5ba57490>: Failed to resolve \'account-public-service-prod03.ol.epicgames.com\' ([Errno -3] Temporary failure in name resolution)"))')), please try again later.
-[cli] ERROR: Login failed, cannot continue!

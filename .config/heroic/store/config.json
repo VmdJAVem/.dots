@@ -1,10 +1,10 @@
 {
 	"general-logs": {
-		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-06T23_14_42-heroic.log",
-		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-06T19_57_19-heroic.log",
-		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-06T23_14_42-legendary.log",
-		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-06T23_14_42-gogdl.log",
-		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-06T23_14_42-nile.log"
+		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-13T14_28_34-heroic.log",
+		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-10T22_50_25-heroic.log",
+		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-13T14_28_34-legendary.log",
+		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-13T14_28_34-gogdl.log",
+		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-13T14_28_34-nile.log"
 	},
 	"userHome": "/home/vmdjavem",
 	"language": "en",
@@ -72,14 +72,6 @@
 			{
 				"appName": "puJw5rzdvKHmsAjcxMTH1m",
 				"title": "Hearts of iron IV"
-			},
-			{
-				"appName": "qiF6wurL2vEmoJPF3nrpj1",
-				"title": "GTA IV"
-			},
-			{
-				"appName": "tbhWercQ8m1gTSVqCEncDK",
-				"title": "Fallout New Vegas"
 			},
 			{
 				"appName": "uLC5WCMuWeTTzKyFyQMato",

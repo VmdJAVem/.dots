@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
       "asset_id": "9361c8c6d2f34b42b5f2f61093eedf48",
-      "build_version": "35.2.2.3",
+      "build_version": "36.1.1.45",
       "catalog_item_id": "498ff2997ac2491a9fc7c0e95991afd8",
       "label_name": "Live-Windows",
       "metadata": {
@@ -57,7 +57,7 @@
         "entitlementType": "AUDIENCE",
         "id": "59e7e1adf9774598a96da5f20ff31e93",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-05-14T00:02:22.515Z",
+        "lastModifiedDate": "2025-06-11T00:08:09.765Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -95,7 +95,7 @@
         "entitlementType": "AUDIENCE",
         "id": "cf32093d3f444167966b7d08a82062cc",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-05-14T00:02:22.515Z",
+        "lastModifiedDate": "2025-06-11T00:08:08.904Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -133,7 +133,7 @@
         "entitlementType": "AUDIENCE",
         "id": "5fe30d97bcac4130abbed745cb9e48c0",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-05-14T00:02:22.515Z",
+        "lastModifiedDate": "2025-06-11T00:08:08.904Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -171,7 +171,7 @@
         "entitlementType": "AUDIENCE",
         "id": "7df47cc650744d12829ed9995f8a167a",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-05-14T00:02:23.289Z",
+        "lastModifiedDate": "2025-06-11T00:08:08.904Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -209,7 +209,7 @@
         "entitlementType": "AUDIENCE",
         "id": "18f04d12c558442f87193545610b9ab8",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-05-14T00:02:22.515Z",
+        "lastModifiedDate": "2025-06-11T00:08:08.904Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -247,7 +247,7 @@
         "entitlementType": "AUDIENCE",
         "id": "15c6cc9b41e242859e028b1850a649fd",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-05-14T00:02:22.515Z",
+        "lastModifiedDate": "2025-06-11T00:08:08.904Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -285,7 +285,7 @@
         "entitlementType": "AUDIENCE",
         "id": "2173e8136e374afb833169723bf7325c",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-05-14T00:02:22.515Z",
+        "lastModifiedDate": "2025-06-11T00:08:08.904Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -323,7 +323,7 @@
         "entitlementType": "AUDIENCE",
         "id": "211f08a072c749d88813e2759872dc88",
         "itemType": "CONSUMABLE",
-        "lastModifiedDate": "2025-05-14T00:02:22.515Z",
+        "lastModifiedDate": "2025-06-11T00:08:08.904Z",
         "mainGameItem": {
           "id": "498ff2997ac2491a9fc7c0e95991afd8",
           "namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -2198,6 +2198,248 @@
         "status": "ACTIVE",
         "title": "#35.2 Survivor Pass: Moghoul Rampage Premium pack_SeasonPassAudience",
         "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-11T00:08:08.925Z",
+        "description": "(EVENT) 500+500 BONUS",
+        "developer": "KRAFTON, Inc.",
+        "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+        "endOfSupport": false,
+        "entitlementName": "846626e4211a4415b0350939001480bd",
+        "entitlementType": "EXECUTABLE",
+        "id": "846626e4211a4415b0350939001480bd",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "PUBG BATTLEGROUNDS 2025 Double G-coin I Offer",
+            "height": 1440,
+            "md5": "a2625dbb4764e022b3cca38eec2e60fa",
+            "size": 231940,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-05-30T09:21:28.923Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-7nnpt.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download PUBG BATTLEGROUNDS 2025 Double G-coin I Offer",
+            "height": 1600,
+            "md5": "0a02a867bd228176ae764bdb0d35b9ad",
+            "size": 1760830,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-05-30T09:21:31.797Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-acuny.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-11T00:08:08.925Z",
+        "mainGameItem": {
+          "id": "498ff2997ac2491a9fc7c0e95991afd8",
+          "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "498ff2997ac2491a9fc7c0e95991afd8",
+            "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2025 DOUBLE G-COIN I",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-04-03T07:14:50.795Z",
+        "description": "(EVENT) 5000+5000 BONUS",
+        "developer": "KRAFTON, Inc.",
+        "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+        "endOfSupport": false,
+        "entitlementName": "efed60ac9327423ea62e7ef248f7a2ad",
+        "entitlementType": "EXECUTABLE",
+        "id": "efed60ac9327423ea62e7ef248f7a2ad",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "PUBG BATTLEGROUNDS 2025 Double G-coin III Offer",
+            "height": 1440,
+            "md5": "3b4c7a954d3451a6244d7994c02687c1",
+            "size": 224914,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-05-30T09:22:36.235Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-mgml6.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download PUBG BATTLEGROUNDS 2025 Double G-coin III Offer",
+            "height": 1600,
+            "md5": "2de45ef85eb1205406d24374ac96e62f",
+            "size": 1780108,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-05-30T09:22:38.964Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-1g70c.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-11T21:07:37.785Z",
+        "mainGameItem": {
+          "id": "498ff2997ac2491a9fc7c0e95991afd8",
+          "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "498ff2997ac2491a9fc7c0e95991afd8",
+            "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2025 DOUBLE G-COIN III",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-11T00:08:08.927Z",
+        "description": "#36.1 Crafter Pass: Black Market Premium_SeasonPassAudience",
+        "developer": "KRAFTON, Inc.",
+        "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+        "endOfSupport": false,
+        "entitlementName": "c305e95e93874bbc9d572de41eceddbf",
+        "entitlementType": "AUDIENCE",
+        "id": "c305e95e93874bbc9d572de41eceddbf",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-06-11T00:08:08.927Z",
+        "mainGameItem": {
+          "id": "498ff2997ac2491a9fc7c0e95991afd8",
+          "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "498ff2997ac2491a9fc7c0e95991afd8",
+            "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "#36.1 Crafter Pass: Black Market Premium_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-11T00:08:08.922Z",
+        "description": "(EVENT) 2500+2500 BONUS",
+        "developer": "KRAFTON, Inc.",
+        "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+        "endOfSupport": false,
+        "entitlementName": "52181b53c24f43b48341a80e1e00c65f",
+        "entitlementType": "EXECUTABLE",
+        "id": "52181b53c24f43b48341a80e1e00c65f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "PUBG BATTLEGROUNDS 2025 Double G-coin II Offer",
+            "height": 1440,
+            "md5": "6501071b3ae25086082a85fc9bb9fbe0",
+            "size": 236676,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-05-30T09:21:56.118Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-6a4j3.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download PUBG BATTLEGROUNDS 2025 Double G-coin II Offer",
+            "height": 1600,
+            "md5": "a2c6b3e552401f7764f63f6f1cd85716",
+            "size": 1877744,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-05-30T09:21:58.593Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-1b6i7.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-11T00:08:08.922Z",
+        "mainGameItem": {
+          "id": "498ff2997ac2491a9fc7c0e95991afd8",
+          "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "498ff2997ac2491a9fc7c0e95991afd8",
+            "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2025 DOUBLE G-COIN II",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-11T00:08:09.780Z",
+        "description": "#36.1 Crafter Pass: Black Market_SeasonPassAudience",
+        "developer": "KRAFTON, Inc.",
+        "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+        "endOfSupport": false,
+        "entitlementName": "b62fa8851afc44bf92448abf39db03f3",
+        "entitlementType": "AUDIENCE",
+        "id": "b62fa8851afc44bf92448abf39db03f3",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-06-11T00:08:09.780Z",
+        "mainGameItem": {
+          "id": "498ff2997ac2491a9fc7c0e95991afd8",
+          "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "498ff2997ac2491a9fc7c0e95991afd8",
+            "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "eb99ee4694474e8da0b05a8ab391825c",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "#36.1 Crafter Pass: Black Market_SeasonPassAudience",
+        "unsearchable": false
       }
     ],
     "endOfSupport": false,
@@ -2228,7 +2470,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-05-14T00:02:23.182Z",
+    "lastModifiedDate": "2025-06-11T00:08:10.232Z",
     "longDescription": "<!--textBlock-->\n<!--title-->\n# PUBG: BATTLEGROUNDS\n<!--text-->\n\u00a1PUBG: BATTLEGROUNDS, el arriesgado shooter, donde el ganador se lo lleva todo, y que inici\u00f3 la pasi\u00f3n por el Battle Royale, es gratuito! Despli\u00e9gate en todo tipo de mapas, saquea suministros y armas \u00fanicas, y sobrevive en una zona que se encoge constantemente y donde cada paso podr\u00eda ser el \u00faltimo.\n<!--clickableImage-->\n[![PUBG BATTLEGROUNDS-17l3h](https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-17l3h.gif)](https://discord.com/invite/battlegrounds)<!--image-->\n![PUBG BATTLEGROUNDS-1ba79](https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-1ba79.gif)\n<!--textBlock-->\n<!--title-->\n# ATERRIZA,\n<!--text-->\nSalta a una selecci\u00f3n de mapas en constante crecimiento y cambio que siempre te plantear\u00e1n desaf\u00edos. \u00bfElegir\u00e1s las afueras y te arriesgar\u00e1s a no conseguir suficiente bot\u00edn o saltar\u00e1s sobre las ciudades peligrosas y abarrotadas para luchar desde que toques el piso? Cada despliegue es distinto y t\u00fa debes sacar el m\u00e1ximo provecho a lo que encuentres.\n<!--image-->\n![PUBG BATTLEGROUNDS-d8awz](https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-d8awz.gif)\n<!--textBlock-->\n<!--title-->\n# SAQUEA,\n<!--text-->\nCon armas exclusivas, todo tipo de suministros y herramientas especiales para burlar a tus oponentes, t\u00fa decides tu equipamiento. Acopla accesorios potentes a tus armas preferidas o arri\u00e9sgate y ve por las cajas de provisiones disputadas para obtener un bot\u00edn exclusivo que te d\u00e9 la ventaja necesaria para ganar.\n<!--image-->\n![PUBG BATTLEGROUNDS-14n91](https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-14n91.gif)\n<!--textBlock-->\n<!--title-->\n# SOBREVIVE\n<!--text-->\nAcumular equipamiento solo es el inicio. Como la zona segura no deja de disminuir con el paso del tiempo, las probabilidades de encontrarte con otros sobrevivientes aumentan enormemente. Muere y se acab\u00f3. Tendr\u00e1s que superar a tus oponentes en inteligencia, velocidad y precisi\u00f3n si quieres ser la \u00faltima persona en pie y obtener la victoria definitiva.\n<!--image-->\n![PUBG BATTLEGROUNDS-h0mkw](https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-h0mkw.gif)\n<!--textBlock-->\n<!--title-->\n# MUCHAS FORMAS DE JUGAR,\n<!--text-->\nEntra en calor en Duelo por equipos, prueba modos en cambio constante en Arcade, participa en el \u00faltimo evento de la temporada o crea tu propio lobby personalizado y desaf\u00eda a tus amigos a algo \u00fanico.\n<!--image-->\n![PUBG BATTLEGROUNDS-igi2h](https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-igi2h.gif)\n<!--textBlock-->\n<!--title-->\n# Y CADA PARTIDA ES \u00daNICA\n<!--text-->\nNo hay dos batallas iguales y todo depende de las decisiones que tomes para aterrizar, saquear y sobrevivir. Salta a los campos de batalla, donde cada movimiento y cada decisi\u00f3n determinan qui\u00e9n se lleva la victoria, y lucha por ser la \u00faltima persona en pie. \n\nHay compras en el juego opcionales.\n",
     "mainGameItemList": [],
     "namespace": "eb99ee4694474e8da0b05a8ab391825c",

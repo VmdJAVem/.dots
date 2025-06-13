@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-35.20-CL-42911808-Windows",
+      "build_version": "++Fortnite+Release-36.00-CL-43339403-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {
@@ -160,6 +160,10 @@
         "type": "STRING",
         "value": "true"
       },
+      "IgnoredProcessNames": {
+        "type": "STRING",
+        "value": "UnrealEditorFortnite-Win64-Shipping.exe  "
+      },
       "LaunchSocialOnFirstInstall": {
         "type": "STRING",
         "value": "true"
@@ -170,7 +174,7 @@
       },
       "SysTrayRestore": {
         "type": "STRING",
-        "value": "{\"SysTrayRestoreDisable\": \"2025-06-07T14:00:00.000Z\", \"SysTrayRestoreEnable\": \"2025-06-07T20:00:00.000Z\"}"
+        "value": "{\"SysTrayRestoreDisable\": \"2023-12-02T07:00:00.000Z\", \"SysTrayRestoreEnable\": \"2023-12-03T12:00:00.000Z\"}"
       },
       "TouchPadCheck": {
         "type": "STRING",
@@ -986,7 +990,6 @@
         "entitlementType": "EXECUTABLE",
         "eulaIds": [],
         "id": "1e8bda5cfbb641b9a9aea8bd62285f73",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [
           {
@@ -1158,25 +1161,25 @@
         "itemType": "DURABLE",
         "keyImages": [
           {
-            "height": 1440,
-            "md5": "8fd1a58e13fa4e5191096faf55604656",
-            "size": 2015746,
-            "type": "DieselGameBox",
-            "uploadedDate": "2025-03-21T18:05:51.955Z",
-            "url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFig_34-20_C1S3_EGS_Launcher_KeyArt_OG_Blade_2560x1440_2560x1440-8fd1a58e13fa4e5191096faf55604656",
-            "width": 2560
+            "height": 1600,
+            "md5": "60464468a96996e36b6040c131708cad",
+            "size": 188067,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-05-30T23:24:29.918Z",
+            "url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFig_36-00_C1S4_EGS_Launcher_KeyArt_OG_Blade_1200x1600_1200x1600-60464468a96996e36b6040c131708cad",
+            "width": 1200
           },
           {
-            "height": 1600,
-            "md5": "d76ab7a936fa3c4093483551fd1c70b4",
-            "size": 1181378,
-            "type": "DieselGameBoxTall",
-            "uploadedDate": "2025-03-21T18:06:00.420Z",
-            "url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFig_34-20_C1S3_EGS_Launcher_KeyArt_OG_Blade_1200x1600_1200x1600-d76ab7a936fa3c4093483551fd1c70b4",
-            "width": 1200
+            "height": 1440,
+            "md5": "7049b8c0993e7998e40f2446b99d00e8",
+            "size": 302092,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-05-30T23:24:34.670Z",
+            "url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFig_36-00_C1S4_EGS_Launcher_KeyArt_OG_Blade_2560x1440_2560x1440-7049b8c0993e7998e40f2446b99d00e8",
+            "width": 2560
           }
         ],
-        "lastModifiedDate": "2025-04-11T18:08:08.934Z",
+        "lastModifiedDate": "2025-06-07T20:52:00.854Z",
         "mainGameItem": {
           "id": "4fe75bbc5a674f4f9b356b5c90567da5",
           "namespace": "fn",
@@ -1503,33 +1506,33 @@
       },
       {
         "height": 1440,
-        "md5": "8fd35061502b51f1df276474d28e7f59",
-        "size": 3576671,
+        "md5": "8d4d2a17f716d09b73db1782346618ce",
+        "size": 2909454,
         "type": "DieselGameBox",
-        "uploadedDate": "2025-04-25T17:19:59.836Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNBR_35-00_C6MS1_EGS_Launcher_KeyArt_FN_Blade_2560x1440_2560x1440-8fd35061502b51f1df276474d28e7f59",
+        "uploadedDate": "2025-06-06T02:18:19.703Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNECO_KeyArt_25_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-8d4d2a17f716d09b73db1782346618ce",
         "width": 2560
       },
       {
         "height": 1600,
-        "md5": "e719f30dab7ce36061140a7564119448",
-        "size": 1472209,
+        "md5": "61de82d672d43c7946924ec7287c2fc9",
+        "size": 1426636,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2025-04-25T17:19:56.855Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNBR_35-00_C6MS1_EGS_Launcher_KeyArt_FN_Blade_1200x1600_1200x1600-e719f30dab7ce36061140a7564119448",
+        "uploadedDate": "2025-06-06T02:18:13.652Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNECO_KeyArt_25_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-61de82d672d43c7946924ec7287c2fc9",
         "width": 1200
       },
       {
         "height": 800,
-        "md5": "619f88a7159f2b33f8e6d45a64a859c9",
-        "size": 163986,
+        "md5": "e5ab1ed8463506e74536fcf422d8e0c9",
+        "size": 764468,
         "type": "Featured",
-        "uploadedDate": "2025-04-25T17:19:54.050Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNBR_35-00_C6MS1_EGS_Launcher_KeyArt_FN_Toast_400x400_800x800-619f88a7159f2b33f8e6d45a64a859c9",
+        "uploadedDate": "2025-06-06T20:36:49.829Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNBR_36-00_C6S3_EGS_800x800_800x800-e5ab1ed8463506e74536fcf422d8e0c9",
         "width": 800
       }
     ],
-    "lastModifiedDate": "2025-05-23T19:35:28.327Z",
+    "lastModifiedDate": "2025-06-11T14:44:06.248Z",
     "legalFooterText": "\u00a9 2024 Epic Games, Inc. Todos los derechos reservados. Epic, Epic Games, el logotipo de Epic Games, Unreal, Unreal Engine, UE5, el logotipo de Unreal Engine, Fortnite, el logotipo de Fortnite, Fortnite Festival y Rocket Racing son marcas comerciales o marcas registradas de Epic Games, Inc. tanto en Estados Unidos de Am\u00e9rica como en el resto del mundo. Rocket League \u00a92024 Psyonix LLC. LEGO and the LEGO logo are trademarks of the LEGO Group. \u00a9 2024 The LEGO Group. El resto de las marcas comerciales pertenecen a sus respectivos propietarios.",
     "longDescription": "Fortnite para dispositivos m\u00f3viles tiene todo lo que te encanta del juego en tu dispositivo port\u00e1til favorito. \u00a1\u00danete y habla con tus amigos, sin importar la plataforma en la que se encuentren, y progresa en el pase de batalla tal y como lo har\u00edas en una PC o consola!\n\nRequiere una conexi\u00f3n a Internet.\n\nDesarrollado con Unreal Engine.",
     "mainGameItemList": [],

@@ -127,7 +127,7 @@
     {
       "app_name": "33030b24b1df4dd5b6bcfb0314c17f39",
       "asset_id": "33030b24b1df4dd5b6bcfb0314c17f39",
-      "build_version": "705",
+      "build_version": "706",
       "catalog_item_id": "975a3a2eca7c42ca9c610443ab0ae0bd",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -161,12 +161,12 @@
     {
       "app_name": "8e4f8dc250364e30aef276555bba1734",
       "asset_id": "8e4f8dc250364e30aef276555bba1734",
-      "build_version": "197822",
+      "build_version": "206356",
       "catalog_item_id": "b55e326929b44a7b913693ea8ae79d00",
       "label_name": "Live-Windows",
       "metadata": {
         "installationPoolId": "221e69055bf041448b6bfb4f42e1d743",
-        "update_type": "PATCH"
+        "update_type": "MINOR"
       },
       "namespace": "1d6b5762a1d643a4830481c44d59abfb",
       "sidecar_rev": 0
@@ -504,7 +504,7 @@
     {
       "app_name": "a79746038c6948558274065d24f3faa3",
       "asset_id": "a79746038c6948558274065d24f3faa3",
-      "build_version": "14.4.0.0.9953613-9958803-multiversion",
+      "build_version": "14.5.0.0.10087791-10092878-multiversion",
       "catalog_item_id": "b9e23e5fa8e84064b356677022beb37a",
       "label_name": "Live-Windows",
       "metadata": {
@@ -641,7 +641,7 @@
     {
       "app_name": "1136763135c0482cbbb4b2d45e978156",
       "asset_id": "1136763135c0482cbbb4b2d45e978156",
-      "build_version": "EGS_WINDOWS-Release-BaseGame-1.13.109-32841115",
+      "build_version": "EGS_WINDOWS-Release-BaseGame-1.13.113-36881652",
       "catalog_item_id": "9cc0c39d76354bd79d78f405e09cdb51",
       "label_name": "Live-Windows",
       "metadata": {
@@ -951,7 +951,7 @@
     {
       "app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
       "asset_id": "9361c8c6d2f34b42b5f2f61093eedf48",
-      "build_version": "35.2.2.3",
+      "build_version": "36.1.1.45",
       "catalog_item_id": "498ff2997ac2491a9fc7c0e95991afd8",
       "label_name": "Live-Windows",
       "metadata": {
@@ -964,7 +964,7 @@
     {
       "app_name": "16db0e48c4d84d1490ab96be62a83c4c",
       "asset_id": "16db0e48c4d84d1490ab96be62a83c4c",
-      "build_version": "1.12.2-4745",
+      "build_version": "1.12.3-4747",
       "catalog_item_id": "2b524cdfced84a39b4d2110249ad7d84",
       "label_name": "Live-Windows",
       "metadata": {
@@ -1033,7 +1033,7 @@
     {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-35.20-CL-42911808-Windows",
+      "build_version": "++Fortnite+Release-36.00-CL-43339403-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {

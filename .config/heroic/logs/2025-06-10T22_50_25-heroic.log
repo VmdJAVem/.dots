@@ -1,0 +1,102 @@
+(17:50:25) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary
+(17:50:25) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl
+(17:50:25) INFO:    [Connection]:       Connectivity: check-online
+(17:50:25) INFO:    [Connection]:       Pinging external endpoints
+(17:50:25) INFO:    [Gog]:              Checking for existing gog manifests
+(17:50:26) WARNING: [Backend]:          Protocol already registered.
+(17:50:26) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+(17:50:26) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json --version
+(17:50:26) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/vmdjavem/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/nile --version
+(17:50:26) INFO:    [Backend]:          
+System Information:
+CPU: 12x AMD Ryzen 5 7600X 6-Core Processor
+Memory: 32.7 GB (used: 6.55 GB)
+GPUs:
+  GPU 0:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Raphael
+    IDs: D=164e V=1002 SD=7e26 SV=1462
+    Driver: amdgpu
+  GPU 1:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Navi 32 [Radeon RX 7700 XT / 7800 XT]
+    IDs: D=747e V=1002 SD=f475 SV=1da2
+    Driver: amdgpu
+OS: EndeavourOS 6.14.10-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.17.1 Cutty Flam Franky
+  Legendary: 0.20.37 Exit 17 (Heroic)
+  gogdl: 1.1.2
+  comet: comet 0.2.0
+  Nile: 1.1.2 Will A. Zeppeli
+
+(17:50:26) INFO:    [Frontend]:         Refreshing undefined Library
+(17:50:26) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(17:50:26) INFO:    [Legendary]:        Refreshing library...
+(17:50:26) INFO:    [Legendary]:        Refreshing Epic Games...
+(17:50:26) INFO:    [Backend]:          Frontend Ready
+(17:50:26) INFO:    [Backend]:          Checking for new Heroic Updates
+(17:50:26) INFO:    [Backend]:          Checking for current version changelog
+(17:50:26) INFO:    [Connection]:       Connectivity: online
+(17:50:26) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(17:50:26) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json auth
+(17:50:26) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(17:50:27) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(17:50:28) INFO:    [Winetricks]:       Downloading Winetricks
+(17:50:29) INFO:    [Legendary]:        Game list updated, got 97 games & DLCs
+(17:50:29) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(17:50:29) INFO:    [Legendary]:        Checking for game updates: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(17:50:30) INFO:    [Legendary]:        Found 0 games to update
+(17:50:30) INFO:    [WineDownloader]:   Updating wine versions info
+(17:50:30) INFO:    [WineDownloader]:   Fetching upstream information...
+(17:50:31) INFO:    [Backend]:          Starting the Download Queue
+(17:50:31) INFO:    [WineDownloader]:   wine versions updated
+(17:50:37) INFO:    [Legendary]:        Uninstalling bc2c95c6ff564a16b26644f1d3ac3c55: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary uninstall bc2c95c6ff564a16b26644f1d3ac3c55 -y
+(17:50:37) INFO:    [Backend]:          Preventing machine to sleep
+(17:50:37) INFO:    [Legendary]:        installed.json updated, refreshing library
+(17:50:37) INFO:    [Legendary]:        installed.json updated, refreshing library
+(17:50:37) INFO:    [Backend]:          Removing bc2c95c6ff564a16b26644f1d3ac3c55.json
+(17:50:37) INFO:    [Backend]:          Removing bc2c95c6ff564a16b26644f1d3ac3c55.log
+(17:50:37) INFO:    [Backend]:          Removing bc2c95c6ff564a16b26644f1d3ac3c55-lastPlay.log
+(17:50:37) INFO:    [Backend]:          Finished uninstalling
+(17:50:37) INFO:    [Backend]:          Removing prefix /home/vmdjavem/Games/Heroic/Prefixes/default/BioShock Remastered
+(17:50:38) INFO:    [Frontend]:         Refreshing legendary Library
+(17:50:38) INFO:    [Legendary]:        Refreshing library...
+(17:50:38) INFO:    [Legendary]:        Refreshing Epic Games...
+(17:50:38) INFO:    [Backend]:          Preventing machine to sleep
+(17:50:38) INFO:    [Backend]:          Stopping Power Saver Blocker
+(17:50:38) INFO:    [Backend]:          Desktop shortcut removed
+(17:50:38) INFO:    [Backend]:          Applications shortcut removed
+(17:50:38) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(17:50:39) INFO:    [Legendary]:        Game list updated, got 97 games & DLCs
+(17:50:44) INFO:    [Legendary]:        Uninstalling f8ef168f3522419caad27d82878e0329: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary uninstall f8ef168f3522419caad27d82878e0329 -y
+(17:50:44) INFO:    [Backend]:          Preventing machine to sleep
+(17:50:44) INFO:    [Legendary]:        installed.json updated, refreshing library
+(17:50:44) INFO:    [Legendary]:        installed.json updated, refreshing library
+(17:50:44) INFO:    [Shortcuts]:        Remove Steam images for Fallout: A Post Nuclear Role Playing Game
+(17:50:44) INFO:    [Shortcuts]:        Fallout: A Post Nuclear Role Playing Game was successfully removed from Steam.
+(17:50:44) INFO:    [Backend]:          Removing f8ef168f3522419caad27d82878e0329.json
+(17:50:44) INFO:    [Backend]:          Removing f8ef168f3522419caad27d82878e0329.log
+(17:50:44) INFO:    [Backend]:          Removing f8ef168f3522419caad27d82878e0329-lastPlay.log
+(17:50:44) INFO:    [Backend]:          Finished uninstalling
+(17:50:44) INFO:    [Backend]:          Removing prefix /home/vmdjavem/Games/Heroic/Prefixes/default/Fallout A Post Nuclear Role Playing Game
+(17:50:44) INFO:    [Frontend]:         Refreshing legendary Library
+(17:50:44) INFO:    [Legendary]:        Refreshing library...
+(17:50:44) INFO:    [Legendary]:        Refreshing Epic Games...
+(17:50:44) INFO:    [Backend]:          Stopping Power Saver Blocker
+(17:50:44) INFO:    [Backend]:          Desktop shortcut removed
+(17:50:44) INFO:    [Backend]:          Applications shortcut removed
+(17:50:44) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(17:50:46) INFO:    [Legendary]:        Game list updated, got 97 games & DLCs
+(17:50:49) INFO:    [Backend]:          finished uninstalling
+(17:50:49) INFO:    [Backend]:          Removing prefix /home/vmdjavem/Games/Heroic/Prefixes/default/Fallout New Vegas
+(17:50:50) INFO:    [Backend]:          Removing tbhWercQ8m1gTSVqCEncDK.json
+(17:50:50) INFO:    [Backend]:          Removing tbhWercQ8m1gTSVqCEncDK.log
+(17:50:50) INFO:    [Backend]:          Removing tbhWercQ8m1gTSVqCEncDK-lastPlay.log
+(17:50:50) INFO:    [Backend]:          Finished uninstalling
+(17:50:50) INFO:    [Backend]:          Removing prefix /home/vmdjavem/Games/Heroic/Prefixes/default/Fallout New Vegas
+(17:50:50) INFO:    [Backend]:          Prefix folder /home/vmdjavem/Games/Heroic/Prefixes/default/Fallout New Vegas doesn't exist, ignoring removal
+(17:50:50) INFO:    [Backend]:          Desktop shortcut removed
+(17:50:50) INFO:    [Backend]:          Applications shortcut removed

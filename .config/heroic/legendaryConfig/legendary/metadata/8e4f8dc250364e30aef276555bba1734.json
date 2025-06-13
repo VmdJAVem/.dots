@@ -5,12 +5,12 @@
     "Windows": {
       "app_name": "8e4f8dc250364e30aef276555bba1734",
       "asset_id": "8e4f8dc250364e30aef276555bba1734",
-      "build_version": "197822",
+      "build_version": "206356",
       "catalog_item_id": "b55e326929b44a7b913693ea8ae79d00",
       "label_name": "Live-Windows",
       "metadata": {
         "installationPoolId": "221e69055bf041448b6bfb4f42e1d743",
-        "update_type": "PATCH"
+        "update_type": "MINOR"
       },
       "namespace": "1d6b5762a1d643a4830481c44d59abfb",
       "sidecar_rev": 0
@@ -82,7 +82,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-03-26T17:17:55.430Z",
+        "lastModifiedDate": "2025-06-10T15:31:09.611Z",
         "mainGameItem": {
           "id": "b55e326929b44a7b913693ea8ae79d00",
           "namespace": "1d6b5762a1d643a4830481c44d59abfb",
@@ -141,7 +141,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-03-26T17:17:55.430Z",
+        "lastModifiedDate": "2025-06-10T15:31:09.611Z",
         "mainGameItem": {
           "id": "b55e326929b44a7b913693ea8ae79d00",
           "namespace": "1d6b5762a1d643a4830481c44d59abfb",
@@ -167,7 +167,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2025-03-26T17:17:55.459Z",
+        "creationDate": "2025-03-03T21:18:31.764Z",
         "description": "\u00a1Insp\u00edrate en los grandes ents pastores de la Tierra Media!",
         "developer": "North Beach Games",
         "developerId": "o-nwx4cr9ugyq97j23tjkxj5mbdw86qw",
@@ -198,7 +198,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-03-26T17:17:55.459Z",
+        "lastModifiedDate": "2025-06-10T15:31:09.611Z",
         "mainGameItem": {
           "id": "b55e326929b44a7b913693ea8ae79d00",
           "namespace": "1d6b5762a1d643a4830481c44d59abfb",
@@ -215,6 +215,118 @@
         "requiresSecureAccount": false,
         "status": "ACTIVE",
         "title": "Return to Moria\u2122, Paquete de artesan\u00eda ent",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-10T15:31:09.656Z",
+        "description": "The Lord of the Rings: Return to Moria\u2122 Beorn\u2019s Lodge Pack",
+        "developer": "North Beach Games",
+        "developerId": "o-nwx4cr9ugyq97j23tjkxj5mbdw86qw",
+        "endOfSupport": false,
+        "entitlementName": "e9f30b8559a64cbbabde0b970cfa6e35",
+        "entitlementType": "EXECUTABLE",
+        "id": "e9f30b8559a64cbbabde0b970cfa6e35",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "The Lord of The Rings Return to Moria The Lord of the Rings: Return to Moria\u2122 Beorn\u2019s Lodge Pack Offer",
+            "height": 1440,
+            "md5": "237bb75b7c3d01c6f9665160801007bd",
+            "size": 1069816,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-05-13T05:39:12.728Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-1lji7.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download The Lord of The Rings Return to Moria The Lord of the Rings: Return to Moria\u2122 Beorn\u2019s Lodge Pack Offer",
+            "height": 1600,
+            "md5": "b0440f49cfed9176cb3d015a9d94933c",
+            "size": 547366,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-05-13T05:39:12.294Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-zq5lr.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-10T15:31:09.656Z",
+        "mainGameItem": {
+          "id": "b55e326929b44a7b913693ea8ae79d00",
+          "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b55e326929b44a7b913693ea8ae79d00",
+            "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Lord of the Rings: Return to Moria\u2122 Beorn\u2019s Lodge Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-10T15:31:09.654Z",
+        "description": "Sigue de cerca el mal que deambula por la monta\u00f1a y haz trofeos con sus huesos con el paquete de cazaorcos. Incluye una armadura cosm\u00e9tica terror\u00edfica, un arma y un brebaje. Talla la nueva runa de trofeos de caza para hacer trofeos y decoraciones con los ca\u00eddos.",
+        "developer": "North Beach Games",
+        "developerId": "o-nwx4cr9ugyq97j23tjkxj5mbdw86qw",
+        "endOfSupport": false,
+        "entitlementName": "e3521310a50a4afa99fd02783c3a803b",
+        "entitlementType": "EXECUTABLE",
+        "id": "e3521310a50a4afa99fd02783c3a803b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "The Lord of The Rings Return to Moria The Lord of the Rings: Return to Moria\u2122 Orc Hunter Pack Offer",
+            "height": 1440,
+            "md5": "abe66b35cbb08fcca0de0e09e9b7b542",
+            "size": 3916350,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-06-05T22:24:29.197Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-1btdk.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download The Lord of The Rings Return to Moria The Lord of the Rings: Return to Moria\u2122 Orc Hunter Pack Offer",
+            "height": 1600,
+            "md5": "df89c05145b37b72411728cd893415c8",
+            "size": 2652866,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-06-05T22:24:28.843Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-1odys.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-10T15:31:09.654Z",
+        "mainGameItem": {
+          "id": "b55e326929b44a7b913693ea8ae79d00",
+          "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b55e326929b44a7b913693ea8ae79d00",
+            "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Paquete de cazaorcos",
         "unsearchable": false
       }
     ],
@@ -246,7 +358,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-03-26T17:17:56.527Z",
+    "lastModifiedDate": "2025-06-10T15:31:10.435Z",
     "mainGameItemList": [],
     "namespace": "1d6b5762a1d643a4830481c44d59abfb",
     "releaseInfo": [

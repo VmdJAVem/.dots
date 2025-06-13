@@ -1,16 +1,21 @@
 q
-Q
 qa!
+h
+commands
+man
+help
+filter
+filter genre="Boss Nova"
+filter genre="Jazz"
+qa
+Q
 colorscheme gruvbox
 theme gruvbox
-filter
 filter artist="Joey Valence & Brae"
-h
 EZ
 filter genre="Phonk"
 filter genre="Rap"
 filter jazz
-filter genre="Jazz"
 filter artist="Royal Quartet"
 artist="Royal Quartet"
 quit

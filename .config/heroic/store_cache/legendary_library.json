@@ -1,76 +1,6 @@
 {
 	"library": [
 		{
-			"app_name": "bc2c95c6ff564a16b26644f1d3ac3c55",
-			"art_cover": "https://cdn1.epicgames.com/item/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S1_2560x1440-cb7067c24252c5602497ab42fc488eed",
-			"art_square": "https://cdn1.epicgames.com/item/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S2_1200x1600-1a3c51f042c7023b711f36ec866ea90b",
-			"cloud_save_enabled": false,
-			"developer": "2K Games, Inc.",
-			"extra": {
-				"about": {
-					"description": "BioShock Remastered",
-					"shortDescription": ""
-				},
-				"reqs": [],
-				"storeUrl": "https://www.epicgames.com/store/product/bioshock-remastered"
-			},
-			"folder_name": "BioshockRemastered",
-			"install": {
-				"executable": "Build/FinalEpic/BioshockHD.exe",
-				"install_path": "/home/vmdjavem/Games/Heroic/BioshockRemastered",
-				"install_size": "20.87 GiB",
-				"is_dlc": false,
-				"version": "1.0.0_BN-188_CL-17677",
-				"platform": "Windows"
-			},
-			"is_installed": true,
-			"namespace": "e9e3ee13329f434f94105e6ec63435e0",
-			"is_mac_native": false,
-			"save_folder": "",
-			"save_path": null,
-			"title": "BioShock Remastered",
-			"canRunOffline": true,
-			"isEAManaged": false,
-			"is_linux_native": false,
-			"runner": "legendary",
-			"store_url": "https://www.epicgames.com/store/product/bioshock-remastered"
-		},
-		{
-			"app_name": "f8ef168f3522419caad27d82878e0329",
-			"art_cover": "https://cdn1.epicgames.com/item/2e412cfcbd954e7180930e9784a47e18/EGS_FalloutAPostNuclearRolePlayingGame_BethesdaGameStudios_S1_2560x1440-548598863fb854e957d7706a24c6d381",
-			"art_square": "https://cdn1.epicgames.com/item/2e412cfcbd954e7180930e9784a47e18/EGS_FalloutAPostNuclearRolePlayingGame_BethesdaGameStudios_S2_1200x1600-f4406e1a479760bfbebc4459f7c17932",
-			"cloud_save_enabled": true,
-			"developer": "Bethesda Softworks LLC",
-			"extra": {
-				"about": {
-					"description": "Fallout: A Post Nuclear Role Playing Game",
-					"shortDescription": ""
-				},
-				"reqs": [],
-				"storeUrl": "https://www.epicgames.com/store/product/fallout-a-post-nuclear-role-playing-game"
-			},
-			"folder_name": "fallout",
-			"install": {
-				"executable": "Launcher.exe",
-				"install_path": "/home/vmdjavem/Games/Heroic/fallout",
-				"install_size": "2.16 GiB",
-				"is_dlc": false,
-				"version": "1.3",
-				"platform": "Windows"
-			},
-			"is_installed": true,
-			"namespace": "2e412cfcbd954e7180930e9784a47e18",
-			"is_mac_native": false,
-			"save_folder": "{InstallDir}/",
-			"save_path": null,
-			"title": "Fallout: A Post Nuclear Role Playing Game",
-			"canRunOffline": false,
-			"isEAManaged": false,
-			"is_linux_native": false,
-			"runner": "legendary",
-			"store_url": "https://www.epicgames.com/store/product/fallout-a-post-nuclear-role-playing-game"
-		},
-		{
 			"app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
 			"art_cover": "https://cdn1.epicgames.com/item/dc09ae8f1aa445b7853b5300c2345d81/EGS_Metalstorm_Starform_S1_2560x1440-df32d566bf58428a6ba7115109aeaac0",
 			"art_square": "https://cdn1.epicgames.com/item/dc09ae8f1aa445b7853b5300c2345d81/EGS_Metalstorm_Starform_S2_1200x1600-1ff27afbdd495badc021b65823cb8cdb",
@@ -830,41 +760,6 @@
 			"store_url": "https://www.epicgames.com/store/product/metalstorm"
 		},
 		{
-			"app_name": "a64dcf9b711a4a60a3c0b6f052dfc7da",
-			"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WolfensteinTheNewOrder_MachineGames_S1_2560x1440-3a75b2c45a2a12e882feb2e2ff180b0c",
-			"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WolfensteinTheNewOrder_MachineGames_S2_1200x1600-0f70ad56e210812c26a9dde1a8143a58",
-			"cloud_save_enabled": true,
-			"developer": "Bethesda Softworks LLC",
-			"extra": {
-				"about": {
-					"description": "Wolfenstein: The New Order",
-					"shortDescription": ""
-				},
-				"reqs": [],
-				"storeUrl": "https://www.epicgames.com/store/product/wolfenstein-the-new-order"
-			},
-			"folder_name": "WolfensteinTNO",
-			"install": {
-				"executable": "WolfNewOrder_x64.exe",
-				"install_path": "/home/vmdjavem/Games/Heroic/WolfensteinTNO",
-				"install_size": "44.49 GiB",
-				"is_dlc": false,
-				"version": "1.3.1",
-				"platform": "Windows"
-			},
-			"is_installed": true,
-			"namespace": "0bd3e505924240adb702295fa08c1eff",
-			"is_mac_native": false,
-			"save_folder": "{UserSavedGames}/MachineGames/Wolfenstein The New Order/base/savegame/{EpicID}/",
-			"save_path": null,
-			"title": "Wolfenstein: The New Order",
-			"canRunOffline": true,
-			"isEAManaged": false,
-			"is_linux_native": false,
-			"runner": "legendary",
-			"store_url": "https://www.epicgames.com/store/product/wolfenstein-the-new-order"
-		},
-		{
 			"app_name": "98614687b212444c9ff0d42095f56cb3",
 			"art_cover": "https://cdn1.epicgames.com/spt-assets/38d7f3e2a3854e9fa4c31456b87c899f/redacted-1ouju.jpg",
 			"art_square": "https://cdn1.epicgames.com/spt-assets/38d7f3e2a3854e9fa4c31456b87c899f/redacted-13ajm.jpg",
@@ -1157,6 +1052,36 @@
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/bioshock-infinite-complete-edition"
+		},
+		{
+			"app_name": "bc2c95c6ff564a16b26644f1d3ac3c55",
+			"art_cover": "https://cdn1.epicgames.com/item/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S1_2560x1440-cb7067c24252c5602497ab42fc488eed",
+			"art_square": "https://cdn1.epicgames.com/item/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S2_1200x1600-1a3c51f042c7023b711f36ec866ea90b",
+			"cloud_save_enabled": false,
+			"developer": "2K Games, Inc.",
+			"extra": {
+				"about": {
+					"description": "BioShock Remastered",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/bioshock-remastered"
+			},
+			"folder_name": "BioshockRemastered",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "e9e3ee13329f434f94105e6ec63435e0",
+			"is_mac_native": false,
+			"save_folder": "",
+			"title": "BioShock Remastered",
+			"canRunOffline": true,
+			"isEAManaged": false,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/bioshock-remastered"
 		},
 		{
 			"app_name": "a21fd90517bf428eb7c995a8c3261722",
@@ -10313,6 +10238,36 @@
 			"store_url": "https://www.epicgames.com/store/product/fallout-tactics-brotherhood-of-steel"
 		},
 		{
+			"app_name": "f8ef168f3522419caad27d82878e0329",
+			"art_cover": "https://cdn1.epicgames.com/item/2e412cfcbd954e7180930e9784a47e18/EGS_FalloutAPostNuclearRolePlayingGame_BethesdaGameStudios_S1_2560x1440-548598863fb854e957d7706a24c6d381",
+			"art_square": "https://cdn1.epicgames.com/item/2e412cfcbd954e7180930e9784a47e18/EGS_FalloutAPostNuclearRolePlayingGame_BethesdaGameStudios_S2_1200x1600-f4406e1a479760bfbebc4459f7c17932",
+			"cloud_save_enabled": true,
+			"developer": "Bethesda Softworks LLC",
+			"extra": {
+				"about": {
+					"description": "Fallout: A Post Nuclear Role Playing Game",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/fallout-a-post-nuclear-role-playing-game"
+			},
+			"folder_name": "fallout",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "2e412cfcbd954e7180930e9784a47e18",
+			"is_mac_native": false,
+			"save_folder": "{InstallDir}/",
+			"title": "Fallout: A Post Nuclear Role Playing Game",
+			"canRunOffline": false,
+			"isEAManaged": false,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/fallout-a-post-nuclear-role-playing-game"
+		},
+		{
 			"app_name": "fe499569a4c04e6f8cc953f20d862cb4",
 			"art_cover": "https://cdn1.epicgames.com/item/97071dce4a98441d9c0b7f0df92f7b31/lanscape_2560x1440-b8b3816a89feb951b3c37da921ee57cd",
 			"art_square": "https://cdn1.epicgames.com/item/97071dce4a98441d9c0b7f0df92f7b31/tall_1200x1600-5377adfa5fd611bd6726995ece5b04ef",
@@ -10344,8 +10299,8 @@
 		},
 		{
 			"app_name": "Fortnite",
-			"art_cover": "https://cdn1.epicgames.com/item/fn/FNBR_35-00_C6MS1_EGS_Launcher_KeyArt_FN_Blade_2560x1440_2560x1440-8fd35061502b51f1df276474d28e7f59",
-			"art_square": "https://cdn1.epicgames.com/item/fn/FNBR_35-00_C6MS1_EGS_Launcher_KeyArt_FN_Blade_1200x1600_1200x1600-e719f30dab7ce36061140a7564119448",
+			"art_cover": "https://cdn1.epicgames.com/item/fn/FNECO_KeyArt_25_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-8d4d2a17f716d09b73db1782346618ce",
+			"art_square": "https://cdn1.epicgames.com/item/fn/FNECO_KeyArt_25_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-61de82d672d43c7946924ec7287c2fc9",
 			"cloud_save_enabled": false,
 			"developer": "Epic Games",
 			"extra": {
@@ -11146,7 +11101,6 @@
 					"entitlementType": "EXECUTABLE",
 					"eulaIds": [],
 					"id": "1e8bda5cfbb641b9a9aea8bd62285f73",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [
 						{
@@ -11318,25 +11272,25 @@
 					"itemType": "DURABLE",
 					"keyImages": [
 						{
-							"height": 1440,
-							"md5": "8fd1a58e13fa4e5191096faf55604656",
-							"size": 2015746,
-							"type": "DieselGameBox",
-							"uploadedDate": "2025-03-21T18:05:51.955Z",
-							"url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFig_34-20_C1S3_EGS_Launcher_KeyArt_OG_Blade_2560x1440_2560x1440-8fd1a58e13fa4e5191096faf55604656",
-							"width": 2560
+							"height": 1600,
+							"md5": "60464468a96996e36b6040c131708cad",
+							"size": 188067,
+							"type": "DieselGameBoxTall",
+							"uploadedDate": "2025-05-30T23:24:29.918Z",
+							"url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFig_36-00_C1S4_EGS_Launcher_KeyArt_OG_Blade_1200x1600_1200x1600-60464468a96996e36b6040c131708cad",
+							"width": 1200
 						},
 						{
-							"height": 1600,
-							"md5": "d76ab7a936fa3c4093483551fd1c70b4",
-							"size": 1181378,
-							"type": "DieselGameBoxTall",
-							"uploadedDate": "2025-03-21T18:06:00.420Z",
-							"url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFig_34-20_C1S3_EGS_Launcher_KeyArt_OG_Blade_1200x1600_1200x1600-d76ab7a936fa3c4093483551fd1c70b4",
-							"width": 1200
+							"height": 1440,
+							"md5": "7049b8c0993e7998e40f2446b99d00e8",
+							"size": 302092,
+							"type": "DieselGameBox",
+							"uploadedDate": "2025-05-30T23:24:34.670Z",
+							"url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFig_36-00_C1S4_EGS_Launcher_KeyArt_OG_Blade_2560x1440_2560x1440-7049b8c0993e7998e40f2446b99d00e8",
+							"width": 2560
 						}
 					],
-					"lastModifiedDate": "2025-04-11T18:08:08.934Z",
+					"lastModifiedDate": "2025-06-07T20:52:00.854Z",
 					"mainGameItem": {
 						"id": "4fe75bbc5a674f4f9b356b5c90567da5",
 						"namespace": "fn",
@@ -49601,7 +49555,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-03-26T17:17:55.430Z",
+					"lastModifiedDate": "2025-06-10T15:31:09.611Z",
 					"mainGameItem": {
 						"id": "b55e326929b44a7b913693ea8ae79d00",
 						"namespace": "1d6b5762a1d643a4830481c44d59abfb",
@@ -49660,7 +49614,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-03-26T17:17:55.430Z",
+					"lastModifiedDate": "2025-06-10T15:31:09.611Z",
 					"mainGameItem": {
 						"id": "b55e326929b44a7b913693ea8ae79d00",
 						"namespace": "1d6b5762a1d643a4830481c44d59abfb",
@@ -49686,7 +49640,7 @@
 							"path": "addons"
 						}
 					],
-					"creationDate": "2025-03-26T17:17:55.459Z",
+					"creationDate": "2025-03-03T21:18:31.764Z",
 					"description": "¡Inspírate en los grandes ents pastores de la Tierra Media!",
 					"developer": "North Beach Games",
 					"developerId": "o-nwx4cr9ugyq97j23tjkxj5mbdw86qw",
@@ -49717,7 +49671,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-03-26T17:17:55.459Z",
+					"lastModifiedDate": "2025-06-10T15:31:09.611Z",
 					"mainGameItem": {
 						"id": "b55e326929b44a7b913693ea8ae79d00",
 						"namespace": "1d6b5762a1d643a4830481c44d59abfb",
@@ -49734,6 +49688,118 @@
 					"requiresSecureAccount": false,
 					"status": "ACTIVE",
 					"title": "Return to Moria™, Paquete de artesanía ent",
+					"unsearchable": false
+				},
+				{
+					"categories": [
+						{
+							"path": "addons"
+						}
+					],
+					"creationDate": "2025-06-10T15:31:09.656Z",
+					"description": "The Lord of the Rings: Return to Moria™ Beorn’s Lodge Pack",
+					"developer": "North Beach Games",
+					"developerId": "o-nwx4cr9ugyq97j23tjkxj5mbdw86qw",
+					"endOfSupport": false,
+					"entitlementName": "e9f30b8559a64cbbabde0b970cfa6e35",
+					"entitlementType": "EXECUTABLE",
+					"id": "e9f30b8559a64cbbabde0b970cfa6e35",
+					"itemType": "DURABLE",
+					"keyImages": [
+						{
+							"alt": "The Lord of The Rings Return to Moria The Lord of the Rings: Return to Moria™ Beorn’s Lodge Pack Offer",
+							"height": 1440,
+							"md5": "237bb75b7c3d01c6f9665160801007bd",
+							"size": 1069816,
+							"type": "DieselGameBox",
+							"uploadedDate": "2025-05-13T05:39:12.728Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-1lji7.jpg",
+							"width": 2560
+						},
+						{
+							"alt": "Download The Lord of The Rings Return to Moria The Lord of the Rings: Return to Moria™ Beorn’s Lodge Pack Offer",
+							"height": 1600,
+							"md5": "b0440f49cfed9176cb3d015a9d94933c",
+							"size": 547366,
+							"type": "DieselGameBoxTall",
+							"uploadedDate": "2025-05-13T05:39:12.294Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-zq5lr.jpg",
+							"width": 1200
+						}
+					],
+					"lastModifiedDate": "2025-06-10T15:31:09.656Z",
+					"mainGameItem": {
+						"id": "b55e326929b44a7b913693ea8ae79d00",
+						"namespace": "1d6b5762a1d643a4830481c44d59abfb",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "b55e326929b44a7b913693ea8ae79d00",
+							"namespace": "1d6b5762a1d643a4830481c44d59abfb",
+							"unsearchable": false
+						}
+					],
+					"namespace": "1d6b5762a1d643a4830481c44d59abfb",
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "The Lord of the Rings: Return to Moria™ Beorn’s Lodge Pack",
+					"unsearchable": false
+				},
+				{
+					"categories": [
+						{
+							"path": "addons"
+						}
+					],
+					"creationDate": "2025-06-10T15:31:09.654Z",
+					"description": "Sigue de cerca el mal que deambula por la montaña y haz trofeos con sus huesos con el paquete de cazaorcos. Incluye una armadura cosmética terrorífica, un arma y un brebaje. Talla la nueva runa de trofeos de caza para hacer trofeos y decoraciones con los caídos.",
+					"developer": "North Beach Games",
+					"developerId": "o-nwx4cr9ugyq97j23tjkxj5mbdw86qw",
+					"endOfSupport": false,
+					"entitlementName": "e3521310a50a4afa99fd02783c3a803b",
+					"entitlementType": "EXECUTABLE",
+					"id": "e3521310a50a4afa99fd02783c3a803b",
+					"itemType": "DURABLE",
+					"keyImages": [
+						{
+							"alt": "The Lord of The Rings Return to Moria The Lord of the Rings: Return to Moria™ Orc Hunter Pack Offer",
+							"height": 1440,
+							"md5": "abe66b35cbb08fcca0de0e09e9b7b542",
+							"size": 3916350,
+							"type": "DieselGameBox",
+							"uploadedDate": "2025-06-05T22:24:29.197Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-1btdk.png",
+							"width": 2560
+						},
+						{
+							"alt": "Download The Lord of The Rings Return to Moria The Lord of the Rings: Return to Moria™ Orc Hunter Pack Offer",
+							"height": 1600,
+							"md5": "df89c05145b37b72411728cd893415c8",
+							"size": 2652866,
+							"type": "DieselGameBoxTall",
+							"uploadedDate": "2025-06-05T22:24:28.843Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-1odys.png",
+							"width": 1200
+						}
+					],
+					"lastModifiedDate": "2025-06-10T15:31:09.654Z",
+					"mainGameItem": {
+						"id": "b55e326929b44a7b913693ea8ae79d00",
+						"namespace": "1d6b5762a1d643a4830481c44d59abfb",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "b55e326929b44a7b913693ea8ae79d00",
+							"namespace": "1d6b5762a1d643a4830481c44d59abfb",
+							"unsearchable": false
+						}
+					],
+					"namespace": "1d6b5762a1d643a4830481c44d59abfb",
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "Paquete de cazaorcos",
 					"unsearchable": false
 				}
 			],
@@ -52587,7 +52653,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "59e7e1adf9774598a96da5f20ff31e93",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-05-14T00:02:22.515Z",
+					"lastModifiedDate": "2025-06-11T00:08:09.765Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -52625,7 +52691,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "cf32093d3f444167966b7d08a82062cc",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-05-14T00:02:22.515Z",
+					"lastModifiedDate": "2025-06-11T00:08:08.904Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -52663,7 +52729,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "5fe30d97bcac4130abbed745cb9e48c0",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-05-14T00:02:22.515Z",
+					"lastModifiedDate": "2025-06-11T00:08:08.904Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -52701,7 +52767,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "7df47cc650744d12829ed9995f8a167a",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-05-14T00:02:23.289Z",
+					"lastModifiedDate": "2025-06-11T00:08:08.904Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -52739,7 +52805,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "18f04d12c558442f87193545610b9ab8",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-05-14T00:02:22.515Z",
+					"lastModifiedDate": "2025-06-11T00:08:08.904Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -52777,7 +52843,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "15c6cc9b41e242859e028b1850a649fd",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-05-14T00:02:22.515Z",
+					"lastModifiedDate": "2025-06-11T00:08:08.904Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -52815,7 +52881,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "2173e8136e374afb833169723bf7325c",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-05-14T00:02:22.515Z",
+					"lastModifiedDate": "2025-06-11T00:08:08.904Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -52853,7 +52919,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "211f08a072c749d88813e2759872dc88",
 					"itemType": "CONSUMABLE",
-					"lastModifiedDate": "2025-05-14T00:02:22.515Z",
+					"lastModifiedDate": "2025-06-11T00:08:08.904Z",
 					"mainGameItem": {
 						"id": "498ff2997ac2491a9fc7c0e95991afd8",
 						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
@@ -54727,6 +54793,248 @@
 					"requiresSecureAccount": false,
 					"status": "ACTIVE",
 					"title": "#35.2 Survivor Pass: Moghoul Rampage Premium pack_SeasonPassAudience",
+					"unsearchable": false
+				},
+				{
+					"categories": [
+						{
+							"path": "addons"
+						}
+					],
+					"creationDate": "2025-06-11T00:08:08.925Z",
+					"description": "(EVENT) 500+500 BONUS",
+					"developer": "KRAFTON, Inc.",
+					"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+					"endOfSupport": false,
+					"entitlementName": "846626e4211a4415b0350939001480bd",
+					"entitlementType": "EXECUTABLE",
+					"id": "846626e4211a4415b0350939001480bd",
+					"itemType": "DURABLE",
+					"keyImages": [
+						{
+							"alt": "PUBG BATTLEGROUNDS 2025 Double G-coin I Offer",
+							"height": 1440,
+							"md5": "a2625dbb4764e022b3cca38eec2e60fa",
+							"size": 231940,
+							"type": "DieselGameBox",
+							"uploadedDate": "2025-05-30T09:21:28.923Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-7nnpt.jpg",
+							"width": 2560
+						},
+						{
+							"alt": "Download PUBG BATTLEGROUNDS 2025 Double G-coin I Offer",
+							"height": 1600,
+							"md5": "0a02a867bd228176ae764bdb0d35b9ad",
+							"size": 1760830,
+							"type": "DieselGameBoxTall",
+							"uploadedDate": "2025-05-30T09:21:31.797Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-acuny.png",
+							"width": 1200
+						}
+					],
+					"lastModifiedDate": "2025-06-11T00:08:08.925Z",
+					"mainGameItem": {
+						"id": "498ff2997ac2491a9fc7c0e95991afd8",
+						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "498ff2997ac2491a9fc7c0e95991afd8",
+							"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+							"unsearchable": false
+						}
+					],
+					"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "2025 DOUBLE G-COIN I",
+					"unsearchable": false
+				},
+				{
+					"categories": [
+						{
+							"path": "addons"
+						}
+					],
+					"creationDate": "2025-04-03T07:14:50.795Z",
+					"description": "(EVENT) 5000+5000 BONUS",
+					"developer": "KRAFTON, Inc.",
+					"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+					"endOfSupport": false,
+					"entitlementName": "efed60ac9327423ea62e7ef248f7a2ad",
+					"entitlementType": "EXECUTABLE",
+					"id": "efed60ac9327423ea62e7ef248f7a2ad",
+					"itemType": "DURABLE",
+					"keyImages": [
+						{
+							"alt": "PUBG BATTLEGROUNDS 2025 Double G-coin III Offer",
+							"height": 1440,
+							"md5": "3b4c7a954d3451a6244d7994c02687c1",
+							"size": 224914,
+							"type": "DieselGameBox",
+							"uploadedDate": "2025-05-30T09:22:36.235Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-mgml6.jpg",
+							"width": 2560
+						},
+						{
+							"alt": "Download PUBG BATTLEGROUNDS 2025 Double G-coin III Offer",
+							"height": 1600,
+							"md5": "2de45ef85eb1205406d24374ac96e62f",
+							"size": 1780108,
+							"type": "DieselGameBoxTall",
+							"uploadedDate": "2025-05-30T09:22:38.964Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-1g70c.png",
+							"width": 1200
+						}
+					],
+					"lastModifiedDate": "2025-06-11T21:07:37.785Z",
+					"mainGameItem": {
+						"id": "498ff2997ac2491a9fc7c0e95991afd8",
+						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "498ff2997ac2491a9fc7c0e95991afd8",
+							"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+							"unsearchable": false
+						}
+					],
+					"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "2025 DOUBLE G-COIN III",
+					"unsearchable": false
+				},
+				{
+					"categories": [
+						{
+							"path": "audience"
+						},
+						{
+							"path": "public"
+						}
+					],
+					"creationDate": "2025-06-11T00:08:08.927Z",
+					"description": "#36.1 Crafter Pass: Black Market Premium_SeasonPassAudience",
+					"developer": "KRAFTON, Inc.",
+					"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+					"endOfSupport": false,
+					"entitlementName": "c305e95e93874bbc9d572de41eceddbf",
+					"entitlementType": "AUDIENCE",
+					"id": "c305e95e93874bbc9d572de41eceddbf",
+					"itemType": "DURABLE",
+					"lastModifiedDate": "2025-06-11T00:08:08.927Z",
+					"mainGameItem": {
+						"id": "498ff2997ac2491a9fc7c0e95991afd8",
+						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "498ff2997ac2491a9fc7c0e95991afd8",
+							"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+							"unsearchable": false
+						}
+					],
+					"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "#36.1 Crafter Pass: Black Market Premium_SeasonPassAudience",
+					"unsearchable": false
+				},
+				{
+					"categories": [
+						{
+							"path": "addons"
+						}
+					],
+					"creationDate": "2025-06-11T00:08:08.922Z",
+					"description": "(EVENT) 2500+2500 BONUS",
+					"developer": "KRAFTON, Inc.",
+					"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+					"endOfSupport": false,
+					"entitlementName": "52181b53c24f43b48341a80e1e00c65f",
+					"entitlementType": "EXECUTABLE",
+					"id": "52181b53c24f43b48341a80e1e00c65f",
+					"itemType": "DURABLE",
+					"keyImages": [
+						{
+							"alt": "PUBG BATTLEGROUNDS 2025 Double G-coin II Offer",
+							"height": 1440,
+							"md5": "6501071b3ae25086082a85fc9bb9fbe0",
+							"size": 236676,
+							"type": "DieselGameBox",
+							"uploadedDate": "2025-05-30T09:21:56.118Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-6a4j3.jpg",
+							"width": 2560
+						},
+						{
+							"alt": "Download PUBG BATTLEGROUNDS 2025 Double G-coin II Offer",
+							"height": 1600,
+							"md5": "a2c6b3e552401f7764f63f6f1cd85716",
+							"size": 1877744,
+							"type": "DieselGameBoxTall",
+							"uploadedDate": "2025-05-30T09:21:58.593Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-1b6i7.png",
+							"width": 1200
+						}
+					],
+					"lastModifiedDate": "2025-06-11T00:08:08.922Z",
+					"mainGameItem": {
+						"id": "498ff2997ac2491a9fc7c0e95991afd8",
+						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "498ff2997ac2491a9fc7c0e95991afd8",
+							"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+							"unsearchable": false
+						}
+					],
+					"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "2025 DOUBLE G-COIN II",
+					"unsearchable": false
+				},
+				{
+					"categories": [
+						{
+							"path": "audience"
+						},
+						{
+							"path": "public"
+						}
+					],
+					"creationDate": "2025-06-11T00:08:09.780Z",
+					"description": "#36.1 Crafter Pass: Black Market_SeasonPassAudience",
+					"developer": "KRAFTON, Inc.",
+					"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+					"endOfSupport": false,
+					"entitlementName": "b62fa8851afc44bf92448abf39db03f3",
+					"entitlementType": "AUDIENCE",
+					"id": "b62fa8851afc44bf92448abf39db03f3",
+					"itemType": "DURABLE",
+					"lastModifiedDate": "2025-06-11T00:08:09.780Z",
+					"mainGameItem": {
+						"id": "498ff2997ac2491a9fc7c0e95991afd8",
+						"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "498ff2997ac2491a9fc7c0e95991afd8",
+							"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+							"unsearchable": false
+						}
+					],
+					"namespace": "eb99ee4694474e8da0b05a8ab391825c",
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "#36.1 Crafter Pass: Black Market_SeasonPassAudience",
 					"unsearchable": false
 				}
 			],
@@ -69361,9 +69669,39 @@
 			"store_url": "https://www.epicgames.com/store/product/wizard-of-legend"
 		},
 		{
+			"app_name": "a64dcf9b711a4a60a3c0b6f052dfc7da",
+			"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WolfensteinTheNewOrder_MachineGames_S1_2560x1440-3a75b2c45a2a12e882feb2e2ff180b0c",
+			"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WolfensteinTheNewOrder_MachineGames_S2_1200x1600-0f70ad56e210812c26a9dde1a8143a58",
+			"cloud_save_enabled": true,
+			"developer": "Bethesda Softworks LLC",
+			"extra": {
+				"about": {
+					"description": "Wolfenstein: The New Order",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/wolfenstein-the-new-order"
+			},
+			"folder_name": "WolfensteinTNO",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "0bd3e505924240adb702295fa08c1eff",
+			"is_mac_native": false,
+			"save_folder": "{UserSavedGames}/MachineGames/Wolfenstein The New Order/base/savegame/{EpicID}/",
+			"title": "Wolfenstein: The New Order",
+			"canRunOffline": true,
+			"isEAManaged": false,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/wolfenstein-the-new-order"
+		},
+		{
 			"app_name": "a79746038c6948558274065d24f3faa3",
-			"art_cover": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-bvmos.png",
-			"art_square": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1m6tm.png",
+			"art_cover": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1k50c.png",
+			"art_square": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1bzew.png",
 			"cloud_save_enabled": true,
 			"developer": "Wargaming Group Limited",
 			"extra": {
@@ -69768,7 +70106,6 @@
 						"egstore"
 					],
 					"id": "0652a6a546134807b15a4f125d0b1447",
-					"installModes": [],
 					"itemType": "CONSUMABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2025-05-16T15:43:39.927Z",
@@ -69813,7 +70150,6 @@
 						"egstore"
 					],
 					"id": "37ac85b753324629927ee043f62a255a",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2022-11-22T15:53:53.680Z",
@@ -70596,7 +70932,6 @@
 						"egstore"
 					],
 					"id": "b05d638e2aea44baacd7e3eea66ff060",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2022-12-15T15:35:07.679Z",
@@ -75090,6 +75425,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Fri Jun 06 2025 18:14:46 GMT-0500 (hora estándar oriental)"
+		"library": "Fri Jun 13 2025 09:28:38 GMT-0500 (hora estándar oriental)"
 	}
 }

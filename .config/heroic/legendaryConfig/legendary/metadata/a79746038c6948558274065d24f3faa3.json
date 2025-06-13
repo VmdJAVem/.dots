@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "a79746038c6948558274065d24f3faa3",
       "asset_id": "a79746038c6948558274065d24f3faa3",
-      "build_version": "14.4.0.0.9953613-9958803-multiversion",
+      "build_version": "14.5.0.0.10087791-10092878-multiversion",
       "catalog_item_id": "b9e23e5fa8e84064b356677022beb37a",
       "label_name": "Live-Windows",
       "metadata": {
@@ -466,7 +466,6 @@
           "egstore"
         ],
         "id": "0652a6a546134807b15a4f125d0b1447",
-        "installModes": [],
         "itemType": "CONSUMABLE",
         "keyImages": [],
         "lastModifiedDate": "2025-05-16T15:43:39.927Z",
@@ -511,7 +510,6 @@
           "egstore"
         ],
         "id": "37ac85b753324629927ee043f62a255a",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2022-11-22T15:53:53.680Z",
@@ -1294,7 +1292,6 @@
           "egstore"
         ],
         "id": "b05d638e2aea44baacd7e3eea66ff060",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2022-12-15T15:35:07.679Z",
@@ -4603,7 +4600,6 @@
       "egstore"
     ],
     "id": "b9e23e5fa8e84064b356677022beb37a",
-    "installModes": [],
     "itemType": "DURABLE",
     "keyImages": [
       {
@@ -4612,8 +4608,8 @@
         "md5": "5e1955de87ec2a0fdb0ad9c3eb3644e9",
         "size": 1456772,
         "type": "DieselGameBox",
-        "uploadedDate": "2025-05-14T14:38:33.730Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-bvmos.png",
+        "uploadedDate": "2025-06-04T09:04:07.935Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1k50c.png",
         "width": 2560
       },
       {
@@ -4622,12 +4618,12 @@
         "md5": "cb6b5330c682b3285786945788808052",
         "size": 656687,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2025-05-14T14:38:33.221Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1m6tm.png",
+        "uploadedDate": "2025-06-04T09:04:03.014Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1bzew.png",
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-05-16T15:43:38.841Z",
+    "lastModifiedDate": "2025-06-04T15:34:19.140Z",
     "mainGameItemList": [],
     "namespace": "84c76746bce94effb8e1047fabfd7eb7",
     "releaseInfo": [
