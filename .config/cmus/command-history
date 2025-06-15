@@ -1,10 +1,11 @@
 q
+filter
+filter artist="Portavoz"
 qa!
 h
 commands
 man
 help
-filter
 filter genre="Boss Nova"
 filter genre="Jazz"
 qa

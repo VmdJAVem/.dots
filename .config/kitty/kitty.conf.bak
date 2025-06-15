@@ -1,5 +1,5 @@
-background_opacity 0.8
-
+background_opacity 0.6
+dynamic_background_opacity yes
 cursor_text_color       background
 
 url_color               #83a598
@@ -162,7 +162,7 @@ color15                 #bdae93
 
 
 # BEGIN_KITTY_FONTS
-font_family      family="DejaVu Sans Mono"
+font_family      family="NotoSansM Nerd Font Mono"
 bold_font        auto
 italic_font      auto
 bold_italic_font auto
