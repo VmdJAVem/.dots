@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Sugar",
       "asset_id": "Sugar",
-      "build_version": "BC2_Update54+483820",
+      "build_version": "BC2_Update55+487806b",
       "catalog_item_id": "530145df28a24424923f5828cc9031a1",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -96,7 +96,6 @@
           "egstore"
         ],
         "id": "8eeee1bbc27442fd914a0b97b940869d",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2023-11-30T19:24:33.207Z",
@@ -370,7 +369,6 @@
           "egstore"
         ],
         "id": "4829fa02053f4f72a4db0bee2f01e189",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2023-11-30T19:24:33.196Z",
@@ -597,7 +595,6 @@
           "egstore"
         ],
         "id": "96f824698fb940ca8111381fda1e006d",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2023-11-30T19:24:33.209Z",
@@ -962,7 +959,6 @@
           "egstore"
         ],
         "id": "80e03ffd60e24be39d96f7792c467687",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2023-11-30T19:24:33.205Z",
@@ -1189,7 +1185,6 @@
           "egstore"
         ],
         "id": "03166e3f00b44c1d9004e6b45f51fc06",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2023-11-30T19:24:33.181Z",
@@ -1325,7 +1320,6 @@
           "egstore"
         ],
         "id": "b781f0db3583447e9a7faec68df339af",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2023-11-30T19:26:10.177Z",
@@ -1373,7 +1367,6 @@
           "egstore"
         ],
         "id": "33e5486bcf6147b8923acce3b71e55b1",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2023-11-30T19:24:33.189Z",
@@ -1509,7 +1502,6 @@
           "egstore"
         ],
         "id": "e8c4a827f664488d8cb4a0048d7d30c7",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2023-11-30T19:24:33.221Z",
@@ -1653,7 +1645,6 @@
           "egstore"
         ],
         "id": "3eb5b517b0ff47608b31ad1bafdf4694",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2023-11-30T19:26:10.160Z",
@@ -1701,7 +1692,6 @@
           "egstore"
         ],
         "id": "5d6a71e06781462fbb80180a6ee27384",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2023-11-30T19:24:33.199Z",
@@ -1793,7 +1783,6 @@
           "egstore"
         ],
         "id": "63cfd41baabc4bfa992aef657fb3b77d",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2023-11-30T19:24:33.202Z",
@@ -1841,7 +1830,6 @@
           "egstore"
         ],
         "id": "1702c40536ee445bb6d5af856c2b2499",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2023-11-30T19:24:33.186Z",
@@ -1889,7 +1877,6 @@
           "egstore"
         ],
         "id": "b4d00a583bcb424ea5d472cddf126b6b",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2023-11-30T19:24:33.214Z",
@@ -2028,7 +2015,6 @@
           "egstore"
         ],
         "id": "98ad5389c6184a0cad24c4ff10254128",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2023-11-30T19:24:33.210Z",
@@ -2123,7 +2109,6 @@
           "egstore"
         ],
         "id": "3e4da909263442c2954ea5a5a155c56e",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2023-11-30T19:24:33.195Z",
@@ -3956,29 +3941,28 @@
       "(egstore && rocket_league)"
     ],
     "id": "530145df28a24424923f5828cc9031a1",
-    "installModes": [],
     "itemType": "DURABLE",
     "keyImages": [
       {
         "height": 1440,
-        "md5": "2c4734fceda0a1b6df485271f7f7b748",
-        "size": 815829,
+        "md5": "cd79c1e6b53ebcc7136dc7d0d4dccb78",
+        "size": 922119,
         "type": "DieselGameBox",
-        "uploadedDate": "2025-03-17T19:30:29.725Z",
-        "url": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/eEGS_RocketLeague_PsyonixLLC_S1_2560x1440-2c4734fceda0a1b6df485271f7f7b748",
+        "uploadedDate": "2025-06-10T22:19:42.955Z",
+        "url": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S1_2560x1440-cd79c1e6b53ebcc7136dc7d0d4dccb78",
         "width": 2560
       },
       {
         "height": 1600,
-        "md5": "b904a4d792b2405885fa55fc741cb7a9",
-        "size": 591863,
+        "md5": "11616f9d64ab28e808baa8ba7f656d89",
+        "size": 777361,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2025-03-17T19:30:33.962Z",
-        "url": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-b904a4d792b2405885fa55fc741cb7a9",
+        "uploadedDate": "2025-06-10T22:19:49.809Z",
+        "url": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-11616f9d64ab28e808baa8ba7f656d89",
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-05-05T21:19:39.524Z",
+    "lastModifiedDate": "2025-06-18T14:57:09.528Z",
     "mainGameItemList": [],
     "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
     "releaseInfo": [

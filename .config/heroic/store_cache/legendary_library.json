@@ -10757,25 +10757,25 @@
 					"itemType": "DURABLE",
 					"keyImages": [
 						{
-							"height": 1440,
-							"md5": "ce9852b1d1af7c154b47c19d40955fce",
-							"size": 967346,
-							"type": "DieselGameBox",
-							"uploadedDate": "2025-04-04T18:50:26.271Z",
-							"url": "https://cdn1.epicgames.com/item/fn/FNSP_08_EGS_Launcher_Blades_2560x1440_2560x1440-ce9852b1d1af7c154b47c19d40955fce",
-							"width": 2560
+							"height": 1600,
+							"md5": "e93fe8b84be5b73fdfd885f9cce0211b",
+							"size": 357146,
+							"type": "DieselGameBoxTall",
+							"uploadedDate": "2025-06-10T18:34:40.571Z",
+							"url": "https://cdn1.epicgames.com/item/fn/FNSP_09_DryErase_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-e93fe8b84be5b73fdfd885f9cce0211b",
+							"width": 1200
 						},
 						{
-							"height": 1600,
-							"md5": "d7eaa746a40181719d5d464bed962957",
-							"size": 403155,
-							"type": "DieselGameBoxTall",
-							"uploadedDate": "2025-04-04T18:50:31.646Z",
-							"url": "https://cdn1.epicgames.com/item/fn/FNSP_08_EGS_Launcher_Blades_Portrait_StoreArt_1200x1600_1200x1600-d7eaa746a40181719d5d464bed962957",
-							"width": 1200
+							"height": 1440,
+							"md5": "a5fff9129a31aa868fd920a9ef94cb4a",
+							"size": 662388,
+							"type": "DieselGameBox",
+							"uploadedDate": "2025-06-10T18:34:43.306Z",
+							"url": "https://cdn1.epicgames.com/item/fn/FNSP_09_DryErase_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-a5fff9129a31aa868fd920a9ef94cb4a",
+							"width": 2560
 						}
 					],
-					"lastModifiedDate": "2025-04-08T08:05:25.806Z",
+					"lastModifiedDate": "2025-06-18T08:17:37.556Z",
 					"mainGameItem": {
 						"id": "4fe75bbc5a674f4f9b356b5c90567da5",
 						"namespace": "fn",
@@ -55727,8 +55727,8 @@
 		},
 		{
 			"app_name": "Sugar",
-			"art_cover": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/eEGS_RocketLeague_PsyonixLLC_S1_2560x1440-2c4734fceda0a1b6df485271f7f7b748",
-			"art_square": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-b904a4d792b2405885fa55fc741cb7a9",
+			"art_cover": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S1_2560x1440-cd79c1e6b53ebcc7136dc7d0d4dccb78",
+			"art_square": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-11616f9d64ab28e808baa8ba7f656d89",
 			"cloud_save_enabled": false,
 			"developer": "Psyonix LLC",
 			"extra": {
@@ -55765,7 +55765,6 @@
 						"egstore"
 					],
 					"id": "8eeee1bbc27442fd914a0b97b940869d",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2023-11-30T19:24:33.207Z",
@@ -56039,7 +56038,6 @@
 						"egstore"
 					],
 					"id": "4829fa02053f4f72a4db0bee2f01e189",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2023-11-30T19:24:33.196Z",
@@ -56266,7 +56264,6 @@
 						"egstore"
 					],
 					"id": "96f824698fb940ca8111381fda1e006d",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2023-11-30T19:24:33.209Z",
@@ -56631,7 +56628,6 @@
 						"egstore"
 					],
 					"id": "80e03ffd60e24be39d96f7792c467687",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2023-11-30T19:24:33.205Z",
@@ -56858,7 +56854,6 @@
 						"egstore"
 					],
 					"id": "03166e3f00b44c1d9004e6b45f51fc06",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2023-11-30T19:24:33.181Z",
@@ -56994,7 +56989,6 @@
 						"egstore"
 					],
 					"id": "b781f0db3583447e9a7faec68df339af",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2023-11-30T19:26:10.177Z",
@@ -57042,7 +57036,6 @@
 						"egstore"
 					],
 					"id": "33e5486bcf6147b8923acce3b71e55b1",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2023-11-30T19:24:33.189Z",
@@ -57178,7 +57171,6 @@
 						"egstore"
 					],
 					"id": "e8c4a827f664488d8cb4a0048d7d30c7",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2023-11-30T19:24:33.221Z",
@@ -57322,7 +57314,6 @@
 						"egstore"
 					],
 					"id": "3eb5b517b0ff47608b31ad1bafdf4694",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2023-11-30T19:26:10.160Z",
@@ -57370,7 +57361,6 @@
 						"egstore"
 					],
 					"id": "5d6a71e06781462fbb80180a6ee27384",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2023-11-30T19:24:33.199Z",
@@ -57462,7 +57452,6 @@
 						"egstore"
 					],
 					"id": "63cfd41baabc4bfa992aef657fb3b77d",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2023-11-30T19:24:33.202Z",
@@ -57510,7 +57499,6 @@
 						"egstore"
 					],
 					"id": "1702c40536ee445bb6d5af856c2b2499",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2023-11-30T19:24:33.186Z",
@@ -57558,7 +57546,6 @@
 						"egstore"
 					],
 					"id": "b4d00a583bcb424ea5d472cddf126b6b",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2023-11-30T19:24:33.214Z",
@@ -57697,7 +57684,6 @@
 						"egstore"
 					],
 					"id": "98ad5389c6184a0cad24c4ff10254128",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2023-11-30T19:24:33.210Z",
@@ -57792,7 +57778,6 @@
 						"egstore"
 					],
 					"id": "3e4da909263442c2954ea5a5a155c56e",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2023-11-30T19:24:33.195Z",
@@ -59830,7 +59815,6 @@
 						"egstore"
 					],
 					"id": "7ed66c4409d143638ac44a0eac238070",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"lastModifiedDate": "2023-04-14T21:08:11.367Z",
 					"mainGameItem": {
@@ -59883,7 +59867,6 @@
 						"egstore"
 					],
 					"id": "5fc627a5daef46f2a1dc074b393d3f0c",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"lastModifiedDate": "2024-12-06T08:12:52.624Z",
 					"mainGameItem": {
@@ -67197,6 +67180,62 @@
 					"requiresSecureAccount": false,
 					"status": "ACTIVE",
 					"title": "theHunter: Call of the Wild™ - Rapid Hunt Rifle Pack",
+					"unsearchable": false
+				},
+				{
+					"categories": [
+						{
+							"path": "addons"
+						}
+					],
+					"creationDate": "2025-06-17T09:00:10.751Z",
+					"description": "A pesar del frío glacial, la naturaleza de Alberta reboza vida. Descubre y caza 19 especies de la zona, supera 13 misiones exclusivas y explora esta reserva majestuosa.",
+					"developer": "Avalanche Studios Group AB",
+					"developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+					"endOfSupport": false,
+					"entitlementName": "608d90121bc24bb6b6837919c6fcd943",
+					"entitlementType": "EXECUTABLE",
+					"id": "608d90121bc24bb6b6837919c6fcd943",
+					"itemType": "DURABLE",
+					"keyImages": [
+						{
+							"alt": "theHunter: Call of the Wild theHunter: Call of the Wild™ - Alberta Hunting Preserve Offer",
+							"height": 1440,
+							"md5": "03bd38ed28fef8c8d6bf3f8a048f893a",
+							"size": 970261,
+							"type": "DieselGameBox",
+							"uploadedDate": "2025-06-09T07:42:49.221Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/cacddb2d596043bf9678a8d00b87069e/thehunter-call-of-the-wild-qc15j.jpg",
+							"width": 2560
+						},
+						{
+							"alt": "Download theHunter: Call of the Wild theHunter: Call of the Wild™ - Alberta Hunting Preserve Offer",
+							"height": 1600,
+							"md5": "e59ea17a630c25af36d1a30baed385c9",
+							"size": 682845,
+							"type": "DieselGameBoxTall",
+							"uploadedDate": "2025-06-09T07:42:40.727Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/cacddb2d596043bf9678a8d00b87069e/thehunter-call-of-the-wild-whqfc.jpg",
+							"width": 1200
+						}
+					],
+					"lastModifiedDate": "2025-06-17T09:00:10.751Z",
+					"mainGameItem": {
+						"id": "7333ebed726f408e8f3bfa650488d32e",
+						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "7333ebed726f408e8f3bfa650488d32e",
+							"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+							"unsearchable": false
+						}
+					],
+					"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "theHunter: Call of the Wild™ - Alberta Hunting Preserve",
 					"unsearchable": false
 				}
 			],
@@ -75425,6 +75464,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Fri Jun 13 2025 09:28:38 GMT-0500 (hora estándar oriental)"
+		"library": "Thu Jun 19 2025 21:47:37 GMT-0500 (Eastern Standard Time)"
 	}
 }

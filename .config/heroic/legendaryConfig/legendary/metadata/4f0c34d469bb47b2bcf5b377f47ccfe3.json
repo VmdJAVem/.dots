@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "4f0c34d469bb47b2bcf5b377f47ccfe3",
       "asset_id": "4f0c34d469bb47b2bcf5b377f47ccfe3",
-      "build_version": "1.130.2989309",
+      "build_version": "1.178.3024050",
       "catalog_item_id": "7333ebed726f408e8f3bfa650488d32e",
       "label_name": "Live-Windows",
       "metadata": {
@@ -5094,6 +5094,62 @@
         "status": "ACTIVE",
         "title": "theHunter: Call of the Wild\u2122 - Rapid Hunt Rifle Pack",
         "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-17T09:00:10.751Z",
+        "description": "A pesar del fr\u00edo glacial, la naturaleza de Alberta reboza vida. Descubre y caza 19 especies de la zona, supera 13 misiones exclusivas y explora esta reserva majestuosa.",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "608d90121bc24bb6b6837919c6fcd943",
+        "entitlementType": "EXECUTABLE",
+        "id": "608d90121bc24bb6b6837919c6fcd943",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "theHunter: Call of the Wild theHunter: Call of the Wild\u2122 - Alberta Hunting Preserve Offer",
+            "height": 1440,
+            "md5": "03bd38ed28fef8c8d6bf3f8a048f893a",
+            "size": 970261,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-06-09T07:42:49.221Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/cacddb2d596043bf9678a8d00b87069e/thehunter-call-of-the-wild-qc15j.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download theHunter: Call of the Wild theHunter: Call of the Wild\u2122 - Alberta Hunting Preserve Offer",
+            "height": 1600,
+            "md5": "e59ea17a630c25af36d1a30baed385c9",
+            "size": 682845,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-06-09T07:42:40.727Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/cacddb2d596043bf9678a8d00b87069e/thehunter-call-of-the-wild-whqfc.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-17T09:00:10.751Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7333ebed726f408e8f3bfa650488d32e",
+            "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Alberta Hunting Preserve",
+        "unsearchable": false
       }
     ],
     "endOfSupport": false,
@@ -5103,7 +5159,6 @@
       "egstore"
     ],
     "id": "7333ebed726f408e8f3bfa650488d32e",
-    "installModes": [],
     "itemType": "DURABLE",
     "keyImages": [
       {
@@ -5125,7 +5180,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-04-01T18:24:50.392Z",
+    "lastModifiedDate": "2025-06-17T09:00:11.178Z",
     "mainGameItemList": [],
     "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
     "releaseInfo": [

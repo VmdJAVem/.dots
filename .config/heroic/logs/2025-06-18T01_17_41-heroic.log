@@ -1,0 +1,114 @@
+(20:17:41) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary
+(20:17:41) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl
+(20:17:41) INFO:    [Connection]:       Connectivity: check-online
+(20:17:41) INFO:    [Connection]:       Pinging external endpoints
+(20:17:41) INFO:    [Gog]:              Checking for existing gog manifests
+(20:17:42) WARNING: [Backend]:          Protocol already registered.
+(20:17:42) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+(20:17:42) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json --version
+(20:17:42) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/vmdjavem/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/nile --version
+(20:17:42) INFO:    [Backend]:          
+System Information:
+CPU: 12x AMD Ryzen 5 7600X 6-Core Processor
+Memory: 32.7 GB (used: 2.04 GB)
+GPUs:
+  GPU 0:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Raphael
+    IDs: D=164e V=1002 SD=7e26 SV=1462
+    Driver: amdgpu
+  GPU 1:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Navi 32 [Radeon RX 7700 XT / 7800 XT]
+    IDs: D=747e V=1002 SD=f475 SV=1da2
+    Driver: amdgpu
+OS: EndeavourOS 6.15.2-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.17.2 Cutty Flam Franky
+  Legendary: 0.20.37 Exit 17 (Heroic)
+  gogdl: 1.1.2
+  comet: comet 0.2.0
+  Nile: 1.1.2 Will A. Zeppeli
+
+(20:17:42) INFO:    [Connection]:       Connectivity: online
+(20:17:42) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(20:17:42) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json auth
+(20:17:42) INFO:    [Frontend]:         Refreshing undefined Library
+(20:17:42) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(20:17:42) INFO:    [Legendary]:        Refreshing library...
+(20:17:42) INFO:    [Legendary]:        Refreshing Epic Games...
+(20:17:42) INFO:    [Backend]:          Frontend Ready
+(20:17:42) INFO:    [Backend]:          Checking for new Heroic Updates
+(20:17:42) INFO:    [Backend]:          Checking for current version changelog
+(20:17:42) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(20:17:43) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(20:17:44) INFO:    [Winetricks]:       Downloading Winetricks
+(20:17:45) INFO:    [Legendary]:        Game list updated, got 97 games & DLCs
+(20:17:45) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(20:17:45) INFO:    [Legendary]:        Checking for game updates: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(20:17:45) INFO:    [Backend]:          Launching Plutonium Launcher (k9WDWBSBu5MRntf9VDLYzL)
+(20:17:45) INFO:    [Backend]:          Preventing display from sleep
+(20:17:45) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(20:17:45) DEBUG:   [Backend]:          Checking if we should toggle Shader Pre-Caching
+(20:17:45) DEBUG:   [Backend]:          Checking if we should toggle Shader Pre-Caching
+(20:17:45) INFO:    [Backend]:          Preventing machine to sleep
+(20:17:46) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(20:17:46) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(20:17:46) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(20:17:46) DEBUG:   [Backend]:          Running Wine command: createprefix
+(20:17:46) INFO:    [Legendary]:        Found 0 games to update
+(20:17:46) INFO:    [WineDownloader]:   Updating wine versions info
+(20:17:46) INFO:    [WineDownloader]:   Fetching upstream information...
+(20:17:47) INFO:    [Backend]:          Starting the Download Queue
+(20:17:47) INFO:    [WineDownloader]:   wine versions updated
+(20:17:51) INFO:    [Backend]:          launching non-native sideloaded: /home/vmdjavem/Games/Heroic/Prefixes/default/Plutonium Launcher/drive_c/users/steamuser/AppData/Local/Plutonium/bin/plutonium-launcher-win32.exe 
+(20:17:51) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(20:17:51) DEBUG:   [Backend]:          Running Wine command: /home/vmdjavem/Games/Heroic/Prefixes/default/Plutonium Launcher/drive_c/users/steamuser/AppData/Local/Plutonium/bin/plutonium-launcher-win32.exe
+(20:17:51) DEBUG:   [Backend]:          Logging to file "/home/vmdjavem/.config/heroic/GamesConfig/k9WDWBSBu5MRntf9VDLYzL-lastPlay.log"
+(20:17:51) INFO:    [Backend]:          Preventing display to sleep
+(20:23:07) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(20:23:07) INFO:    [Frontend]:         Refreshing sideload Library
+(20:23:07) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(20:23:07) INFO:    [Backend]:          Stopping Power Saver Blocker
+(20:23:07) INFO:    [Backend]:          Stopping Display Sleep Blocker
+(21:19:28) INFO:    [Backend]:          Launching Hearts of iron IV (puJw5rzdvKHmsAjcxMTH1m)
+(21:19:28) INFO:    [Backend]:          Preventing display from sleep
+(21:19:28) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(21:19:28) DEBUG:   [Backend]:          Checking if we should toggle Shader Pre-Caching
+(21:19:28) DEBUG:   [Backend]:          Checking if we should toggle Shader Pre-Caching
+(21:19:28) INFO:    [Backend]:          Preventing machine to sleep
+(21:19:29) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(21:19:29) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(21:19:29) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(21:19:29) DEBUG:   [Backend]:          Running Wine command: createprefix
+(21:19:39) INFO:    [Backend]:          launching non-native sideloaded: /home/vmdjavem/Games/Heroic/Prefixes/default/Hearts of iron IV/pfx/drive_c/Program Files (x86)/DODI-Repacks/Hearts of Iron IV/hoi4.exe 
+(21:19:39) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(21:19:39) DEBUG:   [Backend]:          Running Wine command: /home/vmdjavem/Games/Heroic/Prefixes/default/Hearts of iron IV/pfx/drive_c/Program Files (x86)/DODI-Repacks/Hearts of Iron IV/hoi4.exe
+(21:19:39) DEBUG:   [Backend]:          Logging to file "/home/vmdjavem/.config/heroic/GamesConfig/puJw5rzdvKHmsAjcxMTH1m-lastPlay.log"
+(21:19:39) INFO:    [Backend]:          Preventing display to sleep
+(21:30:17) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(21:30:17) INFO:    [Frontend]:         Refreshing sideload Library
+(21:30:17) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(21:30:17) INFO:    [Backend]:          Stopping Power Saver Blocker
+(21:30:17) INFO:    [Backend]:          Stopping Display Sleep Blocker
+(21:30:23) INFO:    [Backend]:          Launching Plutonium Launcher (k9WDWBSBu5MRntf9VDLYzL)
+(21:30:23) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(21:30:23) DEBUG:   [Backend]:          Checking if we should toggle Shader Pre-Caching
+(21:30:23) DEBUG:   [Backend]:          Checking if we should toggle Shader Pre-Caching
+(21:30:23) INFO:    [Backend]:          Preventing machine to sleep
+(21:30:24) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(21:30:24) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(21:30:24) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(21:30:24) DEBUG:   [Backend]:          Running Wine command: createprefix
+(21:30:27) INFO:    [Backend]:          launching non-native sideloaded: /home/vmdjavem/Games/Heroic/Prefixes/default/Plutonium Launcher/drive_c/users/steamuser/AppData/Local/Plutonium/bin/plutonium-launcher-win32.exe 
+(21:30:27) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(21:30:27) DEBUG:   [Backend]:          Running Wine command: /home/vmdjavem/Games/Heroic/Prefixes/default/Plutonium Launcher/drive_c/users/steamuser/AppData/Local/Plutonium/bin/plutonium-launcher-win32.exe
+(21:30:27) DEBUG:   [Backend]:          Logging to file "/home/vmdjavem/.config/heroic/GamesConfig/k9WDWBSBu5MRntf9VDLYzL-lastPlay.log"
+(21:30:28) INFO:    [Backend]:          Preventing display to sleep
+(21:34:29) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(21:34:29) INFO:    [Frontend]:         Refreshing sideload Library
+(21:34:29) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(21:34:29) INFO:    [Backend]:          Stopping Power Saver Blocker
+(21:34:29) INFO:    [Backend]:          Stopping Display Sleep Blocker

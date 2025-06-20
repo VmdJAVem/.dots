@@ -127,7 +127,7 @@
     {
       "app_name": "33030b24b1df4dd5b6bcfb0314c17f39",
       "asset_id": "33030b24b1df4dd5b6bcfb0314c17f39",
-      "build_version": "706",
+      "build_version": "715",
       "catalog_item_id": "975a3a2eca7c42ca9c610443ab0ae0bd",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -343,7 +343,7 @@
     {
       "app_name": "0a2d9f6403244d12969e11da6713137b",
       "asset_id": "0a2d9f6403244d12969e11da6713137b",
-      "build_version": "EGS_10134",
+      "build_version": "EGS_10347",
       "catalog_item_id": "38ec4849ea4f4de6aa7b6fb0f2d278e1",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -422,7 +422,7 @@
       "label_name": "Live-Windows",
       "metadata": {},
       "namespace": "615659ff36244d258ef6c6a827e32c5d",
-      "sidecar_rev": 0
+      "sidecar_rev": 1
     },
     {
       "app_name": "3e02273b543f4ff0a1c24d3b534a9ac3",
@@ -601,7 +601,7 @@
     {
       "app_name": "Sugar",
       "asset_id": "Sugar",
-      "build_version": "BC2_Update54+483820",
+      "build_version": "BC2_Update55+487806b",
       "catalog_item_id": "530145df28a24424923f5828cc9031a1",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -730,7 +730,7 @@
     {
       "app_name": "d36336f190094951873ed6138ac208d8",
       "asset_id": "d36336f190094951873ed6138ac208d8",
-      "build_version": "6736",
+      "build_version": "6770",
       "catalog_item_id": "c80a76de890145edbe0d41679dbccc66",
       "label_name": "Live-Windows",
       "metadata": {
@@ -817,7 +817,7 @@
     {
       "app_name": "4f0c34d469bb47b2bcf5b377f47ccfe3",
       "asset_id": "4f0c34d469bb47b2bcf5b377f47ccfe3",
-      "build_version": "1.130.2989309",
+      "build_version": "1.178.3024050",
       "catalog_item_id": "7333ebed726f408e8f3bfa650488d32e",
       "label_name": "Live-Windows",
       "metadata": {
@@ -951,7 +951,7 @@
     {
       "app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
       "asset_id": "9361c8c6d2f34b42b5f2f61093eedf48",
-      "build_version": "36.1.1.45",
+      "build_version": "36.1.1.47",
       "catalog_item_id": "498ff2997ac2491a9fc7c0e95991afd8",
       "label_name": "Live-Windows",
       "metadata": {
@@ -1033,7 +1033,7 @@
     {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-36.00-CL-43339403-Windows",
+      "build_version": "++Fortnite+Release-36.10-CL-43486998-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {

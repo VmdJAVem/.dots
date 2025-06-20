@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "d36336f190094951873ed6138ac208d8",
       "asset_id": "d36336f190094951873ed6138ac208d8",
-      "build_version": "6736",
+      "build_version": "6770",
       "catalog_item_id": "c80a76de890145edbe0d41679dbccc66",
       "label_name": "Live-Windows",
       "metadata": {
@@ -104,7 +104,6 @@
           "egstore"
         ],
         "id": "7ed66c4409d143638ac44a0eac238070",
-        "installModes": [],
         "itemType": "DURABLE",
         "lastModifiedDate": "2023-04-14T21:08:11.367Z",
         "mainGameItem": {
@@ -157,7 +156,6 @@
           "egstore"
         ],
         "id": "5fc627a5daef46f2a1dc074b393d3f0c",
-        "installModes": [],
         "itemType": "DURABLE",
         "lastModifiedDate": "2024-12-06T08:12:52.624Z",
         "mainGameItem": {
@@ -187,7 +185,6 @@
       "egstore"
     ],
     "id": "c80a76de890145edbe0d41679dbccc66",
-    "installModes": [],
     "itemType": "DURABLE",
     "keyImages": [
       {

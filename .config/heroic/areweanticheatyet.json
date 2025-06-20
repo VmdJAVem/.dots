@@ -6033,7 +6033,7 @@
     "name": "Deceit 2",
     "logo": "",
     "native": false,
-    "status": "Broken",
+    "status": "Running",
     "reference": "",
     "anticheats": [
       "Easy Anti-Cheat"
@@ -6041,7 +6041,7 @@
     "updates": [],
     "notes": [],
     "storeIds": {},
-    "dateChanged": "2024-01-19T04:40:56.000Z"
+    "dateChanged": "2025-06-18T15:20:49.0000000-04:00"
   },
   {
     "url": "",
@@ -8992,22 +8992,17 @@
     "name": "Splitgate 2",
     "logo": "",
     "native": false,
-    "status": "Planned",
-    "reference": "https://www.reddit.com/r/Splitgate/comments/1f9s4la/splitgate_2_ama_with_1047_games_ceo_ian_proulx/llnx5tq/",
+    "status": "Running",
+    "reference": "",
     "anticheats": [
-      "EQU8"
+      "RedKard"
     ],
     "updates": [],
-    "notes": [
-      [
-        "Unreleased, Anticheat broken in closed alpha.",
-        null
-      ]
-    ],
+    "notes": [],
     "storeIds": {
       "steam": "2918300"
     },
-    "dateChanged": "2025-03-02T14:23:05.0000000-05:00"
+    "dateChanged": "2025-06-19T15:01:37.0000000-04:00"
   },
   {
     "url": "https://xeragame.com/",
@@ -19525,7 +19520,7 @@
     "name": "Blindfire",
     "logo": "",
     "native": false,
-    "status": "Broken",
+    "status": "Supported",
     "reference": "",
     "anticheats": [
       "Easy Anti-Cheat"
@@ -19533,7 +19528,7 @@
     "updates": [],
     "notes": [],
     "storeIds": {},
-    "dateChanged": "2024-11-18T16:33:32.429148-06:00"
+    "dateChanged": "2025-06-15T14:55:48.0000000-04:00"
   },
   {
     "url": "",
@@ -19800,39 +19795,6 @@
     "dateChanged": "2024-12-06T02:30:00.000Z"
   },
   {
-    "url": "https://re1999.bluepoch.com/",
-    "name": "Reverse: 1999",
-    "logo": "",
-    "native": false,
-    "status": "Running",
-    "reference": "",
-    "anticheats": [
-      "Anti-Cheat Expert"
-    ],
-    "notes": [
-      [
-        "On early Wine-Staging 10.5+ builds, some engine elements, such as video media playback, are broken.",
-        ""
-      ],
-      [
-        "Proton 10.x series lacks the patches to run R:1999 for now.",
-        null
-      ]
-    ],
-    "updates": [
-      {
-        "name": "As of Wine-Staging 10.5, Reverse: 1999 is playable on Linux.",
-        "date": "May 28, 2025, 13:15:00 UTC",
-        "reference": "https://www.protondb.com/app/3092660"
-      }
-    ],
-    "storeIds": {
-      "steam": "3092660"
-    },
-    "slug": "reverse-1999",
-    "dateChanged": "2025-05-28T06:30:00.000Z"
-  },
-  {
     "url": "",
     "slug": "rematch",
     "name": "REMATCH",
@@ -19900,5 +19862,86 @@
     "notes": [],
     "storeIds": {},
     "dateChanged": "2025-06-01T19:29:24.0000000-04:00"
+  },
+  {
+    "url": "https://re1999.bluepoch.com/",
+    "name": "Reverse: 1999",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "Anti-Cheat Expert"
+    ],
+    "notes": [
+      [
+        "On early Wine-Staging 10.5+ builds, some engine elements, such as video media playback, are broken.",
+        ""
+      ],
+      [
+        "Proton 10.x series lacks the patches to run R:1999 for now.",
+        null
+      ]
+    ],
+    "updates": [
+      {
+        "name": "As of Wine-Staging 10.5, Reverse: 1999 is playable on Linux.",
+        "date": "May 28, 2025, 13:15:00 UTC",
+        "reference": "https://www.protondb.com/app/3092660"
+      }
+    ],
+    "storeIds": {
+      "steam": "3092660"
+    },
+    "slug": "reverse-1999",
+    "dateChanged": "2025-05-28T06:30:00.000Z"
+  },
+  {
+    "url": "https://lna.roglobal.com/",
+    "slug": "ragnarok-origin-roo",
+    "name": "Ragnarok Origin: ROO",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "ROO In-House Anti-Cheat"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2025-06-14T15:24:39.0000000-04:00"
+  },
+  {
+    "url": "",
+    "slug": "fantasy-life-i",
+    "name": "FANTASY LIFE i: The Girl Who Steals Time",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2025-06-16T15:21:43.0000000-04:00"
+  },
+  {
+    "url": "",
+    "name": "La Tale - Evolved",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "nProtect GameGuard"
+    ],
+    "notes": [],
+    "updates": [],
+    "storeIds": {},
+    "slug": "latale-evolved",
+    "dateChanged": "2025-06-17T15:16:34.0000000-04:00"
   }
 ]

@@ -94,7 +94,7 @@
     <Option name="cairo-image-surface" value="0"/>
     <Option name="nsgl-view-mode" value="NSGLHiRes"/>
     <Option name="waveform-cache-size" value="100"/>
-    <Option name="recent-session-sort" value="0"/>
+    <Option name="recent-session-sort" value="1"/>
     <Option name="save-export-analysis-image" value="0"/>
     <Option name="save-export-mixer-screenshot" value="0"/>
     <Option name="open-gui-after-adding-plugin" value="1"/>

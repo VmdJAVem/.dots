@@ -1,0 +1,250 @@
+    OpenRGB v0.9+ (git1290)
+    Commit: 45af044cd84032b9a9b5865cb5e12aa2cd98c47e from 2025-04-13 13:42:14 -0500
+    Launched: 20250617_201800
+====================================================================================================
+
+0     |Info:    [ProfileManager] Found file: lol.orp attempting to validate header
+0     |Info:    [ProfileManager] Valid v5 profile found for lol
+0     |Info:    [ProfileManager] Found file: Verde.orp attempting to validate header
+0     |Info:    [ProfileManager] Valid v5 profile found for Verde
+0     |Info:    [ProfileManager] Found file: blanco.orp attempting to validate header
+1     |Info:    [ProfileManager] Valid v5 profile found for blanco
+1     |Info:    [ProfileManager] Found file: Rojo.orp attempting to validate header
+2     |Info:    [ProfileManager] Valid v5 profile found for Rojo
+2     |Info:    [ProfileManager] Found file: rosa.orp attempting to validate header
+2     |Info:    [ProfileManager] Valid v5 profile found for rosa
+2     |Info:    [ProfileManager] Found file: Turquesa\.orp attempting to validate header
+2     |Info:    [ProfileManager] Valid v5 profile found for Turquesa\
+2     |Info:    [ProfileManager] Found file: free.orp attempting to validate header
+3     |Info:    [ProfileManager] Valid v5 profile found for free
+85    |Info:    [ResourceManager] Initializing HID interfaces: Success
+85    |Info:    ------------------------------------------------------
+85    |Info:    |               Start device detection               |
+85    |Info:    ------------------------------------------------------
+89    |Info:    ------------------------------------------------------
+89    |Info:    |             Detecting I2C interfaces               |
+89    |Info:    ------------------------------------------------------
+89    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-3 Device 1002:747E Subsystem: 1DA2:F475
+89    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+89    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-10 Device 0000:0000 Subsystem: 0000:0000
+89    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-1 Device 1022:790B Subsystem: 1462:7E26
+89    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+89    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-17 Device 0000:0000 Subsystem: 0000:0000
+89    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-8 Device 1002:747E Subsystem: 1DA2:F475
+89    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-15 Device 1002:164E Subsystem: 1462:7E26
+89    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-6 Device 1002:747E Subsystem: 1DA2:F475
+89    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-13 Device 1002:164E Subsystem: 1462:7E26
+89    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-4 Device 1002:747E Subsystem: 1DA2:F475
+89    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+89    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-11 Device 0000:0000 Subsystem: 0000:0000
+89    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-2 Device 1022:790B Subsystem: 1462:7E26
+89    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-0 Device 1022:790B Subsystem: 1462:7E26
+89    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+89    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-18 Device 0000:0000 Subsystem: 0000:0000
+90    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-9 Device 1002:747E Subsystem: 1DA2:F475
+90    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+90    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-16 Device 0000:0000 Subsystem: 0000:0000
+90    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-7 Device 1002:747E Subsystem: 1DA2:F475
+90    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-14 Device 1002:164E Subsystem: 1462:7E26
+90    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-5 Device 1002:747E Subsystem: 1DA2:F475
+90    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-12 Device 1002:164E Subsystem: 1462:7E26
+90    |Info:    ------------------------------------------------------
+90    |Info:    |               Detecting I2C devices                |
+90    |Info:    ------------------------------------------------------
+456   |Info:    [ENE DRAM] Registering RGB controller
+716   |Info:    [ENE DRAM] Registering RGB controller
+1913  |Info:    ------------------------------------------------------
+1913  |Info:    |            Detecting I2C DIMM modules              |
+1913  |Info:    ------------------------------------------------------
+2895  |Info:    [ResourceManager] Detected occupied slot 2, bus 2, type DDR5
+3892  |Info:    [ResourceManager] Detected occupied slot 4, bus 2, type DDR5
+3917  |Info:    [ResourceManager] Detected occupied slot 2, bus 10, type DDR5
+3921  |Info:    [ResourceManager] Detected occupied slot 4, bus 10, type DDR5
+3945  |Info:    [ResourceManager] Detected occupied slot 2, bus 11, type DDR5
+3950  |Info:    [ResourceManager] Detected occupied slot 4, bus 11, type DDR5
+3969  |Info:    ------------------------------------------------------
+3969  |Info:    |               Detecting I2C PCI devices            |
+3969  |Info:    ------------------------------------------------------
+4010  |Info:    [Sapphire Radeon RX 7700 XT Nitro+] Registering RGB controller
+4023  |Info:    ------------------------------------------------------
+4023  |Info:    |               Detecting HID devices                |
+4023  |Info:    ------------------------------------------------------
+4046  |Info:    [MSI B650 GAMING PLUS WIFI (MS-7E26)] Registering RGB controller
+4046  |Info:    ------------------------------------------------------
+4046  |Info:    |            Detecting libusb HID devices            |
+4046  |Info:    ------------------------------------------------------
+4055  |Info:    ------------------------------------------------------
+4055  |Info:    |              Detecting other devices               |
+4055  |Info:    ------------------------------------------------------
+4120  |Info:    [ResourceManager] Calling Post-detection callbacks
+4120  |Info:    ------------------------------------------------------
+4120  |Info:    |                Detection completed                 |
+4120  |Info:    ------------------------------------------------------
+11688 |Info:    [ProfileManager] Found file: lol.orp attempting to validate header
+11688 |Info:    [ProfileManager] Valid v5 profile found for lol
+11688 |Info:    [ProfileManager] Found file: Verde.orp attempting to validate header
+11688 |Info:    [ProfileManager] Valid v5 profile found for Verde
+11688 |Info:    [ProfileManager] Found file: blanco.orp attempting to validate header
+11688 |Info:    [ProfileManager] Valid v5 profile found for blanco
+11688 |Info:    [ProfileManager] Found file: Rojo.orp attempting to validate header
+11689 |Info:    [ProfileManager] Valid v5 profile found for Rojo
+11689 |Info:    [ProfileManager] Found file: rosa.orp attempting to validate header
+11689 |Info:    [ProfileManager] Valid v5 profile found for rosa
+11689 |Info:    [ProfileManager] Found file: Turquesa\.orp attempting to validate header
+11689 |Info:    [ProfileManager] Valid v5 profile found for Turquesa\
+11689 |Info:    [ProfileManager] Found file: free.orp attempting to validate header
+11689 |Info:    [ProfileManager] Valid v5 profile found for free
+14292 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+14292 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+14292 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+14292 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+16310 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+16310 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+16310 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+16310 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+16529 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+16529 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+16529 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+16529 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+16742 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+16742 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+16742 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+16742 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+16988 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+16988 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+16988 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+16988 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+17216 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+17216 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+17216 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+17216 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+17439 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+17439 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+17439 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+17439 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+17647 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+17647 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+17647 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+17647 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+17884 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+17884 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+17884 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+17884 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+18133 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+18133 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+18133 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+18133 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+18382 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+18382 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+18382 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+18382 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+18586 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+18586 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+18586 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+18586 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+18756 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+18756 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+18756 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+18756 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+18951 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+18951 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+18951 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+18951 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+19144 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+19144 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+19144 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+19144 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+19386 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+19386 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+19386 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+19386 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+19643 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+19643 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+19643 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+19643 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+19894 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+19894 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+19894 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+19894 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+20136 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+20136 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+20136 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+20136 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+20389 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+20389 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+20389 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+20389 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+20656 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+20656 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+20656 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+20656 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+20905 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+20905 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+20905 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+20905 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+21142 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+21142 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+21142 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+21142 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+21364 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+21364 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+21364 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+21364 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+21586 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+21586 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+21586 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+21586 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+21819 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+21819 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+21819 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+21819 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+22028 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+22028 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+22028 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+22028 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+22277 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+22277 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+22277 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+22277 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+22529 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+22529 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+22529 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+22529 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+22755 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+22755 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+22755 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+22755 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+22982 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+22982 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+22982 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+22982 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+23318 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+23318 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+23318 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+23318 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+32505 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+32505 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+32505 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+32505 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+35566 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+35566 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+35566 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+35566 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+39816 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x71
+39816 |Info:    [ProfileManager] Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-0, address 0x73
+39816 |Info:    [ProfileManager] Profile loading: Succeeded for Sapphire Radeon RX 7700 XT Nitro+ @ I2C: /dev/i2c-9, address 0x28
+39816 |Info:    [ProfileManager] Profile loading: Succeeded for MSI B650 GAMING PLUS WIFI (MS-7E26) @ HID: /dev/hidraw5
+101551|Info:    [ProfileManager] Found file: lol.orp attempting to validate header
+101551|Info:    [ProfileManager] Valid v5 profile found for lol
+101551|Info:    [ProfileManager] Found file: Verde.orp attempting to validate header
+101551|Info:    [ProfileManager] Valid v5 profile found for Verde
+101551|Info:    [ProfileManager] Found file: blanco.orp attempting to validate header
+101551|Info:    [ProfileManager] Valid v5 profile found for blanco
+101551|Info:    [ProfileManager] Found file: Rojo.orp attempting to validate header
+101551|Info:    [ProfileManager] Valid v5 profile found for Rojo
+101551|Info:    [ProfileManager] Found file: rosa.orp attempting to validate header
+101551|Info:    [ProfileManager] Valid v5 profile found for rosa
+101551|Info:    [ProfileManager] Found file: Turquesa\.orp attempting to validate header
+101551|Info:    [ProfileManager] Valid v5 profile found for Turquesa\
+101551|Info:    [ProfileManager] Found file: free.orp attempting to validate header
+101551|Info:    [ProfileManager] Valid v5 profile found for free

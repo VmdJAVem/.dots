@@ -1,1 +1,1 @@
-../../../../../lib64/wine/x86_64-windows/chcp.com
+../../../../../lib/wine/x86_64-windows/chcp.com

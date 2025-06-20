@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PluginStats>
+  <Plugin type="LV2" id="urn:ardour:a-fluidsynth" lru="1750268817" use-count="1"/>
+  <Plugin type="LV2" id="https://community.ardour.org/node/7596" lru="1750268755" use-count="1"/>
+  <Plugin type="LV2" id="http://tytel.org/helm" lru="1750268431" use-count="1"/>
+</PluginStats>

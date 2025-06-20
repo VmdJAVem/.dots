@@ -1,1 +1,15 @@
-{}
+{
+	"Plutonium Launcher": {
+		"pcgamingwiki": null,
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": null,
+		"umuId": null
+	},
+	"__timestamp": {
+		"Plutonium Launcher": "Mon Jun 16 2025 14:02:28 GMT-0500 (hora estándar oriental)"
+	}
+}

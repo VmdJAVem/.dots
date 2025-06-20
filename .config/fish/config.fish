@@ -43,8 +43,8 @@ set -gx PATH $PATH /home/vmdjavem/.local/bin
 
 #zoxide
 zoxide init fish | source
-# Start hyfetch
-hyfetch
+# Start uwufetch
+uwufetch
 
 set -q GHCUP_INSTALL_BASE_PREFIX[1]; or set GHCUP_INSTALL_BASE_PREFIX $HOME
 set -gx PATH $HOME/.cabal/bin $PATH /home/vmdjavem/.ghcup/bin # ghcup-env

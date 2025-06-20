@@ -4,7 +4,7 @@ Installed in: /home/vmdjavem/Games/Heroic/Prefixes/default/Hearts of iron IV/pfx
 
 System Info:
 CPU: 12x AMD Ryzen 5 7600X 6-Core Processor
-Memory: 32.7 GB (used: 2.93 GB)
+Memory: 32.7 GB (used: 2.04 GB)
 GPUs:
   GPU 0:
     Name: Advanced Micro Devices, Inc. [AMD/ATI] Raphael
@@ -14,13 +14,13 @@ GPUs:
     Name: Advanced Micro Devices, Inc. [AMD/ATI] Navi 32 [Radeon RX 7700 XT / 7800 XT]
     IDs: D=747e V=1002 SD=f475 SV=1da2
     Driver: amdgpu
-OS: EndeavourOS 6.14.9-arch1-1 (linux)
+OS: EndeavourOS 6.15.2-arch1-1 (linux)
 
 The current system is not a Steam Deck
 We are not running inside a Flatpak container
 
 Software Versions:
-  Heroic: 2.17.1 Cutty Flam Franky
+  Heroic: 2.17.2 Cutty Flam Franky
   Legendary: 0.20.37 Exit 17 (Heroic)
   gogdl: 1.1.2
   comet: comet 0.2.0
@@ -51,8 +51,12 @@ Game Settings: {
 	"winePrefix": "/home/vmdjavem/Games/Heroic/Prefixes/default/Hearts of iron IV"
 }
 
-Game launched at: Thu Jun 05 2025 17:59:48 GMT-0500 (hora estándar oriental)
+Game launched at: Tue Jun 17 2025 21:19:28 GMT-0500 (hora estándar oriental)
 
 Winetricks packages: 
+
+Game Log:
+IMPORTANT: Logs are disabled.
+Enable verbose logs in Game's settings > Advanced tab > 'Enable verbose logs' before reporting an issue.
 
 ============= End of log =============

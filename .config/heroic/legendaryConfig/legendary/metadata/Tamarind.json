@@ -10,7 +10,7 @@
       "label_name": "Live-Windows",
       "metadata": {},
       "namespace": "615659ff36244d258ef6c6a827e32c5d",
-      "sidecar_rev": 0
+      "sidecar_rev": 1
     }
   },
   "base_urls": [],
@@ -69,7 +69,6 @@
       "egstore"
     ],
     "id": "77a5b453ccf2413b91985f9f39a1239b",
-    "installModes": [],
     "itemType": "DURABLE",
     "keyImages": [
       {
@@ -109,5 +108,10 @@
     "title": "Brothers - A Tale of Two Sons",
     "unsearchable": true
   },
-  "sidecar": null
+  "sidecar": {
+    "config": {
+      "deploymentId": "1eb8ea6eec8340d2ad162b7d0b854a51"
+    },
+    "rev": 1
+  }
 }

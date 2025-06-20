@@ -1,14 +1,14 @@
 {
 	"window-size": {
 		"width": 1886,
-		"height": 1008
+		"height": 1009
 	},
 	"window-maximized": false,
 	"window-position": {
 		"x": 17,
-		"y": 55
+		"y": 54
 	},
-	"url": "https://music.youtube.com/watch?v=U0ZnTXWx9A4&list=RDAMVMv9spLg8Nyqk&index=0",
+	"url": "https://music.youtube.com/watch?v=zlJ0Aj9y67c&list=RDAMPLOLAK5uy_n4negEHWAKSsnUfvxnK-hbGuYASJ1IBa4&index=0",
 	"options": {
 		"tray": false,
 		"appVisible": true,
@@ -45,7 +45,31 @@
 			"enabled": true
 		},
 		"lyrics-genius": {
+			"enabled": true,
+			"romanizedLyrics": true
+		},
+		"ambient-mode": {
 			"enabled": true
+		},
+		"blur-nav-bar": {
+			"enabled": false
+		},
+		"picture-in-picture": {
+			"enabled": false,
+			"alwaysOnTop": true,
+			"savePosition": true,
+			"saveSize": false,
+			"hotkey": "P",
+			"pip-position": [
+				10,
+				10
+			],
+			"pip-size": [
+				450,
+				275
+			],
+			"isInPiP": false,
+			"useNativePiP": true
 		}
 	},
 	"__internal__": {

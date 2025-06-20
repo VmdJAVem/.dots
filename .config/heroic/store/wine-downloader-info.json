@@ -467,11 +467,10 @@
 			"date": "2025-06-02",
 			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-4/GE-Proton10-4.tar.gz",
 			"downsize": 501926049,
-			"disksize": 1372215876,
+			"disksize": 1424250394,
 			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-4/GE-Proton10-4.sha512sum",
 			"installDir": "/home/vmdjavem/.config/heroic/tools/proton/GE-Proton-latest",
-			"isInstalled": true,
-			"hasUpdate": true
+			"isInstalled": true
 		},
 		{
 			"version": "GE-Proton10-4",
