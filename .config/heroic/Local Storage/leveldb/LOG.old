@@ -1,3 +1,3 @@
-2025/06/17-20:17:41.861 fc7 Reusing MANIFEST /home/vmdjavem/.config/heroic/Local Storage/leveldb/MANIFEST-000001
-2025/06/17-20:17:41.872 fc7 Recovering log #3
-2025/06/17-20:17:41.872 fc7 Reusing old log /home/vmdjavem/.config/heroic/Local Storage/leveldb/000003.log 
+2025/06/20-18:01:29.510 223f Reusing MANIFEST /home/vmdjavem/.config/heroic/Local Storage/leveldb/MANIFEST-000001
+2025/06/20-18:01:29.521 223f Recovering log #3
+2025/06/20-18:01:29.521 223f Reusing old log /home/vmdjavem/.config/heroic/Local Storage/leveldb/000003.log 
