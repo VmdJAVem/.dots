@@ -381,9 +381,9 @@
   "theme.bar.buttons.enableBorders": false,
   "theme.bar.enableShadow": false,
   "bar.launcher.icon": "",
-  "menus.media.hideAuthor": true,
+  "menus.media.hideAuthor": false,
   "menus.media.noMediaText": "Nothing playing",
-  "menus.dashboard.powermenu.avatar.name": "luis",
+  "menus.dashboard.powermenu.avatar.name": "system",
   "menus.dashboard.stats.enable_gpu": true,
   "menus.dashboard.shortcuts.left.shortcut1.tooltip": "browser",
   "menus.dashboard.shortcuts.left.shortcut1.command": "floorp",
@@ -413,5 +413,8 @@
   "menus.dashboard.directories.enabled": false,
   "theme.font.name": "Hack Nerd Font",
   "theme.font.label": "Hack Nerd Font",
-  "menus.media.hideAlbum": true
+  "menus.media.hideAlbum": false,
+  "menus.dashboard.powermenu.avatar.image": "/home/vmdjavem/Images/2025-06-20-205529_hyprshot.png",
+  "theme.osd.location": "top",
+  "theme.osd.orientation": "horizontal"
 }
