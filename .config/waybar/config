@@ -45,7 +45,8 @@
     "format-ethernet": " {ifname}",
     "format-disconnected": "",
     "tooltip-format": " {ifname} |  {bandwidthDownBits} |  {bandwidthUpBits}",
-    "interval": 5
+    "interval": 5,
+    "on-click": "nm-connection-editor"
   },
   "pulseaudio": {
     "format": "{icon} {volume}%",
