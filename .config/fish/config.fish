@@ -12,6 +12,7 @@ alias ff='fastfetch'
 alias config='/usr/bin/git --git-dir=$HOME/poo --work-tree=$HOME'
 alias archfetch='neofetch --source ~/neofetch_ascii/arch.txt'
 alias cd='z'
+alias vim='nvim'
 alias myclock='~/bin/myclock'
 function fish_greeting
     echo "hi :3"
