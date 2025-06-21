@@ -417,5 +417,9 @@
   "menus.dashboard.powermenu.avatar.image": "/home/vmdjavem/Images/2025-06-20-205529_hyprshot.png",
   "theme.osd.location": "top",
   "theme.osd.orientation": "horizontal",
-  "theme.bar.transparent": true
+  "theme.bar.transparent": true,
+  "menus.dashboard.shortcuts.left.shortcut4.tooltip": "ghci",
+  "menus.dashboard.shortcuts.left.shortcut4.command": "kitty -e ghci",
+  "menus.dashboard.shortcuts.left.shortcut4.icon": "λ",
+  "menus.clock.weather.interval": 1000
 }

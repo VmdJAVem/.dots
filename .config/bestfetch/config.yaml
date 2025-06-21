@@ -1,0 +1,17 @@
+- # toggles
+  icons: true # use nerdfont icons instead of labels
+  box: true # draw a box around the fetch in unicode characters
+  boxLogo: true # draw a box around the logo (requires `box` to be true)
+  roundCorners: true # use round (╭) or right-angle (┌) corners
+  login: true # print the login (user@hostname)
+  gibibytes: true # round memory to 1024 bytes instead of 1000 to be more accurate
+
+  # strings
+  logo: auto # auto, bestfetch, arch, debian, fedora, ubuntu, nixos, endeavouros
+  colorSymbol: "●" # ● looks nice but can be any *reasonable* string
+
+  # colors
+  # can be set to: black, red, yellow, green, cyan, blue, magenta, or white
+  titleColor: cyan
+  dataColor: blue
+  otherColor: magenta

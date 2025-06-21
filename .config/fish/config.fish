@@ -8,7 +8,6 @@ alias unimatrix='unimatrix -n -s 96 -l o'
 alias neofetch='command neofetch --source ~/neofetch_ascii/aphex_twin'
 alias clock='tty-clock -c -s -b -f "%H:%M:%S" -C 3 -B "#6a2c8d" -t'
 alias cowsay='fortune | command cowsay -f stegosaurus'
-alias ff='fastfetch'
 alias config='/usr/bin/git --git-dir=$HOME/poo --work-tree=$HOME'
 alias archfetch='neofetch --source ~/neofetch_ascii/arch.txt'
 alias cd='z'
@@ -44,8 +43,7 @@ set -gx PATH $PATH /home/vmdjavem/.local/bin
 
 #zoxide
 zoxide init fish | source
-# Start pfetch
-pfetch
-
+#fetch
+bestfetch
 set -q GHCUP_INSTALL_BASE_PREFIX[1]; or set GHCUP_INSTALL_BASE_PREFIX $HOME
 set -gx PATH $HOME/.cabal/bin $PATH /home/vmdjavem/.ghcup/bin # ghcup-env
