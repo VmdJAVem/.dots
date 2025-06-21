@@ -416,5 +416,6 @@
   "menus.media.hideAlbum": false,
   "menus.dashboard.powermenu.avatar.image": "/home/vmdjavem/Images/2025-06-20-205529_hyprshot.png",
   "theme.osd.location": "top",
-  "theme.osd.orientation": "horizontal"
+  "theme.osd.orientation": "horizontal",
+  "theme.bar.transparent": true
 }
