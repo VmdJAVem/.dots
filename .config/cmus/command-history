@@ -1,4 +1,5 @@
 q
+Q
 filter
 filter artist="Portavoz"
 qa!
@@ -9,7 +10,6 @@ help
 filter genre="Boss Nova"
 filter genre="Jazz"
 qa
-Q
 colorscheme gruvbox
 theme gruvbox
 filter artist="Joey Valence & Brae"

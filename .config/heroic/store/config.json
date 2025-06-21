@@ -1,10 +1,10 @@
 {
 	"general-logs": {
-		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-20T23_25_25-heroic.log",
-		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-20T23_01_29-heroic.log",
-		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-20T23_25_25-legendary.log",
-		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-20T23_25_25-gogdl.log",
-		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-20T23_25_25-nile.log"
+		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-21T01_09_40-heroic.log",
+		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-20T23_25_25-heroic.log",
+		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-21T01_09_40-legendary.log",
+		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-21T01_09_40-gogdl.log",
+		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-21T01_09_40-nile.log"
 	},
 	"userHome": "/home/vmdjavem",
 	"language": "en",
@@ -15,9 +15,9 @@
 	},
 	"window-props": {
 		"x": 17,
-		"y": 54,
+		"y": 59,
 		"width": 1886,
-		"height": 1009,
+		"height": 1004,
 		"maximized": false
 	},
 	"theme": "gruvbox_dark",
