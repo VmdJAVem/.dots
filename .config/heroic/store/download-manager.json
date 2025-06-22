@@ -913,5 +913,279 @@
 			"status": "done"
 		}
 	],
-	"queue": []
+	"queue": [
+		{
+			"params": {
+				"appName": "256ba8bdd1ff4c26a0b2d3776d1a1bf6",
+				"path": "/home/vmdjavem/Games/Heroic",
+				"installDlcs": [],
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "256ba8bdd1ff4c26a0b2d3776d1a1bf6",
+					"art_cover": "https://cdn1.epicgames.com/item/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S1_2560x1440-b99bb2275f932ed9beedefff5ced3baa",
+					"art_square": "https://cdn1.epicgames.com/item/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c",
+					"cloud_save_enabled": false,
+					"developer": "KRAFTON, Inc.",
+					"extra": {
+						"about": {
+							"description": "The Callisto Protocol",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://www.epicgames.com/store/product/the-callisto-protocol"
+					},
+					"dlcList": [
+						{
+							"ageGatings": {},
+							"applicationId": "",
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2022-10-27T20:13:01.588Z",
+							"customAttributes": {},
+							"description": "Season Pass Audience",
+							"developer": "KRAFTON, Inc.",
+							"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+							"endOfSupport": false,
+							"entitlementName": "fa0b16cf0c4c43259f703fa9dc356f5e",
+							"entitlementType": "AUDIENCE",
+							"eulaIds": [
+								"egstore"
+							],
+							"id": "fa0b16cf0c4c43259f703fa9dc356f5e",
+							"itemType": "DURABLE",
+							"keyImages": [],
+							"lastModifiedDate": "2023-12-20T23:59:37.053Z",
+							"mainGameItem": {
+								"id": "96571224db9a4dae8414e06050230e51",
+								"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "96571224db9a4dae8414e06050230e51",
+									"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+									"unsearchable": false
+								}
+							],
+							"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+							"releaseInfo": [],
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Season Pass Audience",
+							"unsearchable": true
+						},
+						{
+							"ageGatings": {},
+							"applicationId": "",
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2022-10-27T20:08:31.898Z",
+							"customAttributes": {},
+							"description": "Outer Way Skin Audience",
+							"developer": "KRAFTON, Inc.",
+							"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+							"endOfSupport": false,
+							"entitlementName": "cff9a9f20d1044f3b848a6a588a74572",
+							"entitlementType": "AUDIENCE",
+							"eulaIds": [
+								"egstore"
+							],
+							"id": "cff9a9f20d1044f3b848a6a588a74572",
+							"itemType": "DURABLE",
+							"keyImages": [],
+							"lastModifiedDate": "2023-12-20T23:59:36.888Z",
+							"mainGameItem": {
+								"id": "96571224db9a4dae8414e06050230e51",
+								"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "96571224db9a4dae8414e06050230e51",
+									"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+									"unsearchable": false
+								}
+							],
+							"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+							"releaseInfo": [],
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Outer Way Skin Audience",
+							"unsearchable": true
+						},
+						{
+							"ageGatings": {},
+							"applicationId": "",
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2022-10-27T20:09:56.934Z",
+							"customAttributes": {},
+							"description": "DLC 2 Bundle Audience",
+							"developer": "KRAFTON, Inc.",
+							"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+							"endOfSupport": false,
+							"entitlementName": "2b300c75007b48e1b35674302fd2e72f",
+							"entitlementType": "AUDIENCE",
+							"eulaIds": [
+								"egstore"
+							],
+							"id": "2b300c75007b48e1b35674302fd2e72f",
+							"itemType": "DURABLE",
+							"keyImages": [],
+							"lastModifiedDate": "2023-12-20T23:59:36.873Z",
+							"mainGameItem": {
+								"id": "96571224db9a4dae8414e06050230e51",
+								"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "96571224db9a4dae8414e06050230e51",
+									"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+									"unsearchable": false
+								}
+							],
+							"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+							"releaseInfo": [],
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "DLC 2 Bundle Audience",
+							"unsearchable": true
+						},
+						{
+							"ageGatings": {},
+							"applicationId": "",
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2022-10-27T20:11:53.728Z",
+							"customAttributes": {},
+							"description": "Riot Bundle Audience",
+							"developer": "KRAFTON, Inc.",
+							"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+							"endOfSupport": false,
+							"entitlementName": "f87633f6793e4025a45d4c9b49cc32f0",
+							"entitlementType": "AUDIENCE",
+							"eulaIds": [
+								"egstore"
+							],
+							"id": "f87633f6793e4025a45d4c9b49cc32f0",
+							"itemType": "DURABLE",
+							"keyImages": [],
+							"lastModifiedDate": "2023-12-20T23:59:36.892Z",
+							"mainGameItem": {
+								"id": "96571224db9a4dae8414e06050230e51",
+								"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "96571224db9a4dae8414e06050230e51",
+									"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+									"unsearchable": false
+								}
+							],
+							"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+							"releaseInfo": [],
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Riot Bundle Audience",
+							"unsearchable": true
+						},
+						{
+							"ageGatings": {},
+							"applicationId": "",
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2022-10-27T20:12:44.644Z",
+							"customAttributes": {},
+							"description": "Story DLC Bundle Audience",
+							"developer": "KRAFTON, Inc.",
+							"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+							"endOfSupport": false,
+							"entitlementName": "66e0de9a4e224a52b2f0a83cf72ac88f",
+							"entitlementType": "AUDIENCE",
+							"eulaIds": [
+								"egstore"
+							],
+							"id": "66e0de9a4e224a52b2f0a83cf72ac88f",
+							"itemType": "DURABLE",
+							"keyImages": [],
+							"lastModifiedDate": "2023-12-20T23:59:36.880Z",
+							"mainGameItem": {
+								"id": "96571224db9a4dae8414e06050230e51",
+								"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "96571224db9a4dae8414e06050230e51",
+									"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+									"unsearchable": false
+								}
+							],
+							"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+							"releaseInfo": [],
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Story DLC Bundle Audience",
+							"unsearchable": true
+						}
+					],
+					"folder_name": "TheCallistoProtocol",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+					"is_mac_native": false,
+					"save_folder": "",
+					"title": "The Callisto Protocol",
+					"canRunOffline": false,
+					"isEAManaged": false,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/the-callisto-protocol"
+				},
+				"size": "90.04 GiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1750548839989,
+			"endTime": 0,
+			"startTime": 1750621640450
+		}
+	]
 }

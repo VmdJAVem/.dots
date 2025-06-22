@@ -8,10 +8,10 @@
 
   # strings
   logo: auto # auto, bestfetch, arch, debian, fedora, ubuntu, nixos, endeavouros
-  colorSymbol: "●" # ● looks nice but can be any *reasonable* string
+  colorSymbol: "<<" # ● looks nice but can be any *reasonable* string
 
   # colors
   # can be set to: black, red, yellow, green, cyan, blue, magenta, or white
-  titleColor: cyan
+  titleColor: magenta
   dataColor: blue
   otherColor: magenta

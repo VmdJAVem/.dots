@@ -1,0 +1,546 @@
+(14:29:49) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary
+(14:29:49) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl
+(14:29:49) INFO:    [Connection]:       Connectivity: check-online
+(14:29:49) INFO:    [Connection]:       Pinging external endpoints
+(14:29:49) INFO:    [Gog]:              Checking for existing gog manifests
+(14:29:50) WARNING: [Backend]:          Protocol already registered.
+(14:29:50) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+(14:29:50) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json --version
+(14:29:50) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/vmdjavem/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/nile --version
+(14:29:50) INFO:    [Connection]:       Connectivity: online
+(14:29:50) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(14:29:50) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json auth
+(14:29:50) INFO:    [Backend]:          
+System Information:
+CPU: 12x AMD Ryzen 5 7600X 6-Core Processor
+Memory: 32.7 GB (used: 3.43 GB)
+GPUs:
+  GPU 0:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Raphael
+    IDs: D=164e V=1002 SD=7e26 SV=1462
+    Driver: amdgpu
+  GPU 1:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Navi 32 [Radeon RX 7700 XT / 7800 XT]
+    IDs: D=747e V=1002 SD=f475 SV=1da2
+    Driver: amdgpu
+OS: EndeavourOS 6.15.2-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.17.2 Cutty Flam Franky
+  Legendary: 0.20.37 Exit 17 (Heroic)
+  gogdl: 1.1.2
+  comet: comet 0.2.0
+  Nile: 1.1.2 Will A. Zeppeli
+
+(14:29:50) INFO:    [Frontend]:         Refreshing undefined Library
+(14:29:50) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(14:29:50) INFO:    [Legendary]:        Refreshing library...
+(14:29:50) INFO:    [Legendary]:        Refreshing Epic Games...
+(14:29:50) INFO:    [Backend]:          Frontend Ready
+(14:29:50) INFO:    [Backend]:          Checking for new Heroic Updates
+(14:29:50) INFO:    [Backend]:          Checking for current version changelog
+(14:29:51) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(14:29:51) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(14:29:52) INFO:    [Winetricks]:       Downloading Winetricks
+(14:29:53) INFO:    [Legendary]:        Game list updated, got 97 games & DLCs
+(14:29:53) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(14:29:53) INFO:    [Legendary]:        Checking for game updates: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(14:29:55) INFO:    [WineDownloader]:   Updating wine versions info
+(14:29:55) INFO:    [WineDownloader]:   Fetching upstream information...
+(14:29:55) INFO:    [Legendary]:        Found 0 games to update
+(14:29:55) INFO:    [WineDownloader]:   wine versions updated
+(14:29:55) INFO:    [Backend]:          Starting the Download Queue
+(14:29:55) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(14:29:55) INFO:    [Backend]:          Preventing machine to sleep
+(14:29:55) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary info 256ba8bdd1ff4c26a0b2d3776d1a1bf6 --json --platform Windows
+(14:29:56) INFO:    [DownloadManager]:  Downloader: Finished downloading https://raw.githubusercontent.com/Heroic-Games-Launcher/known-fixes/main/epic/256ba8bdd1ff4c26a0b2d3776d1a1bf6-epic.json
+(14:29:59) INFO:    [Legendary]:        Installing 256ba8bdd1ff4c26a0b2d3776d1a1bf6: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary install 256ba8bdd1ff4c26a0b2d3776d1a1bf6 --platform Windows --base-path /home/vmdjavem/Games/Heroic --skip-dlcs -y --skip-sdl
+(14:29:59) DEBUG:   [Legendary]:        Logging to file "/home/vmdjavem/.config/heroic/GamesConfig/256ba8bdd1ff4c26a0b2d3776d1a1bf6.log"
+(14:30:03) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.41%/0.00MB/00:00:00 Down: 0MB/s / Disk: 0MB/s
+(14:30:04) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.41%/0.86MB/57:33:05 Down: 0.86MB/s / Disk: 0.89MB/s
+(14:30:05) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.41%/1.85MB/86:03:19 Down: 1MB/s / Disk: 0MB/s
+(14:30:06) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.42%/11.74MB/38:11:07 Down: 9.88MB/s / Disk: 2MB/s
+(14:30:07) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.43%/20.69MB/05:30:03 Down: 8.94MB/s / Disk: 17.51MB/s
+(14:30:08) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.45%/34.51MB/04:23:50 Down: 13.82MB/s / Disk: 11.11MB/s
+(14:30:09) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.46%/49.50MB/03:42:10 Down: 14.99MB/s / Disk: 14MB/s
+(14:30:10) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.47%/59.50MB/03:30:51 Down: 10MB/s / Disk: 11MB/s
+(14:30:11) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.49%/72.50MB/03:17:35 Down: 13MB/s / Disk: 13MB/s
+(14:30:12) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.5%/85.50MB/03:08:07 Down: 12.99MB/s / Disk: 13MB/s
+(14:30:13) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.52%/99.11MB/02:55:56 Down: 13.61MB/s / Disk: 14.03MB/s
+(14:30:14) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.52%/103.81MB/02:58:32 Down: 4.7MB/s / Disk: 7.17MB/s
+(14:30:15) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.53%/108.51MB/03:08:28 Down: 4.7MB/s / Disk: 3MB/s
+(14:30:16) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.53%/113.14MB/03:17:54 Down: 4.63MB/s / Disk: 3MB/s
+(14:30:17) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.53%/115.10MB/03:23:36 Down: 1.97MB/s / Disk: 5MB/s
+(14:30:18) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.54%/117.99MB/03:35:26 Down: 2.89MB/s / Disk: 1MB/s
+(14:30:19) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.55%/129.30MB/03:45:20 Down: 11.31MB/s / Disk: 2MB/s
+(14:30:20) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.57%/145.34MB/03:41:24 Down: 16.03MB/s / Disk: 9.14MB/s
+(14:30:21) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.58%/160.67MB/03:04:29 Down: 15.32MB/s / Disk: 32.34MB/s
+(14:30:22) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.6%/175.06MB/03:02:45 Down: 14.39MB/s / Disk: 8.9MB/s
+(14:30:23) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.62%/197.04MB/02:40:50 Down: 21.98MB/s / Disk: 29.42MB/s
+(14:30:24) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.64%/210.21MB/02:39:52 Down: 13.17MB/s / Disk: 9.98MB/s
+(14:30:25) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.65%/218.67MB/02:35:50 Down: 8.46MB/s / Disk: 15.05MB/s
+(14:30:26) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.65%/223.31MB/02:40:03 Down: 4.64MB/s / Disk: 4MB/s
+(14:30:27) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.66%/231.69MB/02:46:04 Down: 8.37MB/s / Disk: 1MB/s
+(14:30:28) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.67%/238.23MB/02:52:42 Down: 6.54MB/s / Disk: 0MB/s
+(14:30:29) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.67%/243.08MB/02:45:46 Down: 4.85MB/s / Disk: 18.85MB/s
+(14:30:30) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.68%/251.66MB/02:45:55 Down: 8.59MB/s / Disk: 8.94MB/s
+(14:30:31) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.7%/266.05MB/02:40:07 Down: 14.39MB/s / Disk: 19.83MB/s
+(14:30:32) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.71%/279.18MB/02:42:28 Down: 13.13MB/s / Disk: 5.1MB/s
+(14:30:33) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.73%/297.86MB/02:34:08 Down: 18.68MB/s / Disk: 24.31MB/s
+(14:30:34) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.75%/315.11MB/02:26:40 Down: 17.24MB/s / Disk: 23.94MB/s
+(14:30:35) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.77%/330.49MB/02:25:21 Down: 15.38MB/s / Disk: 14.01MB/s
+(14:30:36) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.78%/339.19MB/02:26:43 Down: 8.7MB/s / Disk: 8MB/s
+(14:30:37) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.78%/343.12MB/02:28:23 Down: 3.93MB/s / Disk: 5.06MB/s
+(14:30:38) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.79%/350.12MB/02:31:07 Down: 7MB/s / Disk: 4MB/s
+(14:30:39) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.8%/357.12MB/02:32:18 Down: 7MB/s / Disk: 8MB/s
+(14:30:40) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.8%/364.05MB/02:33:48 Down: 6.93MB/s / Disk: 7MB/s
+(14:30:41) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.81%/373.05MB/02:36:21 Down: 9MB/s / Disk: 2.43MB/s
+(14:30:42) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.83%/387.05MB/02:25:34 Down: 14MB/s / Disk: 42.99MB/s
+(14:30:43) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.85%/404.05MB/02:24:33 Down: 17MB/s / Disk: 15MB/s
+(14:30:44) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.86%/418.95MB/02:24:28 Down: 14.89MB/s / Disk: 12MB/s
+(14:30:45) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.88%/431.82MB/02:22:58 Down: 12.88MB/s / Disk: 14.01MB/s
+(14:30:46) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.9%/447.66MB/02:20:30 Down: 15.83MB/s / Disk: 21MB/s
+(14:30:47) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.91%/463.18MB/02:19:14 Down: 15.51MB/s / Disk: 14.81MB/s
+(14:30:48) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.92%/468.88MB/02:20:46 Down: 5.71MB/s / Disk: 5.75MB/s
+(14:30:49) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.92%/474.52MB/02:22:33 Down: 5.64MB/s / Disk: 5MB/s
+(14:30:50) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.93%/481.26MB/02:22:16 Down: 6.74MB/s / Disk: 10.95MB/s
+(14:30:51) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.94%/485.14MB/02:24:58 Down: 3.88MB/s / Disk: 1MB/s
+(14:30:52) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.95%/494.23MB/02:26:39 Down: 9.08MB/s / Disk: 5MB/s
+(14:30:53) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.96%/504.83MB/02:27:02 Down: 10.61MB/s / Disk: 10MB/s
+(14:30:54) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.97%/515.46MB/02:25:27 Down: 10.62MB/s / Disk: 18MB/s
+(14:30:55) INFO:    [Legendary]:        Progress for The Callisto Protocol: 4.98%/528.57MB/02:25:07 Down: 13.11MB/s / Disk: 13MB/s
+(14:30:56) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5%/542.74MB/02:22:59 Down: 14.16MB/s / Disk: 21MB/s
+(14:30:57) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.01%/552.19MB/02:23:10 Down: 9.45MB/s / Disk: 11MB/s
+(14:30:58) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.02%/562.08MB/02:23:47 Down: 9.88MB/s / Disk: 9MB/s
+(14:30:59) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.02%/566.93MB/02:24:22 Down: 4.85MB/s / Disk: 7.77MB/s
+(14:31:00) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.03%/568.68MB/02:26:14 Down: 1.75MB/s / Disk: 3MB/s
+(14:31:01) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.03%/574.16MB/02:27:53 Down: 5.47MB/s / Disk: 4MB/s
+(14:31:02) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.04%/578.01MB/02:29:56 Down: 3.85MB/s / Disk: 2MB/s
+(14:31:03) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.04%/579.96MB/02:32:26 Down: 1.94MB/s / Disk: 0MB/s
+(14:31:05) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.04%/579.96MB/02:34:56 Down: 6.9MB/s / Disk: 9MB/s
+(14:31:06) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.05%/594.69MB/02:35:20 Down: 7.84MB/s / Disk: 11MB/s
+(14:31:07) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.06%/599.63MB/02:37:05 Down: 4.94MB/s / Disk: 3MB/s
+(14:31:08) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.07%/604.58MB/02:39:30 Down: 4.95MB/s / Disk: 0MB/s
+(14:31:09) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.07%/612.46MB/02:41:27 Down: 7.87MB/s / Disk: 2MB/s
+(14:31:10) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.08%/617.39MB/02:39:32 Down: 4.93MB/s / Disk: 19MB/s
+(14:31:11) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.08%/619.37MB/02:41:52 Down: 1.97MB/s / Disk: 0MB/s
+(14:31:12) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.09%/623.33MB/02:44:13 Down: 3.97MB/s / Disk: 0MB/s
+(14:31:13) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.09%/626.30MB/02:44:17 Down: 2.97MB/s / Disk: 10MB/s
+(14:31:14) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.09%/626.30MB/02:46:36 Down: 0MB/s / Disk: 0MB/s
+(14:31:15) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.09%/628.28MB/02:48:54 Down: 1.98MB/s / Disk: 0MB/s
+(14:31:16) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.1%/639.20MB/02:49:22 Down: 10.91MB/s / Disk: 8MB/s
+(14:31:17) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.11%/642.17MB/02:51:39 Down: 2.97MB/s / Disk: 0MB/s
+(14:31:18) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.12%/655.03MB/02:52:04 Down: 12.86MB/s / Disk: 8MB/s
+(14:31:19) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.13%/661.87MB/02:49:06 Down: 6.84MB/s / Disk: 19.79MB/s
+(14:31:20) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.14%/673.64MB/02:48:53 Down: 11.76MB/s / Disk: 10MB/s
+(14:31:21) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.14%/676.63MB/02:50:23 Down: 2.99MB/s / Disk: 3MB/s
+(14:31:22) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.15%/678.61MB/02:52:19 Down: 1.98MB/s / Disk: 1MB/s
+(14:31:23) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.15%/683.52MB/02:54:29 Down: 4.9MB/s / Disk: 0MB/s
+(14:31:24) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.15%/685.47MB/02:54:51 Down: 1.95MB/s / Disk: 8MB/s
+(14:31:25) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.16%/688.38MB/02:56:58 Down: 2.91MB/s / Disk: 0MB/s
+(14:31:26) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.16%/691.30MB/02:58:39 Down: 2.92MB/s / Disk: 1.58MB/s
+(14:31:27) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.17%/697.22MB/02:58:45 Down: 5.91MB/s / Disk: 6.87MB/s
+(14:31:28) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.17%/704.12MB/02:59:04 Down: 6.91MB/s / Disk: 8MB/s
+(14:31:29) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.18%/710.06MB/02:59:49 Down: 5.94MB/s / Disk: 6MB/s
+(14:31:30) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.19%/718.79MB/02:59:53 Down: 8.72MB/s / Disk: 7.29MB/s
+(14:31:31) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.2%/728.27MB/03:01:56 Down: 9.48MB/s / Disk: 0MB/s
+(14:31:32) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.21%/735.13MB/02:59:11 Down: 6.86MB/s / Disk: 19.22MB/s
+(14:31:33) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.21%/737.05MB/03:00:45 Down: 1.91MB/s / Disk: 2MB/s
+(14:31:34) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.21%/738.05MB/03:02:44 Down: 1MB/s / Disk: 0MB/s
+(14:31:35) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.22%/742.97MB/03:03:38 Down: 4.93MB/s / Disk: 5MB/s
+(14:31:36) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.22%/747.92MB/03:05:37 Down: 4.94MB/s / Disk: 0MB/s
+(14:31:37) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.23%/753.77MB/03:03:55 Down: 5.85MB/s / Disk: 14.23MB/s
+(14:31:38) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.23%/759.74MB/03:05:51 Down: 5.96MB/s / Disk: 0MB/s
+(14:31:39) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.25%/771.66MB/03:06:43 Down: 11.92MB/s / Disk: 4.17MB/s
+(14:31:40) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.26%/782.53MB/03:01:46 Down: 10.87MB/s / Disk: 25.77MB/s
+(14:31:41) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.27%/795.42MB/03:03:25 Down: 12.89MB/s / Disk: 1MB/s
+(14:31:42) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.28%/806.28MB/03:01:40 Down: 10.86MB/s / Disk: 16.59MB/s
+(14:31:43) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.29%/815.14MB/02:59:58 Down: 8.86MB/s / Disk: 17MB/s
+(14:31:44) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.3%/817.06MB/03:01:45 Down: 1.91MB/s / Disk: 0MB/s
+(14:31:45) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.3%/819.95MB/03:03:32 Down: 2.9MB/s / Disk: 0MB/s
+(14:31:46) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.31%/830.61MB/03:05:07 Down: 10.66MB/s / Disk: 1MB/s
+(14:31:47) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.31%/832.55MB/03:04:56 Down: 1.93MB/s / Disk: 8.98MB/s
+(14:31:48) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.32%/836.42MB/03:04:11 Down: 3.87MB/s / Disk: 11.31MB/s
+(14:31:49) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.33%/845.02MB/03:05:32 Down: 8.6MB/s / Disk: 2MB/s
+(14:31:50) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.34%/854.57MB/03:04:59 Down: 9.55MB/s / Disk: 12MB/s
+(14:31:51) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.35%/863.27MB/03:04:04 Down: 8.69MB/s / Disk: 13.76MB/s
+(14:31:52) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.35%/870.12MB/03:05:23 Down: 6.85MB/s / Disk: 2MB/s
+(14:31:53) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.36%/875.97MB/03:05:12 Down: 5.85MB/s / Disk: 10MB/s
+(14:31:54) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.37%/882.86MB/03:05:13 Down: 6.89MB/s / Disk: 6.84MB/s
+(14:31:55) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.37%/888.81MB/03:05:57 Down: 5.94MB/s / Disk: 5MB/s
+(14:31:56) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.38%/892.76MB/03:07:13 Down: 3.95MB/s / Disk: 2MB/s
+(14:31:57) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.38%/895.74MB/03:08:41 Down: 2.98MB/s / Disk: 1MB/s
+(14:31:58) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.39%/899.71MB/03:09:35 Down: 3.97MB/s / Disk: 3.16MB/s
+(14:31:59) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.39%/901.70MB/03:11:13 Down: 1.99MB/s / Disk: 0MB/s
+(14:32:00) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.39%/903.69MB/03:10:48 Down: 1.98MB/s / Disk: 11MB/s
+(14:32:01) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.39%/907.67MB/03:12:03 Down: 3.98MB/s / Disk: 2MB/s
+(14:32:02) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.41%/919.61MB/03:11:49 Down: 11.94MB/s / Disk: 10MB/s
+(14:32:03) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.42%/928.57MB/03:11:13 Down: 8.97MB/s / Disk: 12MB/s
+(14:32:04) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.43%/940.50MB/03:11:21 Down: 11.93MB/s / Disk: 8MB/s
+(14:32:05) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.44%/946.47MB/03:11:29 Down: 5.96MB/s / Disk: 8MB/s
+(14:32:06) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.45%/955.39MB/03:11:16 Down: 8.93MB/s / Disk: 9MB/s
+(14:32:07) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.45%/958.38MB/03:12:49 Down: 2.99MB/s / Disk: 0MB/s
+(14:32:08) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.45%/963.34MB/03:12:35 Down: 4.96MB/s / Disk: 10MB/s
+(14:32:09) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.46%/965.32MB/03:13:45 Down: 1.98MB/s / Disk: 2MB/s
+(14:32:10) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.46%/969.30MB/03:15:17 Down: 3.97MB/s / Disk: 0MB/s
+(14:32:11) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.47%/973.26MB/03:16:48 Down: 3.96MB/s / Disk: 0MB/s
+(14:32:12) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.48%/983.17MB/03:15:39 Down: 9.91MB/s / Disk: 15MB/s
+(14:32:13) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.49%/995.95MB/03:15:03 Down: 12.78MB/s / Disk: 9.61MB/s
+(14:32:14) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.5%/1005.77MB/03:14:48 Down: 9.82MB/s / Disk: 10MB/s
+(14:32:15) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.51%/1017.48MB/03:12:33 Down: 11.7MB/s / Disk: 18.76MB/s
+(14:32:16) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.53%/1028.21MB/03:12:20 Down: 10.73MB/s / Disk: 8.15MB/s
+(14:32:17) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.54%/1040.71MB/03:11:18 Down: 12.5MB/s / Disk: 15MB/s
+(14:32:18) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.54%/1041.67MB/03:12:43 Down: 0.96MB/s / Disk: 0MB/s
+(14:32:19) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.55%/1049.41MB/03:13:48 Down: 7.74MB/s / Disk: 2MB/s
+(14:32:20) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.55%/1053.37MB/03:13:25 Down: 3.96MB/s / Disk: 9.92MB/s
+(14:32:21) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.56%/1057.25MB/03:14:39 Down: 3.88MB/s / Disk: 1MB/s
+(14:32:22) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.56%/1061.09MB/03:15:34 Down: 3.84MB/s / Disk: 3MB/s
+(14:32:23) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.57%/1072.49MB/03:14:21 Down: 11.4MB/s / Disk: 13.86MB/s
+(14:32:24) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.59%/1084.93MB/03:14:56 Down: 12.43MB/s / Disk: 5MB/s
+(14:32:25) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.6%/1098.33MB/03:11:44 Down: 13.4MB/s / Disk: 26.86MB/s
+(14:32:26) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.61%/1109.84MB/03:12:46 Down: 11.51MB/s / Disk: 1.19MB/s
+(14:32:27) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.63%/1123.30MB/03:12:06 Down: 13.46MB/s / Disk: 12.21MB/s
+(14:32:28) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.64%/1133.00MB/03:10:15 Down: 9.7MB/s / Disk: 18.78MB/s
+(14:32:29) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.64%/1137.88MB/03:11:33 Down: 4.87MB/s / Disk: 0MB/s
+(14:32:30) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.65%/1140.80MB/03:12:15 Down: 2.92MB/s / Disk: 3.43MB/s
+(14:32:31) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.65%/1144.66MB/03:13:33 Down: 3.87MB/s / Disk: 0MB/s
+(14:32:32) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.66%/1153.32MB/03:13:47 Down: 8.65MB/s / Disk: 6.57MB/s
+(14:32:33) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.66%/1156.18MB/03:12:50 Down: 2.86MB/s / Disk: 13.11MB/s
+(14:32:34) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.68%/1166.68MB/03:12:03 Down: 10.49MB/s / Disk: 11.98MB/s
+(14:32:35) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.69%/1177.15MB/03:13:19 Down: 10.47MB/s / Disk: 0MB/s
+(14:32:36) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.7%/1188.97MB/03:13:25 Down: 11.82MB/s / Disk: 8MB/s
+(14:32:37) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.71%/1201.69MB/03:10:55 Down: 12.72MB/s / Disk: 25.76MB/s
+(14:32:38) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.73%/1213.42MB/03:10:11 Down: 11.73MB/s / Disk: 14MB/s
+(14:32:39) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.74%/1223.23MB/03:11:24 Down: 9.8MB/s / Disk: 0MB/s
+(14:32:40) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.75%/1233.08MB/03:10:48 Down: 9.85MB/s / Disk: 13MB/s
+(14:32:41) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.76%/1244.86MB/03:09:00 Down: 11.78MB/s / Disk: 19.7MB/s
+(14:32:42) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.77%/1249.82MB/03:10:11 Down: 4.96MB/s / Disk: 0MB/s
+(14:32:43) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.77%/1252.81MB/03:11:22 Down: 2.99MB/s / Disk: 0MB/s
+(14:32:44) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.77%/1257.70MB/03:11:36 Down: 4.89MB/s / Disk: 4.95MB/s
+(14:32:45) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.78%/1262.67MB/03:12:06 Down: 4.97MB/s / Disk: 3.91MB/s
+(14:32:46) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.78%/1264.66MB/03:11:47 Down: 1.99MB/s / Disk: 8.56MB/s
+(14:32:47) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.79%/1273.59MB/03:12:33 Down: 8.93MB/s / Disk: 2.04MB/s
+(14:32:48) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.8%/1283.51MB/03:12:30 Down: 9.92MB/s / Disk: 8.05MB/s
+(14:32:49) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.82%/1295.43MB/03:12:11 Down: 11.92MB/s / Disk: 9.57MB/s
+(14:32:50) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.83%/1306.36MB/03:13:20 Down: 10.92MB/s / Disk: 0MB/s
+(14:32:51) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.84%/1316.29MB/03:09:14 Down: 9.93MB/s / Disk: 35.86MB/s
+(14:32:52) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.85%/1328.19MB/03:09:58 Down: 11.9MB/s / Disk: 3MB/s
+(14:32:53) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.85%/1332.18MB/03:11:06 Down: 3.98MB/s / Disk: 0MB/s
+(14:32:54) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.86%/1337.14MB/03:12:13 Down: 4.96MB/s / Disk: 0MB/s
+(14:32:55) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.87%/1342.11MB/03:11:47 Down: 4.97MB/s / Disk: 9.39MB/s
+(14:32:56) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.87%/1344.10MB/03:11:59 Down: 1.99MB/s / Disk: 5.52MB/s
+(14:32:57) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.87%/1348.07MB/03:13:06 Down: 3.97MB/s / Disk: 0MB/s
+(14:32:58) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.88%/1352.02MB/03:14:12 Down: 3.95MB/s / Disk: 0MB/s
+(14:32:59) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.89%/1362.92MB/03:11:36 Down: 10.9MB/s / Disk: 25.99MB/s
+(14:33:00) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.9%/1373.85MB/03:12:41 Down: 10.93MB/s / Disk: 0MB/s
+(14:33:01) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.92%/1388.66MB/03:12:08 Down: 14.81MB/s / Disk: 11.25MB/s
+(14:33:02) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.93%/1403.63MB/03:09:03 Down: 14.96MB/s / Disk: 28.47MB/s
+(14:33:03) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.95%/1415.40MB/03:09:44 Down: 11.77MB/s / Disk: 3MB/s
+(14:33:04) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.96%/1432.79MB/03:06:53 Down: 17.39MB/s / Disk: 30.65MB/s
+(14:33:05) INFO:    [Legendary]:        Progress for The Callisto Protocol: 5.98%/1445.66MB/03:06:52 Down: 12.87MB/s / Disk: 7.21MB/s
+(14:33:06) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6%/1463.06MB/03:03:35 Down: 17.4MB/s / Disk: 27.03MB/s
+(14:33:07) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.01%/1470.96MB/03:03:35 Down: 7.89MB/s / Disk: 5.61MB/s
+(14:33:08) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.02%/1487.62MB/03:03:09 Down: 16.66MB/s / Disk: 11.19MB/s
+(14:33:09) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.03%/1491.59MB/03:04:08 Down: 3.97MB/s / Disk: 0MB/s
+(14:33:10) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.03%/1496.50MB/03:05:07 Down: 4.91MB/s / Disk: 0MB/s
+(14:33:11) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.05%/1508.25MB/03:03:10 Down: 11.74MB/s / Disk: 20.48MB/s
+(14:33:12) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.05%/1510.23MB/03:04:08 Down: 1.99MB/s / Disk: 0MB/s
+(14:33:13) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.06%/1517.06MB/03:03:42 Down: 6.82MB/s / Disk: 10.17MB/s
+(14:33:14) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.06%/1521.95MB/03:04:20 Down: 4.89MB/s / Disk: 3MB/s
+(14:33:15) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.08%/1536.56MB/03:03:29 Down: 14.61MB/s / Disk: 16.09MB/s
+(14:33:16) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.09%/1552.21MB/03:02:26 Down: 15.64MB/s / Disk: 17.58MB/s
+(14:33:17) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.11%/1566.88MB/03:03:04 Down: 14.67MB/s / Disk: 3MB/s
+(14:33:18) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.12%/1579.66MB/03:00:37 Down: 12.78MB/s / Disk: 32.99MB/s
+(14:33:19) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.14%/1591.29MB/03:01:08 Down: 11.63MB/s / Disk: 4MB/s
+(14:33:20) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.15%/1605.03MB/02:59:45 Down: 13.73MB/s / Disk: 19.62MB/s
+(14:33:21) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.17%/1619.90MB/02:58:41 Down: 14.87MB/s / Disk: 15.1MB/s
+(14:33:22) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.18%/1632.77MB/02:59:35 Down: 12.86MB/s / Disk: 0MB/s
+(14:33:23) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.19%/1644.59MB/02:57:29 Down: 11.82MB/s / Disk: 25.96MB/s
+(14:33:24) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.21%/1658.22MB/02:57:19 Down: 13.63MB/s / Disk: 7.04MB/s
+(14:33:25) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.22%/1669.93MB/02:56:30 Down: 11.7MB/s / Disk: 16.54MB/s
+(14:33:26) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.23%/1676.73MB/02:56:32 Down: 6.8MB/s / Disk: 7.88MB/s
+(14:33:27) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.23%/1682.38MB/02:57:02 Down: 5.65MB/s / Disk: 4MB/s
+(14:33:28) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.24%/1688.10MB/02:57:54 Down: 5.72MB/s / Disk: 0MB/s
+(14:33:29) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.25%/1697.49MB/02:58:29 Down: 9.39MB/s / Disk: 2.38MB/s
+(14:33:30) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.26%/1701.44MB/02:57:51 Down: 3.94MB/s / Disk: 12.78MB/s
+(14:33:31) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.26%/1708.22MB/02:56:57 Down: 6.79MB/s / Disk: 15.53MB/s
+(14:33:32) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.27%/1717.61MB/02:57:48 Down: 9.39MB/s / Disk: 0MB/s
+(14:33:33) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.28%/1727.36MB/02:58:39 Down: 9.75MB/s / Disk: 0MB/s
+(14:33:34) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.3%/1742.61MB/02:59:19 Down: 15.25MB/s / Disk: 2MB/s
+(14:33:35) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.32%/1759.41MB/02:55:38 Down: 16.79MB/s / Disk: 42.85MB/s
+(14:33:36) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.34%/1776.15MB/02:55:09 Down: 16.74MB/s / Disk: 14.5MB/s
+(14:33:37) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.35%/1787.87MB/02:55:58 Down: 11.72MB/s / Disk: 0MB/s
+(14:33:38) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.37%/1805.28MB/02:56:42 Down: 17.41MB/s / Disk: 1MB/s
+(14:33:39) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.38%/1820.07MB/02:53:27 Down: 14.78MB/s / Disk: 45.39MB/s
+(14:33:40) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.4%/1834.41MB/02:52:59 Down: 14.34MB/s / Disk: 13.64MB/s
+(14:33:41) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.41%/1848.01MB/02:51:52 Down: 13.6MB/s / Disk: 19.09MB/s
+(14:33:42) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.43%/1861.54MB/02:51:50 Down: 13.53MB/s / Disk: 7.54MB/s
+(14:33:43) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.44%/1875.30MB/02:50:30 Down: 13.76MB/s / Disk: 23.88MB/s
+(14:33:44) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.46%/1890.89MB/02:50:18 Down: 15.59MB/s / Disk: 11.35MB/s
+(14:33:45) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.48%/1904.41MB/02:50:12 Down: 13.52MB/s / Disk: 8.48MB/s
+(14:33:46) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.49%/1918.59MB/02:48:59 Down: 14.17MB/s / Disk: 20.83MB/s
+(14:33:47) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.51%/1933.29MB/02:48:21 Down: 14.7MB/s / Disk: 16.84MB/s
+(14:33:48) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.52%/1947.04MB/02:48:01 Down: 13.76MB/s / Disk: 14MB/s
+(14:33:49) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.54%/1961.78MB/02:47:19 Down: 14.73MB/s / Disk: 18.99MB/s
+(14:33:50) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.55%/1974.59MB/02:47:45 Down: 12.81MB/s / Disk: 2.45MB/s
+(14:33:51) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.57%/1991.38MB/02:46:06 Down: 16.79MB/s / Disk: 28.72MB/s
+(14:33:52) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.58%/2003.74MB/02:46:18 Down: 12.35MB/s / Disk: 5.44MB/s
+(14:33:53) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.6%/2015.08MB/02:46:22 Down: 11.34MB/s / Disk: 6.57MB/s
+(14:33:54) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.62%/2035.82MB/02:44:41 Down: 20.73MB/s / Disk: 26.7MB/s
+(14:33:55) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.63%/2050.51MB/02:44:32 Down: 14.69MB/s / Disk: 12MB/s
+(14:33:56) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.65%/2066.41MB/02:43:37 Down: 15.9MB/s / Disk: 19.39MB/s
+(14:33:57) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.66%/2078.38MB/02:43:45 Down: 11.96MB/s / Disk: 5.72MB/s
+(14:33:58) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.68%/2095.07MB/02:42:26 Down: 16.69MB/s / Disk: 21.71MB/s
+(14:33:59) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.7%/2109.40MB/02:42:14 Down: 14.33MB/s / Disk: 10.86MB/s
+(14:34:00) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.72%/2126.09MB/02:40:34 Down: 16.69MB/s / Disk: 30.8MB/s
+(14:34:01) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.73%/2141.90MB/02:40:58 Down: 15.81MB/s / Disk: 4MB/s
+(14:34:02) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.74%/2151.64MB/02:41:06 Down: 9.74MB/s / Disk: 7.04MB/s
+(14:34:03) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.75%/2157.52MB/02:40:19 Down: 5.88MB/s / Disk: 18.98MB/s
+(14:34:04) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.76%/2163.35MB/02:40:36 Down: 5.83MB/s / Disk: 5MB/s
+(14:34:05) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.76%/2171.23MB/02:41:04 Down: 7.87MB/s / Disk: 3MB/s
+(14:34:06) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.77%/2173.21MB/02:41:44 Down: 1.98MB/s / Disk: 0MB/s
+(14:34:07) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.78%/2184.05MB/02:42:03 Down: 10.83MB/s / Disk: 3MB/s
+(14:34:08) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.79%/2198.72MB/02:41:01 Down: 14.67MB/s / Disk: 23.33MB/s
+(14:34:09) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.81%/2214.37MB/02:39:56 Down: 15.65MB/s / Disk: 22.58MB/s
+(14:34:10) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.83%/2234.18MB/02:40:35 Down: 19.81MB/s / Disk: 0MB/s
+(14:34:11) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.85%/2249.86MB/02:38:34 Down: 15.67MB/s / Disk: 35.61MB/s
+(14:34:12) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.87%/2266.56MB/02:38:20 Down: 16.7MB/s / Disk: 12.09MB/s
+(14:34:13) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.89%/2284.32MB/02:37:15 Down: 17.75MB/s / Disk: 22.25MB/s
+(14:34:14) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.9%/2298.12MB/02:36:37 Down: 13.8MB/s / Disk: 15.65MB/s
+(14:34:15) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.92%/2315.77MB/02:36:20 Down: 17.65MB/s / Disk: 13.83MB/s
+(14:34:16) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.94%/2331.18MB/02:35:14 Down: 15.4MB/s / Disk: 23.24MB/s
+(14:34:17) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.94%/2336.70MB/02:35:44 Down: 5.51MB/s / Disk: 1.56MB/s
+(14:34:18) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.95%/2346.46MB/02:36:21 Down: 9.76MB/s / Disk: 0MB/s
+(14:34:19) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.96%/2354.26MB/02:36:57 Down: 7.8MB/s / Disk: 0MB/s
+(14:34:20) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.98%/2365.98MB/02:35:52 Down: 11.71MB/s / Disk: 28.99MB/s
+(14:34:21) INFO:    [Legendary]:        Progress for The Callisto Protocol: 6.98%/2370.87MB/02:36:24 Down: 4.89MB/s / Disk: 1MB/s
+(14:34:22) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7%/2384.53MB/02:36:47 Down: 13.65MB/s / Disk: 4MB/s
+(14:34:23) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.02%/2407.12MB/02:35:04 Down: 22.58MB/s / Disk: 39.99MB/s
+(14:34:24) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.04%/2427.77MB/02:34:59 Down: 20.64MB/s / Disk: 12MB/s
+(14:34:25) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.07%/2452.30MB/02:33:46 Down: 24.52MB/s / Disk: 31.99MB/s
+(14:34:26) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.08%/2464.06MB/02:33:38 Down: 11.76MB/s / Disk: 13MB/s
+(14:34:27) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.1%/2480.72MB/02:33:26 Down: 16.66MB/s / Disk: 14MB/s
+(14:34:28) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.12%/2496.45MB/02:33:31 Down: 15.72MB/s / Disk: 9MB/s
+(14:34:29) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.12%/2500.41MB/02:33:14 Down: 3.96MB/s / Disk: 16MB/s
+(14:34:30) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.13%/2507.35MB/02:33:35 Down: 6.94MB/s / Disk: 4MB/s
+(14:34:31) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.13%/2511.31MB/02:34:09 Down: 3.96MB/s / Disk: 0MB/s
+(14:34:32) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.14%/2518.25MB/02:34:14 Down: 6.94MB/s / Disk: 9MB/s
+(14:34:33) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.14%/2521.22MB/02:34:48 Down: 2.97MB/s / Disk: 0MB/s
+(14:34:34) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.15%/2529.13MB/02:35:23 Down: 7.91MB/s / Disk: 0MB/s
+(14:34:35) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.17%/2541.01MB/02:35:57 Down: 11.88MB/s / Disk: 0MB/s
+(14:34:36) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.18%/2553.87MB/02:34:23 Down: 12.85MB/s / Disk: 38.99MB/s
+(14:34:37) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.2%/2568.75MB/02:34:02 Down: 14.87MB/s / Disk: 17MB/s
+(14:34:38) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.21%/2583.57MB/02:34:36 Down: 14.82MB/s / Disk: 0MB/s
+(14:34:39) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.22%/2594.42MB/02:35:09 Down: 10.85MB/s / Disk: 0MB/s
+(14:34:40) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.24%/2608.20MB/02:33:44 Down: 13.78MB/s / Disk: 36.99MB/s
+(14:34:41) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.25%/2621.97MB/02:33:46 Down: 13.76MB/s / Disk: 10MB/s
+(14:34:42) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.27%/2637.77MB/02:34:19 Down: 15.8MB/s / Disk: 0MB/s
+(14:34:43) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.29%/2654.61MB/02:32:56 Down: 16.83MB/s / Disk: 36.99MB/s
+(14:34:44) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.3%/2668.40MB/02:33:01 Down: 13.79MB/s / Disk: 9MB/s
+(14:34:45) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.32%/2680.24MB/02:33:33 Down: 11.83MB/s / Disk: 0MB/s
+(14:34:46) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.33%/2694.10MB/02:32:45 Down: 13.86MB/s / Disk: 25.99MB/s
+(14:34:47) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.34%/2703.03MB/02:32:53 Down: 8.93MB/s / Disk: 8MB/s
+(14:34:48) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.35%/2708.96MB/02:32:49 Down: 5.93MB/s / Disk: 12MB/s
+(14:34:49) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.35%/2714.90MB/02:33:21 Down: 5.94MB/s / Disk: 0MB/s
+(14:34:50) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.36%/2720.84MB/02:33:53 Down: 5.94MB/s / Disk: 0MB/s
+(14:34:51) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.36%/2721.83MB/02:34:25 Down: 0.99MB/s / Disk: 0MB/s
+(14:34:52) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.37%/2731.74MB/02:34:57 Down: 9.91MB/s / Disk: 0MB/s
+(14:34:53) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.39%/2744.65MB/02:33:24 Down: 12.91MB/s / Disk: 35.59MB/s
+(14:34:54) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.41%/2761.50MB/02:32:46 Down: 16.84MB/s / Disk: 17.76MB/s
+(14:34:55) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.42%/2774.39MB/02:33:11 Down: 12.89MB/s / Disk: 1.01MB/s
+(14:34:56) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.44%/2789.24MB/02:33:43 Down: 14.84MB/s / Disk: 0MB/s
+(14:34:57) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.45%/2801.12MB/02:34:14 Down: 11.88MB/s / Disk: 0MB/s
+(14:34:58) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.46%/2810.03MB/02:32:43 Down: 8.9MB/s / Disk: 33.38MB/s
+(14:34:59) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.46%/2814.98MB/02:31:52 Down: 4.95MB/s / Disk: 23.07MB/s
+(14:35:00) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.47%/2819.95MB/02:32:02 Down: 4.97MB/s / Disk: 5.49MB/s
+(14:35:01) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.48%/2827.92MB/02:32:21 Down: 7.97MB/s / Disk: 3.03MB/s
+(14:35:02) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.48%/2832.71MB/02:32:52 Down: 4.79MB/s / Disk: 0MB/s
+(14:35:03) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.49%/2838.61MB/02:33:23 Down: 5.9MB/s / Disk: 0MB/s
+(14:35:04) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.5%/2848.54MB/02:33:53 Down: 9.93MB/s / Disk: 0MB/s
+(14:35:05) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.51%/2862.40MB/02:31:56 Down: 13.86MB/s / Disk: 40.3MB/s
+(14:35:06) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.53%/2873.25MB/02:32:26 Down: 10.84MB/s / Disk: 0MB/s
+(14:35:07) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.54%/2887.11MB/02:32:45 Down: 13.85MB/s / Disk: 4MB/s
+(14:35:08) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.56%/2903.32MB/02:31:27 Down: 16.21MB/s / Disk: 29.41MB/s
+(14:35:09) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.57%/2918.02MB/02:30:57 Down: 14.69MB/s / Disk: 19.33MB/s
+(14:35:10) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.59%/2934.96MB/02:30:34 Down: 16.94MB/s / Disk: 16.44MB/s
+(14:35:11) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.61%/2948.84MB/02:30:08 Down: 13.88MB/s / Disk: 14.05MB/s
+(14:35:12) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.62%/2961.81MB/02:29:54 Down: 12.96MB/s / Disk: 12.21MB/s
+(14:35:13) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.64%/2975.74MB/02:29:26 Down: 13.93MB/s / Disk: 15.37MB/s
+(14:35:14) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.64%/2980.73MB/02:29:25 Down: 4.99MB/s / Disk: 7.59MB/s
+(14:35:15) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.65%/2984.72MB/02:29:54 Down: 3.99MB/s / Disk: 0MB/s
+(14:35:16) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.66%/2993.71MB/02:29:45 Down: 8.98MB/s / Disk: 11.91MB/s
+(14:35:17) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.67%/3002.69MB/02:29:23 Down: 8.98MB/s / Disk: 12.95MB/s
+(14:35:18) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.67%/3007.62MB/02:29:51 Down: 4.93MB/s / Disk: 0MB/s
+(14:35:19) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.68%/3010.62MB/02:30:19 Down: 3MB/s / Disk: 0MB/s
+(14:35:20) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.7%/3029.01MB/02:29:54 Down: 18.39MB/s / Disk: 15.21MB/s
+(14:35:21) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.71%/3039.54MB/02:29:38 Down: 10.52MB/s / Disk: 14.8MB/s
+(14:35:22) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.72%/3054.95MB/02:29:21 Down: 15.4MB/s / Disk: 12.09MB/s
+(14:35:23) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.74%/3066.94MB/02:29:04 Down: 11.99MB/s / Disk: 14.99MB/s
+(14:35:24) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.75%/3078.94MB/02:28:56 Down: 12MB/s / Disk: 14MB/s
+(14:35:25) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.75%/3082.91MB/02:29:24 Down: 3.97MB/s / Disk: 0MB/s
+(14:35:26) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.76%/3087.89MB/02:29:36 Down: 4.98MB/s / Disk: 6MB/s
+(14:35:27) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.76%/3092.81MB/02:29:43 Down: 4.92MB/s / Disk: 8MB/s
+(14:35:28) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.77%/3098.60MB/02:30:08 Down: 5.79MB/s / Disk: 1MB/s
+(14:35:29) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.78%/3103.34MB/02:30:14 Down: 4.74MB/s / Disk: 6.15MB/s
+(14:35:30) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.79%/3114.97MB/02:30:16 Down: 11.62MB/s / Disk: 7.96MB/s
+(14:35:31) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.81%/3131.57MB/02:29:54 Down: 16.6MB/s / Disk: 15.32MB/s
+(14:35:32) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.82%/3146.99MB/02:29:38 Down: 15.41MB/s / Disk: 17MB/s
+(14:35:33) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.84%/3162.78MB/02:28:51 Down: 15.79MB/s / Disk: 26.99MB/s
+(14:35:34) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.85%/3173.62MB/02:29:00 Down: 10.83MB/s / Disk: 7MB/s
+(14:35:35) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.87%/3191.31MB/02:28:40 Down: 17.68MB/s / Disk: 14.36MB/s
+(14:35:36) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.89%/3209.76MB/02:27:34 Down: 18.44MB/s / Disk: 26.34MB/s
+(14:35:37) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.91%/3225.18MB/02:27:29 Down: 15.42MB/s / Disk: 10.54MB/s
+(14:35:38) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.92%/3234.91MB/02:27:23 Down: 9.72MB/s / Disk: 11.73MB/s
+(14:35:39) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.93%/3241.78MB/02:27:13 Down: 6.87MB/s / Disk: 12.31MB/s
+(14:35:40) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.93%/3244.77MB/02:27:39 Down: 2.99MB/s / Disk: 0MB/s
+(14:35:41) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.94%/3253.62MB/02:27:53 Down: 8.85MB/s / Disk: 2.89MB/s
+(14:35:42) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.95%/3260.61MB/02:27:40 Down: 6.99MB/s / Disk: 11.87MB/s
+(14:35:43) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.95%/3263.61MB/02:28:06 Down: 3MB/s / Disk: 0MB/s
+(14:35:44) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.96%/3273.61MB/02:28:18 Down: 9.99MB/s / Disk: 3.65MB/s
+(14:35:45) INFO:    [Legendary]:        Progress for The Callisto Protocol: 7.97%/3286.61MB/02:28:05 Down: 13MB/s / Disk: 15MB/s
+(14:35:46) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8%/3305.61MB/02:28:00 Down: 19MB/s / Disk: 13MB/s
+(14:35:47) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.01%/3322.59MB/02:27:23 Down: 16.97MB/s / Disk: 26MB/s
+(14:35:48) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.03%/3337.59MB/02:26:56 Down: 15MB/s / Disk: 21MB/s
+(14:35:49) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.05%/3353.59MB/02:27:19 Down: 16MB/s / Disk: 1MB/s
+(14:35:50) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.06%/3366.59MB/02:26:41 Down: 13MB/s / Disk: 26.99MB/s
+(14:35:51) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.08%/3383.59MB/02:26:31 Down: 17MB/s / Disk: 15MB/s
+(14:35:52) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.09%/3394.59MB/02:26:56 Down: 11MB/s / Disk: 0MB/s
+(14:35:53) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.1%/3400.59MB/02:26:37 Down: 6MB/s / Disk: 19MB/s
+(14:35:54) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.1%/3403.59MB/02:26:51 Down: 3MB/s / Disk: 5MB/s
+(14:35:55) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.11%/3411.59MB/02:27:06 Down: 8MB/s / Disk: 4MB/s
+(14:35:56) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.12%/3417.59MB/02:27:10 Down: 6MB/s / Disk: 9MB/s
+(14:35:57) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.12%/3421.59MB/02:27:35 Down: 4MB/s / Disk: 0MB/s
+(14:35:58) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.14%/3436.59MB/02:27:42 Down: 15MB/s / Disk: 8MB/s
+(14:35:59) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.15%/3446.57MB/02:27:22 Down: 9.97MB/s / Disk: 19MB/s
+(14:36:00) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.16%/3461.56MB/02:27:15 Down: 14.99MB/s / Disk: 12.67MB/s
+(14:36:01) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.18%/3477.56MB/02:26:51 Down: 15.99MB/s / Disk: 19.57MB/s
+(14:36:02) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.2%/3490.56MB/02:26:49 Down: 13MB/s / Disk: 10.6MB/s
+(14:36:03) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.22%/3508.28MB/02:26:37 Down: 17.71MB/s / Disk: 16MB/s
+(14:36:04) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.23%/3526.36MB/02:25:58 Down: 18.08MB/s / Disk: 26.84MB/s
+(14:36:05) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.25%/3538.01MB/02:25:53 Down: 11.65MB/s / Disk: 10.98MB/s
+(14:36:06) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.26%/3546.92MB/02:25:55 Down: 8.91MB/s / Disk: 8.44MB/s
+(14:36:07) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.26%/3551.84MB/02:25:50 Down: 4.92MB/s / Disk: 11.22MB/s
+(14:36:08) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.27%/3556.74MB/02:26:14 Down: 4.9MB/s / Disk: 0MB/s
+(14:36:09) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.28%/3566.62MB/02:26:33 Down: 9.87MB/s / Disk: 2MB/s
+(14:36:10) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.28%/3569.55MB/02:26:57 Down: 2.93MB/s / Disk: 0MB/s
+(14:36:11) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.29%/3578.47MB/02:26:48 Down: 8.91MB/s / Disk: 13.55MB/s
+(14:36:12) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.31%/3596.22MB/02:26:18 Down: 17.75MB/s / Disk: 21.99MB/s
+(14:36:13) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.33%/3610.05MB/02:26:18 Down: 13.83MB/s / Disk: 10MB/s
+(14:36:14) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.35%/3630.77MB/02:25:34 Down: 20.71MB/s / Disk: 28.02MB/s
+(14:36:15) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.37%/3646.60MB/02:25:33 Down: 15.83MB/s / Disk: 8.64MB/s
+(14:36:16) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.38%/3664.46MB/02:24:48 Down: 17.85MB/s / Disk: 26.74MB/s
+(14:36:17) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.4%/3680.34MB/02:24:45 Down: 15.88MB/s / Disk: 11.78MB/s
+(14:36:18) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.42%/3695.25MB/02:24:32 Down: 14.91MB/s / Disk: 17MB/s
+(14:36:19) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.44%/3714.21MB/02:24:19 Down: 18.95MB/s / Disk: 13.3MB/s
+(14:36:20) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.46%/3732.20MB/02:23:41 Down: 17.99MB/s / Disk: 28.99MB/s
+(14:36:21) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.47%/3745.12MB/02:23:56 Down: 12.91MB/s / Disk: 3MB/s
+(14:36:22) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.49%/3760.04MB/02:23:31 Down: 14.92MB/s / Disk: 21.72MB/s
+(14:36:23) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.51%/3777.01MB/02:23:28 Down: 16.96MB/s / Disk: 9.29MB/s
+(14:36:24) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.53%/3794.99MB/02:22:59 Down: 17.97MB/s / Disk: 24MB/s
+(14:36:25) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.55%/3814.05MB/02:22:35 Down: 19.06MB/s / Disk: 20.84MB/s
+(14:36:26) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.57%/3832.88MB/02:22:23 Down: 18.83MB/s / Disk: 16.57MB/s
+(14:36:27) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.58%/3845.96MB/02:22:09 Down: 13.08MB/s / Disk: 17.18MB/s
+(14:36:28) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.6%/3860.64MB/02:22:05 Down: 14.68MB/s / Disk: 12.01MB/s
+(14:36:29) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.61%/3876.59MB/02:21:37 Down: 15.94MB/s / Disk: 19.58MB/s
+(14:36:30) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.63%/3888.56MB/02:21:37 Down: 11.97MB/s / Disk: 7.31MB/s
+(14:36:31) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.65%/3907.50MB/02:20:59 Down: 18.93MB/s / Disk: 23.18MB/s
+(14:36:32) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.67%/3924.95MB/02:20:48 Down: 17.46MB/s / Disk: 12.98MB/s
+(14:36:33) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.68%/3935.66MB/02:20:40 Down: 10.7MB/s / Disk: 13.44MB/s
+(14:36:34) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.69%/3950.35MB/02:20:35 Down: 14.69MB/s / Disk: 9.96MB/s
+(14:36:35) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.71%/3967.11MB/02:20:04 Down: 16.76MB/s / Disk: 22.34MB/s
+(14:36:36) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.74%/3988.20MB/02:19:22 Down: 21.08MB/s / Disk: 30.13MB/s
+(14:36:37) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.76%/4006.50MB/02:19:28 Down: 18.29MB/s / Disk: 8MB/s
+(14:36:38) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.78%/4026.97MB/02:18:49 Down: 20.47MB/s / Disk: 29.87MB/s
+(14:36:39) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.8%/4043.56MB/02:18:59 Down: 16.58MB/s / Disk: 6MB/s
+(14:36:40) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.81%/4061.16MB/02:18:37 Down: 17.6MB/s / Disk: 22.99MB/s
+(14:36:41) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.82%/4069.06MB/02:18:41 Down: 7.89MB/s / Disk: 7.79MB/s
+(14:36:42) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.83%/4075.71MB/02:19:02 Down: 6.66MB/s / Disk: 0MB/s
+(14:36:43) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.84%/4081.59MB/02:18:44 Down: 5.88MB/s / Disk: 20.2MB/s
+(14:36:44) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.84%/4087.32MB/02:18:59 Down: 5.72MB/s / Disk: 2.68MB/s
+(14:36:45) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.85%/4093.11MB/02:19:03 Down: 5.79MB/s / Disk: 6.56MB/s
+(14:36:46) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.86%/4100.61MB/02:19:13 Down: 7.5MB/s / Disk: 4.44MB/s
+(14:36:47) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.87%/4114.36MB/02:19:00 Down: 13.75MB/s / Disk: 14.53MB/s
+(14:36:48) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.89%/4128.33MB/02:19:17 Down: 13.96MB/s / Disk: 1.25MB/s
+(14:36:49) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.91%/4144.96MB/02:18:48 Down: 16.63MB/s / Disk: 21.67MB/s
+(14:36:50) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.92%/4161.45MB/02:18:37 Down: 16.48MB/s / Disk: 17MB/s
+(14:36:51) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.94%/4175.23MB/02:18:18 Down: 13.79MB/s / Disk: 19.95MB/s
+(14:36:52) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.95%/4185.22MB/02:18:13 Down: 9.98MB/s / Disk: 14MB/s
+(14:36:53) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.95%/4190.20MB/02:18:30 Down: 4.98MB/s / Disk: 2MB/s
+(14:36:54) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.96%/4196.19MB/02:18:21 Down: 5.99MB/s / Disk: 12.76MB/s
+(14:36:55) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.97%/4204.16MB/02:18:32 Down: 7.97MB/s / Disk: 4.81MB/s
+(14:36:56) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.98%/4211.12MB/02:18:52 Down: 6.96MB/s / Disk: 0MB/s
+(14:36:57) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.98%/4218.10MB/02:18:44 Down: 6.97MB/s / Disk: 11.71MB/s
+(14:36:58) INFO:    [Legendary]:        Progress for The Callisto Protocol: 8.99%/4225.08MB/02:18:53 Down: 6.98MB/s / Disk: 5.25MB/s
+(14:36:59) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.01%/4241.01MB/02:18:42 Down: 15.93MB/s / Disk: 10.46MB/s
+(14:37:00) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.03%/4255.98MB/02:18:27 Down: 14.96MB/s / Disk: 18.3MB/s
+(14:37:01) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.04%/4267.95MB/02:18:08 Down: 11.97MB/s / Disk: 15.93MB/s
+(14:37:02) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.05%/4281.93MB/02:18:01 Down: 13.97MB/s / Disk: 12.8MB/s
+(14:37:03) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.07%/4298.86MB/02:17:37 Down: 16.93MB/s / Disk: 19.37MB/s
+(14:37:04) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.09%/4316.79MB/02:17:18 Down: 17.93MB/s / Disk: 19.05MB/s
+(14:37:05) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.1%/4324.76MB/02:17:17 Down: 7.97MB/s / Disk: 8.45MB/s
+(14:37:06) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.11%/4330.74MB/02:17:21 Down: 5.98MB/s / Disk: 7MB/s
+(14:37:07) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.12%/4341.68MB/02:17:01 Down: 10.94MB/s / Disk: 15.95MB/s
+(14:37:08) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.13%/4348.65MB/02:17:17 Down: 6.97MB/s / Disk: 2MB/s
+(14:37:09) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.14%/4356.63MB/02:17:31 Down: 7.98MB/s / Disk: 3MB/s
+(14:37:10) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.15%/4366.02MB/02:17:12 Down: 9.38MB/s / Disk: 18.94MB/s
+(14:37:11) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.16%/4376.52MB/02:17:20 Down: 10.5MB/s / Disk: 5.22MB/s
+(14:37:12) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.18%/4394.42MB/02:16:58 Down: 17.9MB/s / Disk: 20.72MB/s
+(14:37:13) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.19%/4411.26MB/02:16:58 Down: 16.84MB/s / Disk: 10.36MB/s
+(14:37:14) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.22%/4434.95MB/02:16:20 Down: 23.69MB/s / Disk: 26.45MB/s
+(14:37:15) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.24%/4448.92MB/02:16:04 Down: 13.97MB/s / Disk: 19.28MB/s
+(14:37:16) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.25%/4460.90MB/02:16:11 Down: 11.98MB/s / Disk: 7MB/s
+(14:37:17) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.25%/4465.88MB/02:16:23 Down: 4.98MB/s / Disk: 4MB/s
+(14:37:18) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.27%/4476.71MB/02:16:39 Down: 10.83MB/s / Disk: 2MB/s
+(14:37:19) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.28%/4485.63MB/02:16:19 Down: 8.92MB/s / Disk: 20.13MB/s
+(14:37:20) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.28%/4492.46MB/02:16:38 Down: 6.83MB/s / Disk: 0MB/s
+(14:37:21) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.29%/4503.15MB/02:16:07 Down: 10.69MB/s / Disk: 22.68MB/s
+(14:37:22) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.31%/4516.90MB/02:15:55 Down: 13.75MB/s / Disk: 13.64MB/s
+(14:37:23) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.32%/4530.60MB/02:15:52 Down: 13.69MB/s / Disk: 10.57MB/s
+(14:37:24) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.35%/4551.23MB/02:15:15 Down: 20.63MB/s / Disk: 24.94MB/s
+(14:37:25) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.37%/4572.00MB/02:14:58 Down: 20.77MB/s / Disk: 16MB/s
+(14:37:26) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.38%/4585.99MB/02:14:46 Down: 13.98MB/s / Disk: 15.89MB/s
+(14:37:27) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.39%/4592.96MB/02:14:50 Down: 6.97MB/s / Disk: 9MB/s
+(14:37:28) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.4%/4601.78MB/02:14:47 Down: 8.82MB/s / Disk: 8.75MB/s
+(14:37:29) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.41%/4609.66MB/02:15:01 Down: 7.88MB/s / Disk: 3MB/s
+(14:37:30) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.42%/4617.59MB/02:15:09 Down: 7.93MB/s / Disk: 4.98MB/s
+(14:37:31) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.43%/4624.54MB/02:14:59 Down: 6.95MB/s / Disk: 12.88MB/s
+(14:37:32) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.44%/4637.51MB/02:15:02 Down: 12.96MB/s / Disk: 9MB/s
+(14:37:33) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.46%/4657.37MB/02:14:35 Down: 19.86MB/s / Disk: 26.14MB/s
+(14:37:34) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.48%/4671.35MB/02:14:52 Down: 13.97MB/s / Disk: 0MB/s
+(14:37:35) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.49%/4684.24MB/02:14:28 Down: 12.89MB/s / Disk: 25.71MB/s
+(14:37:36) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.5%/4696.02MB/02:14:25 Down: 11.78MB/s / Disk: 9.12MB/s
+(14:37:37) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.51%/4703.88MB/02:14:09 Down: 7.86MB/s / Disk: 15.79MB/s
+(14:37:38) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.52%/4707.87MB/02:14:24 Down: 3.98MB/s / Disk: 0.34MB/s
+(14:37:39) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.52%/4714.81MB/02:14:41 Down: 6.94MB/s / Disk: 0MB/s
+(14:37:40) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.53%/4716.79MB/02:14:59 Down: 1.97MB/s / Disk: 0MB/s
+(14:37:41) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.54%/4728.58MB/02:14:52 Down: 11.8MB/s / Disk: 13.57MB/s
+(14:37:42) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.54%/4731.57MB/02:14:45 Down: 2.98MB/s / Disk: 12.67MB/s
+(14:37:43) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.55%/4737.52MB/02:14:56 Down: 5.96MB/s / Disk: 2.54MB/s
+(14:37:44) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.56%/4751.45MB/02:15:07 Down: 13.92MB/s / Disk: 4MB/s
+(14:37:45) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.58%/4767.71MB/02:14:37 Down: 16.26MB/s / Disk: 27.76MB/s
+(14:37:46) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.6%/4785.10MB/02:14:18 Down: 17.39MB/s / Disk: 18.51MB/s
+(14:37:47) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.62%/4802.80MB/02:14:14 Down: 17.7MB/s / Disk: 13MB/s
+(14:37:48) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.63%/4815.70MB/02:14:04 Down: 12.9MB/s / Disk: 13.93MB/s
+(14:37:49) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.65%/4830.54MB/02:13:55 Down: 14.83MB/s / Disk: 13.8MB/s
+(14:37:50) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.67%/4849.28MB/02:13:23 Down: 18.74MB/s / Disk: 27.66MB/s
+(14:37:51) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.68%/4858.22MB/02:13:34 Down: 8.94MB/s / Disk: 4MB/s
+(14:37:52) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.69%/4866.11MB/02:13:36 Down: 7.89MB/s / Disk: 9MB/s
+(14:37:53) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.69%/4870.05MB/02:13:40 Down: 3.94MB/s / Disk: 8MB/s
+(14:37:54) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.7%/4875.94MB/02:13:57 Down: 5.89MB/s / Disk: 0MB/s
+(14:37:55) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.71%/4882.84MB/02:14:11 Down: 6.89MB/s / Disk: 2MB/s
+(14:37:56) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.71%/4885.82MB/02:14:14 Down: 2.98MB/s / Disk: 8.13MB/s
+(14:37:57) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.72%/4899.76MB/02:14:01 Down: 13.94MB/s / Disk: 19.17MB/s
+(14:37:58) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.74%/4913.76MB/02:13:59 Down: 13.99MB/s / Disk: 13MB/s
+(14:37:59) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.75%/4927.76MB/02:13:55 Down: 14MB/s / Disk: 14MB/s
+(14:38:00) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.77%/4941.76MB/02:13:56 Down: 14MB/s / Disk: 10.22MB/s
+(14:38:01) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.78%/4953.76MB/02:13:55 Down: 12MB/s / Disk: 12MB/s
+(14:38:02) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.8%/4968.76MB/02:13:41 Down: 14.99MB/s / Disk: 18.64MB/s
+(14:38:03) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.82%/4983.76MB/02:13:25 Down: 15MB/s / Disk: 21.1MB/s
+(14:38:04) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.82%/4989.76MB/02:13:34 Down: 6MB/s / Disk: 5MB/s
+(14:38:05) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.83%/4994.76MB/02:13:51 Down: 5MB/s / Disk: 0MB/s
+(14:38:06) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.84%/5003.76MB/02:13:44 Down: 9MB/s / Disk: 14.27MB/s
+(14:38:07) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.84%/5008.76MB/02:13:38 Down: 5MB/s / Disk: 15.2MB/s
+(14:38:08) INFO:    [Legendary]:        Progress for The Callisto Protocol: 9.85%/5014.76MB/02:13:45 Down: 6MB/s / Disk: 6MB/s

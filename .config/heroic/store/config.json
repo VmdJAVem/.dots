@@ -1,10 +1,10 @@
 {
 	"general-logs": {
-		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-21T01_09_40-heroic.log",
-		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-20T23_25_25-heroic.log",
-		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-21T01_09_40-legendary.log",
-		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-21T01_09_40-gogdl.log",
-		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-21T01_09_40-nile.log"
+		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-22T19_47_14-heroic.log",
+		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-22T19_29_49-heroic.log",
+		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-22T19_47_14-legendary.log",
+		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-22T19_47_14-gogdl.log",
+		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-22T19_47_14-nile.log"
 	},
 	"userHome": "/home/vmdjavem",
 	"language": "en",
@@ -14,10 +14,10 @@
 		"user": "vmdjavem"
 	},
 	"window-props": {
-		"x": 17,
-		"y": 59,
-		"width": 1886,
-		"height": 1004,
+		"x": 10,
+		"y": 52,
+		"width": 1900,
+		"height": 1018,
 		"maximized": false
 	},
 	"theme": "gruvbox_dark",
@@ -70,12 +70,12 @@
 	"games": {
 		"recent": [
 			{
-				"appName": "k9WDWBSBu5MRntf9VDLYzL",
-				"title": "Plutonium Launcher"
-			},
-			{
 				"appName": "puJw5rzdvKHmsAjcxMTH1m",
 				"title": "Hearts of iron IV"
+			},
+			{
+				"appName": "k9WDWBSBu5MRntf9VDLYzL",
+				"title": "Plutonium Launcher"
 			},
 			{
 				"appName": "uLC5WCMuWeTTzKyFyQMato",

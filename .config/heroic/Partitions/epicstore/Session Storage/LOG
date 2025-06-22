@@ -1,3 +1,3 @@
-2025/06/05-17:59:41.112 cb7 Reusing MANIFEST /home/vmdjavem/.config/heroic/Partitions/epicstore/Session Storage/MANIFEST-000001
-2025/06/05-17:59:41.112 cb7 Recovering log #3
-2025/06/05-17:59:41.112 cb7 Reusing old log /home/vmdjavem/.config/heroic/Partitions/epicstore/Session Storage/000003.log 
+2025/06/21-18:32:00.772 103e7 Reusing MANIFEST /home/vmdjavem/.config/heroic/Partitions/epicstore/Session Storage/MANIFEST-000001
+2025/06/21-18:32:00.772 103e7 Recovering log #3
+2025/06/21-18:32:00.773 103e7 Reusing old log /home/vmdjavem/.config/heroic/Partitions/epicstore/Session Storage/000003.log 

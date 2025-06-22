@@ -1,1 +1,135 @@
-{}
+{
+	"__timestamp": {
+		"256ba8bdd1ff4c26a0b2d3776d1a1bf6": "Sun Jun 22 2025 14:29:59 GMT-0500 (hora estándar oriental)"
+	},
+	"256ba8bdd1ff4c26a0b2d3776d1a1bf6": {
+		"game": {
+			"app_name": "256ba8bdd1ff4c26a0b2d3776d1a1bf6",
+			"title": "The Callisto Protocol",
+			"version": "1.16.0.0-1.71290.0.712379",
+			"platform_versions": {
+				"Windows": "1.16.0.0-1.71290.0.712379"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 6236624,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "5be88c20a859439baeb1667d06a3aed2",
+			"launch_exe": "TheCallistoProtocol.exe",
+			"launch_command": "",
+			"build_version": "1.16.0.0-1.71290.0.712379",
+			"build_id": "5lNtk-gVR0agjBKnHDYi59pPCy0",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				"",
+				"chinese",
+				"french",
+				"german",
+				"italian",
+				"japanese",
+				"korean",
+				"spanish"
+			],
+			"num_files": 1027,
+			"num_chunks": 93508,
+			"disk_size": 101135065077,
+			"download_size": 96678598583,
+			"tag_disk_size": [
+				{
+					"tag": "",
+					"size": 81401290038,
+					"count": 999
+				},
+				{
+					"tag": "chinese",
+					"size": 2762099887,
+					"count": 4
+				},
+				{
+					"tag": "french",
+					"size": 2830885507,
+					"count": 4
+				},
+				{
+					"tag": "german",
+					"size": 2821205218,
+					"count": 4
+				},
+				{
+					"tag": "italian",
+					"size": 2787744866,
+					"count": 4
+				},
+				{
+					"tag": "japanese",
+					"size": 2868484389,
+					"count": 4
+				},
+				{
+					"tag": "korean",
+					"size": 2765497627,
+					"count": 4
+				},
+				{
+					"tag": "spanish",
+					"size": 2897857545,
+					"count": 4
+				}
+			],
+			"tag_download_size": [
+				{
+					"tag": "",
+					"size": 79007136528,
+					"count": 76543
+				},
+				{
+					"tag": "chinese",
+					"size": 2743720433,
+					"count": 2634
+				},
+				{
+					"tag": "french",
+					"size": 2813371955,
+					"count": 2700
+				},
+				{
+					"tag": "german",
+					"size": 2804824978,
+					"count": 2692
+				},
+				{
+					"tag": "italian",
+					"size": 2769308611,
+					"count": 2658
+				},
+				{
+					"tag": "japanese",
+					"size": 2849494234,
+					"count": 2735
+				},
+				{
+					"tag": "korean",
+					"size": 2745888154,
+					"count": 2636
+				},
+				{
+					"tag": "spanish",
+					"size": 2878309029,
+					"count": 2762
+				}
+			]
+		}
+	}
+}
