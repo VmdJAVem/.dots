@@ -18,6 +18,7 @@ bluez
 bluez-deprecated-tools
 bluez-utils
 bridge-utils
+brightnessctl
 btop
 btrfs-progs
 cantarell-fonts
@@ -56,7 +57,6 @@ ethtool
 evince
 exfatprogs
 f2fs-tools
-fastfetch
 ffmpegthumbnailer
 ffmpegthumbs
 figlet
@@ -91,10 +91,11 @@ hwdetect
 hwinfo
 hyfetch
 hyprland
+hyprlock
 hyprpaper
+hyprpicker
 hyprpolkitagent
 hyprshot
-hyprsunset
 i2c-tools
 inetutils
 inxi
@@ -164,6 +165,7 @@ ncdu
 neovim
 netctl
 networkmanager
+network-manager-applet
 networkmanager-openconnect
 networkmanager-openvpn
 nfs-utils
@@ -230,6 +232,7 @@ steam
 sudo
 swayimg
 swaync
+swww
 syncthing
 sysfsutils
 system-config-printer
@@ -243,9 +246,11 @@ ttf-bitstream-vera
 ttf-dejavu
 ttf-fira-code
 ttf-font-awesome
+ttf-hack-nerd
 ttf-liberation
 ttf-nerd-fonts-symbols
 ttf-opensans
+ttf-roboto-mono-nerd
 ufw
 unarchiver
 unrar
@@ -254,7 +259,6 @@ upower
 usb_modeswitch
 usbutils
 uwsm
-uwufetch
 vi
 virt-manager
 virt-viewer
@@ -263,7 +267,6 @@ vlc
 vulkan-radeon
 vulkan-tools
 wavpack
-waybar
 welcome
 wget
 which
@@ -289,6 +292,5 @@ xorg-xinput
 xorg-xkill
 xorg-xrandr
 xsettingsd
-xterm
 zip
 zoxide

@@ -1,6 +1,8 @@
+ags-hyprpanel-git
 appmenu-glib-translator-git
 asciiquarium-transparent-git
 aylurs-gtk-shell-git
+bestfetch
 binder_linux-dkms
 blahaj-bin
 cbonsai
@@ -8,14 +10,20 @@ debtap-mod
 display3d
 fl-studio-integrator
 floorp-bin
+grimblast-git
 grub-customizer
 gruvbox-dark-icons-gtk
+gruvbox-material-gtk-theme-git
 helm-synth
 helm-synth-common-git
 helm-synth-lv2
 helm-synth-standalone
 helm-synth-vst
 heroic-games-launcher-bin
+hyprland-protocols-git
+hyprsunset-git
+hyprutils-git
+hyprwayland-scanner-git
 jdk-lts
 kitget
 libastal-4-git
@@ -41,6 +49,7 @@ libcava
 libgbinder
 libglibutil
 libpamac-full
+matugen-bin
 mommy
 neofetch
 nerd-fonts-noto-sans-mono
@@ -50,7 +59,9 @@ pamac-cli
 proton-ge-custom-bin
 protontricks
 python-gbinder
+python-gpustat
 python-imageio-ffmpeg
+python-nvidia-ml-py
 python-pyclip
 python-pywalfox
 python-screeninfo
@@ -66,4 +77,5 @@ tty-clock
 waveform13
 waydroid
 waypaper
+wf-recorder-git
 youtube-music-bin
