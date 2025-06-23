@@ -14,10 +14,10 @@
     }
   },
   "base_urls": [
-    "https://cloudflare.epicgamescdn.com/Builds/Org/o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge/cc1afd157b8f408bb1a0591c67127808/default",
-    "https://epicgames-download1.akamaized.net/Builds/Org/o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge/cc1afd157b8f408bb1a0591c67127808/default",
     "https://download.epicgames.com/Builds/Org/o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge/cc1afd157b8f408bb1a0591c67127808/default",
-    "https://fastly-download.epicgames.com/Builds/Org/o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge/cc1afd157b8f408bb1a0591c67127808/default"
+    "https://epicgames-download1.akamaized.net/Builds/Org/o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge/cc1afd157b8f408bb1a0591c67127808/default",
+    "https://fastly-download.epicgames.com/Builds/Org/o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge/cc1afd157b8f408bb1a0591c67127808/default",
+    "https://cloudflare.epicgamescdn.com/Builds/Org/o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge/cc1afd157b8f408bb1a0591c67127808/default"
   ],
   "metadata": {
     "ageGatings": {},

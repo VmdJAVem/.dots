@@ -418,8 +418,8 @@
   "theme.osd.location": "top",
   "theme.osd.orientation": "horizontal",
   "theme.bar.transparent": true,
-  "menus.dashboard.shortcuts.left.shortcut4.tooltip": "ghci",
-  "menus.dashboard.shortcuts.left.shortcut4.command": "kitty -e ghci",
-  "menus.dashboard.shortcuts.left.shortcut4.icon": "λ",
+  "menus.dashboard.shortcuts.left.shortcut4.tooltip": "minecraft",
+  "menus.dashboard.shortcuts.left.shortcut4.command": "kitty -e java -jar ~/bin/SKlauncher-3.2.12.jar",
+  "menus.dashboard.shortcuts.left.shortcut4.icon": "󰍳",
   "menus.clock.weather.interval": 1000
 }

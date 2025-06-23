@@ -911,9 +911,7 @@
 			"endTime": 1746926515498,
 			"startTime": 1746922461426,
 			"status": "done"
-		}
-	],
-	"queue": [
+		},
 		{
 			"params": {
 				"appName": "256ba8bdd1ff4c26a0b2d3776d1a1bf6",
@@ -1184,8 +1182,10 @@
 			},
 			"type": "install",
 			"addToQueueTime": 1750548839989,
-			"endTime": 0,
-			"startTime": 1750621640450
+			"endTime": 1750643205639,
+			"startTime": 1750637192805,
+			"status": "done"
 		}
-	]
+	],
+	"queue": []
 }

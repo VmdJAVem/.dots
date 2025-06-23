@@ -1,6 +1,6 @@
 {
 	"__timestamp": {
-		"256ba8bdd1ff4c26a0b2d3776d1a1bf6": "Sun Jun 22 2025 14:29:59 GMT-0500 (hora estándar oriental)"
+		"256ba8bdd1ff4c26a0b2d3776d1a1bf6": "Mon Jun 23 2025 12:57:49 GMT-0500 (hora estándar oriental)"
 	},
 	"256ba8bdd1ff4c26a0b2d3776d1a1bf6": {
 		"game": {
@@ -19,7 +19,17 @@
 			"command_line": null,
 			"owned_dlc": []
 		},
-		"install": null,
+		"install": {
+			"platform": "Windows",
+			"version": "1.16.0.0-1.71290.0.712379",
+			"disk_size": 101135065077,
+			"install_path": "/home/vmdjavem/Games/Heroic/TheCallistoProtocol",
+			"save_path": null,
+			"synced_egl_guid": "",
+			"install_tags": [],
+			"requires_ovt": true,
+			"installed_dlc": []
+		},
 		"manifest": {
 			"size": 6236624,
 			"type": "binary",

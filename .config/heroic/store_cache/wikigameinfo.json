@@ -10,6 +10,53 @@
 		"umuId": null
 	},
 	"__timestamp": {
-		"Plutonium Launcher": "Mon Jun 16 2025 14:02:28 GMT-0500 (hora estándar oriental)"
+		"Plutonium Launcher": "Mon Jun 16 2025 14:02:28 GMT-0500 (hora estándar oriental)",
+		"The Callisto Protocol": "Sun Jun 22 2025 20:46:47 GMT-0500 (hora estándar oriental)"
+	},
+	"The Callisto Protocol": {
+		"pcgamingwiki": {
+			"steamID": "1544020",
+			"howLongToBeatID": "85967",
+			"metacritic": {
+				"score": "72",
+				"urlid": "the-callisto-protocol"
+			},
+			"opencritic": {
+				"score": "70",
+				"urlid": "13372/the-callisto-protocol"
+			},
+			"igdb": {
+				"score": "74",
+				"urlid": "the-callisto-protocol"
+			},
+			"direct3DVersions": [
+				"11",
+				"12"
+			],
+			"genres": [
+				"Survivalhorror"
+			],
+			"releaseDate": [
+				"Windows: December 2, 2022"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"mainStory": 10,
+			"mainExtra": 12,
+			"completionist": 15,
+			"gameId": 85967,
+			"gameName": "The Callisto Protocol",
+			"gameImageUrl": "https://howlongtobeat.com/games/85967_The_Callisto_Protocol.jpg",
+			"gameWebLink": "https://howlongtobeat.com/game/85967"
+		},
+		"gamesdb": {
+			"steamID": "1544020"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "platinum",
+			"steamDeckCatagory": 3
+		},
+		"umuId": "umu-1544020"
 	}
 }

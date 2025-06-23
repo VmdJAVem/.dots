@@ -1,1 +1,366 @@
-{}
+{
+	"epic_256ba8bdd1ff4c26a0b2d3776d1a1bf6": {
+		"id": "55553879825716882",
+		"game_id": "53943799072368400",
+		"platform_id": "epic",
+		"external_id": "256ba8bdd1ff4c26a0b2d3776d1a1bf6",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "53943799072368400",
+			"parent_id": null,
+			"dlcs_ids": [
+				"56337485411746796",
+				"56616742597021895",
+				"56962791437414016"
+			],
+			"first_release_date": "2022-12-02T00:00:00+0000",
+			"releases": [
+				{
+					"id": "55520447292004591",
+					"platform_id": "steam",
+					"external_id": "1544020",
+					"release_per_platform_id": "steam_1544020",
+					"availability": 0
+				},
+				{
+					"id": "55553879825716882",
+					"platform_id": "epic",
+					"external_id": "256ba8bdd1ff4c26a0b2d3776d1a1bf6",
+					"release_per_platform_id": "epic_256ba8bdd1ff4c26a0b2d3776d1a1bf6",
+					"availability": 0
+				},
+				{
+					"id": "55861238519438323",
+					"platform_id": "xboxone",
+					"external_id": "2051503466",
+					"release_per_platform_id": "xboxone_2051503466",
+					"availability": 0
+				},
+				{
+					"id": "56007792722766583",
+					"platform_id": "psn",
+					"external_id": "CUSA27372_00",
+					"release_per_platform_id": "psn_CUSA27372_00",
+					"availability": 0
+				},
+				{
+					"id": "56010051404864294",
+					"platform_id": "psn",
+					"external_id": "CUSA27373_00",
+					"release_per_platform_id": "psn_CUSA27373_00",
+					"availability": 0
+				},
+				{
+					"id": "56028480476673871",
+					"platform_id": "psn",
+					"external_id": "CUSA27374_00",
+					"release_per_platform_id": "psn_CUSA27374_00",
+					"availability": 0
+				},
+				{
+					"id": "57447794401322031",
+					"platform_id": "humble",
+					"external_id": "thecallistoprotocol",
+					"release_per_platform_id": "humble_thecallistoprotocol",
+					"availability": 0
+				},
+				{
+					"id": "57447944602770983",
+					"platform_id": "humble",
+					"external_id": "thecallistoprotocol_choice_steam",
+					"release_per_platform_id": "humble_thecallistoprotocol_choice_steam",
+					"availability": 0
+				},
+				{
+					"id": "58246216062554042",
+					"platform_id": "humble",
+					"external_id": "thecallistoprotocol_steam",
+					"release_per_platform_id": "humble_thecallistoprotocol_steam",
+					"availability": 0
+				},
+				{
+					"id": "53943799072368400",
+					"platform_id": "generic",
+					"external_id": "53943799072368400",
+					"release_per_platform_id": "generic_53943799072368400",
+					"availability": 1
+				}
+			],
+			"title": {
+				"*": "The Callisto Protocol",
+				"en-US": "The Callisto Protocol"
+			},
+			"sorting_title": {
+				"*": "Callisto Protocol",
+				"en-US": "Callisto Protocol"
+			},
+			"type": "game",
+			"developers_ids": [
+				"53946866827452515"
+			],
+			"developers": [
+				{
+					"id": "53946866827452515",
+					"name": "Striking Distance Studios",
+					"slug": "striking-distance-studios"
+				}
+			],
+			"publishers_ids": [
+				"51499773272695579",
+				"55508917379575291"
+			],
+			"publishers": [
+				{
+					"id": "51499773272695579",
+					"name": "Skybound Games",
+					"slug": "skybound-games"
+				},
+				{
+					"id": "55508917379575291",
+					"name": "Krafton",
+					"slug": "krafton"
+				}
+			],
+			"genres_ids": [
+				"51071842251704278",
+				"51141224821260861"
+			],
+			"genres": [
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				},
+				{
+					"id": "51141224821260861",
+					"name": {
+						"*": "Shooter",
+						"en-US": "Shooter"
+					},
+					"slug": "shooter"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391",
+				"51141224819961538",
+				"51141225463821636",
+				"51141226418224461"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51141224819961538",
+					"name": {
+						"*": "Horror",
+						"en-US": "Horror"
+					},
+					"slug": "horror"
+				},
+				{
+					"id": "51141225463821636",
+					"name": {
+						"*": "Science fiction",
+						"en-US": "Science fiction"
+					},
+					"slug": "science-fiction"
+				},
+				{
+					"id": "51141226418224461",
+					"name": {
+						"*": "Survival",
+						"en-US": "Survival"
+					},
+					"slug": "survival"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/46fc1241b238409cae488542b481df605bec796288107cddc95650b485ef87c0{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/58fa469c3e5364eb37e2dfd66615af216f1dbea109f1472b326156c9c7bc9a2d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/8007c92a809a741a68ae9c7ced07f530db0bd26177ee132ee9180b44f006e658{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f728c8eac59c44f883632adbdd67f395111cfe8fee9a023e63c564f02e9d2cd8{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4e87cc79c9ca6af2256cf023cf9e09018703e23a14c51e43030cc8050440ffee{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/2493a369f713243a36fa5e401821861a5da06457ffd8686b0c08a23005d60356{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f91dd7377f03f38f041856d94d2a8e1ee64acbaac555b795740a24022d758817{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/074b9e80d153bf1cee29c3f71c6d643607454ad8bcddb77324f4bdceeb940556{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/cdb9e89de595c18c09363ed8982ef15d7b0ba0ac6f036fa5f4f2362cc793b3c8{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ca90cb0cf688532a6b3502686dcd32edb80f8840a8bbe5f08e1b965341f7e4d6{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/baaf92f954a3694f4907bd1c925633cc98b458bf64fe339a39875c2816440884{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/175b01ec9ee0f52dc6c4e6e766bfc3744454d235ff96cb4539fe9549b498003b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a90a415173b4b2303508b28bb37703562411cdff071d490f46f48180de2ea12f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/6dfca5c526d8cfe236d0f50059348000f25cfd6980ad8b5c7c223613724acfba{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7a598b26f7603c767e02e3080dd5d624ffa43b6ce9e774b9af1a828523a886c9{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/0c722b8c9ed00d1a858208cd2eccb805013cbd6affaa17e28467c8ae49d84ee4{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/fbdcaafa91440ae6ccfd34daaf1a6b9bb6fa2569762c79a2eb3d98e2711480e7{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "ysFqUiXBAd0",
+					"thumbnail_id": "ysFqUiXBAd0",
+					"name": "Gameplay Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "gghRJv_tdb0",
+					"thumbnail_id": "gghRJv_tdb0",
+					"name": "Launch Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "WnVhgyLbC8A",
+					"thumbnail_id": "WnVhgyLbC8A",
+					"name": "Announcement Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "tXt7qWaN6KI",
+					"thumbnail_id": "tXt7qWaN6KI",
+					"name": "Gameplay Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/aba2ae028262be1631fd60b46bc126bd2f242a654300bed17b8e86ecb7efc314{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ae3bfbc3931e80570f1d47b795b3cfa68be8dd9de2337849c96915ca7c3e049c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4142a6d7e97e1d78b4db61fe63eb48a68ab2f36faa25815f1d5a8e5eb0f3251f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/6d275dd2b70cf06acd92ee4a4895f8b1a483f70245ffb33bbd67185e2bd18d7a{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a20b023535eeb474efb1cf62ab9df7aa40867146c11cd2df8f49adddb3e075d1{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "In this narrative-driven, third-person survival horror game set 300 years in the future, the player will take on the role of Jacob Lee – a victim of fate thrown into Black Iron Prison, a maximum-security penitentiary located on Jupiter's moon, Callisto. When inmates begin to transform into monstrous creatures, the prison is thrown into chaos.",
+				"en-US": "In this narrative-driven, third-person survival horror game set 300 years in the future, the player will take on the role of Jacob Lee – a victim of fate thrown into Black Iron Prison, a maximum-security penitentiary located on Jupiter's moon, Callisto. When inmates begin to transform into monstrous creatures, the prison is thrown into chaos."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 64.7143,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/705aa940d4a47145fd5d216a8b555bb68dffa58b49f50e2ad179b1a492243b1b{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/705aa940d4a47145fd5d216a8b555bb68dffa58b49f50e2ad179b1a492243b1b{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/71561336ac8481eb8bf9f057f99f8df0acc10fcef3b6e098bf2e897fc45a3f4d{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/71561336ac8481eb8bf9f057f99f8df0acc10fcef3b6e098bf2e897fc45a3f4d{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/71561336ac8481eb8bf9f057f99f8df0acc10fcef3b6e098bf2e897fc45a3f4d{formatter}.{ext}?namespace=gamesdb"
+			},
+			"icon": {
+				"url_format": "https://images.gog.com/71561336ac8481eb8bf9f057f99f8df0acc10fcef3b6e098bf2e897fc45a3f4d{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/a20b023535eeb474efb1cf62ab9df7aa40867146c11cd2df8f49adddb3e075d1{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0,
+			"slug": "the-callisto-protocol"
+		},
+		"title": {
+			"*": "The Callisto Protocol",
+			"en-US": "The Callisto Protocol"
+		},
+		"sorting_title": {
+			"*": "Callisto Protocol",
+			"en-US": "Callisto Protocol"
+		},
+		"type": "game",
+		"summary": {
+			"*": "In this narrative-driven, third-person survival horror game set 300 years in the future, the player will take on the role of Jacob Lee – a victim of fate thrown into Black Iron Prison, a maximum-security penitentiary located on Jupiter's moon, Callisto. When inmates begin to transform into monstrous creatures, the prison is thrown into chaos.",
+			"en-US": "In this narrative-driven, third-person survival horror game set 300 years in the future, the player will take on the role of Jacob Lee – a victim of fate thrown into Black Iron Prison, a maximum-security penitentiary located on Jupiter's moon, Callisto. When inmates begin to transform into monstrous creatures, the prison is thrown into chaos."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			}
+		],
+		"icon": {
+			"url_format": "https://images.gog.com/71561336ac8481eb8bf9f057f99f8df0acc10fcef3b6e098bf2e897fc45a3f4d{formatter}.{ext}?namespace=gamesdb"
+		},
+		"logo": {
+			"url_format": "https://images.gog.com/71561336ac8481eb8bf9f057f99f8df0acc10fcef3b6e098bf2e897fc45a3f4d{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"46219a779043349d1b69e61a7e8c515e\""
+	},
+	"__timestamp": {
+		"epic_256ba8bdd1ff4c26a0b2d3776d1a1bf6": "Sun Jun 22 2025 20:46:46 GMT-0500 (hora estándar oriental)"
+	}
+}
