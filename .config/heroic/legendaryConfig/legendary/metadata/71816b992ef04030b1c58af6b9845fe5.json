@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "71816b992ef04030b1c58af6b9845fe5",
       "asset_id": "71816b992ef04030b1c58af6b9845fe5",
-      "build_version": "BOZ_1.51.0",
+      "build_version": "BOZ_1.52.0",
       "catalog_item_id": "5821c65a103144548f3b55e8ce011292",
       "label_name": "Live-Windows",
       "metadata": {
@@ -76,7 +76,6 @@
       "egstore"
     ],
     "id": "5821c65a103144548f3b55e8ce011292",
-    "installModes": [],
     "itemType": "DURABLE",
     "keyImages": [
       {
@@ -101,7 +100,7 @@
     "lastModifiedDate": "2025-05-07T10:29:12.054Z",
     "mainGameItem": {
       "ageGatings": {},
-      "applicationId": "",
+      "applicationId": "fghi4567j1MOvQelRn0AOGdiNT0sMrDW",
       "categories": [
         {
           "path": "games"
@@ -143,10 +142,6 @@
         "RequirementsJson": {
           "type": "STRING",
           "value": "[]"
-        },
-        "UseAccessControl": {
-          "type": "STRING",
-          "value": "false"
         }
       },
       "description": "Dying Light",
@@ -159,7 +154,6 @@
         "egstore"
       ],
       "id": "9421139e63f34d6281c18698b54d1e63",
-      "installModes": [],
       "itemType": "DURABLE",
       "keyImages": [
         {
@@ -181,7 +175,7 @@
           "width": 1200
         }
       ],
-      "lastModifiedDate": "2025-05-07T10:29:11.332Z",
+      "lastModifiedDate": "2025-06-26T10:46:27.841Z",
       "mainGameItemList": [],
       "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
       "releaseInfo": [
@@ -201,7 +195,7 @@
     "mainGameItemList": [
       {
         "ageGatings": {},
-        "applicationId": "",
+        "applicationId": "fghi4567j1MOvQelRn0AOGdiNT0sMrDW",
         "categories": [
           {
             "path": "games"
@@ -243,10 +237,6 @@
           "RequirementsJson": {
             "type": "STRING",
             "value": "[]"
-          },
-          "UseAccessControl": {
-            "type": "STRING",
-            "value": "false"
           }
         },
         "description": "Dying Light",
@@ -259,7 +249,6 @@
           "egstore"
         ],
         "id": "9421139e63f34d6281c18698b54d1e63",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [
           {
@@ -281,7 +270,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-05-07T10:29:11.332Z",
+        "lastModifiedDate": "2025-06-26T10:46:27.841Z",
         "mainGameItemList": [],
         "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
         "releaseInfo": [

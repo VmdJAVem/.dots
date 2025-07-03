@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "04a54ed532ce4fbfbf8fd5833f60def0",
       "asset_id": "04a54ed532ce4fbfbf8fd5833f60def0",
-      "build_version": "DL_1.51.0",
+      "build_version": "DL_1.52.0",
       "catalog_item_id": "9421139e63f34d6281c18698b54d1e63",
       "label_name": "Live-Windows",
       "metadata": {
@@ -18,7 +18,7 @@
   "base_urls": [],
   "metadata": {
     "ageGatings": {},
-    "applicationId": "",
+    "applicationId": "fghi4567j1MOvQelRn0AOGdiNT0sMrDW",
     "categories": [
       {
         "path": "games"
@@ -60,10 +60,6 @@
       "RequirementsJson": {
         "type": "STRING",
         "value": "[]"
-      },
-      "UseAccessControl": {
-        "type": "STRING",
-        "value": "false"
       }
     },
     "description": "Dying Light",
@@ -93,7 +89,6 @@
           "egstore"
         ],
         "id": "0d223de8853541d69b7df1d7386f3f9c",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2025-05-07T10:29:11.875Z",
@@ -139,10 +134,9 @@
           "egstore"
         ],
         "id": "58608efff2a840c9917f88eb034c9339",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2025-05-07T10:29:11.943Z",
+        "lastModifiedDate": "2025-06-23T10:38:18.032Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -190,7 +184,6 @@
           "egstore"
         ],
         "id": "22708bd52e8c4faf8cc92c386086f1fd",
-        "installModes": [],
         "itemType": "DURABLE",
         "lastModifiedDate": "2025-05-07T10:29:12.714Z",
         "mainGameItem": {
@@ -235,7 +228,6 @@
           "egstore"
         ],
         "id": "7b5c1a55dc7040b6999294bd2eff6d6f",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2025-05-07T10:29:11.830Z",
@@ -286,7 +278,6 @@
           "egstore"
         ],
         "id": "1a506d9f27f9448fa26cf6f9f058e4cf",
-        "installModes": [],
         "itemType": "DURABLE",
         "lastModifiedDate": "2025-05-07T10:29:13.042Z",
         "mainGameItem": {
@@ -336,7 +327,6 @@
           "egstore"
         ],
         "id": "c64f5415d90a435a82eaf182b1f10d1c",
-        "installModes": [],
         "itemType": "DURABLE",
         "lastModifiedDate": "2025-05-07T10:29:12.997Z",
         "mainGameItem": {
@@ -418,7 +408,6 @@
           "egstore"
         ],
         "id": "3f1a46ae5f284594805c58465669fb63",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [
           {
@@ -491,10 +480,9 @@
           "egstore"
         ],
         "id": "c041bfb1c5544492b97379191c90c129",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2025-05-07T10:29:11.698Z",
+        "lastModifiedDate": "2025-06-23T10:37:34.725Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -537,7 +525,6 @@
           "egstore"
         ],
         "id": "f38a585869f14e76a9995278d34d3aff",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2025-05-07T10:29:11.966Z",
@@ -583,7 +570,6 @@
           "egstore"
         ],
         "id": "198e2b7b3b3144028998ecc98e3aa899",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2025-05-07T10:29:11.428Z",
@@ -630,10 +616,9 @@
           "egstore"
         ],
         "id": "afcbbf5e8904439e9675079238c6c6f2",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2025-05-07T10:29:11.721Z",
+        "lastModifiedDate": "2025-06-23T10:37:06.130Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -676,7 +661,6 @@
           "egstore"
         ],
         "id": "67ebb80df82b463fa21ab7307e47578d",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2025-05-07T10:29:11.787Z",
@@ -722,7 +706,6 @@
           "egstore"
         ],
         "id": "1d4561fd4aa64846bdce4111232a69e2",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2025-05-07T10:29:11.852Z",
@@ -773,7 +756,6 @@
           "egstore"
         ],
         "id": "562eec422ea04230a529bdc0f646fc23",
-        "installModes": [],
         "itemType": "DURABLE",
         "lastModifiedDate": "2025-05-07T10:29:12.953Z",
         "mainGameItem": {
@@ -818,7 +800,6 @@
           "egstore"
         ],
         "id": "3c9e51c75c834a1c8b4e60d6b219095e",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2025-05-07T10:29:11.655Z",
@@ -864,7 +845,6 @@
           "egstore"
         ],
         "id": "7ce0f090816c405eacac5c58e0d0a238",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2025-05-07T10:29:11.744Z",
@@ -910,7 +890,6 @@
           "egstore"
         ],
         "id": "b8263fd9c74e4c11bf0f9c7d5a261c76",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2025-05-07T10:29:11.897Z",
@@ -993,7 +972,6 @@
           "egstore"
         ],
         "id": "5821c65a103144548f3b55e8ce011292",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [
           {
@@ -1071,7 +1049,6 @@
           "egstore"
         ],
         "id": "8044af23f1cb4550944090fb48473b66",
-        "installModes": [],
         "itemType": "DURABLE",
         "lastModifiedDate": "2025-05-07T10:29:12.670Z",
         "mainGameItem": {
@@ -1121,7 +1098,6 @@
           "egstore"
         ],
         "id": "c5db31b8fab84e21b8a2062d987e8322",
-        "installModes": [],
         "itemType": "DURABLE",
         "lastModifiedDate": "2025-05-07T10:29:13.084Z",
         "mainGameItem": {
@@ -1203,7 +1179,6 @@
           "egstore"
         ],
         "id": "c7475b5731fb483283651c9d67b86adb",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [
           {
@@ -1281,7 +1256,6 @@
           "egstore"
         ],
         "id": "011b93254f494eabbec65bffbd49bb72",
-        "installModes": [],
         "itemType": "DURABLE",
         "lastModifiedDate": "2025-05-07T10:29:12.845Z",
         "mainGameItem": {
@@ -1326,7 +1300,6 @@
           "egstore"
         ],
         "id": "7f5cb91cb2ec4210b269a6207d1536d6",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2025-05-07T10:29:11.676Z",
@@ -1372,10 +1345,9 @@
           "egstore"
         ],
         "id": "2e56128339ec416e9d150d13829eafb2",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2025-05-07T10:29:11.809Z",
+        "lastModifiedDate": "2025-06-23T10:37:58.517Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1418,7 +1390,6 @@
           "egstore"
         ],
         "id": "be56d6617b0a43f4a9dd84fd7d47c5ce",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2025-05-07T10:29:11.987Z",
@@ -1464,10 +1435,9 @@
           "egstore"
         ],
         "id": "0cc60eaa48974f3585479f9f1e348b1c",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2025-05-07T10:29:11.633Z",
+        "lastModifiedDate": "2025-06-23T10:36:47.385Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1510,10 +1480,9 @@
           "egstore"
         ],
         "id": "e922b43e49034080937cb80169cd498b",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2025-05-07T10:29:11.765Z",
+        "lastModifiedDate": "2025-06-23T10:36:37.333Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1556,10 +1525,9 @@
           "egstore"
         ],
         "id": "48b907006adb4758a503f2384c589c3c",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2025-05-07T10:29:11.920Z",
+        "lastModifiedDate": "2025-06-23T10:38:07.515Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1607,7 +1575,6 @@
           "egstore"
         ],
         "id": "faa5143c9c6c4173b2228f91c0c3b13d",
-        "installModes": [],
         "itemType": "DURABLE",
         "lastModifiedDate": "2025-05-07T10:29:12.758Z",
         "mainGameItem": {
@@ -1657,7 +1624,6 @@
           "egstore"
         ],
         "id": "2da26c664de342ae9abd725218969425",
-        "installModes": [],
         "itemType": "DURABLE",
         "lastModifiedDate": "2025-05-07T10:29:12.910Z",
         "mainGameItem": {
@@ -1707,7 +1673,6 @@
           "egstore"
         ],
         "id": "948214825ae247dfaa2c9d7ddd494dce",
-        "installModes": [],
         "itemType": "DURABLE",
         "lastModifiedDate": "2025-05-07T10:29:12.800Z",
         "mainGameItem": {
@@ -1758,7 +1723,7 @@
         ],
         "id": "b4c09b5698f248d9af7d3d746a8263cb",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2025-05-07T10:29:13.805Z",
+        "lastModifiedDate": "2025-06-26T16:57:23.079Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1948,7 +1913,8 @@
         ],
         "id": "e94cfa3362cb4b54813dc7c9d3e0ca31",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2025-05-07T10:29:15.240Z",
+        "keyImages": [],
+        "lastModifiedDate": "2025-06-23T10:36:57.987Z",
         "mainGameItem": {
           "id": "9421139e63f34d6281c18698b54d1e63",
           "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -1976,7 +1942,6 @@
       "egstore"
     ],
     "id": "9421139e63f34d6281c18698b54d1e63",
-    "installModes": [],
     "itemType": "DURABLE",
     "keyImages": [
       {
@@ -1998,7 +1963,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-05-07T10:29:11.332Z",
+    "lastModifiedDate": "2025-06-26T10:46:27.841Z",
     "mainGameItemList": [],
     "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
     "releaseInfo": [

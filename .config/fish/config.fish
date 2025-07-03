@@ -32,6 +32,13 @@ function fish_right_prompt
     # Use printf to right-align mommy's output dynamically
     printf "%*s" $COLUMNS (mommy -1 -s $status)
 end
+echo 'function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end' >>~/.config/fish/config.fish
 # Homebrew setup
 eval (/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 
@@ -47,3 +54,1795 @@ zoxide init fish | source
 bestfetch
 set -q GHCUP_INSTALL_BASE_PREFIX[1]; or set GHCUP_INSTALL_BASE_PREFIX $HOME
 set -gx PATH $HOME/.cabal/bin $PATH /home/vmdjavem/.ghcup/bin # ghcup-env
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end

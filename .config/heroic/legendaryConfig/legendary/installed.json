@@ -2,16 +2,16 @@
   "8b6a0e1413744785a43c9f9f9547b4d6": {
     "app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
     "base_urls": [
-      "https://cloudflare.epicgamescdn.com/Builds/Org/o-mcvmu82m6mwl5ja3he6e8mwwwsslx9/b65e5ed8fbe44d87af7cee5d1cd2cc57/default",
+      "https://fastly-download.epicgames.com/Builds/Org/o-mcvmu82m6mwl5ja3he6e8mwwwsslx9/b65e5ed8fbe44d87af7cee5d1cd2cc57/default",
       "https://epicgames-download1.akamaized.net/Builds/Org/o-mcvmu82m6mwl5ja3he6e8mwwwsslx9/b65e5ed8fbe44d87af7cee5d1cd2cc57/default",
       "https://download.epicgames.com/Builds/Org/o-mcvmu82m6mwl5ja3he6e8mwwwsslx9/b65e5ed8fbe44d87af7cee5d1cd2cc57/default",
-      "https://fastly-download.epicgames.com/Builds/Org/o-mcvmu82m6mwl5ja3he6e8mwwwsslx9/b65e5ed8fbe44d87af7cee5d1cd2cc57/default"
+      "https://cloudflare.epicgamescdn.com/Builds/Org/o-mcvmu82m6mwl5ja3he6e8mwwwsslx9/b65e5ed8fbe44d87af7cee5d1cd2cc57/default"
     ],
     "can_run_offline": true,
     "egl_guid": "",
     "executable": "Metalstorm.exe",
     "install_path": "/home/vmdjavem/Games/Heroic/Metalstorm",
-    "install_size": 12274432655,
+    "install_size": 9111753122,
     "install_tags": [],
     "is_dlc": false,
     "launch_parameters": "",
@@ -21,8 +21,9 @@
     "prereq_info": null,
     "requires_ot": false,
     "save_path": null,
+    "save_timestamp": null,
     "title": "Metalstorm",
     "uninstaller": null,
-    "version": "aircombat_store_windows_b29b4d4f_2025-04-17_09-07"
+    "version": "aircombat_store_windows_7c704f67_2025-06-19_13-33"
   }
 }

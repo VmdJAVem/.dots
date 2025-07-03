@@ -361,6 +361,368 @@
 		"etag": "W/\"46219a779043349d1b69e61a7e8c515e\""
 	},
 	"__timestamp": {
-		"epic_256ba8bdd1ff4c26a0b2d3776d1a1bf6": "Sun Jun 22 2025 20:46:46 GMT-0500 (hora estándar oriental)"
+		"epic_256ba8bdd1ff4c26a0b2d3776d1a1bf6": "Sun Jun 22 2025 20:46:46 GMT-0500 (hora estándar oriental)",
+		"epic_Wombat": "Thu Jul 03 2025 18:22:30 GMT-0500 (hora estándar oriental)"
+	},
+	"epic_Wombat": {
+		"id": "52248680157041260",
+		"game_id": "51295433219235083",
+		"platform_id": "epic",
+		"external_id": "Wombat",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "51295433219235083",
+			"parent_id": null,
+			"dlcs_ids": [
+				"53457581179204604",
+				"54473719562405866"
+			],
+			"first_release_date": "2019-04-16T00:00:00+0000",
+			"releases": [
+				{
+					"id": "52248680157041260",
+					"platform_id": "epic",
+					"external_id": "Wombat",
+					"release_per_platform_id": "epic_Wombat",
+					"availability": 0
+				},
+				{
+					"id": "52374133895350284",
+					"platform_id": "xboxone",
+					"external_id": "940594756",
+					"release_per_platform_id": "xboxone_940594756",
+					"availability": 0
+				},
+				{
+					"id": "52376305121279023",
+					"platform_id": "psn",
+					"external_id": "CUSA14046_00",
+					"release_per_platform_id": "psn_CUSA14046_00",
+					"availability": 0
+				},
+				{
+					"id": "52391106841318875",
+					"platform_id": "psn",
+					"external_id": "CUSA13930_00",
+					"release_per_platform_id": "psn_CUSA13930_00",
+					"availability": 0
+				},
+				{
+					"id": "52533037346202893",
+					"platform_id": "epic",
+					"external_id": "WombatPress",
+					"release_per_platform_id": "epic_WombatPress",
+					"availability": 0
+				},
+				{
+					"id": "52533219693409341",
+					"platform_id": "epic",
+					"external_id": "WombatDevelopment",
+					"release_per_platform_id": "epic_WombatDevelopment",
+					"availability": 0
+				},
+				{
+					"id": "52666062670612353",
+					"platform_id": "epic",
+					"external_id": "WombatTrial",
+					"release_per_platform_id": "epic_WombatTrial",
+					"availability": 0
+				},
+				{
+					"id": "53020306749742545",
+					"platform_id": "humble",
+					"external_id": "worldwarz_biohazardbundle_epic_keyless",
+					"release_per_platform_id": "humble_worldwarz_biohazardbundle_epic_keyless",
+					"availability": 0
+				},
+				{
+					"id": "53283641138411893",
+					"platform_id": "humble",
+					"external_id": "worldwarz_epic",
+					"release_per_platform_id": "humble_worldwarz_epic",
+					"availability": 0
+				},
+				{
+					"id": "53356500206726755",
+					"platform_id": "humble",
+					"external_id": "worldwarz_epic_keyless",
+					"release_per_platform_id": "humble_worldwarz_epic_keyless",
+					"availability": 0
+				},
+				{
+					"id": "53657621424659007",
+					"platform_id": "xboxone",
+					"external_id": "1811697311",
+					"release_per_platform_id": "xboxone_1811697311",
+					"availability": 0
+				},
+				{
+					"id": "54043370905882304",
+					"platform_id": "humble",
+					"external_id": "worldwarz_gotyedition_epic_keyless",
+					"release_per_platform_id": "humble_worldwarz_gotyedition_epic_keyless",
+					"availability": 0
+				},
+				{
+					"id": "54066741114895678",
+					"platform_id": "humble",
+					"external_id": "worldwarz_gotyedition_builttosurvive_bundle_epic_keyless",
+					"release_per_platform_id": "humble_worldwarz_gotyedition_builttosurvive_bundle_epic_keyless",
+					"availability": 0
+				},
+				{
+					"id": "54513207812776980",
+					"platform_id": "humble",
+					"external_id": "worldwarz_gotyedition_bundle_keyless_epic",
+					"release_per_platform_id": "humble_worldwarz_gotyedition_bundle_keyless_epic",
+					"availability": 0
+				},
+				{
+					"id": "51295433219235083",
+					"platform_id": "generic",
+					"external_id": "51295433219235083",
+					"release_per_platform_id": "generic_51295433219235083",
+					"availability": 1
+				}
+			],
+			"title": {
+				"*": "World War Z",
+				"en-US": "World War Z"
+			},
+			"sorting_title": {
+				"*": "World War Z",
+				"en-US": "World War Z"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51141478365919734"
+			],
+			"developers": [
+				{
+					"id": "51141478365919734",
+					"name": "Saber Interactive",
+					"slug": "saber-interactive"
+				}
+			],
+			"publishers_ids": [
+				"51152933045460580",
+				"55365064255032771"
+			],
+			"publishers": [
+				{
+					"id": "51152933045460580",
+					"name": "Paramount Digital Entertainment",
+					"slug": "paramount-digital-entertainment"
+				},
+				{
+					"id": "55365064255032771",
+					"name": "Focus Entertainment",
+					"slug": "focus-entertainment"
+				}
+			],
+			"genres_ids": [
+				"51071842251704278",
+				"51141224821260861"
+			],
+			"genres": [
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				},
+				{
+					"id": "51141224821260861",
+					"name": {
+						"*": "Shooter",
+						"en-US": "Shooter"
+					},
+					"slug": "shooter"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391",
+				"51141224819961538"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51141224819961538",
+					"name": {
+						"*": "Horror",
+						"en-US": "Horror"
+					},
+					"slug": "horror"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/c4e5c9aa708a45b7c1dd722ead3b214f1fbda316efab321e36d56667d45353c4{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c68925e16b82666087dd8b399358c8daa005bbf8c5c5649427655ecfbc64bde2{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/9758e38773559cdc7a639ac75c93ab21ac814d74d2dc4afa97ac626ff0143670{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/359bb95112122f8b46a5023a8c83faefa95c50a5f826e41b1ddf0e3a17d8d886{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a5b0c9fe1818708c7bdeb3c1994a50f9addfadfb912e177bcaae60b141b26ebf{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/46dbc78b0ea2368552f75cf6f2311eb4926252b480ab39a2899b35eb6ea1292b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b975579c2e5e97589925c3b33ebc0f477a6676cfca8b12f6e93da1794585728b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/693dfb414d67219ea22ea7e04b956015f2543748851eb0db80d507d0babc265d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f9627a23c8cffb6fd7b30fedb7e5bdafda16b43bad5b3630ed96e13355401d6c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4498ba88beada23600f7c68519da674555d32902e37cdf0e8a57c503889acebc{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/8fe4cfdc07d6f036acb4526790d535b552d6658232dd63da4f7165d15f48bcb6{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ad5fdf9f333131302922e14e229aa71c888bcefebcacb373237cf2d86bf4cf09{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "ZgrOVEU4JDM",
+					"thumbnail_id": "ZgrOVEU4JDM",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "i61SnJWbVeY",
+					"thumbnail_id": "i61SnJWbVeY",
+					"name": "Moscow Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "bJfRxQAmpsA",
+					"thumbnail_id": "bJfRxQAmpsA",
+					"name": "Reveal Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/d24328c300abc97068f3e90dd6933ebd428da8e6a86426bb2632195b969b6911{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/20e76259a150cc9168dd07cf37cde86270ebf538c35d11f2e8315bc056932294{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Humanity is on the brink of extinction. From New York to Moscow and Jerusalem, the undead apocalypse continues to spread. As the end looms, a hardened few bands together to defeat the horde and outlive the dead.\n\nWorld War Z is a heart-pounding co-op third-person shooter for up to 4 players featuring swarms of hundreds of zombies. Based on the Paramount Pictures film, World War Z focuses on fast-paced gameplay while exploring new storylines from around the world.",
+				"en-US": "Humanity is on the brink of extinction. From New York to Moscow and Jerusalem, the undead apocalypse continues to spread. As the end looms, a hardened few bands together to defeat the horde and outlive the dead.\n\nWorld War Z is a heart-pounding co-op third-person shooter for up to 4 players featuring swarms of hundreds of zombies. Based on the Paramount Pictures film, World War Z focuses on fast-paced gameplay while exploring new storylines from around the world."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 73.6667,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				},
+				{
+					"id": "53051898010278634",
+					"name": "Co-operative",
+					"slug": "co-operative"
+				},
+				{
+					"id": "53051908711988230",
+					"name": "Multiplayer",
+					"slug": "multiplayer"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/084634797ec3bd8a1aaaf7de443fc811c36f0ad20530b706d227ed41dcb778b9{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/084634797ec3bd8a1aaaf7de443fc811c36f0ad20530b706d227ed41dcb778b9{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/e7c51451bf1d85cbc70a1e4213b1061b6376f0c0b1786a5b7c4d83e18d8cefed{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/e7c51451bf1d85cbc70a1e4213b1061b6376f0c0b1786a5b7c4d83e18d8cefed{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/e7c51451bf1d85cbc70a1e4213b1061b6376f0c0b1786a5b7c4d83e18d8cefed{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/d24328c300abc97068f3e90dd6933ebd428da8e6a86426bb2632195b969b6911{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0,
+			"slug": "world-war-z-2019"
+		},
+		"title": {
+			"*": "World War Z",
+			"en-US": "World War Z"
+		},
+		"sorting_title": {
+			"*": "World War Z",
+			"en-US": "World War Z"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Humanity is on the brink of extinction. From New York to Moscow and Jerusalem, the undead apocalypse continues to spread. As the end looms, a hardened few bands together to defeat the horde and outlive the dead.\n\nWorld War Z is a heart-pounding co-op third-person shooter for up to 4 players featuring swarms of hundreds of zombies. Based on the Paramount Pictures film, World War Z focuses on fast-paced gameplay while exploring new storylines from around the world.",
+			"en-US": "Humanity is on the brink of extinction. From New York to Moscow and Jerusalem, the undead apocalypse continues to spread. As the end looms, a hardened few bands together to defeat the horde and outlive the dead.\n\nWorld War Z is a heart-pounding co-op third-person shooter for up to 4 players featuring swarms of hundreds of zombies. Based on the Paramount Pictures film, World War Z focuses on fast-paced gameplay while exploring new storylines from around the world."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			},
+			{
+				"id": "53051898010278634",
+				"name": "Co-operative",
+				"slug": "co-operative"
+			},
+			{
+				"id": "53051908711988230",
+				"name": "Multiplayer",
+				"slug": "multiplayer"
+			}
+		],
+		"logo": {
+			"url_format": "https://images.gog.com/e7c51451bf1d85cbc70a1e4213b1061b6376f0c0b1786a5b7c4d83e18d8cefed{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"726235202102600e6a8f659576e7745e\""
 	}
 }

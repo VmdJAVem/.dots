@@ -1,6 +1,7 @@
 {
 	"__timestamp": {
-		"256ba8bdd1ff4c26a0b2d3776d1a1bf6": "Mon Jun 23 2025 12:57:49 GMT-0500 (hora estándar oriental)"
+		"256ba8bdd1ff4c26a0b2d3776d1a1bf6": "Mon Jun 23 2025 12:57:49 GMT-0500 (hora estándar oriental)",
+		"8b6a0e1413744785a43c9f9f9547b4d6": "Tue Jun 24 2025 17:31:25 GMT-0500 (hora estándar oriental)"
 	},
 	"256ba8bdd1ff4c26a0b2d3776d1a1bf6": {
 		"game": {
@@ -140,6 +141,57 @@
 					"count": 2762
 				}
 			]
+		}
+	},
+	"8b6a0e1413744785a43c9f9f9547b4d6": {
+		"game": {
+			"app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
+			"title": "Metalstorm",
+			"version": "aircombat_store_windows_7c704f67_2025-06-19_13-33",
+			"platform_versions": {
+				"Windows": "aircombat_store_windows_7c704f67_2025-06-19_13-33"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": {
+			"platform": "Windows",
+			"version": "aircombat_store_windows_b29b4d4f_2025-04-17_09-07",
+			"disk_size": 12274432655,
+			"install_path": "/home/vmdjavem/Games/Heroic/Metalstorm",
+			"save_path": null,
+			"synced_egl_guid": "",
+			"install_tags": [],
+			"requires_ovt": false,
+			"installed_dlc": []
+		},
+		"manifest": {
+			"size": 1000698,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
+			"launch_exe": "Metalstorm.exe",
+			"launch_command": "",
+			"build_version": "aircombat_store_windows_7c704f67_2025-06-19_13-33",
+			"build_id": "Yb7JhQR7oF4oO2JkDe-BJRWol7Q",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 8408,
+			"num_chunks": 8634,
+			"disk_size": 9111753122,
+			"download_size": 4285932294,
+			"tag_disk_size": [],
+			"tag_download_size": []
 		}
 	}
 }

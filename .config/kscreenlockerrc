@@ -1,3 +1,8 @@
+[Daemon]
+Autolock=false
+LockOnResume=false
+Timeout=0
+
 [Greeter][Wallpaper][org.kde.image][General]
 Image=/home/vmdjavem/Descargas/wallpaper.png
 PreviewImage=/home/vmdjavem/Descargas/wallpaper.png

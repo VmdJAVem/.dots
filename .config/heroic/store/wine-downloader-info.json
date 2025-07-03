@@ -464,13 +464,41 @@
 		{
 			"version": "GE-Proton-latest",
 			"type": "GE-Proton",
-			"date": "2025-06-02",
-			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-4/GE-Proton10-4.tar.gz",
-			"downsize": 501926049,
+			"date": "2025-07-02",
+			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-8/GE-Proton10-8.tar.gz",
+			"downsize": 502093518,
 			"disksize": 1424250394,
-			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-4/GE-Proton10-4.sha512sum",
+			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-8/GE-Proton10-8.sha512sum",
 			"installDir": "/home/vmdjavem/.config/heroic/tools/proton/GE-Proton-latest",
-			"isInstalled": true
+			"isInstalled": true,
+			"hasUpdate": true
+		},
+		{
+			"version": "GE-Proton10-8",
+			"type": "GE-Proton",
+			"date": "2025-07-02",
+			"disksize": 0,
+			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-8/GE-Proton10-8.sha512sum",
+			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-8/GE-Proton10-8.tar.gz",
+			"downsize": 502093518
+		},
+		{
+			"version": "GE-Proton10-7",
+			"type": "GE-Proton",
+			"date": "2025-06-30",
+			"disksize": 0,
+			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-7/GE-Proton10-7.sha512sum",
+			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-7/GE-Proton10-7.tar.gz",
+			"downsize": 502066417
+		},
+		{
+			"version": "GE-Proton10-6",
+			"type": "GE-Proton",
+			"date": "2025-06-29",
+			"disksize": 0,
+			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-6/GE-Proton10-6.sha512sum",
+			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-6/GE-Proton10-6.tar.gz",
+			"downsize": 502058069
 		},
 		{
 			"version": "GE-Proton10-4",
@@ -894,33 +922,6 @@
 			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-17/GE-Proton8-17.sha512sum",
 			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-17/GE-Proton8-17.tar.gz",
 			"downsize": 442487715
-		},
-		{
-			"version": "GE-Proton8-16",
-			"type": "GE-Proton",
-			"date": "2023-09-24",
-			"disksize": 0,
-			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-16/GE-Proton8-16.sha512sum",
-			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-16/GE-Proton8-16.tar.gz",
-			"downsize": 443116881
-		},
-		{
-			"version": "GE-Proton8-15",
-			"type": "GE-Proton",
-			"date": "2023-09-16",
-			"disksize": 0,
-			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-15/GE-Proton8-15.sha512sum",
-			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-15/GE-Proton8-15.tar.gz",
-			"downsize": 443045986
-		},
-		{
-			"version": "GE-Proton8-14",
-			"type": "GE-Proton",
-			"date": "2023-09-01",
-			"disksize": 0,
-			"checksum": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-14/GE-Proton8-14.sha512sum",
-			"download": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-14/GE-Proton8-14.tar.gz",
-			"downsize": 443044180
 		}
 	]
 }

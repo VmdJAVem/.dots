@@ -1264,7 +1264,7 @@
     "dateChanged": "2024-01-19T04:40:56.000Z"
   },
   {
-    "url": "https://blessunleashed.com/",
+    "url": "https://blessunleashedpc.valofe.com/",
     "name": "Bless Unleashed",
     "logo": "",
     "native": false,
@@ -1279,7 +1279,7 @@
       "steam": "1254120"
     },
     "slug": "bless-unleashed",
-    "dateChanged": "2024-01-19T04:40:56.000Z"
+    "dateChanged": "2025-06-29T22:13:14.0000000-04:00"
   },
   {
     "url": "http://www.risingstorm2.com/",
@@ -1611,24 +1611,18 @@
     "name": "Zero Hour",
     "logo": "",
     "native": false,
-    "status": "Broken",
-    "reference": "https://www.protondb.com/app/1359090#qQYAVWJv3L",
+    "status": "Running",
+    "reference": "",
     "anticheats": [
       "Denuvo Anti-Cheat"
     ],
     "notes": [],
-    "updates": [
-      {
-        "name": "Denuvo seems to break compatibility",
-        "reference": "https://www.protondb.com/app/1359090#qQYAVWJv3L",
-        "date": "Mon Feb 06 2023 14:46:40 GMT+0000"
-      }
-    ],
+    "updates": [],
     "storeIds": {
       "steam": "1359090"
     },
     "slug": "zero-hour",
-    "dateChanged": "2024-01-19T04:40:56.000Z"
+    "dateChanged": "2025-06-24T20:12:49.0000000-04:00"
   },
   {
     "url": "https://wiplegames.com/?page_id=53",
@@ -2073,7 +2067,7 @@
     "name": "Dirty Bomb",
     "logo": "",
     "native": false,
-    "status": "Broken",
+    "status": "Running",
     "reference": "",
     "anticheats": [
       "Easy Anti-Cheat"
@@ -2084,7 +2078,7 @@
       "steam": "333930"
     },
     "slug": "dirty-bomb",
-    "dateChanged": "2024-01-19T04:40:56.000Z"
+    "dateChanged": "2025-06-23T22:30:44.0000000-04:00"
   },
   {
     "url": "",
@@ -8100,17 +8094,12 @@
     "status": "Running",
     "reference": "",
     "anticheats": [
-      "Easy Anti-Cheat"
+      "BattlEye"
     ],
     "updates": [],
-    "notes": [
-      [
-        "Unreleased, Running in the open playtest.",
-        null
-      ]
-    ],
+    "notes": [],
     "storeIds": {},
-    "dateChanged": "2025-06-01T19:19:07.0000000-04:00"
+    "dateChanged": "2025-06-26T19:17:36.0000000-04:00"
   },
   {
     "url": "",
@@ -9469,17 +9458,17 @@
     "name": "Test Drive Unlimited Solar Crown",
     "logo": "",
     "native": false,
-    "status": "Planned",
-    "reference": "https://steamdeckhq.com/news/test-drive-unlimited-solar-crown-steam-deck/",
+    "status": "Running",
+    "reference": "",
     "anticheats": [
-      "Unknown (Custom)"
+      "SARD"
     ],
     "updates": [],
     "notes": [],
     "storeIds": {
       "steam": "1249970"
     },
-    "dateChanged": "2024-09-23T22:37:01.179Z"
+    "dateChanged": "2025-06-29T22:14:33.0000000-04:00"
   },
   {
     "url": "",
@@ -19943,5 +19932,21 @@
     "storeIds": {},
     "slug": "latale-evolved",
     "dateChanged": "2025-06-17T15:16:34.0000000-04:00"
+  },
+  {
+    "url": "",
+    "name": "CarX Street",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "notes": [],
+    "updates": [],
+    "storeIds": {},
+    "slug": "carx-street",
+    "dateChanged": "2025-06-30T15:49:34.0000000-04:00"
   }
 ]

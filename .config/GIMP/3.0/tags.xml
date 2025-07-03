@@ -1180,124 +1180,124 @@
   <resource identifier="internal:gimp-palette-color-history//Histórico de color" checksum="(null)">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Bears.gpl//Bears" checksum="971a0b1a0edfa42f1fa9a18d524f7661">
+  <resource identifier="external:${gimp_data_dir}/palettes/Bears.gpl//Bears" checksum="630f391a3aef5da85865445494ec0dda">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Bgold.gpl//Bgold" checksum="cd845dfcbfabb81a95411b404060c050">
+  <resource identifier="external:${gimp_data_dir}/palettes/Bgold.gpl//Bgold" checksum="e1a724e62f6cbdd068f94d00aadf79b9">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Blues.gpl//Blues" checksum="e8376f0a032296d04461502ac19873cc">
+  <resource identifier="external:${gimp_data_dir}/palettes/Blues.gpl//Blues" checksum="858b0b2711ae4c93acab9d18e4bfe2f4">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Borders.gpl//Borders" checksum="5f75cdfc2585a0bdc76c3deddce101e2">
+  <resource identifier="external:${gimp_data_dir}/palettes/Borders.gpl//Borders" checksum="e0c2fd2a0b2fc328cc961e1d7512b4cd">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Browns_And_Yellows.gpl//Browns And Yellows" checksum="95dcd0b986fd5a6350fe0902afcd9095">
+  <resource identifier="external:${gimp_data_dir}/palettes/Browns_And_Yellows.gpl//Browns And Yellows" checksum="6d4e5b840298a6dbc139686b5312204a">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Caramel.gpl//Caramel" checksum="c5e0770900a5ea20e947f003db69c445">
+  <resource identifier="external:${gimp_data_dir}/palettes/Caramel.gpl//Caramel" checksum="f6788eb59135cdf928da45983214191b">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cascade.gpl//Cascade" checksum="9fb93042e011181c693336367356b163">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cascade.gpl//Cascade" checksum="1d74bcc02e190396cbdabdcdc51ae4ee">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/China.gpl//China" checksum="5ecd2d9d451582cc943f0e06b8df6b99">
+  <resource identifier="external:${gimp_data_dir}/palettes/China.gpl//China" checksum="3f5128da59093a049eadae2b43b163ac">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Coldfire.gpl//Coldfire" checksum="9ce04e2796b73ce0c0fde83bbf0dfa49">
+  <resource identifier="external:${gimp_data_dir}/palettes/Coldfire.gpl//Coldfire" checksum="6767aca726e217a3b82d69ac6bffa836">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cool_Colors.gpl//Cool Colors" checksum="8869a38ac3ed7994da9958e73c55bf12">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cool_Colors.gpl//Cool Colors" checksum="58bf02025e44061ea5c76f107d0ce0d7">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cranes.gpl//Cranes" checksum="6fed89e16ced38827d7cb5843403a963">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cranes.gpl//Cranes" checksum="310db027bcd317d7efc044b017ed1951">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Dark_pastels.gpl//Dark pastels" checksum="286090437e2afdf105678f33dca5c061">
+  <resource identifier="external:${gimp_data_dir}/palettes/Dark_pastels.gpl//Dark pastels" checksum="fcd9b458eaaf5363eb42b7d3610a17ac">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Default.gpl//Default" checksum="f8b7a8840af08697bf102e968c91b18c">
+  <resource identifier="external:${gimp_data_dir}/palettes/Default.gpl//Default" checksum="d02503ce2488678c44e428c9c29f63b9">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Ega.gpl//Ega" checksum="557e9c5f53c1632002b9b26548e50163">
+  <resource identifier="external:${gimp_data_dir}/palettes/Ega.gpl//Ega" checksum="2b62005da77dc90a33967402ceb5b5a4">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Firecode.gpl//Firecode" checksum="0acfe9d8c5de51c4970b890310781988">
+  <resource identifier="external:${gimp_data_dir}/palettes/Firecode.gpl//Firecode" checksum="2af2e8f7806c957c876bb1f50499c24e">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Gold.gpl//Gold" checksum="a63764c5ca064497b343e080b58f8c54">
+  <resource identifier="external:${gimp_data_dir}/palettes/Gold.gpl//Gold" checksum="1e021dec274a2d7e73f47fa19a32c07d">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Grayblue.gpl//Grayblue" checksum="25eb80f8af828e9015b8c720488750db">
+  <resource identifier="external:${gimp_data_dir}/palettes/Grayblue.gpl//Grayblue" checksum="57ea6f06f2996ee521d160ec0356888c">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Grays.gpl//Grays" checksum="99118e383f39acdf8dd55afb483da957">
+  <resource identifier="external:${gimp_data_dir}/palettes/Grays.gpl//Grays" checksum="7ac04f57b1168494564c1ea8f459ad01">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/GrayViolet.gpl//GrayViolet" checksum="88678c5de871d92239ad392a008f6be2">
+  <resource identifier="external:${gimp_data_dir}/palettes/GrayViolet.gpl//GrayViolet" checksum="b30a94156b6a50772086828f2a8018e9">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Greens.gpl//Greens" checksum="2faa0ef6e7d5438f1194598355a815f6">
+  <resource identifier="external:${gimp_data_dir}/palettes/Greens.gpl//Greens" checksum="bd5953acd0ea63eb92d4f82ddb2b8d55">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Hilite.gpl//Hilite" checksum="727e8f7ee483bcd9ab7c1833620d47a9">
+  <resource identifier="external:${gimp_data_dir}/palettes/Hilite.gpl//Hilite" checksum="6b5bb4e21edb53cb9ba4c547d6b46d27">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Khaki.gpl//Khaki" checksum="236de9cb2b79991b888f950aea9e70a9">
+  <resource identifier="external:${gimp_data_dir}/palettes/Khaki.gpl//Khaki" checksum="5d8bf1705bd0cfe8cf2cedf1e4f85703">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Lights.gpl//Lights" checksum="9d842f84e929547398edca855fabb580">
+  <resource identifier="external:${gimp_data_dir}/palettes/Lights.gpl//Lights" checksum="0deb92ef4b9661415e50d3fe6d4b22ca">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Muted.gpl//Muted" checksum="428c206ad5c0677f22c0ffeae9d13d43">
+  <resource identifier="external:${gimp_data_dir}/palettes/Muted.gpl//Muted" checksum="67f97112dea67921047defc412c9884e">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Named_Colors.gpl//Named Colors" checksum="6aa7e6eb9398a781b2085b6648bae61a">
+  <resource identifier="external:${gimp_data_dir}/palettes/Named_Colors.gpl//Named Colors" checksum="1933432e0389ce2994ec0de0f0d6f5a8">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/News3.gpl//News3" checksum="5e79e2c45091844943106bc2e1272b66">
+  <resource identifier="external:${gimp_data_dir}/palettes/News3.gpl//News3" checksum="bd05218cc606253d19a66d37aed4a653">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Op2.gpl//Op2" checksum="136cbdacf50f69f0d9faf7bc9ed5f198">
+  <resource identifier="external:${gimp_data_dir}/palettes/Op2.gpl//Op2" checksum="c89738ccd7427146b963da7084cf7364">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Paintjet.gpl//Paintjet" checksum="6a84ae5488a79fbc7c3cba35d5836348">
+  <resource identifier="external:${gimp_data_dir}/palettes/Paintjet.gpl//Paintjet" checksum="eaeedd6d32ce57b7ab6b12257f493ae7">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Pastels.gpl//Pastels" checksum="665e46fae588aee9a5f5a815a978ea83">
+  <resource identifier="external:${gimp_data_dir}/palettes/Pastels.gpl//Pastels" checksum="01f25a2935cf71f7a8cdaf6d7758c7f3">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Plasma.gpl//Plasma" checksum="a203c2ce1fe8d9500e50d070e5c8f3d5">
+  <resource identifier="external:${gimp_data_dir}/palettes/Plasma.gpl//Plasma" checksum="14e05b5ca39f217cfcb105ab98b5e4fd">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Reds.gpl//Reds" checksum="071994e4873cf034563296a80af5f333">
+  <resource identifier="external:${gimp_data_dir}/palettes/Reds.gpl//Reds" checksum="9c03df9e8014d4ffa03848187d31232b">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Reds_And_Purples.gpl//Reds And Purples" checksum="6ada978b044d91d3b32fdfbe9dfab987">
+  <resource identifier="external:${gimp_data_dir}/palettes/Reds_And_Purples.gpl//Reds And Purples" checksum="8e049f88455306516342e6625af679f1">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Royal.gpl//Royal" checksum="1c7c9419e9db3b37ea6a06045fef2145">
+  <resource identifier="external:${gimp_data_dir}/palettes/Royal.gpl//Royal" checksum="2145cf838d555d3c92cddd457c58023a">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Tango.gpl//Tango Icon Theme" checksum="3ccfdfb6a3fffa1e49d690f85a0c2f91">
+  <resource identifier="external:${gimp_data_dir}/palettes/Tango.gpl//Tango Icon Theme" checksum="5dd301d51f15613957408baeca9ecd57">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Topographic.gpl//Topographic" checksum="161b0c5551e04c3ca870751dced5e42e">
+  <resource identifier="external:${gimp_data_dir}/palettes/Topographic.gpl//Topographic" checksum="564cbe5dd386486088f06318e626d327">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Visibone.gpl//Visibone" checksum="bc175956a228b7cac5c91a5a8fe80a76">
+  <resource identifier="external:${gimp_data_dir}/palettes/Visibone.gpl//Visibone" checksum="de6fe159b4ed58f7f12e095657353e6c">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Visibone_2.gpl//Visibone 2" checksum="53df9727a373499c341c4d80d1ae85c9">
+  <resource identifier="external:${gimp_data_dir}/palettes/Visibone_2.gpl//Visibone 2" checksum="3498a5ae98147b88d334a623c0c25a8e">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Volcano.gpl//Volcano" checksum="7e927a56cf73d6601cf504f26bacbfbe">
+  <resource identifier="external:${gimp_data_dir}/palettes/Volcano.gpl//Volcano" checksum="dae856692349555ce6e1535ed89bce41">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Warm_Colors.gpl//Warm Colors" checksum="63e1f4c329fb7ef1bc1875a97971362f">
+  <resource identifier="external:${gimp_data_dir}/palettes/Warm_Colors.gpl//Warm Colors" checksum="bed636fddc8bee996192114e152c4d10">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Web.gpl//Web" checksum="fc677a49c3857a626b79394b67a44126">
+  <resource identifier="external:${gimp_data_dir}/palettes/Web.gpl//Web" checksum="4ff9515bce969c19a4272e741d0fe694">
   </resource>
 
   <resource identifier="internal:gimp-font-standard-alias: Monospace//Monospace" checksum="(null)">
@@ -1564,24 +1564,6 @@
   <resource identifier="external:/usr/share/fonts/TTF/DejaVuSerif-Italic.ttf//DejaVu Serif Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/usr/share/fonts/zrythm/DSEG14-Classic-MINI/DSEG14ClassicMini-Bold.ttf//DSEG14 Classic Mini Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="external:/usr/share/fonts/zrythm/DSEG14-Classic-MINI/DSEG14ClassicMini-BoldItalic.ttf//DSEG14 Classic Mini Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="external:/usr/share/fonts/zrythm/DSEG14-Classic-MINI/DSEG14ClassicMini-Italic.ttf//DSEG14 Classic Mini Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="external:/usr/share/fonts/zrythm/DSEG14-Classic-MINI/DSEG14ClassicMini-Light.ttf//DSEG14 Classic Mini Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="external:/usr/share/fonts/zrythm/DSEG14-Classic-MINI/DSEG14ClassicMini-LightItalic.ttf//DSEG14 Classic Mini Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="external:/usr/share/fonts/zrythm/DSEG14-Classic-MINI/DSEG14ClassicMini-Regular.ttf//DSEG14 Classic Mini Regular" checksum="(null)">
-  </resource>
-
   <resource identifier="external:/usr/share/fonts/TTF/FiraCode-Bold.ttf//Fira Code Bold" checksum="(null)">
   </resource>
 
@@ -1624,7 +1606,331 @@
   <resource identifier="external:/usr/share/fonts/TTF/Georgia.TTF//Georgia Regular" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/usr/share/fonts/TTF/HackNerdFont-Bold.ttf//Hack Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/HackNerdFont-BoldItalic.ttf//Hack Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/HackNerdFont-Italic.ttf//Hack Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/HackNerdFontMono-Bold.ttf//Hack Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/HackNerdFontMono-BoldItalic.ttf//Hack Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/HackNerdFontMono-Italic.ttf//Hack Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/HackNerdFontMono-Regular.ttf//Hack Nerd Font Mono Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/HackNerdFontPropo-Bold.ttf//Hack Nerd Font Propo Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/HackNerdFontPropo-BoldItalic.ttf//Hack Nerd Font Propo Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/HackNerdFontPropo-Italic.ttf//Hack Nerd Font Propo Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/HackNerdFontPropo-Regular.ttf//Hack Nerd Font Propo Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/HackNerdFont-Regular.ttf//Hack Nerd Font Regular" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/usr/share/fonts/TTF/Impact.TTF//Impact Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Bold.ttf//JetBrainsMono Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFont-BoldItalic.ttf//JetBrainsMono Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFont-ExtraBold.ttf//JetBrainsMono Nerd Font ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFont-ExtraBoldItalic.ttf//JetBrainsMono Nerd Font ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFont-ExtraLight.ttf//JetBrainsMono Nerd Font ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFont-ExtraLightItalic.ttf//JetBrainsMono Nerd Font ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Italic.ttf//JetBrainsMono Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Light.ttf//JetBrainsMono Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFont-LightItalic.ttf//JetBrainsMono Nerd Font Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Medium.ttf//JetBrainsMono Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFont-MediumItalic.ttf//JetBrainsMono Nerd Font Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Bold.ttf//JetBrainsMono Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-BoldItalic.ttf//JetBrainsMono Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-ExtraBold.ttf//JetBrainsMono Nerd Font Mono ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-ExtraBoldItalic.ttf//JetBrainsMono Nerd Font Mono ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-ExtraLight.ttf//JetBrainsMono Nerd Font Mono ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-ExtraLightItalic.ttf//JetBrainsMono Nerd Font Mono ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Italic.ttf//JetBrainsMono Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Light.ttf//JetBrainsMono Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-LightItalic.ttf//JetBrainsMono Nerd Font Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Medium.ttf//JetBrainsMono Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-MediumItalic.ttf//JetBrainsMono Nerd Font Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Regular.ttf//JetBrainsMono Nerd Font Mono Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-SemiBold.ttf//JetBrainsMono Nerd Font Mono SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-SemiBoldItalic.ttf//JetBrainsMono Nerd Font Mono SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Thin.ttf//JetBrainsMono Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-ThinItalic.ttf//JetBrainsMono Nerd Font Mono Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Bold.ttf//JetBrainsMono Nerd Font Propo Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-BoldItalic.ttf//JetBrainsMono Nerd Font Propo Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-ExtraBold.ttf//JetBrainsMono Nerd Font Propo ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-ExtraBoldItalic.ttf//JetBrainsMono Nerd Font Propo ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-ExtraLight.ttf//JetBrainsMono Nerd Font Propo ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-ExtraLightItalic.ttf//JetBrainsMono Nerd Font Propo ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Italic.ttf//JetBrainsMono Nerd Font Propo Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Light.ttf//JetBrainsMono Nerd Font Propo Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-LightItalic.ttf//JetBrainsMono Nerd Font Propo Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Medium.ttf//JetBrainsMono Nerd Font Propo Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-MediumItalic.ttf//JetBrainsMono Nerd Font Propo Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Regular.ttf//JetBrainsMono Nerd Font Propo Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-SemiBold.ttf//JetBrainsMono Nerd Font Propo SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-SemiBoldItalic.ttf//JetBrainsMono Nerd Font Propo SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Thin.ttf//JetBrainsMono Nerd Font Propo Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-ThinItalic.ttf//JetBrainsMono Nerd Font Propo Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Regular.ttf//JetBrainsMono Nerd Font Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFont-SemiBold.ttf//JetBrainsMono Nerd Font SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFont-SemiBoldItalic.ttf//JetBrainsMono Nerd Font SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Thin.ttf//JetBrainsMono Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNerdFont-ThinItalic.ttf//JetBrainsMono Nerd Font Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Bold.ttf//JetBrainsMonoNL Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-BoldItalic.ttf//JetBrainsMonoNL Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-ExtraBold.ttf//JetBrainsMonoNL Nerd Font ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-ExtraBoldItalic.ttf//JetBrainsMonoNL Nerd Font ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-ExtraLight.ttf//JetBrainsMonoNL Nerd Font ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-ExtraLightItalic.ttf//JetBrainsMonoNL Nerd Font ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Italic.ttf//JetBrainsMonoNL Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Light.ttf//JetBrainsMonoNL Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-LightItalic.ttf//JetBrainsMonoNL Nerd Font Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Medium.ttf//JetBrainsMonoNL Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-MediumItalic.ttf//JetBrainsMonoNL Nerd Font Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Bold.ttf//JetBrainsMonoNL Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-BoldItalic.ttf//JetBrainsMonoNL Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-ExtraBold.ttf//JetBrainsMonoNL Nerd Font Mono ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-ExtraBoldItalic.ttf//JetBrainsMonoNL Nerd Font Mono ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-ExtraLight.ttf//JetBrainsMonoNL Nerd Font Mono ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-ExtraLightItalic.ttf//JetBrainsMonoNL Nerd Font Mono ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Italic.ttf//JetBrainsMonoNL Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Light.ttf//JetBrainsMonoNL Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-LightItalic.ttf//JetBrainsMonoNL Nerd Font Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Medium.ttf//JetBrainsMonoNL Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-MediumItalic.ttf//JetBrainsMonoNL Nerd Font Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Regular.ttf//JetBrainsMonoNL Nerd Font Mono Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-SemiBold.ttf//JetBrainsMonoNL Nerd Font Mono SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-SemiBoldItalic.ttf//JetBrainsMonoNL Nerd Font Mono SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Thin.ttf//JetBrainsMonoNL Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-ThinItalic.ttf//JetBrainsMonoNL Nerd Font Mono Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Bold.ttf//JetBrainsMonoNL Nerd Font Propo Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-BoldItalic.ttf//JetBrainsMonoNL Nerd Font Propo Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-ExtraBold.ttf//JetBrainsMonoNL Nerd Font Propo ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-ExtraBoldItalic.ttf//JetBrainsMonoNL Nerd Font Propo ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-ExtraLight.ttf//JetBrainsMonoNL Nerd Font Propo ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-ExtraLightItalic.ttf//JetBrainsMonoNL Nerd Font Propo ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Italic.ttf//JetBrainsMonoNL Nerd Font Propo Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Light.ttf//JetBrainsMonoNL Nerd Font Propo Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-LightItalic.ttf//JetBrainsMonoNL Nerd Font Propo Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Medium.ttf//JetBrainsMonoNL Nerd Font Propo Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-MediumItalic.ttf//JetBrainsMonoNL Nerd Font Propo Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Regular.ttf//JetBrainsMonoNL Nerd Font Propo Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-SemiBold.ttf//JetBrainsMonoNL Nerd Font Propo SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-SemiBoldItalic.ttf//JetBrainsMonoNL Nerd Font Propo SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Thin.ttf//JetBrainsMonoNL Nerd Font Propo Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-ThinItalic.ttf//JetBrainsMonoNL Nerd Font Propo Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Regular.ttf//JetBrainsMonoNL Nerd Font Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-SemiBold.ttf//JetBrainsMonoNL Nerd Font SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-SemiBoldItalic.ttf//JetBrainsMonoNL Nerd Font SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Thin.ttf//JetBrainsMonoNL Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-ThinItalic.ttf//JetBrainsMonoNL Nerd Font Thin Italic" checksum="(null)">
   </resource>
 
   <resource identifier="external:/usr/share/fonts/liberation/LiberationMono-Bold.ttf//Liberation Mono Bold" checksum="(null)">
@@ -5290,6 +5596,9 @@
   <resource identifier="external:/usr/share/fonts/noto/NotoSansSundanese-SemiBold.ttf//Noto Sans Sundanese SemiBold" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/usr/share/fonts/noto/NotoSansSunuwar-Regular.ttf//Noto Sans Sunuwar Regular" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/usr/share/fonts/noto/NotoSansSylotiNagri-Regular.ttf//Noto Sans Syloti Nagri Regular" checksum="(null)">
   </resource>
 
@@ -8600,6 +8909,114 @@
   </resource>
 
   <resource identifier="external:/usr/share/fonts/TTF/Roboto-ThinItalic.ttf//Roboto Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFont-Bold.ttf//RobotoMono Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFont-BoldItalic.ttf//RobotoMono Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFont-Italic.ttf//RobotoMono Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFont-Light.ttf//RobotoMono Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFont-LightItalic.ttf//RobotoMono Nerd Font Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFont-Medium.ttf//RobotoMono Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFont-MediumItalic.ttf//RobotoMono Nerd Font Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontMono-Bold.ttf//RobotoMono Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontMono-BoldItalic.ttf//RobotoMono Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontMono-Italic.ttf//RobotoMono Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontMono-Light.ttf//RobotoMono Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontMono-LightItalic.ttf//RobotoMono Nerd Font Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontMono-Medium.ttf//RobotoMono Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontMono-MediumItalic.ttf//RobotoMono Nerd Font Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontMono-Regular.ttf//RobotoMono Nerd Font Mono Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontMono-SemiBold.ttf//RobotoMono Nerd Font Mono SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontMono-SemiBoldItalic.ttf//RobotoMono Nerd Font Mono SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontMono-Thin.ttf//RobotoMono Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontMono-ThinItalic.ttf//RobotoMono Nerd Font Mono Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontPropo-Bold.ttf//RobotoMono Nerd Font Propo Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontPropo-BoldItalic.ttf//RobotoMono Nerd Font Propo Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontPropo-Italic.ttf//RobotoMono Nerd Font Propo Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontPropo-Light.ttf//RobotoMono Nerd Font Propo Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontPropo-LightItalic.ttf//RobotoMono Nerd Font Propo Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontPropo-Medium.ttf//RobotoMono Nerd Font Propo Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontPropo-MediumItalic.ttf//RobotoMono Nerd Font Propo Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontPropo-Regular.ttf//RobotoMono Nerd Font Propo Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontPropo-SemiBold.ttf//RobotoMono Nerd Font Propo SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontPropo-SemiBoldItalic.ttf//RobotoMono Nerd Font Propo SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontPropo-Thin.ttf//RobotoMono Nerd Font Propo Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFontPropo-ThinItalic.ttf//RobotoMono Nerd Font Propo Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFont-Regular.ttf//RobotoMono Nerd Font Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFont-SemiBold.ttf//RobotoMono Nerd Font SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFont-SemiBoldItalic.ttf//RobotoMono Nerd Font SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFont-Thin.ttf//RobotoMono Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoMonoNerdFont-ThinItalic.ttf//RobotoMono Nerd Font Thin Italic" checksum="(null)">
   </resource>
 
   <resource identifier="external:/usr/share/fonts/gsfonts/StandardSymbolsPS.otf//Standard Symbols PS Regular" checksum="(null)">

@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "3e02273b543f4ff0a1c24d3b534a9ac3",
       "asset_id": "3e02273b543f4ff0a1c24d3b534a9ac3",
-      "build_version": "324.979985",
+      "build_version": "482.1000456",
       "catalog_item_id": "581c8d4fd9574884bff66cbdbaa42def",
       "label_name": "Live-Windows",
       "metadata": {
@@ -74,7 +74,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "lastModifiedDate": "2025-06-03T00:00:25.823Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -130,7 +130,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "lastModifiedDate": "2025-06-03T00:00:25.823Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -186,7 +186,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "lastModifiedDate": "2025-06-03T00:00:25.823Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -242,7 +242,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "lastModifiedDate": "2025-06-03T00:00:25.823Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -298,7 +298,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "lastModifiedDate": "2025-06-03T00:00:25.823Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -354,7 +354,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "lastModifiedDate": "2025-06-03T00:00:25.823Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -391,7 +391,7 @@
         "entitlementType": "AUDIENCE",
         "id": "bc8a897ff1ff4a6eb820d61776647c1c",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2025-04-02T10:00:24.275Z",
+        "lastModifiedDate": "2025-06-03T00:00:22.724Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -428,7 +428,7 @@
         "entitlementType": "AUDIENCE",
         "id": "ecb78c46e67b4301ac9433f0db5253a3",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2025-04-02T10:00:24.275Z",
+        "lastModifiedDate": "2025-06-03T00:00:22.724Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -484,7 +484,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -540,7 +540,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -596,7 +596,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -652,7 +652,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -708,7 +708,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -764,7 +764,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -820,7 +820,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -876,7 +876,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -932,7 +932,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -988,7 +988,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "lastModifiedDate": "2025-06-03T00:00:25.823Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -1044,7 +1044,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "lastModifiedDate": "2025-06-03T00:00:25.823Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -1100,7 +1100,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.262Z",
+        "lastModifiedDate": "2025-06-03T00:00:25.823Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -1156,7 +1156,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -1212,7 +1212,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -1268,7 +1268,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -1324,7 +1324,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -1380,7 +1380,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -1436,7 +1436,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -1492,7 +1492,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -1548,7 +1548,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.762Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -1585,7 +1585,7 @@
         "entitlementType": "AUDIENCE",
         "id": "85866e8b8e2d41bb968dce4862f526a4",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2025-04-02T10:00:24.275Z",
+        "lastModifiedDate": "2025-06-03T00:00:22.724Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -1622,7 +1622,7 @@
         "entitlementType": "AUDIENCE",
         "id": "ff3ac162b2ff4f17b9e987fba084cb1e",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2025-04-02T10:00:24.275Z",
+        "lastModifiedDate": "2025-06-03T00:00:22.724Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -1659,7 +1659,7 @@
         "entitlementType": "AUDIENCE",
         "id": "5cb531e7e561473a93738b0e0e778f1e",
         "itemType": "DURABLE",
-        "lastModifiedDate": "2025-04-02T10:00:24.275Z",
+        "lastModifiedDate": "2025-06-03T00:00:22.724Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -1684,7 +1684,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2025-04-02T10:00:28.784Z",
+        "creationDate": "2025-02-05T15:10:38.045Z",
         "description": "A\u00f1ade a tu colecci\u00f3n el contenido descargable Western Desert Campaign y participa en la Batalla de Tobruk.",
         "developer": "Team17 Digital Ltd",
         "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
@@ -1715,7 +1715,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.784Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -1740,7 +1740,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2025-04-02T10:00:28.769Z",
+        "creationDate": "2025-02-05T15:10:57.309Z",
         "description": "A\u00f1ade a tu colecci\u00f3n el contenido descargable Western Desert Campaign y participa en la Batalla de Tobruk.",
         "developer": "Team17 Digital Ltd",
         "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
@@ -1771,7 +1771,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-04-02T10:00:28.769Z",
+        "lastModifiedDate": "2025-06-03T00:00:26.194Z",
         "mainGameItem": {
           "id": "581c8d4fd9574884bff66cbdbaa42def",
           "namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -1789,6 +1789,62 @@
         "status": "ACTIVE",
         "title": "Hell Let Loose - Western Desert Campaign Units",
         "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-25T10:00:03.470Z",
+        "description": "Lucha por toda Normand\u00eda con el DLC Operation Overlord Units.",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "4d89c7d8fceb45d6b38e6a9489d0f87f",
+        "entitlementType": "EXECUTABLE",
+        "id": "4d89c7d8fceb45d6b38e6a9489d0f87f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell Let Loose Hell Let Loose - Operation Overlord Units Offer",
+            "height": 1440,
+            "md5": "4c2b9e917cc51990e74d9d93763316a8",
+            "size": 582657,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-06-18T10:56:01.934Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-3j3p4.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell Let Loose Hell Let Loose - Operation Overlord Units Offer",
+            "height": 1600,
+            "md5": "4329c048a5f8b7c5bfb4d52c381a3301",
+            "size": 410300,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-06-18T10:56:02.129Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1rbus.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-25T10:00:03.470Z",
+        "mainGameItem": {
+          "id": "581c8d4fd9574884bff66cbdbaa42def",
+          "namespace": "6430e58041234e41b8f81f68f01450ed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "581c8d4fd9574884bff66cbdbaa42def",
+            "namespace": "6430e58041234e41b8f81f68f01450ed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6430e58041234e41b8f81f68f01450ed",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hell Let Loose - Operation Overlord Units",
+        "unsearchable": false
       }
     ],
     "endOfSupport": false,
@@ -1800,25 +1856,25 @@
       {
         "alt": "Hell Let Loose Offer",
         "height": 1440,
-        "md5": "5de9c2eef65fab7fc1da590d5780d1eb",
-        "size": 691564,
+        "md5": "ac7449c1d19fbeae8d590f47f715e4aa",
+        "size": 972784,
         "type": "DieselGameBox",
-        "uploadedDate": "2025-03-25T16:36:09.109Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-qdnk1.jpg",
+        "uploadedDate": "2025-06-23T16:02:01.803Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-ji18e.jpg",
         "width": 2560
       },
       {
         "alt": "Download Hell Let Loose Offer",
         "height": 1600,
-        "md5": "2b99cabf50b06452f8bcd7d2d43e81ba",
-        "size": 451200,
+        "md5": "773cd69af6bbea73381c1629953167d7",
+        "size": 509950,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2025-03-25T16:36:08.773Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-5vzcj.jpg",
+        "uploadedDate": "2025-06-23T16:02:02.001Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1f2eo.jpg",
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-04-02T10:00:29.553Z",
+    "lastModifiedDate": "2025-06-25T10:00:03.807Z",
     "mainGameItemList": [],
     "namespace": "6430e58041234e41b8f81f68f01450ed",
     "releaseInfo": [

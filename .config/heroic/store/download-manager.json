@@ -3,12 +3,7 @@
 		{
 			"params": {
 				"appName": "8b6a0e1413744785a43c9f9f9547b4d6",
-				"path": "/home/vmdjavem/Games/Heroic",
-				"installDlcs": [],
-				"sdlList": [],
-				"installLanguage": "",
 				"runner": "legendary",
-				"platformToInstall": "Windows",
 				"gameInfo": {
 					"app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
 					"art_cover": "https://cdn1.epicgames.com/item/dc09ae8f1aa445b7853b5300c2345d81/EGS_Metalstorm_Starform_S1_2560x1440-df32d566bf58428a6ba7115109aeaac0",
@@ -749,13 +744,18 @@
 					],
 					"folder_name": "Metalstorm",
 					"install": {
-						"install_size": "0",
-						"is_dlc": false
+						"executable": "Metalstorm.exe",
+						"install_path": "/home/vmdjavem/Games/Heroic/Metalstorm",
+						"install_size": "11.43 GiB",
+						"is_dlc": false,
+						"version": "aircombat_store_windows_b29b4d4f_2025-04-17_09-07",
+						"platform": "Windows"
 					},
-					"is_installed": false,
+					"is_installed": true,
 					"namespace": "dc09ae8f1aa445b7853b5300c2345d81",
 					"is_mac_native": false,
 					"save_folder": "",
+					"save_path": null,
 					"title": "Metalstorm",
 					"canRunOffline": false,
 					"isEAManaged": false,
@@ -763,12 +763,14 @@
 					"runner": "legendary",
 					"store_url": "https://www.epicgames.com/store/product/metalstorm"
 				},
-				"size": "5.18 GiB"
+				"path": "/home/vmdjavem/Games/Heroic/Metalstorm",
+				"platformToInstall": "Windows",
+				"size": "3.99 GiB"
 			},
-			"type": "install",
-			"addToQueueTime": 1745528771528,
-			"endTime": 1745528997613,
-			"startTime": 1745528771531,
+			"type": "update",
+			"addToQueueTime": 1750804282603,
+			"endTime": 1750807154141,
+			"startTime": 1750806772820,
 			"status": "done"
 		},
 		{

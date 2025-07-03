@@ -10,7 +10,7 @@
     "addSteamShortcuts": true,
     "preferSystemLibs": false,
     "checkForUpdatesOnStartup": true,
-    "autoUpdateGames": false,
+    "autoUpdateGames": true,
     "customWinePaths": [],
     "defaultInstallPath": "/home/vmdjavem/Games/Heroic",
     "libraryTopSection": "disabled",
@@ -43,7 +43,10 @@
     "afterLaunchScriptPath": "",
     "disableUMU": false,
     "verboseLogs": false,
-    "customThemesPath": ""
+    "downloadProtonToSteam": false,
+    "advertiseAvxForRosetta": false,
+    "customThemesPath": "",
+    "darkTrayIcon": false
   },
   "version": "v0"
 }

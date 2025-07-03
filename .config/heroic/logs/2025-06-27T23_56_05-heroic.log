@@ -1,0 +1,112 @@
+(18:56:05) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary
+(18:56:05) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl
+(18:56:05) INFO:    [Connection]:       Connectivity: check-online
+(18:56:05) INFO:    [Connection]:       Pinging external endpoints
+(18:56:05) INFO:    [Gog]:              Checking for existing gog manifests
+(18:56:05) WARNING: [Backend]:          Protocol already registered.
+(18:56:06) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+(18:56:06) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json --version
+(18:56:06) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/vmdjavem/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/nile --version
+(18:56:06) INFO:    [Backend]:          
+System Information:
+CPU: 12x AMD Ryzen 5 7600X 6-Core Processor
+Memory: 32.7 GB (used: 3.91 GB)
+GPUs:
+  GPU 0:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Raphael
+    IDs: D=164e V=1002 SD=7e26 SV=1462
+    Driver: amdgpu
+  GPU 1:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Navi 32 [Radeon RX 7700 XT / 7800 XT]
+    IDs: D=747e V=1002 SD=f475 SV=1da2
+    Driver: amdgpu
+OS: EndeavourOS 6.15.3-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.17.2 Cutty Flam Franky
+  Legendary: 0.20.37 Exit 17 (Heroic)
+  gogdl: 1.1.2
+  comet: comet 0.2.0
+  Nile: 1.1.2 Will A. Zeppeli
+
+(18:56:06) INFO:    [Frontend]:         Refreshing undefined Library
+(18:56:06) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(18:56:06) INFO:    [Legendary]:        Refreshing library...
+(18:56:06) INFO:    [Legendary]:        Refreshing Epic Games...
+(18:56:06) INFO:    [Backend]:          Frontend Ready
+(18:56:06) INFO:    [Connection]:       Connectivity: online
+(18:56:06) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(18:56:06) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json auth
+(18:56:06) INFO:    [Backend]:          Checking for new Heroic Updates
+(18:56:06) INFO:    [Backend]:          Checking for current version changelog
+(18:56:06) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(18:56:06) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(18:56:08) INFO:    [Winetricks]:       Downloading Winetricks
+(18:56:08) INFO:    [Legendary]:        Game list updated, got 97 games & DLCs
+(18:56:08) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(18:56:09) INFO:    [Legendary]:        Checking for game updates: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(18:56:09) INFO:    [Backend]:          Launching Red_Dead_Redemption_2_God (e4wyhcXMuiycjY3miUoD6B)
+(18:56:09) INFO:    [Backend]:          Preventing display from sleep
+(18:56:09) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(18:56:09) DEBUG:   [Backend]:          Checking if we should toggle Shader Pre-Caching
+(18:56:09) DEBUG:   [Backend]:          Checking if we should toggle Shader Pre-Caching
+(18:56:09) INFO:    [Backend]:          Preventing machine to sleep
+(18:56:10) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(18:56:10) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(18:56:10) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(18:56:10) DEBUG:   [Backend]:          Running Wine command: createprefix
+(18:56:10) INFO:    [WineDownloader]:   Updating wine versions info
+(18:56:10) INFO:    [WineDownloader]:   Fetching upstream information...
+(18:56:11) INFO:    [Legendary]:        Found 0 games to update
+(18:56:11) INFO:    [Backend]:          Starting the Download Queue
+(18:56:11) INFO:    [WineDownloader]:   wine versions updated
+(18:56:14) INFO:    [Backend]:          launching non-native sideloaded: /home/vmdjavem/Games/Heroic/Prefixes/default/Red_Dead_Redemption_2_God/drive_c/Red Dead Redemption 2/Launcher.exe 
+(18:56:14) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(18:56:14) DEBUG:   [Backend]:          Running Wine command: /home/vmdjavem/Games/Heroic/Prefixes/default/Red_Dead_Redemption_2_God/drive_c/Red Dead Redemption 2/Launcher.exe
+(18:56:14) DEBUG:   [Backend]:          Logging to file "/home/vmdjavem/.config/heroic/GamesConfig/e4wyhcXMuiycjY3miUoD6B-lastPlay.log"
+(18:56:14) INFO:    [Backend]:          Preventing display to sleep
+(18:56:19) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(18:56:19) INFO:    [Frontend]:         Refreshing sideload Library
+(18:56:19) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(18:56:19) INFO:    [Backend]:          Stopping Power Saver Blocker
+(18:56:19) INFO:    [Backend]:          Stopping Display Sleep Blocker
+(18:57:35) INFO:    [ProtocolHandler]:  Received heroic://launch?appName=e4wyhcXMuiycjY3miUoD6B&runner=sideload
+(18:57:35) INFO:    [Backend]:          Launching Red_Dead_Redemption_2_God (e4wyhcXMuiycjY3miUoD6B)
+(18:57:35) INFO:    [Backend]:          Preventing display from sleep
+(18:57:35) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(18:57:35) DEBUG:   [Backend]:          Checking if we should toggle Shader Pre-Caching
+(18:57:35) DEBUG:   [Backend]:          Checking if we should toggle Shader Pre-Caching
+(18:57:35) INFO:    [Backend]:          Preventing machine to sleep
+(18:57:36) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(18:57:36) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(18:57:36) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(18:57:36) DEBUG:   [Backend]:          Running Wine command: createprefix
+(18:57:41) INFO:    [Backend]:          launching non-native sideloaded: /home/vmdjavem/Games/Heroic/Prefixes/default/Red_Dead_Redemption_2_God/drive_c/Red Dead Redemption 2/Launcher.exe 
+(18:57:41) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(18:57:41) DEBUG:   [Backend]:          Running Wine command: /home/vmdjavem/Games/Heroic/Prefixes/default/Red_Dead_Redemption_2_God/drive_c/Red Dead Redemption 2/Launcher.exe
+(18:57:41) DEBUG:   [Backend]:          Logging to file "/home/vmdjavem/.config/heroic/GamesConfig/e4wyhcXMuiycjY3miUoD6B-lastPlay.log"
+(18:57:41) INFO:    [Backend]:          Preventing display to sleep
+(18:57:46) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(18:57:46) INFO:    [Frontend]:         Refreshing sideload Library
+(18:57:46) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(18:57:46) INFO:    [Backend]:          Stopping Power Saver Blocker
+(18:57:46) INFO:    [Backend]:          Stopping Display Sleep Blocker
+(18:58:52) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(18:58:52) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(18:58:52) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(18:58:52) DEBUG:   [Backend]:          Running Wine command: createprefix
+(18:58:57) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(18:58:57) DEBUG:   [Backend]:          Running Wine command: /home/vmdjavem/Games/Heroic/Prefixes/default/Red_Dead_Redemption_2_God/drive_c/Red Dead Redemption 2/RDR2.exe
+(18:59:27) INFO:    [Backend]:          finished uninstalling
+(18:59:27) INFO:    [Backend]:          Removing prefix /home/vmdjavem/Games/Heroic/Prefixes/default/Red_Dead_Redemption_2_God
+(18:59:30) INFO:    [Backend]:          Removing e4wyhcXMuiycjY3miUoD6B.json
+(18:59:30) INFO:    [Backend]:          Removing e4wyhcXMuiycjY3miUoD6B.log
+(18:59:30) INFO:    [Backend]:          Removing e4wyhcXMuiycjY3miUoD6B-lastPlay.log
+(18:59:30) INFO:    [Backend]:          Finished uninstalling
+(18:59:30) INFO:    [Backend]:          Removing prefix /home/vmdjavem/Games/Heroic/Prefixes/default/Red_Dead_Redemption_2_God
+(18:59:30) INFO:    [Backend]:          Prefix folder /home/vmdjavem/Games/Heroic/Prefixes/default/Red_Dead_Redemption_2_God doesn't exist, ignoring removal
+(18:59:30) INFO:    [Backend]:          Desktop shortcut removed
+(18:59:30) INFO:    [Backend]:          Applications shortcut removed

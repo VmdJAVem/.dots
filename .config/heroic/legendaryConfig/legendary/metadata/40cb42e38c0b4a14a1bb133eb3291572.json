@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "40cb42e38c0b4a14a1bb133eb3291572",
       "asset_id": "40cb42e38c0b4a14a1bb133eb3291572",
-      "build_version": "IdleDragons626064Live",
+      "build_version": "IdleDragons627064Live",
       "catalog_item_id": "48353a502e72433298f25827e03dbff0",
       "label_name": "Live-Windows",
       "metadata": {
@@ -141,7 +141,6 @@
           "egstore"
         ],
         "id": "d4b2ac3ee29e48d2b2873b147a624bd9",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T13:55:28.869Z",
@@ -449,7 +448,6 @@
           "egstore"
         ],
         "id": "e3f3e9c28913401bae75abbcbc3b6179",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T18:59:14.884Z",
@@ -633,10 +631,9 @@
           "egstore"
         ],
         "id": "6a0199d0c6c64e1698d3c41e19224b44",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
-        "lastModifiedDate": "2025-01-08T18:39:23.679Z",
+        "lastModifiedDate": "2025-06-23T19:07:01.468Z",
         "mainGameItem": {
           "id": "48353a502e72433298f25827e03dbff0",
           "namespace": "7e508f543b05465abe3a935960eb70ac",
@@ -780,7 +777,6 @@
           "egstore"
         ],
         "id": "e0ff44a66dff48a28c1b2c4fd502b993",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T18:59:14.884Z",
@@ -963,7 +959,6 @@
           "egstore"
         ],
         "id": "a54729734e52410a83e7ede92c5d6fe7",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T20:06:32.937Z",
@@ -1470,7 +1465,6 @@
           "egstore"
         ],
         "id": "b24f66fff5244a15a819b1824a1d7fbb",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T18:59:14.884Z",
@@ -1816,7 +1810,6 @@
           "egstore"
         ],
         "id": "f3cafb4f876a402e9e9f120f03e669ba",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T18:59:14.884Z",
@@ -1867,7 +1860,6 @@
           "egstore"
         ],
         "id": "a37766e4260343bdbd69ae0e572e4a9e",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T18:59:14.884Z",
@@ -2050,7 +2042,6 @@
           "egstore"
         ],
         "id": "df15b135810b4c47afa85698d3b7a928",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T20:06:33.692Z",
@@ -3233,7 +3224,6 @@
           "egstore"
         ],
         "id": "d650f6d63527472fb8d86aa80c5bdc5c",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [
           {
@@ -4331,7 +4321,6 @@
           "egstore"
         ],
         "id": "9f5368d8e4b84f3bb6a181f085dba01b",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T19:08:03.347Z",
@@ -4430,7 +4419,6 @@
           "egstore"
         ],
         "id": "542992f52a8a45fdb4aa9154f0696c62",
-        "installModes": [],
         "itemType": "CONSUMABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T19:27:24.228Z",
@@ -4595,7 +4583,6 @@
           "egstore"
         ],
         "id": "7506e6806d0f4d719cc3d21d412a94d1",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T15:24:51.360Z",
@@ -5038,7 +5025,6 @@
           "egstore"
         ],
         "id": "979701aa71c842ac88971b046dae6752",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T13:10:50.405Z",
@@ -5760,7 +5746,6 @@
           "egstore"
         ],
         "id": "8540b376b896460e85692fb623d5d6c1",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2025-01-08T18:39:22.889Z",
@@ -6220,7 +6205,6 @@
           "egstore"
         ],
         "id": "16c7f405bb7d473ca3ab2dcc30bec10b",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T14:11:04.666Z",
@@ -7142,7 +7126,6 @@
           "egstore"
         ],
         "id": "b79940d2606c4c64b630c04decf9115a",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T15:39:39.552Z",
@@ -7686,7 +7669,6 @@
           "egstore"
         ],
         "id": "abbfee8ed5764e2ba02899b3c26e3ab3",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T19:27:24.228Z",
@@ -7851,7 +7833,6 @@
           "egstore"
         ],
         "id": "8443a6cba3d941808325515946beccaf",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T19:27:24.228Z",
@@ -8130,7 +8111,6 @@
           "egstore"
         ],
         "id": "f5d97cc363b54406816f5c48d94365ad",
-        "installModes": [],
         "itemType": "CONSUMABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T19:54:02.970Z",
@@ -8428,7 +8408,6 @@
           "egstore"
         ],
         "id": "2d806d51b487453f971237d72966f625",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T18:59:14.083Z",
@@ -8594,7 +8573,6 @@
           "egstore"
         ],
         "id": "8da8884f39dd4b6cb2e00ee4e0101d9a",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T19:27:24.228Z",
@@ -9018,7 +8996,6 @@
           "egstore"
         ],
         "id": "a42743794e8e4e7d89865b389f887f78",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T15:56:05.080Z",
@@ -9201,7 +9178,6 @@
           "egstore"
         ],
         "id": "a3e14b5818c044d3a4fbc43a772eca69",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T12:30:21.246Z",
@@ -9349,7 +9325,6 @@
           "egstore"
         ],
         "id": "62491dbb7ee34a38b3c670dccd572601",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T15:39:38.716Z",
@@ -9449,7 +9424,6 @@
           "egstore"
         ],
         "id": "6f32312a81154190afa397ad038bb5bc",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T17:19:04.258Z",
@@ -9500,7 +9474,6 @@
           "egstore"
         ],
         "id": "d8ec738149d3494e9701763ba746c6f0",
-        "installModes": [],
         "itemType": "CONSUMABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T19:42:10.331Z",
@@ -9552,7 +9525,6 @@
           "egstore"
         ],
         "id": "1cc65561dec64357aa0c6c5bb1b7c3ea",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T12:30:21.246Z",
@@ -9652,7 +9624,6 @@
           "egstore"
         ],
         "id": "b9b10b51490a4c2d8a4d9c61e23f00e5",
-        "installModes": [],
         "itemType": "CONSUMABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T19:42:11.094Z",
@@ -9704,7 +9675,6 @@
           "egstore"
         ],
         "id": "7777af706c9c448c8c791c297c8d0178",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T20:06:34.576Z",
@@ -9966,7 +9936,6 @@
           "egstore"
         ],
         "id": "a21a481327e64ab494fda4c4cd9f1349",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [
           {
@@ -10398,7 +10367,6 @@
           "egstore"
         ],
         "id": "3caa86fec44540dfb0609e5ea7e107fd",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T19:27:23.415Z",
@@ -10972,7 +10940,6 @@
           "egstore"
         ],
         "id": "7aceded13db04beab84f1d453db67dfb",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T13:10:50.405Z",
@@ -11659,7 +11626,6 @@
           "egstore"
         ],
         "id": "457dc0c2e0ce4c20a7c3f5c91744bf42",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T20:06:33.692Z",
@@ -12004,7 +11970,6 @@
           "egstore"
         ],
         "id": "521f288912dc40dcae772c23fc3e2378",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [
           {
@@ -12236,7 +12201,6 @@
           "egstore"
         ],
         "id": "e0188ab1efea41b7916f029cf00f24fb",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-11-26T13:10:50.405Z",
@@ -29695,7 +29659,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-05-22T23:47:56.919Z",
+        "lastModifiedDate": "2025-06-23T19:07:01.468Z",
         "mainGameItem": {
           "id": "48353a502e72433298f25827e03dbff0",
           "namespace": "7e508f543b05465abe3a935960eb70ac",
@@ -30696,6 +30660,72 @@
         "title": "P2 audience",
         "unsearchable": true,
         "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-23T19:07:01.505Z",
+        "description": "Este DLC incluye a un familiar exclusivo que puede hacer clic por ti, adem\u00e1s de una gran variedad de pociones para ayudarte a llegar m\u00e1s lejos en tus aventuras.",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "e973e4dc16d14379b18e5755e86b655c",
+        "entitlementType": "EXECUTABLE",
+        "id": "e973e4dc16d14379b18e5755e86b655c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Idle Champions of the Forgotten Realms Rainbow Guardian Familiar Pack Offer",
+            "height": 1440,
+            "md5": "f453d2cb53da6f295ad6ae72905ad3eb",
+            "size": 673144,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-06-06T21:22:33.159Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-z5s4t.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Idle Champions of the Forgotten Realms Rainbow Guardian Familiar Pack Offer",
+            "height": 1600,
+            "md5": "7c3407ad97d8440ce589dbaa2a14b2f3",
+            "size": 902401,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-06-06T20:45:54.702Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-15ka9.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-23T19:07:01.505Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "268753f532bc426fbdce80fc13a5d6e1",
+            "namespace": "7e508f543b05465abe3a935960eb70ac",
+            "unsearchable": false
+          },
+          {
+            "id": "48353a502e72433298f25827e03dbff0",
+            "namespace": "7e508f543b05465abe3a935960eb70ac",
+            "unsearchable": false
+          },
+          {
+            "id": "554e4c764f5f432cac68cee5f04c7750",
+            "namespace": "7e508f543b05465abe3a935960eb70ac",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Paquete del familiar Guardi\u00e1n del Arco\u00edris",
+        "unsearchable": false
       }
     ],
     "endOfSupport": false,
@@ -30728,7 +30758,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-05-22T23:47:56.919Z",
+    "lastModifiedDate": "2025-06-23T19:07:01.988Z",
     "longDescription": "<!--image-->\n![Idle Champions of the Forgotten Realms-1cuud](https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1cuud.jpg)\n<!--textBlock-->\n<!--title-->\n# SOBRE EL JUEGO\n<!--text-->\n\u00a1Recluta campeones legendarios para la aventura definitiva sin fin!\n\nIdle Champions of the Forgotten Realms es un juego de gesti\u00f3n de estrategia que re\u00fane a los campeones ic\u00f3nicos del juego de rol de mesa D&D, sus campa\u00f1as, videojuegos, novelas, partidas en vivo, historietas y programas dentro de una gran aventura. \n\nOptimiza tus formaciones usando m\u00e1s de 140 campeones, cada uno con habilidades \u00fanicas, para derrotar a innumerables monstruos en cientos de aventuras. Para alcanzar la maestr\u00eda, deber\u00e1s avanzar cada vez m\u00e1s con tus formaciones en cada aventura: solo las formaciones m\u00e1s poderosas completar\u00e1n los mayores desaf\u00edos que Idle Champions tiene para ofrecer.\n<!--image-->\n![Idle Champions of the Forgotten Realms-124ei](https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-124ei.jpg)\n<!--textBlock-->\n<!--title-->\n# COLECCIONA CAMPEONES IC\u00d3NICOS\n<!--text-->\nDesbloquea campeones \u00fanicos de todo el multiverso de Dungeons & Dragons, con sus propias habilidades de formaci\u00f3n y poderes definitivos. Entre los favoritos de los fan\u00e1ticos est\u00e1n Drizzt Do'Urden y los Compa\u00f1eros de la Sala, Minsc & B\u00fa, Astarion y Karlach de Puerta de Baldur 3\u2026 \u00a1y muchos, muchos m\u00e1s!\n<!--image-->\n![Idle Champions of the Forgotten Realms-13kio](https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-13kio.jpg)\n<!--textBlock-->\n<!--title-->\n# F\u00c1CIL DE APRENDER, DIF\u00cdCIL DE DOMINAR\n<!--text-->\nGestiona m\u00faltiples grupos de aventureros para poner a prueba el temple de tus campeones y ganar recompensas a\u00fan mayores. Tus campeones luchan autom\u00e1ticamente contra los enemigos hasta que son derrotados, incluso si cierras el juego. Los familiares automatizan acciones b\u00e1sicas del juego, como subir de nivel a los campeones y recoger oro, para que T\u00da puedas concentrarte en optimizar la estrategia de tu formaci\u00f3n. \u00a1Crea sinergias poderosas y libera todo el poder de tus campeones para completar las aventuras m\u00e1s dif\u00edciles!\n<!--image-->\n![Idle Champions of the Forgotten Realms-lezj0](https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-lezj0.jpg)\n<!--textBlock-->\n<!--title-->\n# VIAJA POR EL MULTIVERSO DE D&D\n<!--text-->\nL\u00e1nzate a la aventura en la Costa de la Espada y m\u00e1s all\u00e1. Visita ciudades legendarias como Puerta de Baldur, Aguas Profundas y Sigilo, la ciudad de las puertas. Explora las nieblas de Barovia, enfr\u00e9ntate a la interminable Guerra de la Sangre de Averno y navega por el Mar Astral.\n<!--image-->\n![Idle Champions of the Forgotten Realms-lossu](https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-lossu.jpg)\n<!--textBlock-->\n<!--title-->\n# ACTUALIZACI\u00d3N CONSTANTE DE CONTENIDOS\n<!--text-->\nHay m\u00faltiples actualizaciones de contenido todos los meses. Desde su lanzamiento en 2017, Idle Champions ha presentado a m\u00e1s de 140\u00a0campeones, m\u00e1s de 200\u00a0aventuras y 8\u00a0campa\u00f1as basadas en lanzamientos oficiales de juegos de rol de mesa, y ha incluido docenas de funciones nuevas y sistemas para el juego. \u00a1La pr\u00f3xima gran actualizaci\u00f3n siempre est\u00e1 cerca!\n",
     "mainGameItemList": [],
     "namespace": "7e508f543b05465abe3a935960eb70ac",

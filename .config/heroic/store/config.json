@@ -1,10 +1,10 @@
 {
 	"general-logs": {
-		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-23T19_50_56-heroic.log",
-		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-23T19_45_13-heroic.log",
-		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-23T19_50_56-legendary.log",
-		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-23T19_50_56-gogdl.log",
-		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-23T19_50_56-nile.log"
+		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-03T23_21_41-heroic.log",
+		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-06-27T23_56_05-heroic.log",
+		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-03T23_21_41-legendary.log",
+		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-03T23_21_41-gogdl.log",
+		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-03T23_21_41-nile.log"
 	},
 	"userHome": "/home/vmdjavem",
 	"language": "en",
@@ -15,9 +15,9 @@
 	},
 	"window-props": {
 		"x": 10,
-		"y": 52,
+		"y": 57,
 		"width": 943,
-		"height": 1018,
+		"height": 1013,
 		"maximized": false
 	},
 	"theme": "gruvbox_dark",
@@ -32,7 +32,7 @@
 		"addSteamShortcuts": true,
 		"preferSystemLibs": false,
 		"checkForUpdatesOnStartup": true,
-		"autoUpdateGames": false,
+		"autoUpdateGames": true,
 		"customWinePaths": [],
 		"defaultInstallPath": "/home/vmdjavem/Games/Heroic",
 		"libraryTopSection": "disabled",
@@ -65,7 +65,8 @@
 		"afterLaunchScriptPath": "",
 		"disableUMU": false,
 		"verboseLogs": false,
-		"customThemesPath": ""
+		"customThemesPath": "",
+		"darkTrayIcon": false
 	},
 	"games": {
 		"recent": [
@@ -114,6 +115,6 @@
 		]
 	},
 	"zoomPercent": 100,
-	"contentFontFamily": "\"DejaVu Sans Mono\"",
-	"actionsFontFamily": "\"DejaVu Sans Mono\""
+	"contentFontFamily": "\"Fira Code\"",
+	"actionsFontFamily": "\"Fira Code\""
 }

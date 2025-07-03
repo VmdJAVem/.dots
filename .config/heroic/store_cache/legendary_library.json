@@ -742,9 +742,9 @@
 			"install": {
 				"executable": "Metalstorm.exe",
 				"install_path": "/home/vmdjavem/Games/Heroic/Metalstorm",
-				"install_size": "11.43 GiB",
+				"install_size": "8.49 GiB",
 				"is_dlc": false,
-				"version": "aircombat_store_windows_b29b4d4f_2025-04-17_09-07",
+				"version": "aircombat_store_windows_7c704f67_2025-06-19_13-33",
 				"platform": "Windows"
 			},
 			"is_installed": true,
@@ -7708,7 +7708,6 @@
 						"egstore"
 					],
 					"id": "0d223de8853541d69b7df1d7386f3f9c",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2025-05-07T10:29:11.875Z",
@@ -7754,10 +7753,9 @@
 						"egstore"
 					],
 					"id": "58608efff2a840c9917f88eb034c9339",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
-					"lastModifiedDate": "2025-05-07T10:29:11.943Z",
+					"lastModifiedDate": "2025-06-23T10:38:18.032Z",
 					"mainGameItem": {
 						"id": "9421139e63f34d6281c18698b54d1e63",
 						"namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -7805,7 +7803,6 @@
 						"egstore"
 					],
 					"id": "22708bd52e8c4faf8cc92c386086f1fd",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"lastModifiedDate": "2025-05-07T10:29:12.714Z",
 					"mainGameItem": {
@@ -7850,7 +7847,6 @@
 						"egstore"
 					],
 					"id": "7b5c1a55dc7040b6999294bd2eff6d6f",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2025-05-07T10:29:11.830Z",
@@ -7901,7 +7897,6 @@
 						"egstore"
 					],
 					"id": "1a506d9f27f9448fa26cf6f9f058e4cf",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"lastModifiedDate": "2025-05-07T10:29:13.042Z",
 					"mainGameItem": {
@@ -7951,7 +7946,6 @@
 						"egstore"
 					],
 					"id": "c64f5415d90a435a82eaf182b1f10d1c",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"lastModifiedDate": "2025-05-07T10:29:12.997Z",
 					"mainGameItem": {
@@ -8033,7 +8027,6 @@
 						"egstore"
 					],
 					"id": "3f1a46ae5f284594805c58465669fb63",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [
 						{
@@ -8106,10 +8099,9 @@
 						"egstore"
 					],
 					"id": "c041bfb1c5544492b97379191c90c129",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
-					"lastModifiedDate": "2025-05-07T10:29:11.698Z",
+					"lastModifiedDate": "2025-06-23T10:37:34.725Z",
 					"mainGameItem": {
 						"id": "9421139e63f34d6281c18698b54d1e63",
 						"namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -8152,7 +8144,6 @@
 						"egstore"
 					],
 					"id": "f38a585869f14e76a9995278d34d3aff",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2025-05-07T10:29:11.966Z",
@@ -8198,7 +8189,6 @@
 						"egstore"
 					],
 					"id": "198e2b7b3b3144028998ecc98e3aa899",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2025-05-07T10:29:11.428Z",
@@ -8245,10 +8235,9 @@
 						"egstore"
 					],
 					"id": "afcbbf5e8904439e9675079238c6c6f2",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
-					"lastModifiedDate": "2025-05-07T10:29:11.721Z",
+					"lastModifiedDate": "2025-06-23T10:37:06.130Z",
 					"mainGameItem": {
 						"id": "9421139e63f34d6281c18698b54d1e63",
 						"namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -8291,7 +8280,6 @@
 						"egstore"
 					],
 					"id": "67ebb80df82b463fa21ab7307e47578d",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2025-05-07T10:29:11.787Z",
@@ -8337,7 +8325,6 @@
 						"egstore"
 					],
 					"id": "1d4561fd4aa64846bdce4111232a69e2",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2025-05-07T10:29:11.852Z",
@@ -8388,7 +8375,6 @@
 						"egstore"
 					],
 					"id": "562eec422ea04230a529bdc0f646fc23",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"lastModifiedDate": "2025-05-07T10:29:12.953Z",
 					"mainGameItem": {
@@ -8433,7 +8419,6 @@
 						"egstore"
 					],
 					"id": "3c9e51c75c834a1c8b4e60d6b219095e",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2025-05-07T10:29:11.655Z",
@@ -8479,7 +8464,6 @@
 						"egstore"
 					],
 					"id": "7ce0f090816c405eacac5c58e0d0a238",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2025-05-07T10:29:11.744Z",
@@ -8525,7 +8509,6 @@
 						"egstore"
 					],
 					"id": "b8263fd9c74e4c11bf0f9c7d5a261c76",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2025-05-07T10:29:11.897Z",
@@ -8608,7 +8591,6 @@
 						"egstore"
 					],
 					"id": "5821c65a103144548f3b55e8ce011292",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [
 						{
@@ -8686,7 +8668,6 @@
 						"egstore"
 					],
 					"id": "8044af23f1cb4550944090fb48473b66",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"lastModifiedDate": "2025-05-07T10:29:12.670Z",
 					"mainGameItem": {
@@ -8736,7 +8717,6 @@
 						"egstore"
 					],
 					"id": "c5db31b8fab84e21b8a2062d987e8322",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"lastModifiedDate": "2025-05-07T10:29:13.084Z",
 					"mainGameItem": {
@@ -8818,7 +8798,6 @@
 						"egstore"
 					],
 					"id": "c7475b5731fb483283651c9d67b86adb",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [
 						{
@@ -8896,7 +8875,6 @@
 						"egstore"
 					],
 					"id": "011b93254f494eabbec65bffbd49bb72",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"lastModifiedDate": "2025-05-07T10:29:12.845Z",
 					"mainGameItem": {
@@ -8941,7 +8919,6 @@
 						"egstore"
 					],
 					"id": "7f5cb91cb2ec4210b269a6207d1536d6",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2025-05-07T10:29:11.676Z",
@@ -8987,10 +8964,9 @@
 						"egstore"
 					],
 					"id": "2e56128339ec416e9d150d13829eafb2",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
-					"lastModifiedDate": "2025-05-07T10:29:11.809Z",
+					"lastModifiedDate": "2025-06-23T10:37:58.517Z",
 					"mainGameItem": {
 						"id": "9421139e63f34d6281c18698b54d1e63",
 						"namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -9033,7 +9009,6 @@
 						"egstore"
 					],
 					"id": "be56d6617b0a43f4a9dd84fd7d47c5ce",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2025-05-07T10:29:11.987Z",
@@ -9079,10 +9054,9 @@
 						"egstore"
 					],
 					"id": "0cc60eaa48974f3585479f9f1e348b1c",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
-					"lastModifiedDate": "2025-05-07T10:29:11.633Z",
+					"lastModifiedDate": "2025-06-23T10:36:47.385Z",
 					"mainGameItem": {
 						"id": "9421139e63f34d6281c18698b54d1e63",
 						"namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -9125,10 +9099,9 @@
 						"egstore"
 					],
 					"id": "e922b43e49034080937cb80169cd498b",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
-					"lastModifiedDate": "2025-05-07T10:29:11.765Z",
+					"lastModifiedDate": "2025-06-23T10:36:37.333Z",
 					"mainGameItem": {
 						"id": "9421139e63f34d6281c18698b54d1e63",
 						"namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -9171,10 +9144,9 @@
 						"egstore"
 					],
 					"id": "48b907006adb4758a503f2384c589c3c",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
-					"lastModifiedDate": "2025-05-07T10:29:11.920Z",
+					"lastModifiedDate": "2025-06-23T10:38:07.515Z",
 					"mainGameItem": {
 						"id": "9421139e63f34d6281c18698b54d1e63",
 						"namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -9222,7 +9194,6 @@
 						"egstore"
 					],
 					"id": "faa5143c9c6c4173b2228f91c0c3b13d",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"lastModifiedDate": "2025-05-07T10:29:12.758Z",
 					"mainGameItem": {
@@ -9272,7 +9243,6 @@
 						"egstore"
 					],
 					"id": "2da26c664de342ae9abd725218969425",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"lastModifiedDate": "2025-05-07T10:29:12.910Z",
 					"mainGameItem": {
@@ -9322,7 +9292,6 @@
 						"egstore"
 					],
 					"id": "948214825ae247dfaa2c9d7ddd494dce",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"lastModifiedDate": "2025-05-07T10:29:12.800Z",
 					"mainGameItem": {
@@ -9373,7 +9342,7 @@
 					],
 					"id": "b4c09b5698f248d9af7d3d746a8263cb",
 					"itemType": "DURABLE",
-					"lastModifiedDate": "2025-05-07T10:29:13.805Z",
+					"lastModifiedDate": "2025-06-26T16:57:23.079Z",
 					"mainGameItem": {
 						"id": "9421139e63f34d6281c18698b54d1e63",
 						"namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -9563,7 +9532,8 @@
 					],
 					"id": "e94cfa3362cb4b54813dc7c9d3e0ca31",
 					"itemType": "DURABLE",
-					"lastModifiedDate": "2025-05-07T10:29:15.240Z",
+					"keyImages": [],
+					"lastModifiedDate": "2025-06-23T10:36:57.987Z",
 					"mainGameItem": {
 						"id": "9421139e63f34d6281c18698b54d1e63",
 						"namespace": "2c42520d342a46d7a6e0cfa77b4715de",
@@ -10299,8 +10269,8 @@
 		},
 		{
 			"app_name": "Fortnite",
-			"art_cover": "https://cdn1.epicgames.com/item/fn/FNECO_KeyArt_25_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-8d4d2a17f716d09b73db1782346618ce",
-			"art_square": "https://cdn1.epicgames.com/item/fn/FNECO_KeyArt_25_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-61de82d672d43c7946924ec7287c2fc9",
+			"art_cover": "https://cdn1.epicgames.com/item/fn/FNECO_36-10_ForbiddenFruit_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-abce17aa0386b48069aa42c1ebf7b864",
+			"art_square": "https://cdn1.epicgames.com/item/fn/FNECO_36-10_ForbiddenFruit_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-9eb41f23a725f28a00996272bf654e8e",
 			"cloud_save_enabled": false,
 			"developer": "Epic Games",
 			"extra": {
@@ -14189,8 +14159,8 @@
 		},
 		{
 			"app_name": "3e02273b543f4ff0a1c24d3b534a9ac3",
-			"art_cover": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-qdnk1.jpg",
-			"art_square": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-5vzcj.jpg",
+			"art_cover": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-ji18e.jpg",
+			"art_square": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1f2eo.jpg",
 			"cloud_save_enabled": false,
 			"developer": "Team17 Digital Ltd",
 			"extra": {
@@ -14239,7 +14209,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.262Z",
+					"lastModifiedDate": "2025-06-03T00:00:25.823Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -14295,7 +14265,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.262Z",
+					"lastModifiedDate": "2025-06-03T00:00:25.823Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -14351,7 +14321,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.262Z",
+					"lastModifiedDate": "2025-06-03T00:00:25.823Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -14407,7 +14377,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.262Z",
+					"lastModifiedDate": "2025-06-03T00:00:25.823Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -14463,7 +14433,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.262Z",
+					"lastModifiedDate": "2025-06-03T00:00:25.823Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -14519,7 +14489,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.262Z",
+					"lastModifiedDate": "2025-06-03T00:00:25.823Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -14556,7 +14526,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "bc8a897ff1ff4a6eb820d61776647c1c",
 					"itemType": "DURABLE",
-					"lastModifiedDate": "2025-04-02T10:00:24.275Z",
+					"lastModifiedDate": "2025-06-03T00:00:22.724Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -14593,7 +14563,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "ecb78c46e67b4301ac9433f0db5253a3",
 					"itemType": "DURABLE",
-					"lastModifiedDate": "2025-04-02T10:00:24.275Z",
+					"lastModifiedDate": "2025-06-03T00:00:22.724Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -14649,7 +14619,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -14705,7 +14675,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -14761,7 +14731,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -14817,7 +14787,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -14873,7 +14843,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -14929,7 +14899,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -14985,7 +14955,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15041,7 +15011,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15097,7 +15067,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15153,7 +15123,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.262Z",
+					"lastModifiedDate": "2025-06-03T00:00:25.823Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15209,7 +15179,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.262Z",
+					"lastModifiedDate": "2025-06-03T00:00:25.823Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15265,7 +15235,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.262Z",
+					"lastModifiedDate": "2025-06-03T00:00:25.823Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15321,7 +15291,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15377,7 +15347,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15433,7 +15403,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15489,7 +15459,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15545,7 +15515,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15601,7 +15571,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15657,7 +15627,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15713,7 +15683,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.762Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15750,7 +15720,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "85866e8b8e2d41bb968dce4862f526a4",
 					"itemType": "DURABLE",
-					"lastModifiedDate": "2025-04-02T10:00:24.275Z",
+					"lastModifiedDate": "2025-06-03T00:00:22.724Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15787,7 +15757,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "ff3ac162b2ff4f17b9e987fba084cb1e",
 					"itemType": "DURABLE",
-					"lastModifiedDate": "2025-04-02T10:00:24.275Z",
+					"lastModifiedDate": "2025-06-03T00:00:22.724Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15824,7 +15794,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "5cb531e7e561473a93738b0e0e778f1e",
 					"itemType": "DURABLE",
-					"lastModifiedDate": "2025-04-02T10:00:24.275Z",
+					"lastModifiedDate": "2025-06-03T00:00:22.724Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15849,7 +15819,7 @@
 							"path": "addons"
 						}
 					],
-					"creationDate": "2025-04-02T10:00:28.784Z",
+					"creationDate": "2025-02-05T15:10:38.045Z",
 					"description": "Añade a tu colección el contenido descargable Western Desert Campaign y participa en la Batalla de Tobruk.",
 					"developer": "Team17 Digital Ltd",
 					"developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
@@ -15880,7 +15850,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.784Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15905,7 +15875,7 @@
 							"path": "addons"
 						}
 					],
-					"creationDate": "2025-04-02T10:00:28.769Z",
+					"creationDate": "2025-02-05T15:10:57.309Z",
 					"description": "Añade a tu colección el contenido descargable Western Desert Campaign y participa en la Batalla de Tobruk.",
 					"developer": "Team17 Digital Ltd",
 					"developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
@@ -15936,7 +15906,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-02T10:00:28.769Z",
+					"lastModifiedDate": "2025-06-03T00:00:26.194Z",
 					"mainGameItem": {
 						"id": "581c8d4fd9574884bff66cbdbaa42def",
 						"namespace": "6430e58041234e41b8f81f68f01450ed",
@@ -15953,6 +15923,62 @@
 					"requiresSecureAccount": false,
 					"status": "ACTIVE",
 					"title": "Hell Let Loose - Western Desert Campaign Units",
+					"unsearchable": false
+				},
+				{
+					"categories": [
+						{
+							"path": "addons"
+						}
+					],
+					"creationDate": "2025-06-25T10:00:03.470Z",
+					"description": "Lucha por toda Normandía con el DLC Operation Overlord Units.",
+					"developer": "Team17 Digital Ltd",
+					"developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+					"endOfSupport": false,
+					"entitlementName": "4d89c7d8fceb45d6b38e6a9489d0f87f",
+					"entitlementType": "EXECUTABLE",
+					"id": "4d89c7d8fceb45d6b38e6a9489d0f87f",
+					"itemType": "DURABLE",
+					"keyImages": [
+						{
+							"alt": "Hell Let Loose Hell Let Loose - Operation Overlord Units Offer",
+							"height": 1440,
+							"md5": "4c2b9e917cc51990e74d9d93763316a8",
+							"size": 582657,
+							"type": "DieselGameBox",
+							"uploadedDate": "2025-06-18T10:56:01.934Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-3j3p4.jpg",
+							"width": 2560
+						},
+						{
+							"alt": "Download Hell Let Loose Hell Let Loose - Operation Overlord Units Offer",
+							"height": 1600,
+							"md5": "4329c048a5f8b7c5bfb4d52c381a3301",
+							"size": 410300,
+							"type": "DieselGameBoxTall",
+							"uploadedDate": "2025-06-18T10:56:02.129Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-1rbus.jpg",
+							"width": 1200
+						}
+					],
+					"lastModifiedDate": "2025-06-25T10:00:03.470Z",
+					"mainGameItem": {
+						"id": "581c8d4fd9574884bff66cbdbaa42def",
+						"namespace": "6430e58041234e41b8f81f68f01450ed",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "581c8d4fd9574884bff66cbdbaa42def",
+							"namespace": "6430e58041234e41b8f81f68f01450ed",
+							"unsearchable": false
+						}
+					],
+					"namespace": "6430e58041234e41b8f81f68f01450ed",
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "Hell Let Loose - Operation Overlord Units",
 					"unsearchable": false
 				}
 			],
@@ -17426,7 +17452,6 @@
 						"egstore"
 					],
 					"id": "d4b2ac3ee29e48d2b2873b147a624bd9",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T13:55:28.869Z",
@@ -17734,7 +17759,6 @@
 						"egstore"
 					],
 					"id": "e3f3e9c28913401bae75abbcbc3b6179",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T18:59:14.884Z",
@@ -17918,10 +17942,9 @@
 						"egstore"
 					],
 					"id": "6a0199d0c6c64e1698d3c41e19224b44",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
-					"lastModifiedDate": "2025-01-08T18:39:23.679Z",
+					"lastModifiedDate": "2025-06-23T19:07:01.468Z",
 					"mainGameItem": {
 						"id": "48353a502e72433298f25827e03dbff0",
 						"namespace": "7e508f543b05465abe3a935960eb70ac",
@@ -18065,7 +18088,6 @@
 						"egstore"
 					],
 					"id": "e0ff44a66dff48a28c1b2c4fd502b993",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T18:59:14.884Z",
@@ -18248,7 +18270,6 @@
 						"egstore"
 					],
 					"id": "a54729734e52410a83e7ede92c5d6fe7",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T20:06:32.937Z",
@@ -18755,7 +18776,6 @@
 						"egstore"
 					],
 					"id": "b24f66fff5244a15a819b1824a1d7fbb",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T18:59:14.884Z",
@@ -19101,7 +19121,6 @@
 						"egstore"
 					],
 					"id": "f3cafb4f876a402e9e9f120f03e669ba",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T18:59:14.884Z",
@@ -19152,7 +19171,6 @@
 						"egstore"
 					],
 					"id": "a37766e4260343bdbd69ae0e572e4a9e",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T18:59:14.884Z",
@@ -19335,7 +19353,6 @@
 						"egstore"
 					],
 					"id": "df15b135810b4c47afa85698d3b7a928",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T20:06:33.692Z",
@@ -20518,7 +20535,6 @@
 						"egstore"
 					],
 					"id": "d650f6d63527472fb8d86aa80c5bdc5c",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [
 						{
@@ -21616,7 +21632,6 @@
 						"egstore"
 					],
 					"id": "9f5368d8e4b84f3bb6a181f085dba01b",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T19:08:03.347Z",
@@ -21715,7 +21730,6 @@
 						"egstore"
 					],
 					"id": "542992f52a8a45fdb4aa9154f0696c62",
-					"installModes": [],
 					"itemType": "CONSUMABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T19:27:24.228Z",
@@ -21880,7 +21894,6 @@
 						"egstore"
 					],
 					"id": "7506e6806d0f4d719cc3d21d412a94d1",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T15:24:51.360Z",
@@ -22323,7 +22336,6 @@
 						"egstore"
 					],
 					"id": "979701aa71c842ac88971b046dae6752",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T13:10:50.405Z",
@@ -23045,7 +23057,6 @@
 						"egstore"
 					],
 					"id": "8540b376b896460e85692fb623d5d6c1",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2025-01-08T18:39:22.889Z",
@@ -23505,7 +23516,6 @@
 						"egstore"
 					],
 					"id": "16c7f405bb7d473ca3ab2dcc30bec10b",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T14:11:04.666Z",
@@ -24427,7 +24437,6 @@
 						"egstore"
 					],
 					"id": "b79940d2606c4c64b630c04decf9115a",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T15:39:39.552Z",
@@ -24971,7 +24980,6 @@
 						"egstore"
 					],
 					"id": "abbfee8ed5764e2ba02899b3c26e3ab3",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T19:27:24.228Z",
@@ -25136,7 +25144,6 @@
 						"egstore"
 					],
 					"id": "8443a6cba3d941808325515946beccaf",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T19:27:24.228Z",
@@ -25415,7 +25422,6 @@
 						"egstore"
 					],
 					"id": "f5d97cc363b54406816f5c48d94365ad",
-					"installModes": [],
 					"itemType": "CONSUMABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T19:54:02.970Z",
@@ -25713,7 +25719,6 @@
 						"egstore"
 					],
 					"id": "2d806d51b487453f971237d72966f625",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T18:59:14.083Z",
@@ -25879,7 +25884,6 @@
 						"egstore"
 					],
 					"id": "8da8884f39dd4b6cb2e00ee4e0101d9a",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T19:27:24.228Z",
@@ -26303,7 +26307,6 @@
 						"egstore"
 					],
 					"id": "a42743794e8e4e7d89865b389f887f78",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T15:56:05.080Z",
@@ -26486,7 +26489,6 @@
 						"egstore"
 					],
 					"id": "a3e14b5818c044d3a4fbc43a772eca69",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T12:30:21.246Z",
@@ -26634,7 +26636,6 @@
 						"egstore"
 					],
 					"id": "62491dbb7ee34a38b3c670dccd572601",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T15:39:38.716Z",
@@ -26734,7 +26735,6 @@
 						"egstore"
 					],
 					"id": "6f32312a81154190afa397ad038bb5bc",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T17:19:04.258Z",
@@ -26785,7 +26785,6 @@
 						"egstore"
 					],
 					"id": "d8ec738149d3494e9701763ba746c6f0",
-					"installModes": [],
 					"itemType": "CONSUMABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T19:42:10.331Z",
@@ -26837,7 +26836,6 @@
 						"egstore"
 					],
 					"id": "1cc65561dec64357aa0c6c5bb1b7c3ea",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T12:30:21.246Z",
@@ -26937,7 +26935,6 @@
 						"egstore"
 					],
 					"id": "b9b10b51490a4c2d8a4d9c61e23f00e5",
-					"installModes": [],
 					"itemType": "CONSUMABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T19:42:11.094Z",
@@ -26989,7 +26986,6 @@
 						"egstore"
 					],
 					"id": "7777af706c9c448c8c791c297c8d0178",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T20:06:34.576Z",
@@ -27251,7 +27247,6 @@
 						"egstore"
 					],
 					"id": "a21a481327e64ab494fda4c4cd9f1349",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [
 						{
@@ -27683,7 +27678,6 @@
 						"egstore"
 					],
 					"id": "3caa86fec44540dfb0609e5ea7e107fd",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T19:27:23.415Z",
@@ -28257,7 +28251,6 @@
 						"egstore"
 					],
 					"id": "7aceded13db04beab84f1d453db67dfb",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T13:10:50.405Z",
@@ -28944,7 +28937,6 @@
 						"egstore"
 					],
 					"id": "457dc0c2e0ce4c20a7c3f5c91744bf42",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T20:06:33.692Z",
@@ -29289,7 +29281,6 @@
 						"egstore"
 					],
 					"id": "521f288912dc40dcae772c23fc3e2378",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [
 						{
@@ -29521,7 +29512,6 @@
 						"egstore"
 					],
 					"id": "e0188ab1efea41b7916f029cf00f24fb",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-11-26T13:10:50.405Z",
@@ -46980,7 +46970,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-05-22T23:47:56.919Z",
+					"lastModifiedDate": "2025-06-23T19:07:01.468Z",
 					"mainGameItem": {
 						"id": "48353a502e72433298f25827e03dbff0",
 						"namespace": "7e508f543b05465abe3a935960eb70ac",
@@ -47981,6 +47971,72 @@
 					"title": "P2 audience",
 					"unsearchable": true,
 					"useCount": 1
+				},
+				{
+					"categories": [
+						{
+							"path": "addons"
+						}
+					],
+					"creationDate": "2025-06-23T19:07:01.505Z",
+					"description": "Este DLC incluye a un familiar exclusivo que puede hacer clic por ti, además de una gran variedad de pociones para ayudarte a llegar más lejos en tus aventuras.",
+					"developer": "Codename Entertainment",
+					"developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+					"endOfSupport": false,
+					"entitlementName": "e973e4dc16d14379b18e5755e86b655c",
+					"entitlementType": "EXECUTABLE",
+					"id": "e973e4dc16d14379b18e5755e86b655c",
+					"itemType": "DURABLE",
+					"keyImages": [
+						{
+							"alt": "Idle Champions of the Forgotten Realms Rainbow Guardian Familiar Pack Offer",
+							"height": 1440,
+							"md5": "f453d2cb53da6f295ad6ae72905ad3eb",
+							"size": 673144,
+							"type": "DieselGameBox",
+							"uploadedDate": "2025-06-06T21:22:33.159Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-z5s4t.jpg",
+							"width": 2560
+						},
+						{
+							"alt": "Download Idle Champions of the Forgotten Realms Rainbow Guardian Familiar Pack Offer",
+							"height": 1600,
+							"md5": "7c3407ad97d8440ce589dbaa2a14b2f3",
+							"size": 902401,
+							"type": "DieselGameBoxTall",
+							"uploadedDate": "2025-06-06T20:45:54.702Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-15ka9.jpg",
+							"width": 1200
+						}
+					],
+					"lastModifiedDate": "2025-06-23T19:07:01.505Z",
+					"mainGameItem": {
+						"id": "48353a502e72433298f25827e03dbff0",
+						"namespace": "7e508f543b05465abe3a935960eb70ac",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "268753f532bc426fbdce80fc13a5d6e1",
+							"namespace": "7e508f543b05465abe3a935960eb70ac",
+							"unsearchable": false
+						},
+						{
+							"id": "48353a502e72433298f25827e03dbff0",
+							"namespace": "7e508f543b05465abe3a935960eb70ac",
+							"unsearchable": false
+						},
+						{
+							"id": "554e4c764f5f432cac68cee5f04c7750",
+							"namespace": "7e508f543b05465abe3a935960eb70ac",
+							"unsearchable": false
+						}
+					],
+					"namespace": "7e508f543b05465abe3a935960eb70ac",
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "Paquete del familiar Guardián del Arcoíris",
+					"unsearchable": false
 				}
 			],
 			"folder_name": "IdleChampions",
@@ -62510,7 +62566,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:24:58.905Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -62578,7 +62634,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:24:58.898Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -62754,7 +62810,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:24:58.996Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -62864,7 +62920,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:24:58.994Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -63174,7 +63230,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:24:59.060Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -63284,7 +63340,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:24:58.899Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -63702,7 +63758,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:11.988Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -63900,7 +63956,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:24:58.894Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -64098,7 +64154,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:24:59.002Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -64165,7 +64221,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:24:58.996Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -64321,7 +64377,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.504Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -64387,7 +64443,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:24:59.092Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -64453,7 +64509,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:24:59.095Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -64763,7 +64819,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.695Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -64829,7 +64885,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.725Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -64897,7 +64953,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.708Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -64965,7 +65021,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.787Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -65167,7 +65223,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.893Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -65235,7 +65291,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.886Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -65303,7 +65359,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.991Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -65371,7 +65427,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.887Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -65439,7 +65495,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.999Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -65507,7 +65563,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.998Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -65575,7 +65631,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.991Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -65643,7 +65699,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.992Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -65711,7 +65767,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.895Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -65779,7 +65835,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.891Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -65847,7 +65903,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:01.002Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -65915,7 +65971,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.988Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -65983,7 +66039,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.902Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -66051,7 +66107,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:00.901Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -66527,7 +66583,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:01.194Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -66825,7 +66881,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "7fe56846c0b04a13bc9608ee1f545a53",
 					"itemType": "DURABLE",
-					"lastModifiedDate": "2025-04-01T18:25:01.185Z",
+					"lastModifiedDate": "2025-07-01T09:00:25.058Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -66862,7 +66918,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "95f02d3090c04ee08815b4512ba5eaae",
 					"itemType": "DURABLE",
-					"lastModifiedDate": "2025-04-01T18:25:01.284Z",
+					"lastModifiedDate": "2025-07-01T09:00:25.058Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -66920,7 +66976,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:01.293Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -66977,7 +67033,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:01.291Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -67033,7 +67089,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-01T18:25:01.298Z",
+					"lastModifiedDate": "2025-07-01T09:00:28.466Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -67070,7 +67126,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "9b71c5cb74c24c809550dbfd61f66279",
 					"itemType": "DURABLE",
-					"lastModifiedDate": "2025-04-01T18:25:01.289Z",
+					"lastModifiedDate": "2025-07-01T09:00:25.058Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -67107,7 +67163,7 @@
 					"entitlementType": "AUDIENCE",
 					"id": "b479a02d575d4c49aa5f76b38ed0a4c8",
 					"itemType": "DURABLE",
-					"lastModifiedDate": "2025-04-01T18:25:01.384Z",
+					"lastModifiedDate": "2025-07-01T09:00:25.058Z",
 					"mainGameItem": {
 						"id": "7333ebed726f408e8f3bfa650488d32e",
 						"namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
@@ -75464,6 +75520,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Mon Jun 23 2025 14:50:59 GMT-0500 (hora estándar oriental)"
+		"library": "Thu Jul 03 2025 18:21:47 GMT-0500 (hora estándar oriental)"
 	}
 }

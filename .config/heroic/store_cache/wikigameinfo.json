@@ -11,7 +11,9 @@
 	},
 	"__timestamp": {
 		"Plutonium Launcher": "Mon Jun 16 2025 14:02:28 GMT-0500 (hora estándar oriental)",
-		"The Callisto Protocol": "Sun Jun 22 2025 20:46:47 GMT-0500 (hora estándar oriental)"
+		"The Callisto Protocol": "Sun Jun 22 2025 20:46:47 GMT-0500 (hora estándar oriental)",
+		"Red_Dead_Redemption_2_God": "Fri Jun 27 2025 17:37:14 GMT-0500 (hora estándar oriental)",
+		"World War Z": "Thu Jul 03 2025 18:22:31 GMT-0500 (hora estándar oriental)"
 	},
 	"The Callisto Protocol": {
 		"pcgamingwiki": {
@@ -58,5 +60,60 @@
 			"steamDeckCatagory": 3
 		},
 		"umuId": "umu-1544020"
+	},
+	"Red_Dead_Redemption_2_God": {
+		"pcgamingwiki": null,
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": null,
+		"umuId": null
+	},
+	"World War Z": {
+		"pcgamingwiki": {
+			"steamID": "699130",
+			"howLongToBeatID": "64828",
+			"metacritic": {
+				"score": "70",
+				"urlid": "world-war-z"
+			},
+			"opencritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"igdb": {
+				"score": "74",
+				"urlid": "world-war-z"
+			},
+			"direct3DVersions": [
+				"11"
+			],
+			"genres": [
+				"Shooter"
+			],
+			"releaseDate": [
+				"Windows: April 16, 2019"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"mainStory": 7,
+			"mainExtra": 13,
+			"completionist": 50,
+			"gameId": 64828,
+			"gameName": "World War Z",
+			"gameImageUrl": "https://howlongtobeat.com/games/64828_World_War_Z.jpg",
+			"gameWebLink": "https://howlongtobeat.com/game/64828"
+		},
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 3
+		},
+		"umuId": null
 	}
 }

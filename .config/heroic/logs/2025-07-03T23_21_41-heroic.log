@@ -1,0 +1,72 @@
+(18:21:41) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary
+(18:21:41) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl
+(18:21:41) INFO:    [Connection]:       Connectivity: check-online
+(18:21:41) INFO:    [Connection]:       Pinging external endpoints
+(18:21:41) INFO:    [Gog]:              Checking for existing gog manifests
+(18:21:41) WARNING: [Backend]:          Protocol already registered.
+(18:21:41) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+(18:21:41) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json --version
+(18:21:41) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/vmdjavem/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/nile --version
+(18:21:42) INFO:    [Connection]:       Connectivity: online
+(18:21:42) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(18:21:42) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json auth
+(18:21:42) INFO:    [Backend]:          
+System Information:
+CPU: 12x AMD Ryzen 5 7600X 6-Core Processor
+Memory: 32.7 GB (used: 3.97 GB)
+GPUs:
+  GPU 0:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Raphael
+    IDs: D=164e V=1002 SD=7e26 SV=1462
+    Driver: amdgpu
+  GPU 1:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Navi 32 [Radeon RX 7700 XT / 7800 XT]
+    IDs: D=747e V=1002 SD=f475 SV=1da2
+    Driver: amdgpu
+OS: EndeavourOS 6.15.4-arch2-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.17.2 Cutty Flam Franky
+  Legendary: 0.20.37 Exit 17 (Heroic)
+  gogdl: 1.1.2
+  comet: comet 0.2.0
+  Nile: 1.1.2 Will A. Zeppeli
+
+(18:21:42) INFO:    [Frontend]:         Refreshing undefined Library
+(18:21:42) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(18:21:42) INFO:    [Legendary]:        Refreshing library...
+(18:21:42) INFO:    [Legendary]:        Refreshing Epic Games...
+(18:21:42) INFO:    [Backend]:          Frontend Ready
+(18:21:42) INFO:    [Backend]:          Checking for new Heroic Updates
+(18:21:42) INFO:    [Backend]:          Checking for current version changelog
+(18:21:42) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(18:21:42) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(18:21:44) INFO:    [Winetricks]:       Downloading Winetricks
+(18:21:46) INFO:    [WineDownloader]:   Updating wine versions info
+(18:21:46) INFO:    [WineDownloader]:   Fetching upstream information...
+(18:21:47) INFO:    [Backend]:          Starting the Download Queue
+(18:21:47) INFO:    [Legendary]:        Game list updated, got 97 games & DLCs
+(18:21:47) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(18:21:47) INFO:    [Legendary]:        Checking for game updates: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(18:21:47) INFO:    [WineDownloader]:   wine versions updated
+(18:21:49) INFO:    [Legendary]:        Found 0 games to update
+(18:22:29) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for World War Z
+(18:22:29) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for World War Z
+(18:22:29) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for World War Z
+(18:22:29) INFO:    [ExtraGameInfo]:    Getting GamesDB data for World War Z
+(18:22:29) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for World War Z
+(18:22:29) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for World War Z
+(18:22:29) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for World War Z
+(18:22:29) INFO:    [ExtraGameInfo]:    Getting GamesDB data for World War Z
+(18:22:29) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(18:22:29) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(18:22:29) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary info Wombat --json --platform Windows
+(18:22:30) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary info Wombat --json --platform Windows
+(18:22:30) INFO:    [Legendary]:        Getting Info from Epic API
+(18:22:31) DEBUG:   [Backend]:          ProtonDB data for 699130 {"bestReportedTier":"platinum","confidence":"strong","score":0.7,"tier":"gold","total":73,"trendingTier":"gold"}
+(18:22:31) DEBUG:   [Backend]:          SteamDeck data for 699130 {"success":1,"results":{"appid":699130,"resolved_category":3,"resolved_items":[{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"}],"steam_deck_blog_url":"","search_id":null,"steamos_resolved_category":2,"steamos_resolved_items":[{"display_type":3,"loc_token":"#SteamOS_TestResult_GameStartupFunctional"}]}}
+(18:22:31) DEBUG:   [Backend]:          ProtonDB data for 699130 {"bestReportedTier":"platinum","confidence":"strong","score":0.7,"tier":"gold","total":73,"trendingTier":"gold"}
+(18:22:31) DEBUG:   [Backend]:          SteamDeck data for 699130 {"success":1,"results":{"appid":699130,"resolved_category":3,"resolved_items":[{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"}],"steam_deck_blog_url":"","search_id":null,"steamos_resolved_category":2,"steamos_resolved_items":[{"display_type":3,"loc_token":"#SteamOS_TestResult_GameStartupFunctional"}]}}
