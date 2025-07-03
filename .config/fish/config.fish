@@ -1846,3 +1846,17 @@ function sklaunch
     set -x OZONE_PLATFORM x11
     java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
 end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
+function sklaunch
+    set -x DRI_PRIME 1
+    set -x _JAVA_AWT_WM_NONREPARENTING 1
+    set -x GDK_BACKEND x11
+    set -x OZONE_PLATFORM x11
+    java -Dsun.java2d.opengl=true -jar ~/bin/SKlauncher-3.2.12.jar
+end
