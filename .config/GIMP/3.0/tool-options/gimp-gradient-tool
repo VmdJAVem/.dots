@@ -1,5 +1,9 @@
 # GIMP gimp-gradient-tool options
 
+(foreground
+    (color "HSVA float" 16 "\0\0\0\0\64\213\76\76\241\202E\77\0\0\200\77" 0))
+(background
+    (color "HSVA float" 16 "\0\0\0\0\0\0\0\0\0\0\200\77\0\0\200\77" 0))
 (gradient "PP a FD (RGB)")
 (brush-size 51)
 (brush-hardness 0.5)
