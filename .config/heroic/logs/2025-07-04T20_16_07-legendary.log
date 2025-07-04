@@ -1,10 +1,10 @@
-[3/7/2025, 6:21:41 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+[4/7/2025, 3:16:07 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
 legendary version "0.20.37", codename "Exit 17 (Heroic)"
-[3/7/2025, 6:21:42 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+[4/7/2025, 3:16:08 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
 [cli] INFO: Logging in...
-[Core] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
 [cli] INFO: Getting game list... (this may take a while)
-[Core] INFO: Fetching metadata for 5 app(s).
+[Core] INFO: Fetching metadata for 1 app(s).
 
 Available games:
  * 20 Minutes Till Dawn (App name: 4656facc740742a39e265b026e13d075 | Version: 1.0-win)
@@ -77,7 +77,7 @@ Available games:
  * RAWMEN: Food Fighter Arena 🍜 (App name: 93228a1a7b2b4205811d8edf930a0c18 | Version: v20250514_0306)
  * Redout: Enhanced Edition (App name: 1be5efb848844b1dabf9d67f8017a7ae | Version: 85e552)
  * Rocket League® (App name: Sugar | Version: BC2_Update55+487806b)
- * RPG in a Box (App name: d68f964c809145b682e1d768aa126f31 | Version: 1.3.4)
+ * RPG in a Box (App name: d68f964c809145b682e1d768aa126f31 | Version: 1.3.4.1)
  * Sable (App name: 9b48cbb1a0cf4a73b87ccbf4cde04b26 | Version: 4.3.10-R.130)
  * Saints Row IV Re-Elected (App name: 0d35a1d0eade40c5ac0bea5eed8b5338 | Version: 216711)
  * Severed Steel (App name: 7179f095efcc4f92a950a6d9dbd9c602 | Version: 5.5.0)
@@ -107,7 +107,7 @@ Available games:
  * Yooka-Laylee and the Impossible Lair (App name: Duckbill | Version: 1.0.28131)
 
 Total: 95
-[3/7/2025, 6:21:47 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+[4/7/2025, 3:16:13 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
 [cli] INFO: Logging in...
 [Core] INFO: Trying to re-use existing login session...
 [cli] INFO: Getting game list... (this may take a while)
@@ -183,7 +183,7 @@ Available games:
  * RAWMEN: Food Fighter Arena 🍜 (App name: 93228a1a7b2b4205811d8edf930a0c18 | Version: v20250514_0306)
  * Redout: Enhanced Edition (App name: 1be5efb848844b1dabf9d67f8017a7ae | Version: 85e552)
  * Rocket League® (App name: Sugar | Version: BC2_Update55+487806b)
- * RPG in a Box (App name: d68f964c809145b682e1d768aa126f31 | Version: 1.3.4)
+ * RPG in a Box (App name: d68f964c809145b682e1d768aa126f31 | Version: 1.3.4.1)
  * Sable (App name: 9b48cbb1a0cf4a73b87ccbf4cde04b26 | Version: 4.3.10-R.130)
  * Saints Row IV Re-Elected (App name: 0d35a1d0eade40c5ac0bea5eed8b5338 | Version: 216711)
  * Severed Steel (App name: 7179f095efcc4f92a950a6d9dbd9c602 | Version: 5.5.0)
@@ -213,6 +213,3 @@ Available games:
  * Yooka-Laylee and the Impossible Lair (App name: Duckbill | Version: 1.0.28131)
 
 Total: 95
-[3/7/2025, 6:22:29 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary info Wombat --json --platform Windows
-[Core] INFO: Trying to re-use existing login session...
-[3/7/2025, 6:22:30 p.m.] LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary info Wombat --json --platform Windows

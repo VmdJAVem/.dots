@@ -1,10 +1,11 @@
 # GIMP gimp-convolve-tool options
 
-(brush "2. Hardness 050")
+(brush "2. Block 02")
 (dynamics "Pressure Size")
 (pattern "Pine")
 (palette "Histórico de color")
 (brush-size 51)
-(brush-hardness 0.5)
+(brush-aspect-ratio 1.5789473684210527)
+(brush-hardness 0.75)
 
 # end of gimp-convolve-tool options

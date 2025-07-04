@@ -1,6 +1,6 @@
 # GIMP gimp-vector-tool options
 
-(brush "2. Hardness 050")
+(brush "2. Block 02")
 (dynamics "Pressure Size")
 (pattern "Pine")
 (gradient "PP a FD (RGB)")

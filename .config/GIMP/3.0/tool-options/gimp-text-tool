@@ -1,6 +1,7 @@
 # GIMP gimp-text-tool options
 
 (palette "Histórico de color")
-(font "Sans-serif")
+(font "Monospace Bold")
+(box-mode fixed)
 
 # end of gimp-text-tool options

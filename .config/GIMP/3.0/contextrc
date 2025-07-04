@@ -1,14 +1,14 @@
 # GIMP user context
 
-(tool "gimp-move-tool")
+(tool "gimp-text-tool")
 (paint-info "gimp-paintbrush")
-(brush "2. Hardness 050")
+(brush "2. Block 02")
 (dynamics "Pressure Size")
 (mybrush "100% Opaque")
 (pattern "Pine")
 (gradient "PP a FD (RGB)")
 (palette "Histórico de color")
-(font "Sans-serif")
+(font "Monospace Bold")
 (tool-preset "Core Pointer")
 
 # end of user context

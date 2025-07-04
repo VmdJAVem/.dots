@@ -207,7 +207,7 @@
   "menus.dashboard.shortcuts.left.shortcut1.command": "kitty",
   "menus.dashboard.shortcuts.left.shortcut1.icon": "󰞷",
   "menus.dashboard.shortcuts.left.shortcut1.tooltip": "",
-  "menus.dashboard.shortcuts.left.shortcut2.command": "kity -e cmus",
+  "menus.dashboard.shortcuts.left.shortcut2.command": "kitty -e cmus",
   "menus.dashboard.shortcuts.left.shortcut2.icon": "",
   "menus.dashboard.shortcuts.left.shortcut2.tooltip": "",
   "menus.dashboard.shortcuts.left.shortcut3.command": "java -jar ~/bin/SKlauncher-3.2.12.jar",

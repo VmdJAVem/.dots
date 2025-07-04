@@ -1,0 +1,31 @@
+Generating report for minidump
+
+Application version 4.27.2.0
+ ... built from changelist 18319896
+
+OS version Linux 6.15.4-arch2-1 (network name: 7w7)
+Running 6 x86_64 processors (12 logical cores)
+Exception was "SIGSEGV: invalid attempt to write memory at address 0x0000000000000008"
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+FH-Linux-Shipping!UnknownFunction(0x4068aa6)
+FH-Linux-Shipping!UnknownFunction(0x4068cb8)
+FH-Linux-Shipping!UnknownFunction(0x40f50d7)
+FH-Linux-Shipping!UnknownFunction(0x414e330)
+FH-Linux-Shipping!UnknownFunction(0x414e3c9)
+FH-Linux-Shipping!UnknownFunction(0x2afca95)
+FH-Linux-Shipping!UnknownFunction(0x2afc6bd)
+FH-Linux-Shipping!UnknownFunction(0x413eda1)
+FH-Linux-Shipping!UnknownFunction(0x2b4b636)
+FH-Linux-Shipping!UnknownFunction(0x2b2e00f)
+libc.so.6!UnknownFunction(0x957ea)
+libc.so.6!UnknownFunction(0x11918b)
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!
