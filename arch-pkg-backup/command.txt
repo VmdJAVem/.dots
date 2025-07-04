@@ -1,0 +1,5 @@
+official:
+comm -23 <(pacman -Qqe | sort) <(pacman -Qqm | sort) > official_pkglist.txt
+
+aur:
+pacman -Qqm > aur_pkglist.txt
