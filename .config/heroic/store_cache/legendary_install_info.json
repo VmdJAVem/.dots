@@ -1,7 +1,9 @@
 {
 	"__timestamp": {
 		"256ba8bdd1ff4c26a0b2d3776d1a1bf6": "Mon Jun 23 2025 12:57:49 GMT-0500 (hora estándar oriental)",
-		"8b6a0e1413744785a43c9f9f9547b4d6": "Tue Jun 24 2025 17:31:25 GMT-0500 (hora estándar oriental)"
+		"8b6a0e1413744785a43c9f9f9547b4d6": "Tue Jun 24 2025 17:31:25 GMT-0500 (hora estándar oriental)",
+		"78903903b1f1419bae248467f27ff470": "Fri Jul 04 2025 18:50:54 GMT-0500 (hora estándar oriental)",
+		"Eel": "Fri Jul 04 2025 19:08:31 GMT-0500 (hora estándar oriental)"
 	},
 	"256ba8bdd1ff4c26a0b2d3776d1a1bf6": {
 		"game": {
@@ -190,6 +192,88 @@
 			"num_chunks": 8634,
 			"disk_size": 9111753122,
 			"download_size": 4285932294,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"78903903b1f1419bae248467f27ff470": {
+		"game": {
+			"app_name": "78903903b1f1419bae248467f27ff470",
+			"title": "INDUSTRIA",
+			"version": "1.3.2",
+			"platform_versions": {
+				"Windows": "1.3.2"
+			},
+			"cloud_saves_supported": true,
+			"cloud_save_folder": "{AppData}/Industria/Saved/SaveGames/",
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 3337845,
+			"type": "json",
+			"version": 13,
+			"feature_level": 13,
+			"app_name": "78903903b1f1419bae248467f27ff470",
+			"launch_exe": "IndustriaLauncher.exe",
+			"launch_command": "",
+			"build_version": "1.3.2",
+			"build_id": "Z_jXAimtKwiMsrzA1AWzt5XIvt4",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 40,
+			"num_chunks": 9883,
+			"disk_size": 10373340331,
+			"download_size": 9491842031,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"Eel": {
+		"game": {
+			"app_name": "Eel",
+			"title": "Kingdom Come Deliverance",
+			"version": "1.9.6-404-504czj3",
+			"platform_versions": {
+				"Windows": "1.9.6-404-504czj3"
+			},
+			"cloud_saves_supported": true,
+			"cloud_save_folder": "{UserSavedGames}/KingdomCome/",
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 3991848,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "Eel",
+			"launch_exe": "bin/Win64MasterMasterEpicPGO/KingdomCome.exe",
+			"launch_command": "",
+			"build_version": "1.9.6-404-504czj3",
+			"build_id": "8EykpkrFQJD2n-z9JK-n5XwKcgA",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 120,
+			"num_chunks": 61280,
+			"disk_size": 64254701045,
+			"download_size": 60660732590,
 			"tag_disk_size": [],
 			"tag_download_size": []
 		}

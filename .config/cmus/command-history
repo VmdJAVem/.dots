@@ -1,8 +1,13 @@
+qa!
+filter artist="Los Prisioneros"
+add ~/Music
+add ~/Musix
+add ~/Muscic
+add ~/Musci
 q
 Q
 filter
 filter artist="Portavoz"
-qa!
 h
 commands
 man
@@ -21,7 +26,6 @@ filter artist="Royal Quartet"
 artist="Royal Quartet"
 quit
 filter artist="Boards of Canada"
-add ~/Music
 colorscheme catppuccin
 filter artist="Alcolirykoz"
 filter artist="Rxnde Akozta"

@@ -51,6 +51,64 @@
 		"storeUrl": "https://www.epicgames.com/store/product/world-war-z"
 	},
 	"__timestamp": {
-		"wombat": "Thu Jul 03 2025 18:22:30 GMT-0500 (hora estándar oriental)"
+		"wombat": "Thu Jul 03 2025 18:22:30 GMT-0500 (hora estándar oriental)",
+		"51b1503392e04abab64364092cbfca2b": "Fri Jul 04 2025 18:50:53 GMT-0500 (hora estándar oriental)"
+	},
+	"51b1503392e04abab64364092cbfca2b": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-industria-bleakmill-s2-1200x1600-440bc3148f1f.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Bleakmill",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Headup",
+			"description": "On the evening of the fall of the Berlin wall, a young woman plunges headlong into a parallel dimension to find her missing work colleague who has disappeared under mysterious circumstances. While the checkpoints in East Berlin are still being overrun by crowds of people, Nora escapes from this world, into unknown layers of time and into an unknown fate.\n\n# FEATURES\n- **Profound story:** Experience a classic story-driven first-person shooter with about 4 hours of gameplay\n- **Tight atmosphere:** Dive into a lovingly designed world full of mystery and lynchesque surreality\n- **Deadly danger:** Enemies lurk around every corner - defend yourself with 4 different weapons\n- **Unique setting:** Berlin at the time of the fall of the wall meets a surreal industrialized city\n- **Experimental soundtrack:** Synthesizer, acoustic instruments and melancholic vocals\n\n# STORY\nBerlin, 9th November 1989: After four decades of division, thousands of cars are rolling across the inner-German border. The Wall is finally open!\n\nAt the same time a man disappears in a secret research facility near East Berlin. His goodbye message reaches you too late. When you arrive the State Security has already destroyed all records of the research project. The complex is deserted and empty.\n\nThe search for Walter takes you deep into the center of the facility - right into the heart of the universe, where time seems to stand still. Dark secret lurks - well hidden - behind the curtain.",
+			"shortDescription": "INDUSTRIA is a first-person shooter that takes you from East Berlin into a parallel reality, shortly before the end of the Cold War. On the search for a missing work colleague, you decypher a dark past in a mysterious parallel dimension.",
+			"title": "ABOUT INDUSTRIA",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 7 / Windows 8.1 / Windows 10 64-bit (latest Service Pack)",
+				"recommended": "Windows 7 / Windows 8.1 / Windows 10 64-bit (latest Service Pack)"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "3.2 GHz Quad-Core Processor",
+				"recommended": "3.2 GHz Quad-Core Processor"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "6 GB RAM",
+				"recommended": "12 GB RAM"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "15 GB available space",
+				"recommended": "15 GB available space"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Direct X",
+				"minimum": "Version 11",
+				"recommended": "Version 12"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "Geforce GTX 1060 / Radeon RX 580 or equivalent",
+				"recommended": "Geforce RTX 2060 / AMD RX 5600 XT or equivalent"
+			}
+		],
+		"releaseDate": "2021-09-30T16:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/industria"
 	}
 }

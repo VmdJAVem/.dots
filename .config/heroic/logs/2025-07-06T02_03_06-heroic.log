@@ -1,0 +1,65 @@
+(21:03:06) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary
+(21:03:06) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl
+(21:03:06) INFO:    [Connection]:       Connectivity: check-online
+(21:03:06) INFO:    [Connection]:       Pinging external endpoints
+(21:03:06) INFO:    [Gog]:              Checking for existing gog manifests
+(21:03:06) WARNING: [Backend]:          Protocol already registered.
+(21:03:06) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+(21:03:06) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json --version
+(21:03:06) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/vmdjavem/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/nile --version
+(21:03:06) INFO:    [Backend]:          
+System Information:
+CPU: 12x AMD Ryzen 5 7600X 6-Core Processor
+Memory: 32.7 GB (used: 5.64 GB)
+GPUs:
+  GPU 0:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Raphael
+    IDs: D=164e V=1002 SD=7e26 SV=1462
+    Driver: amdgpu
+  GPU 1:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Navi 32 [Radeon RX 7700 XT / 7800 XT]
+    IDs: D=747e V=1002 SD=f475 SV=1da2
+    Driver: amdgpu
+OS: EndeavourOS 6.15.4-arch2-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.17.2 Cutty Flam Franky
+  Legendary: 0.20.37 Exit 17 (Heroic)
+  gogdl: 1.1.2
+  comet: comet 0.2.0
+  Nile: 1.1.2 Will A. Zeppeli
+
+(21:03:06) INFO:    [Connection]:       Connectivity: online
+(21:03:06) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(21:03:06) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/vmdjavem/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/vmdjavem/.config/heroic/gog_store/auth.json auth
+(21:03:06) INFO:    [Frontend]:         Refreshing undefined Library
+(21:03:06) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(21:03:06) INFO:    [Legendary]:        Refreshing library...
+(21:03:06) INFO:    [Legendary]:        Refreshing Epic Games...
+(21:03:06) INFO:    [Backend]:          Frontend Ready
+(21:03:06) INFO:    [Backend]:          Checking for new Heroic Updates
+(21:03:06) INFO:    [Backend]:          Checking for current version changelog
+(21:03:07) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(21:03:07) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(21:03:08) INFO:    [Legendary]:        Game list updated, got 97 games & DLCs
+(21:03:08) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(21:03:08) INFO:    [Legendary]:        Checking for game updates: LEGENDARY_CONFIG_PATH=/home/vmdjavem/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(21:03:09) INFO:    [Winetricks]:       Downloading Winetricks
+(21:03:09) INFO:    [DXVKInstaller]:    Updating dxvk to: dxvk-2.7
+(21:03:10) INFO:    [Legendary]:        Found 0 games to update
+(21:03:11) INFO:    [DownloadManager]:  Downloader: Finished downloading https://github.com/doitsujin/dxvk/releases/download/v2.7/dxvk-2.7.tar.gz
+(21:03:11) INFO:    [DXVKInstaller]:    Downloaded dxvk, extracting...
+(21:03:11) INFO:    [DXVKInstaller]:    dxvk updated!
+(21:03:11) INFO:    [WineDownloader]:   Updating wine versions info
+(21:03:11) INFO:    [WineDownloader]:   Fetching upstream information...
+(21:03:11) INFO:    [Backend]:          Starting the Download Queue
+(21:03:12) INFO:    [WineDownloader]:   wine versions updated
+(21:04:36) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(21:04:36) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(21:04:36) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(21:04:36) DEBUG:   [Backend]:          Running Wine command: createprefix
+(21:04:41) INFO:    [Backend]:          Checking if wine version exists: Proton - GE-Proton-latest
+(21:04:41) DEBUG:   [Backend]:          Running Wine command: /home/vmdjavem/Games/Heroic/Prefixes/default/Hearts of iron IV/pfx/drive_c/Program Files (x86)/DODI-Repacks/Hearts of Iron IV/dowser.exe

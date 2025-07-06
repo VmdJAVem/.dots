@@ -362,7 +362,8 @@
 	},
 	"__timestamp": {
 		"epic_256ba8bdd1ff4c26a0b2d3776d1a1bf6": "Sun Jun 22 2025 20:46:46 GMT-0500 (hora estándar oriental)",
-		"epic_Wombat": "Thu Jul 03 2025 18:22:30 GMT-0500 (hora estándar oriental)"
+		"epic_Wombat": "Thu Jul 03 2025 18:22:30 GMT-0500 (hora estándar oriental)",
+		"epic_78903903b1f1419bae248467f27ff470": "Fri Jul 04 2025 18:50:52 GMT-0500 (hora estándar oriental)"
 	},
 	"epic_Wombat": {
 		"id": "52248680157041260",
@@ -724,5 +725,373 @@
 			"url_format": "https://images.gog.com/e7c51451bf1d85cbc70a1e4213b1061b6376f0c0b1786a5b7c4d83e18d8cefed{formatter}.{ext}?namespace=gamesdb"
 		},
 		"etag": "W/\"726235202102600e6a8f659576e7745e\""
+	},
+	"epic_78903903b1f1419bae248467f27ff470": {
+		"id": "54795470779519094",
+		"game_id": "53019871958963849",
+		"platform_id": "epic",
+		"external_id": "78903903b1f1419bae248467f27ff470",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "53019871958963849",
+			"parent_id": null,
+			"dlcs_ids": [],
+			"first_release_date": "2021-09-30T00:00:00+0000",
+			"releases": [
+				{
+					"id": "53022773167682488",
+					"platform_id": "steam",
+					"external_id": "1172650",
+					"release_per_platform_id": "steam_1172650",
+					"availability": 0
+				},
+				{
+					"id": "54686946853612374",
+					"platform_id": "gog",
+					"external_id": "1804122723",
+					"release_per_platform_id": "gog_1804122723",
+					"availability": 1
+				},
+				{
+					"id": "54795470779519094",
+					"platform_id": "epic",
+					"external_id": "78903903b1f1419bae248467f27ff470",
+					"release_per_platform_id": "epic_78903903b1f1419bae248467f27ff470",
+					"availability": 0
+				},
+				{
+					"id": "55529134038128255",
+					"platform_id": "psn",
+					"external_id": "PPSA06605_00",
+					"release_per_platform_id": "psn_PPSA06605_00",
+					"availability": 0
+				},
+				{
+					"id": "55783719825521322",
+					"platform_id": "humble",
+					"external_id": "industria",
+					"release_per_platform_id": "humble_industria",
+					"availability": 0
+				},
+				{
+					"id": "55783735901531420",
+					"platform_id": "humble",
+					"external_id": "industria_choice_steam",
+					"release_per_platform_id": "humble_industria_choice_steam",
+					"availability": 0
+				},
+				{
+					"id": "56137999151965578",
+					"platform_id": "psn",
+					"external_id": "PPSA06620_00",
+					"release_per_platform_id": "psn_PPSA06620_00",
+					"availability": 0
+				},
+				{
+					"id": "58732340858644319",
+					"platform_id": "humble",
+					"external_id": "industria_row_steam",
+					"release_per_platform_id": "humble_industria_row_steam",
+					"availability": 0
+				},
+				{
+					"id": "53019871958963849",
+					"platform_id": "generic",
+					"external_id": "53019871958963849",
+					"release_per_platform_id": "generic_53019871958963849",
+					"availability": 1
+				}
+			],
+			"title": {
+				"*": "Industria",
+				"en-US": "Industria"
+			},
+			"sorting_title": {
+				"*": "Industria",
+				"en-US": "Industria"
+			},
+			"type": "game",
+			"developers_ids": [
+				"53661232772663815"
+			],
+			"developers": [
+				{
+					"id": "53661232772663815",
+					"name": "Bleakmill",
+					"slug": "bleakmill"
+				}
+			],
+			"publishers_ids": [
+				"51141441233654814"
+			],
+			"publishers": [
+				{
+					"id": "51141441233654814",
+					"name": "Headup Games",
+					"slug": "headup-games"
+				}
+			],
+			"genres_ids": [
+				"51071842251704278",
+				"51121492616405278",
+				"51141224673762034",
+				"51141224821260861"
+			],
+			"genres": [
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				},
+				{
+					"id": "51121492616405278",
+					"name": {
+						"*": "Indie",
+						"en-US": "Indie"
+					},
+					"slug": "indie"
+				},
+				{
+					"id": "51141224673762034",
+					"name": {
+						"*": "Puzzle",
+						"en-US": "Puzzle"
+					},
+					"slug": "puzzle"
+				},
+				{
+					"id": "51141224821260861",
+					"name": {
+						"*": "Shooter",
+						"en-US": "Shooter"
+					},
+					"slug": "shooter"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391",
+				"51141224819961538",
+				"51141225463821636",
+				"51141227696328058"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51141224819961538",
+					"name": {
+						"*": "Horror",
+						"en-US": "Horror"
+					},
+					"slug": "horror"
+				},
+				{
+					"id": "51141225463821636",
+					"name": {
+						"*": "Science fiction",
+						"en-US": "Science fiction"
+					},
+					"slug": "science-fiction"
+				},
+				{
+					"id": "51141227696328058",
+					"name": {
+						"*": "Mystery",
+						"en-US": "Mystery"
+					},
+					"slug": "mystery"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/1e781b5eebf68fbe16bd280d204f1c9343d86bed0305626f3747c743d54be837{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ff8a8cc3eb406a4342469cf4a6d7c03fa99d376fb4c5b02aa0578f2d492ce0a8{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d60c2081993aa83c0649d4c510f26d4300f0539b48f27bc01b82d873a240f512{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b7ac837ce1a24b26c00f562b28c8426e9fcb6701b9b665563ca180730f3381d7{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/106c4bc80c38e366999f3566e207d057957a267a0eb6ad65f116569c1341e172{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a65591231f2aa5406a57670db02ac00b2d18aa535513fcf392d174b7f3a61222{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/069e047bbd0222e5a6bb030f414ea1547091b29dd24c2b762f288e6db938cd00{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/521ce8207fb077649ec7e239d172315dcb30cdbe4794efe2c15b30cdc6b030cb{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c05e38d84c64d0ab6aae4cc8b0a7d0e8f6c58dca98a0fbf5436e29df13e171ea{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ff64ac11ad25e69918398a4f5a7ecbec479cbae5d29aed7614bc5d10b84738e9{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/99a8e628ea808164001a6156d884f0adbc135a44a34f68fe0b00aa84a741cd72{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d38a4c8e5d40244b17958722d8e9076edd00b0e36b9e7163956443657f7f96f9{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ee11a8335ef8e8d300eb6464fa2de3f847928aa6fa1c5faeac045f891e3a0768{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/29a3937f6673f5e5f155cde47339381eb43be82bdc14702a5e18614ca46d44d6{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/12463b5306f8de642d4a39cccff876417c7550f23855cb4876049d1e868b46a9{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e580e0213f9bc0c7b514a427c883060f71ad1ba104d2b4b68f656562a00137e8{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/3378100ac8b8a630fd0a70cf33347f57887332abc2554868e74a691684217bd3{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/0b2b28e487ff88ee31b58551e593aa71c1a232ac7143fa86c89c331ee524807c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5fcf8e7cab2706f037b1c930a933071162cd376cd74748cfb26b3e3781d217b3{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/68fe915b63cd5ce2cf579ef6a168b1cbb03a4576c07f38d9474800b9e595eb4b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c87eba14a5ad46aad7f63dff6b6582b32829f0db87afc09093345c5bd9e1beb8{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f3c08384791be0f01f09eb9bae431a275e7cde283f72219074ffc312939665f2{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/3ee4e5edbe29942ba8f945ddf6dbacdbcf3b0689dd032eb0d4ebf52f0ce0eeb5{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "6lO8Uo_wKII",
+					"thumbnail_id": "6lO8Uo_wKII",
+					"name": "Gameplay Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "pSKV-DsXQU8",
+					"thumbnail_id": "pSKV-DsXQU8",
+					"name": "Launch Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "X4IVmvxitFs",
+					"thumbnail_id": "X4IVmvxitFs",
+					"name": "Release Date Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "I7J8UQkCMyo",
+					"thumbnail_id": "I7J8UQkCMyo",
+					"name": "Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/b671f4e52d51a6c89a3e027372fc48cc7d63298bc26b7d51f9be2eb65ef75330{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Industria is a first-person shooter that takes you from East Berlin into a parallel reality, shortly before the end of the Cold War. On the search for a missing work colleague, you decipher a dark past in a mysterious and surreal steampunk world.",
+				"en-US": "Industria is a first-person shooter that takes you from East Berlin into a parallel reality, shortly before the end of the Cold War. On the search for a missing work colleague, you decipher a dark past in a mysterious and surreal steampunk world."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 80,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/ac75ef435d8514fef4a822c65a95e8ba37156b02e6926714e5d837b1d7b13e54{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/ac75ef435d8514fef4a822c65a95e8ba37156b02e6926714e5d837b1d7b13e54{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/0424514c2d6089337d143b2ca11a543dbb9cc4af075b89335a4de9bec56f0927{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/0424514c2d6089337d143b2ca11a543dbb9cc4af075b89335a4de9bec56f0927{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/33d774a70f344926080c5d2f73fb3411cf643dd1006defb57a5cee311d972ef2{formatter}.{ext}?namespace=gamesdb"
+			},
+			"icon": {
+				"url_format": "https://images.gog.com/3acbc54b5e8a7e805a2d5d08ded34309afe229b752a1991724483d5d13990e47{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/ddfffeee5940a9b246ea06607f96bafdd8b0452891b72603b1083d204c8f842f{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0,
+			"slug": "industria-2021"
+		},
+		"title": {
+			"*": "INDUSTRIA",
+			"en-US": "Industria"
+		},
+		"sorting_title": {
+			"*": "INDUSTRIA",
+			"en-US": "INDUSTRIA"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Industria is a first-person shooter that takes you from East Berlin into a parallel reality, shortly before the end of the Cold War. On the search for a missing work colleague, you decipher a dark past in a mysterious and surreal steampunk world.",
+			"en-US": "Industria is a first-person shooter that takes you from East Berlin into a parallel reality, shortly before the end of the Cold War. On the search for a missing work colleague, you decipher a dark past in a mysterious and surreal steampunk world."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			}
+		],
+		"icon": {
+			"url_format": "https://images.gog.com/3acbc54b5e8a7e805a2d5d08ded34309afe229b752a1991724483d5d13990e47{formatter}.{ext}?namespace=gamesdb"
+		},
+		"logo": {
+			"url_format": "https://images.gog.com/33d774a70f344926080c5d2f73fb3411cf643dd1006defb57a5cee311d972ef2{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"7a15d4f3ffd7d6d8199b833c1259d547\""
 	}
 }

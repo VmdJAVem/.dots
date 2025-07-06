@@ -1,10 +1,10 @@
 {
 	"general-logs": {
-		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-04T21_03_38-heroic.log",
-		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-04T20_16_07-heroic.log",
-		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-04T21_03_38-legendary.log",
-		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-04T21_03_38-gogdl.log",
-		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-04T21_03_38-nile.log"
+		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-06T02_03_06-heroic.log",
+		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-06T01_03_59-heroic.log",
+		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-06T02_03_06-legendary.log",
+		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-06T02_03_06-gogdl.log",
+		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-06T02_03_06-nile.log"
 	},
 	"userHome": "/home/vmdjavem",
 	"language": "en",
@@ -71,12 +71,16 @@
 	"games": {
 		"recent": [
 			{
-				"appName": "256ba8bdd1ff4c26a0b2d3776d1a1bf6",
-				"title": "The Callisto Protocol"
-			},
-			{
 				"appName": "puJw5rzdvKHmsAjcxMTH1m",
 				"title": "Hearts of iron IV"
+			},
+			{
+				"appName": "78903903b1f1419bae248467f27ff470",
+				"title": "INDUSTRIA"
+			},
+			{
+				"appName": "256ba8bdd1ff4c26a0b2d3776d1a1bf6",
+				"title": "The Callisto Protocol"
 			},
 			{
 				"appName": "k9WDWBSBu5MRntf9VDLYzL",

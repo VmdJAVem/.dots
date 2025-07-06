@@ -1187,6 +1187,53 @@
 			"endTime": 1750643205639,
 			"startTime": 1750637192805,
 			"status": "done"
+		},
+		{
+			"params": {
+				"appName": "78903903b1f1419bae248467f27ff470",
+				"path": "/home/vmdjavem/Games/Heroic",
+				"installDlcs": [],
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "78903903b1f1419bae248467f27ff470",
+					"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_INDUSTRIA_Bleakmill_S1_2560x1440-6ac8f445f036547e0f7cc20dd4fd814f",
+					"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_INDUSTRIA_Bleakmill_S2_1200x1600-b1181c183907044fe877286351ec9905",
+					"cloud_save_enabled": true,
+					"developer": "Headup Gmbh",
+					"extra": {
+						"about": {
+							"description": "INDUSTRIA",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://www.epicgames.com/store/product/industria"
+					},
+					"folder_name": "INDUSTRIA",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "51b1503392e04abab64364092cbfca2b",
+					"is_mac_native": false,
+					"save_folder": "{AppData}/Industria/Saved/SaveGames/",
+					"title": "INDUSTRIA",
+					"canRunOffline": true,
+					"isEAManaged": false,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/industria"
+				},
+				"size": "8.84 GiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1751673060205,
+			"endTime": 1751673877326,
+			"startTime": 1751673060208,
+			"status": "done"
 		}
 	],
 	"queue": []

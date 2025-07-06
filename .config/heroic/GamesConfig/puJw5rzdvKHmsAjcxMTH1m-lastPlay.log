@@ -4,7 +4,7 @@ Installed in: /home/vmdjavem/Games/Heroic/Prefixes/default/Hearts of iron IV/pfx
 
 System Info:
 CPU: 12x AMD Ryzen 5 7600X 6-Core Processor
-Memory: 32.7 GB (used: 4.17 GB)
+Memory: 32.7 GB (used: 3.92 GB)
 GPUs:
   GPU 0:
     Name: Advanced Micro Devices, Inc. [AMD/ATI] Raphael
@@ -14,7 +14,7 @@ GPUs:
     Name: Advanced Micro Devices, Inc. [AMD/ATI] Navi 32 [Radeon RX 7700 XT / 7800 XT]
     IDs: D=747e V=1002 SD=f475 SV=1da2
     Driver: amdgpu
-OS: EndeavourOS 6.15.2-arch1-1 (linux)
+OS: EndeavourOS 6.15.4-arch2-1 (linux)
 
 The current system is not a Steam Deck
 We are not running inside a Flatpak container
@@ -51,7 +51,7 @@ Game Settings: {
 	"winePrefix": "/home/vmdjavem/Games/Heroic/Prefixes/default/Hearts of iron IV"
 }
 
-Game launched at: Sat Jun 21 2025 18:34:08 GMT-0500 (hora estándar oriental)
+Game launched at: Sat Jul 05 2025 18:08:58 GMT-0500 (hora estándar oriental)
 
 Winetricks packages: 
 

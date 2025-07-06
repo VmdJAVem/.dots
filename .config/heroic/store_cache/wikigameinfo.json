@@ -13,7 +13,8 @@
 		"Plutonium Launcher": "Mon Jun 16 2025 14:02:28 GMT-0500 (hora estándar oriental)",
 		"The Callisto Protocol": "Sun Jun 22 2025 20:46:47 GMT-0500 (hora estándar oriental)",
 		"Red_Dead_Redemption_2_God": "Fri Jun 27 2025 17:37:14 GMT-0500 (hora estándar oriental)",
-		"World War Z": "Thu Jul 03 2025 18:22:31 GMT-0500 (hora estándar oriental)"
+		"World War Z": "Thu Jul 03 2025 18:22:31 GMT-0500 (hora estándar oriental)",
+		"INDUSTRIA": "Fri Jul 04 2025 18:50:54 GMT-0500 (hora estándar oriental)"
 	},
 	"The Callisto Protocol": {
 		"pcgamingwiki": {
@@ -113,6 +114,44 @@
 		"steamInfo": {
 			"compatibilityLevel": "gold",
 			"steamDeckCatagory": 3
+		},
+		"umuId": null
+	},
+	"INDUSTRIA": {
+		"pcgamingwiki": {
+			"steamID": "1172650",
+			"howLongToBeatID": "97560",
+			"metacritic": {
+				"score": "67",
+				"urlid": "industria"
+			},
+			"opencritic": {
+				"score": "64",
+				"urlid": "12070/industria"
+			},
+			"igdb": {
+				"score": "",
+				"urlid": ""
+			},
+			"direct3DVersions": [
+				"11",
+				"12"
+			],
+			"genres": [
+				"Shooter"
+			],
+			"releaseDate": [
+				"Windows: September 30, 2021"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": "1172650"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 2
 		},
 		"umuId": null
 	}
