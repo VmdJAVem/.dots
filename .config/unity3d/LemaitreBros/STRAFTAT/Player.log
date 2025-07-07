@@ -8,9 +8,9 @@ Desktop is 1920 x 1080 @ 60 Hz
 Initialize engine version: 2021.3.16f1 (4016570cf34f)
 [Subsystems] Discovering subsystems at path /home/vmdjavem/.local/share/Steam/steamapps/common/STRAFTAT/STRAFTAT_Data/UnitySubsystems
 GfxDevice: creating device client; threaded=1; jobified=1
-Renderer: AMD Radeon RX 7700 XT (radeonsi, navi32, LLVM 20.1.6, DRM 3.63, 6.15.2-arch1-1)
+Renderer: AMD Radeon RX 7700 XT (radeonsi, navi32, LLVM 20.1.7, DRM 3.63, 6.15.5-arch1-1)
 Vendor:   AMD
-Version:  4.6 (Core Profile) Mesa 25.1.3-arch1.3
+Version:  4.6 (Core Profile) Mesa 25.1.5-arch1.1
 GLES:     0
  GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_cla
 mp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_A
@@ -19,11 +19,951 @@ GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL
 ect GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_E
 XT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_shader_subgroup GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_c
 onditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 827117568
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 1010714304
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.105 seconds
+- Completed reload, in  0.114 seconds
 Default vsync count 1
 requesting resize 1920 x 1080
 Using native desktop resolution 1920 x 1080
 requesting fullscreen 1920 x 1080 at 0 Hz
 Desktop is 1920 x 1080 @ 60 Hz
+Couldn't create a Convex Mesh from source mesh "SM_Ellispoid_00" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_Aboubi_Head01_Col" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_Kloster_00" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_Emery_00" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_MonkHair_00" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_Welder_00" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_HorribleTete_00" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_Aboubi00_Torso" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_Moebius_00" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_Bonnetti_00" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_HeadBandBlue_00" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_Jeeto_00" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_Slug_00" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_Maurice_00" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_Moebius_01" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_Aboubi_Head00_col" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_Resultman_00" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_BunnyRider_00" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "SM_futureGoggles_00" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+The referenced script on this Behaviour (Game Object 'SM_Lamp01') is missing!
+UnloadTime: 0.311658 ms
+Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+Odin Serializer detected whitelisted runtime platform LinuxPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+Initializing Steam Client API
+[S_API] SteamAPI_Init(): Loaded '/home/vmdjavem/.local/share/Steam/linux64/steamclient.so' OK.
+Setting breakpad minidump AppID = 2386720
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561199216673981 [API loaded no]
+Local User: VmdJAVem:0
+Steam API has been initialized with App ID: 2386720
+Begining GetAll for 1 boards.
+-1
+Leaderboards ready
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+Joined lobby: 181521EC
+2
+<color=#0099bc><b>DOTWEEN ► </b></color>Max Tweens reached: capacity has automatically been increased from 200/50 to 500/50. Use DOTween.SetTweensCapacity to set it manually at startup
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+PlayerListItem: Friend relationship: k_EFriendRelationshipNone
+PlayerListItem: Friend relationship: k_EFriendRelationshipNone
+ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.Collections.Generic.List`1[T].get_Item (System.Int32 index) [0x00009] in <05089c1b6989455fb1452c627044bac4>:0 
+  at HeathenEngineering.DEMO.LobbyChatUILogic.HandleChatMessage (HeathenEngineering.SteamworksIntegration.LobbyChatMsg message) [0x000f9] in <f93a596e02cf49f7b59bec77beff825b>:0 
+  at UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) [0x00010] in <2df71e4cebe448f4b3ad245962bffdeb>:0 
+  at UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) [0x00025] in <2df71e4cebe448f4b3ad245962bffdeb>:0 
+  at HeathenEngineering.SteamworksIntegration.LobbyManager.HandleChatMessage (HeathenEngineering.SteamworksIntegration.LobbyChatMsg message) [0x00013] in <2bd4fdf1ca4746f680db2a67eb9f2a71>:0 
+  at UnityEngine.Events.InvokableCall`1[T1].Invoke (T1 args0) [0x00010] in <2df71e4cebe448f4b3ad245962bffdeb>:0 
+  at UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) [0x00025] in <2df71e4cebe448f4b3ad245962bffdeb>:0 
+  at HeathenEngineering.SteamworksIntegration.API.Matchmaking+Client+<>c.<get_EventLobbyAuthenticationRequest>b__13_0 (Steamworks.LobbyChatMsg_t result) [0x000ff] in <2bd4fdf1ca4746f680db2a67eb9f2a71>:0 
+  at Steamworks.Callback`1[T].OnRunCallback (System.IntPtr pvParam) [0x00016] in <69bc4313a83c4c029d92d6d91b1d9cd0>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Steamworks.CallbackDispatcher:ExceptionHandler(Exception)
+Steamworks.Callback`1:OnRunCallback(IntPtr)
+Steamworks.CallbackDispatcher:RunFrame(Boolean)
+Steamworks.SteamAPI:RunCallbacks()
+HeathenEngineering.SteamworksIntegration.API.App:CallbackWaitThread_ProgressChanged(Object, ProgressChangedEventArgs)
+System.ComponentModel.BackgroundWorker:OnProgressChanged(ProgressChangedEventArgs)
+System.ComponentModel.BackgroundWorker:ProgressReporter(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+UnityEngine.UnitySynchronizationContext:ExecuteTasks()
+
+<color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
+
+  at (wrapper managed-to-native) UnityEngine.Transform.set_localScale_Injected(UnityEngine.Transform,UnityEngine.Vector3&)
+  at UnityEngine.Transform.set_localScale (UnityEngine.Vector3 value) [0x00000] in <2df71e4cebe448f4b3ad245962bffdeb>:0 
+  at DG.Tweening.ShortcutExtensions+<>c__DisplayClass53_0.<DOPunchScale>b__1 (UnityEngine.Vector3 x) [0x00000] in <5ddb5fa70dfe40d2818192400111b9ec>:0 
+  at DG.Tweening.Plugins.Vector3ArrayPlugin.EvaluateAndApply (DG.Tweening.Plugins.Options.Vector3ArrayOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Vector3[] startValue, UnityEngine.Vector3[] changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0036d] in <5ddb5fa70dfe40d2818192400111b9ec>:0 
+  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <5ddb5fa70dfe40d2818192400111b9ec>:0 
+
+The referenced script on this Behaviour (Game Object 'SM_Lamp01') is missing!
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.068174 ms
+There are multiple TimeManagers instantiated which are using manual physics. Manual physics with multiple TimeManagers is not supported.
+There can be only one active Event System.
+Unloading 2918 unused Assets to reduce memory usage. Loaded Objects now: 55881.
+Total: 11.976485 ms (FindLiveObjects: 1.683643 ms CreateObjectMapping: 0.398889 ms MarkObjects: 6.365756 ms  DeleteObjects: 3.527767 ms)
+
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+<color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
+
+  at (wrapper managed-to-native) UnityEngine.Transform.set_localScale_Injected(UnityEngine.Transform,UnityEngine.Vector3&)
+  at UnityEngine.Transform.set_localScale (UnityEngine.Vector3 value) [0x00000] in <2df71e4cebe448f4b3ad245962bffdeb>:0 
+  at DG.Tweening.ShortcutExtensions+<>c__DisplayClass44_0.<DOScale>b__1 (UnityEngine.Vector3 x) [0x00000] in <5ddb5fa70dfe40d2818192400111b9ec>:0 
+  at DG.Tweening.Plugins.Vector3Plugin.EvaluateAndApply (DG.Tweening.Plugins.Options.VectorOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Vector3 startValue, UnityEngine.Vector3 changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0022b] in <5ddb5fa70dfe40d2818192400111b9ec>:0 
+  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <5ddb5fa70dfe40d2818192400111b9ec>:0 
+
+Detected lobby exit (181521EC)
+steam overlay invite join
+1
+Detected lobby exit (18152A9C)
+Joined lobby: 181521EC
+2
+Detected lobby exit (181521EC)
+steam overlay invite join
+2
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+PlayerListItem: Friend relationship: k_EFriendRelationshipNone
+PlayerListItem: Friend relationship: k_EFriendRelationshipNone
+The referenced script on this Behaviour (Game Object 'SM_Lamp01 (2)') is missing!
+The referenced script on this Behaviour (Game Object 'SM_Lamp01 (1)') is missing!
+The referenced script on this Behaviour (Game Object 'SM_Lamp01') is missing!
+Spawned NetworkObject was expected to exist but does not for Id 61638. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 16941. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 9037. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 56300. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 38750. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 35290. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 35140. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 17053. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 47299. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 40873. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because you are not the owner of this object. .
+Spawned NetworkObject was expected to exist but does not for Id 20920. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Player Manager: Host's canStart state: True
+Player Manager: Host's canStart state: True
+Player Manager: Host's canStart state: False
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Player Manager: Host's canStart state: False
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Ownership cannot be given for object Shotgun(Clone). Only server may give ownership.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Easy Decal: No Decal root found. Created root.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Spawned NetworkObject was expected to exist but does not for Id 25603. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because you are not the owner of this object. .
+Player Manager: Host's canStart state: True
+Spawned NetworkObject was expected to exist but does not for Id 22763. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Player Manager: Host's canStart state: True
+Player Manager: Host's canStart state: False
+Player Manager: Host's canStart state: False
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+The referenced script on this Behaviour (Game Object 'SM_Lamp01 (3)') is missing!
+The referenced script on this Behaviour (Game Object 'SM_Lamp01 (2)') is missing!
+The referenced script on this Behaviour (Game Object 'SM_Lamp01 (1)') is missing!
+The referenced script on this Behaviour (Game Object 'SM_Lamp01 (4)') is missing!
+The referenced script on this Behaviour (Game Object 'SM_Lamp01') is missing!
+Spawned NetworkObject was expected to exist but does not for Id 11602. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 47369. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 14130. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 44653. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 33746. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 1066. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 2901. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 16192. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 5963. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 59524. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because you are not the owner of this object. .
+Spawned NetworkObject was expected to exist but does not for Id 1778. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Player Manager: Host's canStart state: True
+Player Manager: Host's canStart state: True
+Player Manager: Host's canStart state: False
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Player Manager: Host's canStart state: False
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Ownership cannot be given for object Nugget(Clone). Only server may give ownership.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Ownership cannot be given for object PivotPoint. Only server may give ownership.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Ownership cannot be given for object Nugget(Clone). Only server may give ownership.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Ownership cannot be given for object PivotPoint. Only server may give ownership.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Ownership cannot be given for object PivotPoint. Only server may give ownership.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Easy Decal: No Decal root found. Created root.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+PlayOneShot was called with a null AudioClip.
+<color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
+
+  at (wrapper managed-to-native) UnityEngine.Transform.set_localScale_Injected(UnityEngine.Transform,UnityEngine.Vector3&)
+  at UnityEngine.Transform.set_localScale (UnityEngine.Vector3 value) [0x00000] in <2df71e4cebe448f4b3ad245962bffdeb>:0 
+  at DG.Tweening.ShortcutExtensions+<>c__DisplayClass53_0.<DOPunchScale>b__1 (UnityEngine.Vector3 x) [0x00000] in <5ddb5fa70dfe40d2818192400111b9ec>:0 
+  at DG.Tweening.Plugins.Vector3ArrayPlugin.EvaluateAndApply (DG.Tweening.Plugins.Options.Vector3ArrayOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Vector3[] startValue, UnityEngine.Vector3[] changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0036d] in <5ddb5fa70dfe40d2818192400111b9ec>:0 
+  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <5ddb5fa70dfe40d2818192400111b9ec>:0 
+
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Spawned NetworkObject was expected to exist but does not for Id 39057. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Spawned NetworkObject was expected to exist but does not for Id 62153. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because you are not the owner of this object. .
+Player Manager: Host's canStart state: True
+Player Manager: Host's canStart state: True
+Player Manager: Host's canStart state: False
+Player Manager: Host's canStart state: False
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Ownership cannot be given for object Nugget(Clone). Only server may give ownership.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Ownership cannot be given for object Nugget(Clone). Only server may give ownership.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+<color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
+
+  at (wrapper managed-to-native) UnityEngine.Transform.set_localScale_Injected(UnityEngine.Transform,UnityEngine.Vector3&)
+  at UnityEngine.Transform.set_localScale (UnityEngine.Vector3 value) [0x00000] in <2df71e4cebe448f4b3ad245962bffdeb>:0 
+  at DG.Tweening.ShortcutExtensions+<>c__DisplayClass53_0.<DOPunchScale>b__1 (UnityEngine.Vector3 x) [0x00000] in <5ddb5fa70dfe40d2818192400111b9ec>:0 
+  at DG.Tweening.Plugins.Vector3ArrayPlugin.EvaluateAndApply (DG.Tweening.Plugins.Options.Vector3ArrayOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Vector3[] startValue, UnityEngine.Vector3[] changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0036d] in <5ddb5fa70dfe40d2818192400111b9ec>:0 
+  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <5ddb5fa70dfe40d2818192400111b9ec>:0 
+
+Spawned NetworkObject was expected to exist but does not for Id 65110. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 36378. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 44214. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 46310. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 48015. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 55593. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 3944. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 1041. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 24884. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 4319. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 55923. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 65072. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 58714. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 11465. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 5976. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 17654. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 63819. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 14072. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 10209. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because you are not the owner of this object. .
+8
+8
+Spawned NetworkObject was expected to exist but does not for Id 5321. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Player Manager: Host's canStart state: True
+Player Manager: Host's canStart state: True
+Player Manager: Host's canStart state: False
+Player Manager: Host's canStart state: False
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Ownership cannot be given for object HandGrenade(Clone). Only server may give ownership.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+PlayOneShot was called with a null AudioClip.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because you are not the owner of this object. .
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because you are not the owner of this object. .
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+PlayOneShot was called with a null AudioClip.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+<color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
+
+  at (wrapper managed-to-native) UnityEngine.Transform.set_localRotation_Injected(UnityEngine.Transform,UnityEngine.Quaternion&)
+  at UnityEngine.Transform.set_localRotation (UnityEngine.Quaternion value) [0x00000] in <2df71e4cebe448f4b3ad245962bffdeb>:0 
+  at DG.Tweening.ShortcutExtensions+<>c__DisplayClass54_0.<DOPunchRotation>b__1 (UnityEngine.Vector3 x) [0x0000c] in <5ddb5fa70dfe40d2818192400111b9ec>:0 
+  at DG.Tweening.Plugins.Vector3ArrayPlugin.EvaluateAndApply (DG.Tweening.Plugins.Options.Vector3ArrayOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Vector3[] startValue, UnityEngine.Vector3[] changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0036d] in <5ddb5fa70dfe40d2818192400111b9ec>:0 
+  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <5ddb5fa70dfe40d2818192400111b9ec>:0 
+
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Easy Decal: No Decal root found. Created root.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Spawned NetworkObject was expected to exist but does not for Id 22253. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because you are not the owner of this object. .
+Player Manager: Host's canStart state: True
+Spawned NetworkObject was expected to exist but does not for Id 47485. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Player Manager: Host's canStart state: True
+Player Manager: Host's canStart state: False
+Player Manager: Host's canStart state: False
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because you are not the owner of this object. .
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because you are not the owner of this object. .
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Ownership cannot be given for object GlandGrenade(Clone). Only server may give ownership.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Ownership cannot be given for object Glock(Clone). Only server may give ownership.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Spawned NetworkObject was expected to exist but does not for Id 51194. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 38524. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 58805. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 37757. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 34316. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because you are not the owner of this object. .
+Spawned NetworkObject was expected to exist but does not for Id 63326. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Player Manager: Host's canStart state: True
+Player Manager: Host's canStart state: True
+Player Manager: Host's canStart state: False
+Player Manager: Host's canStart state: False
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Ownership cannot be given for object Bayshore(Clone). Only server may give ownership.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Can not play a disabled audio source
+Spawned NetworkObject was expected to exist but does not for Id 42966. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because you are not the owner of this object. .
+Player Manager: Host's canStart state: True
+Spawned NetworkObject was expected to exist but does not for Id 6110. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Player Manager: Host's canStart state: True
+Player Manager: Host's canStart state: False
+Player Manager: Host's canStart state: False
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Ownership cannot be given for object Bayshore(Clone). Only server may give ownership.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Can not play a disabled audio source
+PlayOneShot was called with a null AudioClip.
+Spawned NetworkObject was expected to exist but does not for Id 14927. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 10321. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 306. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 48939. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 19977. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 5558. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 25448. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+Spawned NetworkObject was expected to exist but does not for Id 60236. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because you are not the owner of this object. .
+Spawned NetworkObject was expected to exist but does not for Id 22637. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Player Manager: Host's canStart state: True
+Player Manager: Host's canStart state: True
+Player Manager: Host's canStart state: False
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Player Manager: Host's canStart state: False
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Ownership cannot be given for object HK_Caws(Clone). Only server may give ownership.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Can not play a disabled audio source
+Spawned NetworkObject was expected to exist but does not for Id 14263. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because you are not the owner of this object. .
+Player Manager: Host's canStart state: True
+Spawned NetworkObject was expected to exist but does not for Id 47940. This may occur if you sent a NetworkObject reference which does not exist, be it destroyed or if the client does not have visibility.
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+NetworkAudioClips instance has not been assigned for this NetworkAudioSource. This is not an error, but you will be unable to play other AudioClips than default one!
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Player Manager: Host's canStart state: True
+Player Manager: Host's canStart state: False
+Player Manager: Host's canStart state: False
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete operation as server when server is not active. You can disable this warning by setting WritePermissions to ClientUnsynchronized.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Ownership cannot be given for object HK_Caws(Clone). Only server may give ownership.
+Cannot complete action because server is not active. This may also occur if the object is not yet initialized or if it does not contain a NetworkObject component. This message may be disabled by setting the Logging field in your attribute to LoggingType.Off
+Can not play a disabled audio source
+
+=================================================================
+	Native Crash Reporting
+=================================================================
+Got a SIGSEGV while executing native code. This usually indicates
+a fatal error in the mono runtime or one of the native libraries 
+used by your application.
+=================================================================
+
+=================================================================
+	Native stacktrace:
+=================================================================
+	0x7f9631d15062 - /home/vmdjavem/.local/share/Steam/steamapps/common/STRAFTAT/STRAFTAT_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so : 
+	0x7f9631cbdd3d - /home/vmdjavem/.local/share/Steam/steamapps/common/STRAFTAT/STRAFTAT_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so : 
+	0x7f9631c43250 - /home/vmdjavem/.local/share/Steam/steamapps/common/STRAFTAT/STRAFTAT_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so : 
+	0x7f963ca4def0 - /usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/libc.so.6 : 
+	0x7f94a6a42a6d - /home/vmdjavem/.local/share/Steam/linux64/steamclient.so : 
+	0x7f94a6a42efa - /home/vmdjavem/.local/share/Steam/linux64/steamclient.so : 
+	0x7f94a6a2e79b - /home/vmdjavem/.local/share/Steam/linux64/steamclient.so : 
+	0x7f94a6757015 - /home/vmdjavem/.local/share/Steam/linux64/steamclient.so : 
+	0x7f94a71a1636 - /home/vmdjavem/.local/share/Steam/linux64/steamclient.so : 
+	0x7f94a71c0361 - /home/vmdjavem/.local/share/Steam/linux64/steamclient.so : 
+	0x7f94a71c06fe - /home/vmdjavem/.local/share/Steam/linux64/steamclient.so : 
+	0x7f94a71c1d24 - /home/vmdjavem/.local/share/Steam/linux64/steamclient.so : 
+	0x7f94a71c22cb - /home/vmdjavem/.local/share/Steam/linux64/steamclient.so : 
+	0x7f94a7ce7f00 - /home/vmdjavem/.local/share/Steam/linux64/steamclient.so : 
+	0x7f963caa57eb - /usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/libc.so.6 : 
+	0x7f963cb2918c - /usr/lib/pressure-vessel/overrides/lib/x86_64-linux-gnu/libc.so.6 : 
+
+=================================================================
+	Telemetry Dumper:
+=================================================================
+Thread 0x7f9510fc16c0 may have been prematurely finalized* Assertion at mono-threads.c:702, condition `info' not met, function:mono_thread_info_current, 
+Executing Unity Signal Handler 
+
+Executing Unity Signal Handler 
+
+* Assertion at threads.c:6918, condition `this_thread_controls == thread_given_control' not met
+Thread 0x7f963926e6c0 may have been prematurely finalizedThread 0x7f9638a6d6c0 may have been prematurely finalized* Assertion at mono-threads.c:702, condition `info' not met, function:mono_thread_info_current, 
+* Assertion at mono-threads.c:702, condition `info' not met, function:mono_thread_info_current, 

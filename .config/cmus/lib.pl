@@ -195,6 +195,7 @@
 /home/vmdjavem/Music/Los Chikos del Maiz - El derecho a la pereza.mp3
 /home/vmdjavem/Music/Los Prisioneros - Latinoamérica Es un Pueblo al Sur de Estados Unidos.mp3
 /home/vmdjavem/Music/Los Prisioneros - Maldito Sudaca.mp3
+/home/vmdjavem/Music/Los Prisioneros - Por Qué No Se Van.mp3
 /home/vmdjavem/Music/Macabre Plaza - Abandoned Plaza.mp3
 /home/vmdjavem/Music/Machine Girl - Krystle - URL Cyber Palace Mix.mp3
 /home/vmdjavem/Music/Machine Girl - Ghost.mp3
@@ -324,6 +325,7 @@
 /home/vmdjavem/Music/Venetian Snares - Hajnal.mp3
 /home/vmdjavem/Music/Venetian Snares - Gentleman.mp3
 /home/vmdjavem/Music/Venetian Snares - Ultraviolent Junglist.mp3
+/home/vmdjavem/Music/Vengaboys - Boom, Boom, Boom, Boom!!.mp3
 /home/vmdjavem/Music/Vertigoaway, Schizoscriptures - Break This The Breaking Point 2.mp3
 /home/vmdjavem/Music/MF DOOM - Change the Beat.mp3
 /home/vmdjavem/Music/Violadores Del Verso - Vicios y Virtudes.mp3

@@ -1,12 +1,14 @@
+q
+filter
+filter artist="Los Prisoneros"
+filter artist="Vengaboys"
+add ~/Music
 qa!
 filter artist="Los Prisioneros"
-add ~/Music
 add ~/Musix
 add ~/Muscic
 add ~/Musci
-q
 Q
-filter
 filter artist="Portavoz"
 h
 commands

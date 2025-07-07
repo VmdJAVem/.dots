@@ -56,8 +56,8 @@
 	<pref name="targetFpsIndex" type="int">2</pref>
 	<pref name="toggleTwoAxis" type="int">0</pref>
 	<pref name="tutorialClicked" type="int">1</pref>
-	<pref name="unity.player_session_count" type="string">MTk=</pref>
-	<pref name="unity.player_sessionid" type="string">NTA4MTM1ODA1Njk3NTA0MjQ3NA==</pref>
+	<pref name="unity.player_session_count" type="string">MjA=</pref>
+	<pref name="unity.player_sessionid" type="string">NDI0NTcxODI0MjY1OTkzNTY5NQ==</pref>
 	<pref name="useVsync" type="int">0</pref>
 	<pref name="voiceChatVolume" type="float">1</pref>
 </unity_prefs>

@@ -1,10 +1,10 @@
 {
 	"general-logs": {
-		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-06T02_03_06-heroic.log",
-		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-06T01_03_59-heroic.log",
-		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-06T02_03_06-legendary.log",
-		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-06T02_03_06-gogdl.log",
-		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-06T02_03_06-nile.log"
+		"currentLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-06T20_31_35-heroic.log",
+		"lastLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-06T02_03_06-heroic.log",
+		"legendaryLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-06T20_31_35-legendary.log",
+		"gogdlLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-06T20_31_35-gogdl.log",
+		"nileLogFile": "/home/vmdjavem/.config/heroic/logs/2025-07-06T20_31_35-nile.log"
 	},
 	"userHome": "/home/vmdjavem",
 	"language": "en",

@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: cuzrc-ie6ma
-created: 2025-04-13T17:35:47-05:00
