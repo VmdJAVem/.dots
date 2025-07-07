@@ -40,7 +40,12 @@ fzf --fish | source
 
 # PATH configuration
 set -gx PATH $PATH /home/vmdjavem/.local/bin
-
+# pdfs
+function zpdf
+    for file in $argv
+        nohup zathura "$file" >/dev/null 2>&1 &
+    end
+end
 #zoxide
 zoxide init fish | source
 #fetch
