@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "locale.dtd">
+<locale lang="da" encoding="utf16">
+	<str id="msg_error_server">Der er opstået en serverfejl.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network">Beskeder om PlayStation®-relaterede emner vises, når der er forbundet til et netværk.                For at slette, skal du gå til [Netværk] &gt; [Information Board] og vælge [Vis ikke] fra valgmenuen.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network_list">Beskeder om PlayStation®-relaterede emner vises, når der er forbundet til et netværk.&#xa;For at slette, skal du gå til [Netværk] &gt; [Information Board] og vælge [Vis ikke] fra valgmenuen.</str><!--dtype="C"-->
+</locale>

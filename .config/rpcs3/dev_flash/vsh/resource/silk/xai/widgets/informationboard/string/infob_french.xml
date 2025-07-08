@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "locale.dtd">
+<locale lang="fr" encoding="utf16">
+	<str id="msg_error_server">Une erreur de serveur est survenue.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network">Des notifications sur des rubriques associées à PlayStation® sont affichées lorsque connecté à un réseau.                Pour effacer ces informations, choisissez [Réseau] &gt; [Information Board] et sélectionnez [Ne pas afficher] à partir du menu d'options.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network_list">Des notifications sur des rubriques associées à PlayStation® sont affichées lorsque connecté à un réseau.&#xa;Pour effacer ces informations, choisissez [Réseau] &gt; [Information Board] et sélectionnez [Ne pas afficher] à partir du menu d'options.</str><!--dtype="C"-->
+</locale>

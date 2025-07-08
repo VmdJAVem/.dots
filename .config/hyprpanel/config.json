@@ -602,5 +602,6 @@
   "theme.bar.buttons.modules.worldclock.background": "#282828",
   "theme.bar.buttons.modules.worldclock.icon_background": "#d3869b",
   "theme.bar.buttons.modules.worldclock.icon": "#d3869b",
-  "theme.bar.buttons.modules.worldclock.border": "#d3869b"
+  "theme.bar.buttons.modules.worldclock.border": "#d3869b",
+  "theme.bar.buttons.workspaces.enableBorder": false
 }

@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c01000000000000005b6ca2f58111312a00f8a159835da82638fb0a9d46c9a78294e3eb49ed5a8fad87484db0cf23dd6109e07dfaf838f1ebbb302d620842a93c91117bd9ee6720ab335121e3f010ca20f0cd5c699b682c61da6c4d8fb9a0241087957d9b42b4ff7c92191b12fb5a26a648b0c80f61e661cbf2b1e2f39ff93470ce582b45ed3f6713f1106a09ad87fa077d577241996c566fe2e02abb-->
+<trophyconf version="1.0">
+ <npcommid>NPWR00851_00</npcommid>
+ <trophyset-version>01.00</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>BAYONETTA</title-name>
+ <title-detail>Bayonetta Trophy Set</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Acquire all Trophies</name>
+  <detail>Acquire all Trophies</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>A Primer In The Magical Arts</name>
+  <detail>Complete the Vestibule.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Fortitudo, Bringer Of Flame</name>
+  <detail>Defeat Fortitudo on any difficulty.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Temperantia, Manipulator Of Wind</name>
+  <detail>Defeat Temperantia on any difficulty.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Iustitia, Giver Of Life</name>
+  <detail>Defeat Iustitia on any difficulty.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Sapientia, Controller Of Seas</name>
+  <detail>Defeat Sapientia on any difficulty.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Master Of The Heavens</name>
+  <detail>Defeat Father Balder on any difficulty.</detail>
+ </trophy>
+ <trophy id="007" hidden="no" ttype="B" pid="000">
+  <name>Taste Of The Witching Hour</name>
+  <detail>Complete all Chapters on any difficulty.</detail>
+ </trophy>
+ <trophy id="008" hidden="no" ttype="B" pid="000">
+  <name>Chapters 1-4 (Normal)</name>
+  <detail>Complete Chapters 1 through 4 on Normal difficulty.</detail>
+ </trophy>
+ <trophy id="009" hidden="no" ttype="B" pid="000">
+  <name>Chapters 5-7 (Normal)</name>
+  <detail>Complete Chapters 5 through 7 on Normal difficulty.</detail>
+ </trophy>
+ <trophy id="010" hidden="no" ttype="B" pid="000">
+  <name>Chapters 8-11 (Normal)</name>
+  <detail>Complete Chapters 8 through 11 on Normal difficulty.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Chapters 12-13 (Normal)</name>
+  <detail>Complete Chapters 12 and 13 on Normal difficulty.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="B" pid="000">
+  <name>Chapters 14-Epilogue (Normal)</name>
+  <detail>Complete Chapters 14 through the Epilogue&#x0a;on Normal difficulty.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="S" pid="000">
+  <name>Umbra Witch</name>
+  <detail>Complete all Chapters on Normal difficulty.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>New Testament: Ch. 1-4 (Hard)</name>
+  <detail>Complete Chapters 1 through 4 on Hard difficulty.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>New Testament: Ch. 5-7 (Hard)</name>
+  <detail>Complete Chapters 5 through 7 on Hard difficulty.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>New Testament: Ch. 8-11 (Hard)</name>
+  <detail>Complete Chapters 8 through 11 on Hard difficulty.</detail>
+ </trophy>
+ <trophy id="017" hidden="yes" ttype="B" pid="000">
+  <name>New Testament: Ch. 12-13 (Hard)</name>
+  <detail>Complete Chapters 12 and 13 on Hard difficulty.</detail>
+ </trophy>
+ <trophy id="018" hidden="yes" ttype="B" pid="000">
+  <name>New Testament: Close The Book</name>
+  <detail>Complete Chapters 14 through the Epilogue&#x0a;on Hard difficulty.</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="S" pid="000">
+  <name>Umbra Elder</name>
+  <detail>Complete all Chapters on Hard difficulty.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="G" pid="000">
+  <name>Legendary Dark Witch</name>
+  <detail>Complete all Chapters on ∞ Climax difficulty.</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>I'm A Bit... I Mean Witch.</name>
+  <detail>Execute a Torture Attack.</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>Feels Good, Doesn't It?</name>
+  <detail>Execute 50 Torture Attacks.</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>You Want To Touch Me?</name>
+  <detail>Engage Witch Time successfully 10 times.</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>Nice Try</name>
+  <detail>Engage Witch Time successfully 10 times consecutively.</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>Platinum!</name>
+  <detail>Earn 10 Platinum Medals. Must be earned&#x0a;in 10 different battles.</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>Double, Double, Toil And Trouble</name>
+  <detail>Create 20 Concoctions. </detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>Tread Not So Softly</name>
+  <detail>Kill an enemy by jumping on top of them.</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>Nice And Relaxed</name>
+  <detail>Avert 10 enemy attacks with&#x0a;the Moon of Mahaa-Kalaa equipped.</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>Touch And It Will Hurt</name>
+  <detail>Counter 10 enemy attacks with &#x0a;the Moon of Mahaa-Kalaa equipped.</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="S" pid="000">
+  <name>Touch And It Will REALLY Hurt</name>
+  <detail>Counter three enemy attacks consecutively with&#x0a;the Moon of Mahaa-Kalaa equipped.</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="B" pid="000">
+  <name>Come Here, Little Boy</name>
+  <detail>Taunt and defeat five plus angered enemies while&#x0a;taking no damage. Gaze of Despair may be equipped.</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>Wicked Weaver</name>
+  <detail>Execute a Wicked Weave attack while using&#x0a;Dodge Offset.</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="S" pid="000">
+  <name>Wicked Weave Master</name>
+  <detail>Execute 20 Wicked Weave attacks while using&#x0a;Dodge Offset.</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>The Deepest Cut</name>
+  <detail>Kill 20 enemies using only Iai-Jutsu with Shuraba.&#x0a;(Iai-Jutsu performed by holding △.)</detail>
+ </trophy>
+ <trophy id="035" hidden="no" ttype="B" pid="000">
+  <name>Higher And Higher</name>
+  <detail>While never setting foot on the ground, grab&#x0a;enemies 10 times using Kulshedra.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>The Ice Witch</name>
+  <detail>Freeze 20 enemies while wearing Odette.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Seeker Of Magic</name>
+  <detail>Purchase three new techniques.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="S" pid="000">
+  <name>Commander Of Magic</name>
+  <detail>Purchase all techniques.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Record Collector</name>
+  <detail>Obtain three complete Angelic Hymn Gold LPs.</detail>
+ </trophy>
+ <trophy id="040" hidden="yes" ttype="S" pid="000">
+  <name>Record Fanatic</name>
+  <detail>Obtain seven complete Angelic Hymn Gold LPs.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Treasure Collector</name>
+  <detail>Discover half of all the Umbra Witches' final resting places.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="S" pid="000">
+  <name>Treasure Fanatic</name>
+  <detail>Discover all of the Umbra Witches' final resting places.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>The Path To The Heavens</name>
+  <detail>Discover all Alfheim portals.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>Angel May Cry</name>
+  <detail>Complete half of all Alfheim portals.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="G" pid="000">
+  <name>Angel Slayer</name>
+  <detail>Complete all Alfheim portals.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="S" pid="000">
+  <name>Truth In Its Purest Form</name>
+  <detail>Collect all of Antonio's notes.</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Naughty Tentacles</name>
+  <detail>Destroy all the tentacles that drop down&#x0a;together during a single sequence in Chapter 9.</detail>
+ </trophy>
+ <trophy id="048" hidden="yes" ttype="B" pid="000">
+  <name>A Mother's Love</name>
+  <detail>Defend Cereza during the out of body experience,&#x0a;ensuring she takes no damage.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Fire The Afterburners</name>
+  <detail>Earn Platinum Medals during&#x0a;Verse 1 and Verse 2 of Chapter 14.</detail>
+ </trophy>
+ <trophy id="050" hidden="yes" ttype="B" pid="000">
+  <name>Just In The Nick Of Time</name>
+  <detail>Dodge the runaway streetcar during Chapter 2.</detail>
+ </trophy>
+</trophyconf>

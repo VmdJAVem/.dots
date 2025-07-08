@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "locale.dtd">
+<locale lang="no" encoding="utf16">
+	<str id="msg_error_server">Det har oppstått en feil med serveren.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network">Informasjon om PlayStation®-relaterte emner vises når du er koblet til et nettverk.                For å fjerne gå til [Nettverk] &gt; [Information Board] og velg [Ikke Vis] fra valgmenyen.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network_list">Informasjon om PlayStation®-relaterte emner vises når du er koblet til et nettverk.&#xa;For å fjerne gå til [Nettverk] &gt; [Information Board] og velg [Ikke Vis] fra valgmenyen.</str><!--dtype="C"-->
+</locale>

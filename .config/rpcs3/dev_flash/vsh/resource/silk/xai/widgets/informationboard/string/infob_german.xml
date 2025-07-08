@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "locale.dtd">
+<locale lang="de" encoding="utf16">
+	<str id="msg_error_server">Ein Server-Fehler ist aufgetreten.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network">Benachrichtigungen zu PlayStation®-spezifischen Themengebieten werden bei Anschluss an ein Netzwerk angezeigt.                Um diese nicht anzuzeigen, wählen Sie [Netzwerk] &gt; [Information Board] und wählen Sie dann im Optionsmenü [Nicht anzeigen] aus.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network_list">Benachrichtigungen zu PlayStation®-spezifischen Themengebieten werden bei Anschluss an ein Netzwerk angezeigt.&#xa;Um diese nicht anzuzeigen, wählen Sie [Netzwerk] &gt; [Information Board] und wählen Sie dann im Optionsmenü [Nicht anzeigen] aus.</str><!--dtype="C"-->
+</locale>

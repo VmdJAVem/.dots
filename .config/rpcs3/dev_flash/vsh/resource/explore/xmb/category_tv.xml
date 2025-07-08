@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<XMBML version="1.0">
+	<View id="root">
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_nsx"
+				src="wboard://localhost/list?type=xmb_tv"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_iplayer"
+				src="sel://localhost/iplayer?category_tv.xml#seg_iplayer"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_gameexit"
+				src="sel://localhost/ingame?path=category_tv.xml#seg_gameexit&type=tv"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_megatv"
+				src="xcb://localhost/exists?having=off&rquery=root.fixed_items.megatv&cond=Ae+Game:Common.dirPath /dev_hdd0/game+Ae+Game:Common.fileName NPHA70006"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gameDir"
+				src="xcb://localhost/query?limit=2048&table=MMS_MEDIA_TYPE_HDD&sort=-Game:Common.stat.rating-Game:Common.timeCreated&cond=Aa+Game:Common.title+Ae+Game:Game.category AT"
+			/>
+
+		</Items>
+	</View>
+
+	<View id="seg_gameexit">
+		<Items>
+			<Item class="type:x-xmb/xmlgameexit" key="gameexit" />
+		</Items>
+	</View>
+
+	<View id="seg_megatv">
+		<Attributes>
+			<Table key="megatv">
+				<Pair key="info"><String>net_package_install_with_eula</String></Pair>
+				<Pair key="pkg_src"><String>http://k.dl.playstation.net/k/qooktv/HP9000-NPHA70006_00-0000000000000100.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_scek_tv_application</String></Pair>
+				<Pair key="content_id"><String>HP9000-NPHA70006_00-0000000000000100</String></Pair>
+				<Pair key="instruction_rsc"><String>msg_scek_tv_application_explanation</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_flash/vsh/resource/explore/icon/megatv-xmb.png</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="megatv"	attr="megatv" />
+		</Items>
+	</View>
+
+	<View id="seg_iplayer">
+		<Attributes>
+			<Table key="iplayer">
+				<Pair key="type"><String>iplayer</String></Pair>
+				<Pair key="title"><String>BBC iPlayer</String></Pair>
+				<Pair key="module_action"><String>http://www.bbc.co.uk/iplayer/ps3direct</String></Pair>
+ 			</Table>
+		</Attributes>
+		<Items>
+			<Item class="type:x-xmb/xmlwebbrowser" key="iplayer" attr="iplayer" />
+		</Items>
+	</View>
+
+</XMBML>

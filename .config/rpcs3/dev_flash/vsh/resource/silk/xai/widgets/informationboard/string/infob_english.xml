@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "locale.dtd">
+<locale lang="en" encoding="utf16">
+	<str id="msg_error_server">A server error has occurred.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network">Notifications about PlayStation® related topics are displayed when connected to a network.                To set not to display, go to [Network] &gt; [Information Board] and select [Do Not Display] from the options menu.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network_list">Notifications about PlayStation® related topics are displayed when connected to a network.&#xa;To set not to display, go to [Network] &gt; [Information Board] and select [Do Not Display] from the options menu.</str><!--dtype="C"-->
+</locale>

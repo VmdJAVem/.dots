@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "locale.dtd">
+<locale lang="ru" encoding="utf16">
+	<str id="msg_error_server">Произошла ошибка сервера.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network">Уведомления, касающиеся тематики PlayStation®, сейчас отображаются при подключении в сеть.                Для сброса, перейдите в [Сеть] &gt; [Доска объявлений] и выберите [Не отображать] в меню параметров.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network_list">Уведомления, касающиеся тематики PlayStation®, сейчас отображаются при подключении в сеть.&#xa;Для сброса, перейдите в [Сеть] &gt; [Доска объявлений] и выберите [Не отображать] в меню параметров.</str><!--dtype="C"-->
+</locale>

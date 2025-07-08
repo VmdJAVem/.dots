@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "locale.dtd">
+<locale lang="fi" encoding="utf16">
+	<str id="msg_error_server">Palvelinvirhe on tapahtunut.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network">Tiedotteita PlayStation®-aiheista näytetään, kun olet kytkeytyneenä verkkoon.                Tyhjentääksesi, mene [Verkko] &gt; [Information Board] ja valitse [Älä näytä] vaihtoehtovalikosta.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network_list">Tiedotteita PlayStation®-aiheista näytetään, kun olet kytkeytyneenä verkkoon.&#xa;Tyhjentääksesi, mene [Verkko] &gt; [Information Board] ja valitse [Älä näytä] vaihtoehtovalikosta.</str><!--dtype="C"-->
+</locale>

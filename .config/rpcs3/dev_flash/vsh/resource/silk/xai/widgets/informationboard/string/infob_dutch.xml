@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "locale.dtd">
+<locale lang="nl" encoding="utf16">
+	<str id="msg_error_server">Er is een serverfout opgetreden.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network">Meldingen omtrent PlayStation® verwante topics worden weergegeven wanneer u bent verbonden met het netwerk.                Om dit uit te schakelen ga naar [Netwerk] &gt; [Information Board] en selecteer [Niet weergeven] van het optie menu.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network_list">Meldingen omtrent PlayStation® verwante topics worden weergegeven wanneer u bent verbonden met het netwerk.&#xa;Om dit uit te schakelen ga naar [Netwerk] &gt; [Information Board] en selecteer [Niet weergeven] van het optie menu.</str><!--dtype="C"-->
+</locale>

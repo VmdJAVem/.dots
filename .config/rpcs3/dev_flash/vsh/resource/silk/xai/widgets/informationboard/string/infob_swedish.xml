@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "locale.dtd">
+<locale lang="sv" encoding="utf16">
+	<str id="msg_error_server">Ett severfel har inträffat.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network">Notifiering om PlayStation®-relaterade ämnen visas när du är ansluten till ett nätverk.                För att rensa går du till [Nätverk] &gt; [Information Board] och väljer [Visa inte] från alternativmenyn.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network_list">Notifiering om PlayStation®-relaterade ämnen visas när du är ansluten till ett nätverk.&#xa;För att rensa går du till [Nätverk] &gt; [Information Board] och väljer [Visa inte] från alternativmenyn.</str><!--dtype="C"-->
+</locale>

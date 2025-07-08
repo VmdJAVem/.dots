@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<displayname>Information Board</displayname>
+	<identifier>com.playstation.widget.RSSreader</identifier>
+	<name>Information Board</name>
+	<version>1.0.18</version>
+	<closeboxinsetx>0</closeboxinsetx>
+	<closeboxinsety>0</closeboxinsety>
+	<height>676</height>
+	<initialx>640</initialx>
+	<initialy>70</initialy>
+	<mainhtml>rss.swf</mainhtml>
+	<width>451</width>
+	<widgetkey>0000</widgetkey>
+</widget>

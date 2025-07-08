@@ -13,6 +13,7 @@ alias archfetch='neofetch --source ~/neofetch_ascii/arch.txt'
 alias cd='z'
 alias vim='nvim'
 alias myclock='~/bin/myclock'
+alias pdf='zpdf $(fzf)'
 function fish_greeting
     echo "hi :3"
 end

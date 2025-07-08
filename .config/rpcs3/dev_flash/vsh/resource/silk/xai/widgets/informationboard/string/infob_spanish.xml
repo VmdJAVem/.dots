@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "locale.dtd">
+<locale lang="es" encoding="utf16">
+	<str id="msg_error_server">Se ha producido un error de servidor.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network">Se muestran notificaciones acerca de temas relacionados a PlayStation® al estar conectado a una red.                Para borrar, vaya a [Red] &gt; [Information Board] y seleccione [No visualizar] del menú de opciones.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network_list">Se muestran notificaciones acerca de temas relacionados a PlayStation® al estar conectado a una red.&#xa;Para borrar, vaya a [Red] &gt; [Information Board] y seleccione [No visualizar] del menú de opciones.</str><!--dtype="C"-->
+</locale>

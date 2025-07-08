@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<extensions>
+	<entry>
+		<module>Webbrowser</module>
+		<plugin>webbrowser_plugin</plugin>
+	</entry>
+	<entry>
+		<module>Widget</module>
+		<plugin>xai_plugin</plugin>
+	</entry>
+</extensions>

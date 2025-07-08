@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "locale.dtd">
+<locale lang="ko" encoding="utf16">
+	<str id="msg_error_server">서버 에러가 발생했습니다.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network">네트워크에 접속하면 PlayStation®과 관련된 소식들이 표시됩니다.                이 소식들을 표시하지 않으려면 [네트워크] &gt; [인포메이션 보드]의 옵션 메뉴에 있는 [표시하지 않음]을 선택해 주십시오.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network_list">네트워크에 접속하면 PlayStation®과 관련된 소식들이 표시됩니다.&#xa;이 소식들을 표시하지 않으려면 [네트워크] &gt; [인포메이션 보드]의 옵션 메뉴에 있는 [표시하지 않음]을 선택해 주십시오.</str><!--dtype="C"-->
+</locale>

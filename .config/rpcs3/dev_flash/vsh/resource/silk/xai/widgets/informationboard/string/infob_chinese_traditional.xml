@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "locale.dtd">
+<locale lang="zh-t" encoding="utf16">
+	<str id="msg_error_server">發生伺服器錯誤。</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network">連接網路後，會顯示PlayStation®的最新相關資訊。               若要隱藏此資訊，請進入[網路] &gt; [Information Board]，並選擇選項選單的[不顯示]。</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network_list">連接網路後，會顯示PlayStation®的最新相關資訊。&#xa;若要隱藏此資訊，請進入[網路] &gt; [Information Board]，並選擇選項選單的[不顯示]。</str><!--dtype="C"-->
+</locale>

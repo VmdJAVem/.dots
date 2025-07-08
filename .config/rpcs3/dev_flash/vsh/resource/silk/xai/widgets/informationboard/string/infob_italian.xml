@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "locale.dtd">
+<locale lang="it" encoding="utf16">
+	<str id="msg_error_server">Si è verificato un errore del server.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network">Se si è collegati a una rete, vengono visualizzate le notifiche su argomenti relativi a PlayStation®.                Per disattivare la visualizzazione, andare a [Rete] &gt; [Information Board] e selezionare [Non visualizzare] dal menu delle opzioni.</str><!--dtype="C"-->
+	<str id="msg_information_board_no_network_list">Se si è collegati a una rete, vengono visualizzate le notifiche su argomenti relativi a PlayStation®.&#xa;Per disattivare la visualizzazione, andare a [Rete] &gt; [Information Board] e selezionare [Non visualizzare] dal menu delle opzioni.</str><!--dtype="C"-->
+</locale>
