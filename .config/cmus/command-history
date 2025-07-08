@@ -1,10 +1,10 @@
 q
-filter
-filter artist="Los Prisoneros"
+filter artist="Los Prisioneros"
 filter artist="Vengaboys"
 add ~/Music
+filter
+filter artist="Los Prisoneros"
 qa!
-filter artist="Los Prisioneros"
 add ~/Musix
 add ~/Muscic
 add ~/Musci
