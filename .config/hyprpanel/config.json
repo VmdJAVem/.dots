@@ -202,7 +202,7 @@
   "theme.font.name": "Hack Nerd Font Mono",
   "theme.font.label": "Hack Nerd Font Mono",
   "bar.launcher.icon": "",
-  "menus.dashboard.powermenu.avatar.image": "/home/vmdjavem/Images/2025-06-20-205529_hyprshot.png",
+  "menus.dashboard.powermenu.avatar.image": "/home/vmdjavem/Images/aesthetic-teto-pfp-themes-1230390447.jpg",
   "menus.dashboard.directories.enabled": false,
   "menus.dashboard.shortcuts.left.shortcut1.command": "kitty",
   "menus.dashboard.shortcuts.left.shortcut1.icon": "󰞷",
@@ -603,5 +603,7 @@
   "theme.bar.buttons.modules.worldclock.icon_background": "#d3869b",
   "theme.bar.buttons.modules.worldclock.icon": "#d3869b",
   "theme.bar.buttons.modules.worldclock.border": "#d3869b",
-  "theme.bar.buttons.workspaces.enableBorder": false
+  "theme.bar.buttons.workspaces.enableBorder": false,
+  "theme.bar.menus.border.radius": "0.7em",
+  "theme.bar.menus.popover.radius": "0.4em"
 }

@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "a79746038c6948558274065d24f3faa3",
       "asset_id": "a79746038c6948558274065d24f3faa3",
-      "build_version": "14.5.0.0.10087791-10092878-multiversion",
+      "build_version": "14.6.0.0.10222255-10250207-multiversion",
       "catalog_item_id": "b9e23e5fa8e84064b356677022beb37a",
       "label_name": "Live-Windows",
       "metadata": {
@@ -4605,25 +4605,25 @@
       {
         "alt": "World of Warships Offer",
         "height": 1440,
-        "md5": "5e1955de87ec2a0fdb0ad9c3eb3644e9",
-        "size": 1456772,
+        "md5": "d73da7cade375769f8143f96258ff790",
+        "size": 1322986,
         "type": "DieselGameBox",
-        "uploadedDate": "2025-06-04T09:04:07.935Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1k50c.png",
+        "uploadedDate": "2025-07-09T15:59:29.973Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-169nr.png",
         "width": 2560
       },
       {
         "alt": "Download World of Warships Offer",
         "height": 1600,
-        "md5": "cb6b5330c682b3285786945788808052",
-        "size": 656687,
+        "md5": "e66058a17952dc597413a3a71438e1f5",
+        "size": 627777,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2025-06-04T09:04:03.014Z",
-        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1bzew.png",
+        "uploadedDate": "2025-07-09T15:59:26.488Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-ycr5h.png",
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-06-04T15:34:19.140Z",
+    "lastModifiedDate": "2025-07-11T15:37:06.886Z",
     "mainGameItemList": [],
     "namespace": "84c76746bce94effb8e1047fabfd7eb7",
     "releaseInfo": [
