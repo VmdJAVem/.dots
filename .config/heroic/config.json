@@ -1,5 +1,6 @@
 {
   "defaultSettings": {
+    "analyticsOptIn": false,
     "checkUpdatesInterval": 10,
     "enableUpdates": false,
     "addDesktopShortcuts": false,
@@ -36,6 +37,8 @@
     "enableEsync": true,
     "enableFsync": true,
     "enableMsync": false,
+    "enableWineWayland": false,
+    "enableHDR": false,
     "eacRuntime": true,
     "battlEyeRuntime": true,
     "framelessWindow": false,
@@ -45,6 +48,7 @@
     "verboseLogs": false,
     "downloadProtonToSteam": false,
     "advertiseAvxForRosetta": false,
+    "noTrayIcon": false,
     "customThemesPath": "",
     "darkTrayIcon": false
   },

@@ -59751,7 +59751,7 @@
 		{
 			"app_name": "d68f964c809145b682e1d768aa126f31",
 			"art_cover": "https://cdn1.epicgames.com/item/0e76e53e157d416ab598342ed3a9dd5a/EGS_RPGinaBox_JustinArnold_S1_2560x1440-fef2661fad4d06cee988aa2a2c3383c7",
-			"art_square": "https://cdn1.epicgames.com/item/0e76e53e157d416ab598342ed3a9dd5a/EGS_RPGinaBox_JustinArnold_S2_1200x1600-14578736d77be5027ee1522f41bb86d9",
+			"art_square": "https://cdn1.epicgames.com/item/0e76e53e157d416ab598342ed3a9dd5a/EGS_RPGinaBox_JustinArnold_S2_1200x1600-dc1168f20a3fbbedd17dc58c5be9c8b3",
 			"cloud_save_enabled": false,
 			"developer": "Justin Arnold",
 			"extra": {
@@ -61526,7 +61526,7 @@
 			"art_cover": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/terraforming-mars-1a3v5.jpg",
 			"art_square": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/terraforming-mars-1j8vx.jpg",
 			"cloud_save_enabled": false,
-			"developer": "Asmodee Digital",
+			"developer": "TWIN SAILS INTERACTIVE",
 			"extra": {
 				"about": {
 					"description": "Terraforming Mars",
@@ -61546,7 +61546,7 @@
 					"creationDate": "2022-03-28T09:31:21.097Z",
 					"customAttributes": {},
 					"description": "Terraforming Mars",
-					"developer": "Asmodee Digital",
+					"developer": "TWIN SAILS INTERACTIVE",
 					"developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
 					"endOfSupport": false,
 					"entitlementName": "852bb745bded4150913fd702eb453f71",
@@ -61575,7 +61575,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-24T08:07:40.230Z",
+					"lastModifiedDate": "2025-05-23T16:47:24.014Z",
 					"mainGameItem": {
 						"id": "1737b72081d443c2916134b8f5ecd678",
 						"namespace": "25d726130e6c4fe68f88e71933bda955",
@@ -61605,7 +61605,7 @@
 					"creationDate": "2022-03-28T09:32:17.536Z",
 					"customAttributes": {},
 					"description": "Terraforming Mars",
-					"developer": "Asmodee Digital",
+					"developer": "TWIN SAILS INTERACTIVE",
 					"developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
 					"endOfSupport": false,
 					"entitlementName": "311d96cb8d4748edacabeb99feb8fdd1",
@@ -61634,7 +61634,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-24T08:07:40.230Z",
+					"lastModifiedDate": "2025-05-23T16:47:24.038Z",
 					"mainGameItem": {
 						"id": "1737b72081d443c2916134b8f5ecd678",
 						"namespace": "25d726130e6c4fe68f88e71933bda955",
@@ -61662,7 +61662,7 @@
 					],
 					"creationDate": "2023-09-27T13:04:20.587Z",
 					"description": "Terraforming Mars - Venus Next",
-					"developer": "Asmodee Digital",
+					"developer": "TWIN SAILS INTERACTIVE",
 					"developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
 					"endOfSupport": false,
 					"entitlementName": "db607aaacee0491b9bebfc54dbcecec3",
@@ -61691,7 +61691,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-24T08:07:40.230Z",
+					"lastModifiedDate": "2025-05-23T16:47:24.476Z",
 					"mainGameItem": {
 						"id": "1737b72081d443c2916134b8f5ecd678",
 						"namespace": "25d726130e6c4fe68f88e71933bda955",
@@ -61718,7 +61718,7 @@
 					],
 					"creationDate": "2024-04-17T10:17:53.880Z",
 					"description": "El Original Promo Pack incluye 7 cartas: 3 corporaciones y 4 proyectos.",
-					"developer": "Asmodee Digital",
+					"developer": "TWIN SAILS INTERACTIVE",
 					"developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
 					"endOfSupport": false,
 					"entitlementName": "8a6f9bfa15bf424bb0310be1e491b805",
@@ -61747,7 +61747,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-24T08:07:40.230Z",
+					"lastModifiedDate": "2025-05-23T16:47:24.745Z",
 					"mainGameItem": {
 						"id": "1737b72081d443c2916134b8f5ecd678",
 						"namespace": "25d726130e6c4fe68f88e71933bda955",
@@ -61774,7 +61774,7 @@
 					],
 					"creationDate": "2024-04-17T10:18:17.275Z",
 					"description": "El Big Box Promo Pack contiene 18 proyectos nuevos, 2 flamantes corporaciones y 3 variantes de cartas ya existentes.",
-					"developer": "Asmodee Digital",
+					"developer": "TWIN SAILS INTERACTIVE",
 					"developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
 					"endOfSupport": false,
 					"entitlementName": "55f9602a6fcc4419a8db4fb296976684",
@@ -61803,7 +61803,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-04-24T08:07:40.230Z",
+					"lastModifiedDate": "2025-05-23T16:47:24.815Z",
 					"mainGameItem": {
 						"id": "1737b72081d443c2916134b8f5ecd678",
 						"namespace": "25d726130e6c4fe68f88e71933bda955",
@@ -75593,6 +75593,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Fri Jul 11 2025 17:14:43 GMT-0500 (hora estándar oriental)"
+		"library": "Wed Jul 23 2025 17:17:04 GMT-0500 (hora estándar oriental)"
 	}
 }

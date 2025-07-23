@@ -605,5 +605,6 @@
   "theme.bar.buttons.modules.worldclock.border": "#d3869b",
   "theme.bar.buttons.workspaces.enableBorder": false,
   "theme.bar.menus.border.radius": "0.7em",
-  "theme.bar.menus.popover.radius": "0.4em"
+  "theme.bar.menus.popover.radius": "0.4em",
+  "wallpaper.image": "/home/vmdjavem/Wallpapers/trisquel-gnu-linux.png"
 }

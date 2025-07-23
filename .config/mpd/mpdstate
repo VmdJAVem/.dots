@@ -1,9 +1,9 @@
-sw_volume: 70
+sw_volume: 100
 audio_device_state:1:ALSA Output
 audio_device_state:1:HTTP Stream
 state: pause
-current: 6
-time: 70.063
+current: 9
+time: 14.628
 random: 0
 repeat: 0
 single: 0
@@ -20,4 +20,7 @@ playlist_begin
 4:Charli xcx - 360.mp3
 5:Cultura Profética - Saca, Prende y Sorprende.mp3
 6:femtanyl - KATAMARI.mp3
+7:Digable Planets - Where I'm From.mp3
+8:Digable Planets - Rebirth Of Slick (Cool Like Dat).mp3
+9:Digable Planets - Rebirth Of Slick (Cool Like Dat).mp3
 playlist_end
