@@ -1,1 +1,44 @@
-{}
+{
+	"6430e58041234e41b8f81f68f01450ed": {
+		"about": {
+			"description": "Join the ever expanding experience of Hell Let Loose - a hardcore World War Two first person shooter with epic battles of 100 players with infantry, tanks, artillery, a dynamically shifting front line and a unique resource based RTS-inspired meta-game.",
+			"shortDescription": ""
+		},
+		"reqs": [
+			{
+				"minimum": "Windows 10 64bit",
+				"recommended": "Windows 10 64bit",
+				"title": "OS version"
+			},
+			{
+				"minimum": "Intel Core i5-6600/AMD Ryzen 3 1300X",
+				"recommended": "Intel Core i5-8400/AMD Ryzen 5 2600X",
+				"title": "CPU"
+			},
+			{
+				"minimum": "12 GB RAM",
+				"recommended": "16 GB RAM",
+				"title": "Memory"
+			},
+			{
+				"minimum": "NVIDIA GeForce GTX 960 4GB/AMD Radeon R9 380 4GB",
+				"recommended": "NVIDIA GeForce GTX 1060 6GB /AMD Radeon RX 590 8GB",
+				"title": "GPU"
+			},
+			{
+				"minimum": "DirectX 11",
+				"recommended": "DirectX 11",
+				"title": "DirectX"
+			},
+			{
+				"minimum": "30 GB available space",
+				"recommended": "30 GB available space",
+				"title": "Storage"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/hell-let-loose-03f036"
+	},
+	"__timestamp": {
+		"6430e58041234e41b8f81f68f01450ed": "Wed Jul 23 2025 18:16:37 GMT-0500 (hora estándar oriental)"
+	}
+}

@@ -41,6 +41,58 @@
 		}
 	},
 	"__timestamp": {
-		"2fb8273dcf6f41e4899c0c881e047053": "Wed Jul 23 2025 17:19:06 GMT-0500 (hora estándar oriental)"
+		"2fb8273dcf6f41e4899c0c881e047053": "Wed Jul 23 2025 17:19:06 GMT-0500 (hora estándar oriental)",
+		"3e02273b543f4ff0a1c24d3b534a9ac3": "Wed Jul 23 2025 17:53:31 GMT-0500 (hora estándar oriental)"
+	},
+	"3e02273b543f4ff0a1c24d3b534a9ac3": {
+		"game": {
+			"app_name": "3e02273b543f4ff0a1c24d3b534a9ac3",
+			"title": "Hell Let Loose",
+			"version": "482.1000456",
+			"platform_versions": {
+				"Windows": "482.1000456"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 3502524,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "3e02273b543f4ff0a1c24d3b534a9ac3",
+			"launch_exe": "Launch_HLL.exe",
+			"launch_command": "",
+			"build_version": "482.1000456",
+			"build_id": "BHuaBkgSCEuCaIrNtsxEEQ",
+			"prerequisites": {
+				"ids": [
+					"9AD464080DA1152438146F935DCE16B113C0EC18"
+				],
+				"name": "",
+				"path": "EasyAntiCheat/EasyAntiCheat_EOS_Setup.exe",
+				"args": "install 0fac3450d5b24587a1d25b5c94676f99"
+			},
+			"uninstaller": {
+				"path": "EasyAntiCheat/EasyAntiCheat_EOS_Setup.exe",
+				"args": "uninstall 0fac3450d5b24587a1d25b5c94676f99"
+			},
+			"install_tags": [
+				""
+			],
+			"num_files": 207,
+			"num_chunks": 52524,
+			"disk_size": 55824862747,
+			"download_size": 31222031004,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
 	}
 }

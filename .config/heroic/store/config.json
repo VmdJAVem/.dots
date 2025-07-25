@@ -14,7 +14,7 @@
 		"user": "vmdjavem"
 	},
 	"window-props": {
-		"x": 10,
+		"x": 967,
 		"y": 57,
 		"width": 943,
 		"height": 1013,
@@ -71,6 +71,10 @@
 	},
 	"games": {
 		"recent": [
+			{
+				"appName": "3e02273b543f4ff0a1c24d3b534a9ac3",
+				"title": "Hell Let Loose"
+			},
 			{
 				"appName": "puJw5rzdvKHmsAjcxMTH1m",
 				"title": "Hearts of iron IV"

@@ -16,7 +16,12 @@
       "sidecar_rev": 1
     }
   },
-  "base_urls": [],
+  "base_urls": [
+    "https://cloudflare.epicgamescdn.com/Builds/Org/o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv/0fac3450d5b24587a1d25b5c94676f99/default",
+    "https://epicgames-download1.akamaized.net/Builds/Org/o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv/0fac3450d5b24587a1d25b5c94676f99/default",
+    "https://download.epicgames.com/Builds/Org/o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv/0fac3450d5b24587a1d25b5c94676f99/default",
+    "https://fastly-download.epicgames.com/Builds/Org/o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv/0fac3450d5b24587a1d25b5c94676f99/default"
+  ],
   "metadata": {
     "categories": [
       {

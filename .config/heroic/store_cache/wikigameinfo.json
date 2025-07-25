@@ -1,1 +1,23 @@
-{}
+{
+	"Hell Let Loose": {
+		"pcgamingwiki": null,
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"mainStory": 44,
+			"mainExtra": 1200,
+			"completionist": 2610,
+			"gameId": 64501,
+			"gameName": "Hell Let Loose",
+			"gameImageUrl": "https://howlongtobeat.com/games/64501_Hell_Let_Loose.jpg",
+			"gameWebLink": "https://howlongtobeat.com/game/64501"
+		},
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": null,
+		"umuId": null
+	},
+	"__timestamp": {
+		"Hell Let Loose": "Wed Jul 23 2025 18:16:39 GMT-0500 (hora estándar oriental)"
+	}
+}
