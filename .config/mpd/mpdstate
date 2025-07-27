@@ -2,8 +2,8 @@ sw_volume: 55
 audio_device_state:1:ALSA Output
 audio_device_state:1:HTTP Stream
 state: pause
-current: 38
-time: 110.471
+current: 42
+time: 20.099
 random: 0
 repeat: 0
 single: 0
@@ -53,4 +53,7 @@ playlist_begin
 37:Garoto - Um Rosto de Mulher.mp3
 38:Joey Valence & Brae, Z-Trip - NO HANDS (feat. Z-Trip).mp3
 39:Kendrick Lamar, SZA - luther (with sza).mp3
+40:Lelio Luttazzi - Estate.mp3
+41:Negroni's Trio, Pedro Capó - El Incomprendido (feat. Pedro Capó).mp3
+42:berlioz, Ted Jasper - nyc in 1940.mp3
 playlist_end

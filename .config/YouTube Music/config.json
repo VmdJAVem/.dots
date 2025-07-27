@@ -1,14 +1,14 @@
 {
 	"window-size": {
-		"width": 1886,
-		"height": 1009
+		"width": 1900,
+		"height": 1013
 	},
 	"window-maximized": false,
 	"window-position": {
-		"x": 17,
-		"y": 54
+		"x": 10,
+		"y": 57
 	},
-	"url": "https://music.youtube.com/watch?v=zlJ0Aj9y67c&list=RDAMPLOLAK5uy_n4negEHWAKSsnUfvxnK-hbGuYASJ1IBa4&index=0",
+	"url": "https://music.youtube.com/watch?v=URlPXepBZdo",
 	"options": {
 		"tray": false,
 		"appVisible": true,
@@ -44,10 +44,6 @@
 		"album-color-theme": {
 			"enabled": true
 		},
-		"lyrics-genius": {
-			"enabled": true,
-			"romanizedLyrics": true
-		},
 		"ambient-mode": {
 			"enabled": true
 		},
@@ -70,11 +66,14 @@
 			],
 			"isInPiP": false,
 			"useNativePiP": true
+		},
+		"synced-lyrics": {
+			"enabled": true
 		}
 	},
 	"__internal__": {
 		"migrations": {
-			"version": "3.9.0"
+			"version": "3.10.0"
 		}
 	}
 }
