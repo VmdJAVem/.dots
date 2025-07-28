@@ -1251,3 +1251,9 @@
 2025-07-26T20:06:20 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
 2025-07-26T20:12:30 player: played "berlioz, Ted Jasper - nyc in 1940.mp3"
 2025-07-26T20:16:40 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-07-26T20:35:31 player: played "berlioz, Ted Jasper - nyc in 1940.mp3"
+2025-07-27T12:33:24 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-07-27T16:25:25 player: played "berlioz, Ted Jasper - nyc in 1940.mp3"
+2025-07-28T14:46:36 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-07-28T17:07:40 player: played "berlioz, Ted Jasper - nyc in 1940.mp3"
+2025-07-28T17:07:45 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use

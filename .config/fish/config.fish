@@ -15,6 +15,8 @@ alias vim='nvim'
 alias myclock='~/bin/myclock'
 alias pdf='zpdf $(fzf)'
 alias i_like_men,_thus_i_am_gay='hyfetch --june'
+
+set EDITOR = nvim
 function fish_greeting
     echo "hi :3"
 end

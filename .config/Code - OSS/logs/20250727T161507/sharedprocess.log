@@ -1,0 +1,6 @@
+2025-07-27 16:15:48.433 [info] Getting Manifest... jdinhlife.gruvbox
+2025-07-27 16:15:49.378 [info] Installing extension: jdinhlife.gruvbox {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vmdjavem/.vscode-oss/extensions/extensions.json","path":"/home/vmdjavem/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.102.2","date":"2025-07-23T19:54:36.016Z"}}
+2025-07-27 16:15:51.905 [info] Extension signature verification result for jdinhlife.gruvbox: Success. Executed: true. Duration: 556ms.
+2025-07-27 16:15:51.920 [info] Extracted extension to file:///home/vmdjavem/.vscode-oss/extensions/jdinhlife.gruvbox-1.28.0-universal: jdinhlife.gruvbox
+2025-07-27 16:15:51.924 [info] Renamed to /home/vmdjavem/.vscode-oss/extensions/jdinhlife.gruvbox-1.28.0-universal
+2025-07-27 16:15:51.934 [info] Extension installed successfully: jdinhlife.gruvbox vscode-userdata:/home/vmdjavem/.vscode-oss/extensions/extensions.json

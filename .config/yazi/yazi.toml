@@ -1,0 +1,4 @@
+[theme]
+file = "theme"
+[opener]
+edit = [{ run = 'nvim "$@"', block = true }]

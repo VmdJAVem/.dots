@@ -1,0 +1,46 @@
+2025-07-27 16:15:08.639 [info] Extension host with pid 74566 started
+2025-07-27 16:15:08.691 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-27 16:15:08.694 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+2025-07-27 16:15:08.720 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-27 16:15:08.742 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-27 16:15:08.783 [info] Eager extensions activated
+2025-07-27 16:15:08.786 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-27 16:15:08.788 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-27 16:15:08.796 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-07-27 16:15:12.452 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onWalkthrough:cppWelcome'
+2025-07-27 16:15:25.442 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-27 16:15:25.923 [info] Extension host with pid 74767 started
+2025-07-27 16:15:25.923 [info] Skipping acquiring lock for /home/vmdjavem/.config/Code - OSS/User/workspaceStorage/b70fee7ae9bc327b13259772aa6013b4.
+2025-07-27 16:15:25.929 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-07-27 16:15:25.932 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-27 16:15:25.959 [info] Eager extensions activated
+2025-07-27 16:15:25.960 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-27 16:15:25.961 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-27 16:15:27.454 [error] Error: Stopping the server timed out
+	at /home/vmdjavem/.vscode-oss/extensions/ms-vscode.cpptools-1.24.5/dist/src/main.js:85357:23
+	at async Object.deactivate (/home/vmdjavem/.vscode-oss/extensions/ms-vscode.cpptools-1.24.5/dist/src/main.js:116793:5)
+	at async Promise.all (index 7)
+	at async QG.$ (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:9890)
+2025-07-27 16:15:27.454 [info] Extension host with pid 74566 exiting with code 0
+2025-07-27 16:15:27.794 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-07-27 16:15:27.828 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: false, activationEvent: '*'
+2025-07-27 16:15:27.837 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-07-27 16:15:30.327 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+2025-07-27 16:15:30.392 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-27 16:15:57.988 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-27 16:15:57.992 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-27 16:15:58.022 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-27 16:16:09.244 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-27 16:16:09.255 [error] Error: Channel has been closed
+	at n (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:2816)
+	at Object.info (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:3161)
+	at T.info (/usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:291132)
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:514778)
+	at ChildProcess.emit (node:events:518:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-27 16:16:11.253 [error] Error: Stopping the server timed out
+	at /home/vmdjavem/.vscode-oss/extensions/ms-vscode.cpptools-1.24.5/dist/src/main.js:85357:23
+	at async Object.deactivate (/home/vmdjavem/.vscode-oss/extensions/ms-vscode.cpptools-1.24.5/dist/src/main.js:116793:5)
+	at async Promise.all (index 11)
+	at async QG.$ (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:9890)
+2025-07-27 16:16:11.253 [info] Extension host with pid 74767 exiting with code 0

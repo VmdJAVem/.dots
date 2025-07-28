@@ -2,8 +2,8 @@ sw_volume: 55
 audio_device_state:1:ALSA Output
 audio_device_state:1:HTTP Stream
 state: pause
-current: 42
-time: 20.099
+current: 0
+time: 45.353
 random: 0
 repeat: 0
 single: 0
@@ -13,47 +13,5 @@ mixrampdb: 0
 mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
-0:Alcolirykoz - Aguanilé.mp3
-1:Alcolirykoz - Baño de Ruda.mp3
-2:Alcolirykoz, Armando Hernandez - El Remate.mp3
-3:berlioz, Ted Jasper - nyc in 1940.mp3
-4:Charli xcx - 360.mp3
-5:Cultura Profética - Saca, Prende y Sorprende.mp3
-6:femtanyl - KATAMARI.mp3
-7:Digable Planets - Where I'm From.mp3
-8:Digable Planets - Rebirth Of Slick (Cool Like Dat).mp3
-9:Charli xcx - 360.mp3
-10:Digable Planets - It's Good To Be Here.mp3
-11:ilysam, Mc Ster - sweet rally.mp3
-12:JUNTMANE, BIG PROBLEM MAC - O' LORD.mp3
-13:King Geedorah - Fazers.mp3
-14:Macabre Plaza - Abandoned Plaza.mp3
-15:Stan Getz - The Girl From Ipanema.mp3
-16:the wine is ok - gamay.mp3
-17:菊池ひみこ - Look Your Back!.mp3
-18:菊池ひみこ - PRIMAVELA.mp3
-19:A Tribe Called Quest - Steve Biko (Stir It Up).mp3
-20:A Tribe Called Quest - Find a Way.mp3
-21:Aphex Twin - Flim.mp3
-22:Boards of Canada - An Eagle In Your Mind.mp3
-23:Jazz Liberatorz - Loop Prisoner.mp3
-24:PinkPantheress - I Must Apologise.mp3
-25:PinkPantheress - True romance.mp3
-26:Shaggy - Boombastic.mp3
-27:System Of A Down - B.Y.O.B..mp3
-28:Vegyn, JPEGMAFIA - Nauseous  Devilish.mp3
-29:Venetian Snares - Szerencsétlen.mp3
-30:Venetian Snares - This Bitter Earth.mp3
-31:菊池ひみこ - GYPSY SONG - from Carmen.mp3
-32:Aphex Twin - produk 29 [101].mp3
-33:Boards of Canada - The Color Of The Fire.mp3
-34:Digable Planets - Where I'm From.mp3
-35:Doechii - BOILED PEANUTS.mp3
-36:Eddie Palmieri - Vámonos Pa'l Monte.mp3
-37:Garoto - Um Rosto de Mulher.mp3
-38:Joey Valence & Brae, Z-Trip - NO HANDS (feat. Z-Trip).mp3
-39:Kendrick Lamar, SZA - luther (with sza).mp3
-40:Lelio Luttazzi - Estate.mp3
-41:Negroni's Trio, Pedro Capó - El Incomprendido (feat. Pedro Capó).mp3
-42:berlioz, Ted Jasper - nyc in 1940.mp3
+0:Aphex Twin - 4.mp3
 playlist_end
