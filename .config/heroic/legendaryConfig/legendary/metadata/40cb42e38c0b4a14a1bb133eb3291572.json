@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "40cb42e38c0b4a14a1bb133eb3291572",
       "asset_id": "40cb42e38c0b4a14a1bb133eb3291572",
-      "build_version": "IdleDragons627064Live",
+      "build_version": "IdleDragons628064Live",
       "catalog_item_id": "48353a502e72433298f25827e03dbff0",
       "label_name": "Live-Windows",
       "metadata": {
@@ -30667,7 +30667,7 @@
             "path": "addons"
           }
         ],
-        "creationDate": "2025-06-23T19:07:01.505Z",
+        "creationDate": "2025-06-06T20:34:21.422Z",
         "description": "Este DLC incluye a un familiar exclusivo que puede hacer clic por ti, adem\u00e1s de una gran variedad de pociones para ayudarte a llegar m\u00e1s lejos en tus aventuras.",
         "developer": "Codename Entertainment",
         "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
@@ -30680,11 +30680,11 @@
           {
             "alt": "Idle Champions of the Forgotten Realms Rainbow Guardian Familiar Pack Offer",
             "height": 1440,
-            "md5": "f453d2cb53da6f295ad6ae72905ad3eb",
-            "size": 673144,
+            "md5": "e19aef86d3ebed667d67a2f535b3e357",
+            "size": 668234,
             "type": "DieselGameBox",
-            "uploadedDate": "2025-06-06T21:22:33.159Z",
-            "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-z5s4t.jpg",
+            "uploadedDate": "2025-06-06T20:46:01.596Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-3h4qe.jpg",
             "width": 2560
           },
           {
@@ -30698,7 +30698,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-06-23T19:07:01.505Z",
+        "lastModifiedDate": "2025-06-30T20:49:56.240Z",
         "mainGameItem": {
           "id": "48353a502e72433298f25827e03dbff0",
           "namespace": "7e508f543b05465abe3a935960eb70ac",

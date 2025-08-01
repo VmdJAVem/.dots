@@ -31,3 +31,4 @@ application/x-extension-xht=userapp-Floorp-CYADA3.desktop
 x-scheme-handler/gdlauncher=GDLauncher.desktop
 application/x-msdownload=wine.desktop
 x-scheme-handler/discord-424004941485572097=discord-424004941485572097.desktop
+x-scheme-handler/etcher=balenaEtcher.desktop

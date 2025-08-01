@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Sugar",
       "asset_id": "Sugar",
-      "build_version": "BC2_Update55+487806b",
+      "build_version": "BC2_Update55.1+490872",
       "catalog_item_id": "530145df28a24424923f5828cc9031a1",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -3932,6 +3932,188 @@
         "status": "ACTIVE",
         "title": "Rocket League\u00ae - Season 19 Rocketeer Pack",
         "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-07-29T15:05:07.935Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Rocket League\u00ae - Season 20 Rookie Pack",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "50c9cd2485654a57b18578e64ce029ab",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "50c9cd2485654a57b18578e64ce029ab",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-07-29T15:14:29.773Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Season 20 Rookie Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-07-29T15:05:55.053Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Rocket League\u00ae - Season 20 Veteran Pack",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "3b5892851e5347239b3a261275111fcc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3b5892851e5347239b3a261275111fcc",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-07-29T15:14:00.373Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Season 20 Veteran Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-07-29T15:11:46.796Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Rocket League\u00ae - Season 20 Elite Pack",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "2755cdfd6bd2456f9b9ca009f3f0c4ed",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2755cdfd6bd2456f9b9ca009f3f0c4ed",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-07-29T15:11:46.796Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Season 20 Elite Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-07-29T16:12:26.984Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Rocket League\u00ae - Season 20 Rocketeer Pack",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "e7dc82bc3eb047ec92e366b3cb8cdfc4",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e7dc82bc3eb047ec92e366b3cb8cdfc4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-07-29T16:12:26.984Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Season 20 Rocketeer Pack",
+        "unsearchable": true
       }
     ],
     "endOfSupport": false,
@@ -3962,7 +4144,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-06-18T14:57:09.528Z",
+    "lastModifiedDate": "2025-07-29T16:12:26.994Z",
     "mainGameItemList": [],
     "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
     "releaseInfo": [

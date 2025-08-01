@@ -742,9 +742,9 @@
 			"install": {
 				"executable": "Metalstorm.exe",
 				"install_path": "/home/vmdjavem/Games/Heroic/Metalstorm",
-				"install_size": "8.49 GiB",
+				"install_size": "8.89 GiB",
 				"is_dlc": false,
-				"version": "aircombat_store_windows_7c704f67_2025-06-19_13-33",
+				"version": "aircombat_store_windows_35a43fdc_2025-07-22_11-48",
 				"platform": "Windows"
 			},
 			"is_installed": true,
@@ -47977,7 +47977,7 @@
 							"path": "addons"
 						}
 					],
-					"creationDate": "2025-06-23T19:07:01.505Z",
+					"creationDate": "2025-06-06T20:34:21.422Z",
 					"description": "Este DLC incluye a un familiar exclusivo que puede hacer clic por ti, además de una gran variedad de pociones para ayudarte a llegar más lejos en tus aventuras.",
 					"developer": "Codename Entertainment",
 					"developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
@@ -47990,11 +47990,11 @@
 						{
 							"alt": "Idle Champions of the Forgotten Realms Rainbow Guardian Familiar Pack Offer",
 							"height": 1440,
-							"md5": "f453d2cb53da6f295ad6ae72905ad3eb",
-							"size": 673144,
+							"md5": "e19aef86d3ebed667d67a2f535b3e357",
+							"size": 668234,
 							"type": "DieselGameBox",
-							"uploadedDate": "2025-06-06T21:22:33.159Z",
-							"url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-z5s4t.jpg",
+							"uploadedDate": "2025-06-06T20:46:01.596Z",
+							"url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-3h4qe.jpg",
 							"width": 2560
 						},
 						{
@@ -48008,7 +48008,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-06-23T19:07:01.505Z",
+					"lastModifiedDate": "2025-06-30T20:49:56.240Z",
 					"mainGameItem": {
 						"id": "48353a502e72433298f25827e03dbff0",
 						"namespace": "7e508f543b05465abe3a935960eb70ac",
@@ -59730,6 +59730,188 @@
 					"status": "ACTIVE",
 					"title": "Rocket League® - Season 19 Rocketeer Pack",
 					"unsearchable": true
+				},
+				{
+					"ageGatings": {},
+					"applicationId": "",
+					"categories": [
+						{
+							"path": "addons"
+						}
+					],
+					"creationDate": "2025-07-29T15:05:07.935Z",
+					"customAttributes": {
+						"CanRunOffline": {
+							"type": "STRING",
+							"value": "true"
+						}
+					},
+					"description": "Rocket League® - Season 20 Rookie Pack",
+					"developer": "Psyonix LLC",
+					"developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+					"endOfSupport": false,
+					"entitlementName": "50c9cd2485654a57b18578e64ce029ab",
+					"entitlementType": "EXECUTABLE",
+					"eulaIds": [
+						"egstore"
+					],
+					"id": "50c9cd2485654a57b18578e64ce029ab",
+					"itemType": "DURABLE",
+					"keyImages": [],
+					"lastModifiedDate": "2025-07-29T15:14:29.773Z",
+					"mainGameItem": {
+						"id": "530145df28a24424923f5828cc9031a1",
+						"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "530145df28a24424923f5828cc9031a1",
+							"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+							"unsearchable": false
+						}
+					],
+					"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+					"releaseInfo": [],
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "Rocket League® - Season 20 Rookie Pack",
+					"unsearchable": true
+				},
+				{
+					"ageGatings": {},
+					"applicationId": "",
+					"categories": [
+						{
+							"path": "addons"
+						}
+					],
+					"creationDate": "2025-07-29T15:05:55.053Z",
+					"customAttributes": {
+						"CanRunOffline": {
+							"type": "STRING",
+							"value": "true"
+						}
+					},
+					"description": "Rocket League® - Season 20 Veteran Pack",
+					"developer": "Psyonix LLC",
+					"developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+					"endOfSupport": false,
+					"entitlementName": "3b5892851e5347239b3a261275111fcc",
+					"entitlementType": "EXECUTABLE",
+					"eulaIds": [
+						"egstore"
+					],
+					"id": "3b5892851e5347239b3a261275111fcc",
+					"itemType": "DURABLE",
+					"keyImages": [],
+					"lastModifiedDate": "2025-07-29T15:14:00.373Z",
+					"mainGameItem": {
+						"id": "530145df28a24424923f5828cc9031a1",
+						"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "530145df28a24424923f5828cc9031a1",
+							"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+							"unsearchable": false
+						}
+					],
+					"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+					"releaseInfo": [],
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "Rocket League® - Season 20 Veteran Pack",
+					"unsearchable": true
+				},
+				{
+					"categories": [
+						{
+							"path": "addons"
+						}
+					],
+					"creationDate": "2025-07-29T15:11:46.796Z",
+					"customAttributes": {
+						"CanRunOffline": {
+							"type": "STRING",
+							"value": "true"
+						}
+					},
+					"description": "Rocket League® - Season 20 Elite Pack",
+					"developer": "Psyonix LLC",
+					"developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+					"endOfSupport": false,
+					"entitlementName": "2755cdfd6bd2456f9b9ca009f3f0c4ed",
+					"entitlementType": "EXECUTABLE",
+					"eulaIds": [
+						"egstore"
+					],
+					"id": "2755cdfd6bd2456f9b9ca009f3f0c4ed",
+					"itemType": "DURABLE",
+					"lastModifiedDate": "2025-07-29T15:11:46.796Z",
+					"mainGameItem": {
+						"id": "530145df28a24424923f5828cc9031a1",
+						"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "530145df28a24424923f5828cc9031a1",
+							"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+							"unsearchable": false
+						}
+					],
+					"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+					"releaseInfo": [],
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "Rocket League® - Season 20 Elite Pack",
+					"unsearchable": true
+				},
+				{
+					"categories": [
+						{
+							"path": "addons"
+						}
+					],
+					"creationDate": "2025-07-29T16:12:26.984Z",
+					"customAttributes": {
+						"CanRunOffline": {
+							"type": "STRING",
+							"value": "true"
+						}
+					},
+					"description": "Rocket League® - Season 20 Rocketeer Pack",
+					"developer": "Psyonix LLC",
+					"developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+					"endOfSupport": false,
+					"entitlementName": "e7dc82bc3eb047ec92e366b3cb8cdfc4",
+					"entitlementType": "EXECUTABLE",
+					"eulaIds": [
+						"egstore"
+					],
+					"id": "e7dc82bc3eb047ec92e366b3cb8cdfc4",
+					"itemType": "DURABLE",
+					"lastModifiedDate": "2025-07-29T16:12:26.984Z",
+					"mainGameItem": {
+						"id": "530145df28a24424923f5828cc9031a1",
+						"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "530145df28a24424923f5828cc9031a1",
+							"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+							"unsearchable": false
+						}
+					],
+					"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+					"releaseInfo": [],
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "Rocket League® - Season 20 Rocketeer Pack",
+					"unsearchable": true
 				}
 			],
 			"folder_name": "rocketleague",
@@ -68223,7 +68405,6 @@
 						"egstore"
 					],
 					"id": "958165ea6ed14a76bb5017d1592079cc",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [
 						{
@@ -68533,7 +68714,6 @@
 						"egstore"
 					],
 					"id": "e18d7c6340e14579b17cb51daaacaeb5",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [
 						{
@@ -74460,7 +74640,6 @@
 						"egstore"
 					],
 					"id": "fe9e844df95d47638457645f8ed881b6",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-12-18T11:33:50.747Z",
@@ -74552,7 +74731,6 @@
 						"egstore"
 					],
 					"id": "2173836271d74fdc8c663d28fd80c79f",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-12-09T14:36:51.127Z",
@@ -74652,7 +74830,6 @@
 						"egstore"
 					],
 					"id": "ff9ff629f59744169bbe093e5bb2fb43",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [],
 					"lastModifiedDate": "2024-12-18T11:33:50.748Z",
@@ -74785,7 +74962,6 @@
 						"egstore"
 					],
 					"id": "d7933b221e924059a1a9454488848d15",
-					"installModes": [],
 					"itemType": "DURABLE",
 					"keyImages": [
 						{
@@ -75366,6 +75542,120 @@
 					"status": "ACTIVE",
 					"title": "World War Z - Las Vegas Episode",
 					"unsearchable": true
+				},
+				{
+					"ageGatings": {},
+					"applicationId": "",
+					"categories": [
+						{
+							"path": "addons"
+						}
+					],
+					"creationDate": "2025-05-05T12:28:11.176Z",
+					"customAttributes": {
+						"CanRunOffline": {
+							"type": "STRING",
+							"value": "true"
+						}
+					},
+					"description": "World War Z - Chibi Kimiko Skin Pack",
+					"developer": "Saber Interactive",
+					"developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+					"endOfSupport": false,
+					"entitlementName": "ef272ec0540f455cb90b794c8053fcd9",
+					"entitlementType": "EXECUTABLE",
+					"eulaIds": [
+						"egstore"
+					],
+					"id": "ef272ec0540f455cb90b794c8053fcd9",
+					"itemType": "DURABLE",
+					"keyImages": [
+						{
+							"height": 1600,
+							"md5": "edc07761515e82bb08550809d3e10a61",
+							"size": 214034,
+							"type": "DieselGameBoxTall",
+							"uploadedDate": "2025-07-15T13:46:11.485Z",
+							"url": "https://cdn1.epicgames.com/item/wombat/EGS_WorldWarZChibiKimikoSkinPack_SaberInteractive_DLC_S2_1200x1600-edc07761515e82bb08550809d3e10a61",
+							"width": 1200
+						}
+					],
+					"lastModifiedDate": "2025-07-23T10:39:50.613Z",
+					"mainGameItem": {
+						"id": "ec6ed5344a904ea78729113d80818d18",
+						"namespace": "wombat",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "ec6ed5344a904ea78729113d80818d18",
+							"namespace": "wombat",
+							"unsearchable": false
+						}
+					],
+					"namespace": "wombat",
+					"releaseInfo": [],
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "World War Z - Chibi Kimiko Skin Pack",
+					"unsearchable": true
+				},
+				{
+					"ageGatings": {},
+					"applicationId": "",
+					"categories": [
+						{
+							"path": "addons"
+						}
+					],
+					"creationDate": "2025-05-05T12:29:11.320Z",
+					"customAttributes": {
+						"CanRunOffline": {
+							"type": "STRING",
+							"value": "true"
+						}
+					},
+					"description": "World War Z - Chibi Izzy Skin Pack",
+					"developer": "Saber Interactive",
+					"developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+					"endOfSupport": false,
+					"entitlementName": "4c0d59b8ac76434197cdef0a1ad4508b",
+					"entitlementType": "EXECUTABLE",
+					"eulaIds": [
+						"egstore"
+					],
+					"id": "4c0d59b8ac76434197cdef0a1ad4508b",
+					"itemType": "DURABLE",
+					"keyImages": [
+						{
+							"height": 1600,
+							"md5": "fb1c62252a82301635b0f01bc0d080d2",
+							"size": 271327,
+							"type": "DieselGameBoxTall",
+							"uploadedDate": "2025-07-15T13:31:59.705Z",
+							"url": "https://cdn1.epicgames.com/item/wombat/EGS_WorldWarZChibiIzzySkinPack_SaberInteractive_DLC_S2_1200x1600-fb1c62252a82301635b0f01bc0d080d2",
+							"width": 1200
+						}
+					],
+					"lastModifiedDate": "2025-07-23T10:39:50.605Z",
+					"mainGameItem": {
+						"id": "ec6ed5344a904ea78729113d80818d18",
+						"namespace": "wombat",
+						"unsearchable": false
+					},
+					"mainGameItemList": [
+						{
+							"id": "ec6ed5344a904ea78729113d80818d18",
+							"namespace": "wombat",
+							"unsearchable": false
+						}
+					],
+					"namespace": "wombat",
+					"releaseInfo": [],
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "World War Z - Chibi Izzy Skin Pack",
+					"unsearchable": true
 				}
 			],
 			"folder_name": "WorldWarZ",
@@ -75593,6 +75883,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Wed Jul 23 2025 19:10:21 GMT-0500 (hora estándar oriental)"
+		"library": "Wed Jul 30 2025 16:22:12 GMT-0500 (hora estándar oriental)"
 	}
 }

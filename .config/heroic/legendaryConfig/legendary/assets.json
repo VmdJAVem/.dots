@@ -38,7 +38,7 @@
     {
       "app_name": "da5b18cb1e7a452196c3142f2c1d7dd3",
       "asset_id": "da5b18cb1e7a452196c3142f2c1d7dd3",
-      "build_version": "1.16.01",
+      "build_version": "1.16.02.01",
       "catalog_item_id": "c8e3c334b682458a8489cfa06063d7f6",
       "label_name": "Live-Windows",
       "metadata": {
@@ -127,7 +127,7 @@
     {
       "app_name": "33030b24b1df4dd5b6bcfb0314c17f39",
       "asset_id": "33030b24b1df4dd5b6bcfb0314c17f39",
-      "build_version": "739",
+      "build_version": "745",
       "catalog_item_id": "975a3a2eca7c42ca9c610443ab0ae0bd",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -343,7 +343,7 @@
     {
       "app_name": "0a2d9f6403244d12969e11da6713137b",
       "asset_id": "0a2d9f6403244d12969e11da6713137b",
-      "build_version": "EGS_10347",
+      "build_version": "EGS_10428",
       "catalog_item_id": "38ec4849ea4f4de6aa7b6fb0f2d278e1",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -492,7 +492,7 @@
     {
       "app_name": "40cb42e38c0b4a14a1bb133eb3291572",
       "asset_id": "40cb42e38c0b4a14a1bb133eb3291572",
-      "build_version": "IdleDragons627064Live",
+      "build_version": "IdleDragons628064Live",
       "catalog_item_id": "48353a502e72433298f25827e03dbff0",
       "label_name": "Live-Windows",
       "metadata": {
@@ -601,7 +601,7 @@
     {
       "app_name": "Sugar",
       "asset_id": "Sugar",
-      "build_version": "BC2_Update55+487806b",
+      "build_version": "BC2_Update55.1+490872",
       "catalog_item_id": "530145df28a24424923f5828cc9031a1",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -899,7 +899,7 @@
     {
       "app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
       "asset_id": "8b6a0e1413744785a43c9f9f9547b4d6",
-      "build_version": "aircombat_store_windows_7c704f67_2025-06-19_13-33",
+      "build_version": "aircombat_store_windows_35a43fdc_2025-07-22_11-48",
       "catalog_item_id": "37bdf2283730476b89fa027acfab7491",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -951,7 +951,7 @@
     {
       "app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
       "asset_id": "9361c8c6d2f34b42b5f2f61093eedf48",
-      "build_version": "36.2.2.11",
+      "build_version": "36.2.2.13",
       "catalog_item_id": "498ff2997ac2491a9fc7c0e95991afd8",
       "label_name": "Live-Windows",
       "metadata": {
@@ -1033,7 +1033,7 @@
     {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-36.20-CL-44118662-Windows",
+      "build_version": "++Fortnite+Release-36.30-CL-44367537-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {
@@ -1355,7 +1355,7 @@
     {
       "app_name": "Wombat",
       "asset_id": "Wombat",
-      "build_version": "2.41",
+      "build_version": "2.42",
       "catalog_item_id": "ec6ed5344a904ea78729113d80818d18",
       "label_name": "Live-Windows",
       "metadata": {},

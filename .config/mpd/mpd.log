@@ -1257,3 +1257,17 @@
 2025-07-28T14:46:36 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
 2025-07-28T17:07:40 player: played "berlioz, Ted Jasper - nyc in 1940.mp3"
 2025-07-28T17:07:45 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-07-28T18:57:56 player: played "Aphex Twin - 4.mp3"
+2025-07-29T14:56:37 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-07-29T19:17:45 player: played "Aphex Twin - 4.mp3"
+2025-07-29T19:30:04 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-07-29T19:59:53 player: played "Aphex Twin - 4.mp3"
+2025-07-30T15:01:49 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-07-30T19:09:17 player: played "Aphex Twin - 4.mp3"
+2025-07-31T15:03:24 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-07-31T18:08:03 player: played "Aphex Twin - 4.mp3"
+2025-07-31T18:08:46 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-07-31T19:34:46 player: played "Aphex Twin - 4.mp3"
+2025-08-01T13:00:58 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-01T13:03:53 player: played "Aphex Twin - 4.mp3"
+2025-08-01T13:05:19 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use

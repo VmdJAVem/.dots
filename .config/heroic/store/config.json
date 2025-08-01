@@ -14,7 +14,7 @@
 		"user": "vmdjavem"
 	},
 	"window-props": {
-		"x": 967,
+		"x": 10,
 		"y": 57,
 		"width": 943,
 		"height": 1013,
@@ -71,6 +71,10 @@
 	},
 	"games": {
 		"recent": [
+			{
+				"appName": "41869934302e4b8cafac2d3c0e7c293d",
+				"title": "Genshin Impact"
+			},
 			{
 				"appName": "3e02273b543f4ff0a1c24d3b534a9ac3",
 				"title": "Hell Let Loose"

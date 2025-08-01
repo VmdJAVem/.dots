@@ -1,1 +1,652 @@
-{}
+{
+	"epic_41869934302e4b8cafac2d3c0e7c293d": {
+		"id": "54465337329250475",
+		"game_id": "52345189095797757",
+		"platform_id": "epic",
+		"external_id": "41869934302e4b8cafac2d3c0e7c293d",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "52345189095797757",
+			"parent_id": null,
+			"dlcs_ids": [
+				"53944942317854990",
+				"54507508149760308"
+			],
+			"first_release_date": "2020-09-28T00:00:00+0000",
+			"releases": [
+				{
+					"id": "53728171267997640",
+					"platform_id": "psn",
+					"external_id": "CUSA23678_00",
+					"release_per_platform_id": "psn_CUSA23678_00",
+					"availability": 0
+				},
+				{
+					"id": "53728210020194679",
+					"platform_id": "psn",
+					"external_id": "CUSA23681_00",
+					"release_per_platform_id": "psn_CUSA23681_00",
+					"availability": 0
+				},
+				{
+					"id": "53736107446570924",
+					"platform_id": "psn",
+					"external_id": "CUSA23946_00",
+					"release_per_platform_id": "psn_CUSA23946_00",
+					"availability": 0
+				},
+				{
+					"id": "54024436905706646",
+					"platform_id": "test",
+					"external_id": "genshin-impact",
+					"release_per_platform_id": "test_genshin-impact",
+					"availability": 0
+				},
+				{
+					"id": "54027325414816458",
+					"platform_id": "playfire",
+					"external_id": "genshin-impact",
+					"release_per_platform_id": "playfire_genshin-impact",
+					"availability": 0
+				},
+				{
+					"id": "54058873592985136",
+					"platform_id": "psn",
+					"external_id": "NPWR21233_00",
+					"release_per_platform_id": "psn_NPWR21233_00",
+					"availability": 0
+				},
+				{
+					"id": "54320175344916672",
+					"platform_id": "test",
+					"external_id": "f5cb6babdf120eb0c4efd58032a8045eb1e9b1f7",
+					"release_per_platform_id": "test_f5cb6babdf120eb0c4efd58032a8045eb1e9b1f7",
+					"availability": 0
+				},
+				{
+					"id": "54320175472198549",
+					"platform_id": "test",
+					"external_id": "14df2865619b800ab602f82a5bd5aa07a0f5fa91",
+					"release_per_platform_id": "test_14df2865619b800ab602f82a5bd5aa07a0f5fa91",
+					"availability": 0
+				},
+				{
+					"id": "54320175514790738",
+					"platform_id": "test",
+					"external_id": "7b93a9ffd6222c50e7c4c20e739b443957bb11da",
+					"release_per_platform_id": "test_7b93a9ffd6222c50e7c4c20e739b443957bb11da",
+					"availability": 0
+				},
+				{
+					"id": "54326211371816497",
+					"platform_id": "test",
+					"external_id": "dd393fb44c0d81a41be87d1b20753ae5104a74ef",
+					"release_per_platform_id": "test_dd393fb44c0d81a41be87d1b20753ae5104a74ef",
+					"availability": 0
+				},
+				{
+					"id": "54465337329250475",
+					"platform_id": "epic",
+					"external_id": "41869934302e4b8cafac2d3c0e7c293d",
+					"release_per_platform_id": "epic_41869934302e4b8cafac2d3c0e7c293d",
+					"availability": 0
+				},
+				{
+					"id": "54670123970023837",
+					"platform_id": "psn",
+					"external_id": "PPSA02584_00",
+					"release_per_platform_id": "psn_PPSA02584_00",
+					"availability": 0
+				},
+				{
+					"id": "54670238687320937",
+					"platform_id": "psn",
+					"external_id": "PPSA02562_00",
+					"release_per_platform_id": "psn_PPSA02562_00",
+					"availability": 0
+				},
+				{
+					"id": "54671308857731932",
+					"platform_id": "psn",
+					"external_id": "CUSA23335_00",
+					"release_per_platform_id": "psn_CUSA23335_00",
+					"availability": 0
+				},
+				{
+					"id": "54680249699650842",
+					"platform_id": "psn",
+					"external_id": "CUSA23336_00",
+					"release_per_platform_id": "psn_CUSA23336_00",
+					"availability": 0
+				},
+				{
+					"id": "54703980558577591",
+					"platform_id": "psn",
+					"external_id": "PPSA02585_00",
+					"release_per_platform_id": "psn_PPSA02585_00",
+					"availability": 0
+				},
+				{
+					"id": "54913657961402219",
+					"platform_id": "psn",
+					"external_id": "CUSA25094_00",
+					"release_per_platform_id": "psn_CUSA25094_00",
+					"availability": 0
+				},
+				{
+					"id": "55066819167766259",
+					"platform_id": "test",
+					"external_id": "genshin_impact",
+					"release_per_platform_id": "test_genshin_impact",
+					"availability": 0
+				},
+				{
+					"id": "55283363947995790",
+					"platform_id": "psn",
+					"external_id": "99321",
+					"release_per_platform_id": "psn_99321",
+					"availability": 0
+				},
+				{
+					"id": "55403729242125815",
+					"platform_id": "beamdog",
+					"external_id": "00000000-0000-0000-0000-000000003393",
+					"release_per_platform_id": "beamdog_00000000-0000-0000-0000-000000003393",
+					"availability": 0
+				},
+				{
+					"id": "55406709852754237",
+					"platform_id": "beamdog",
+					"external_id": "41869934302e4b8cafac2d3c0e7c293d",
+					"release_per_platform_id": "beamdog_41869934302e4b8cafac2d3c0e7c293d",
+					"availability": 0
+				},
+				{
+					"id": "55406917130812534",
+					"platform_id": "test",
+					"external_id": "41869934302e4b8cafac2d3c0e7c293d",
+					"release_per_platform_id": "test_41869934302e4b8cafac2d3c0e7c293d",
+					"availability": 0
+				},
+				{
+					"id": "55407077037353485",
+					"platform_id": "humble",
+					"external_id": "41869934302e4b8cafac2d3c0e7c293d",
+					"release_per_platform_id": "humble_41869934302e4b8cafac2d3c0e7c293d",
+					"availability": 0
+				},
+				{
+					"id": "55420955995715529",
+					"platform_id": "egg",
+					"external_id": "41869934302e4b8cafac2d3c0e7c293d",
+					"release_per_platform_id": "egg_41869934302e4b8cafac2d3c0e7c293d",
+					"availability": 0
+				},
+				{
+					"id": "56207655189768056",
+					"platform_id": "itch",
+					"external_id": "41869934302e4b8cafac2d3c0e7c293d",
+					"release_per_platform_id": "itch_41869934302e4b8cafac2d3c0e7c293d",
+					"availability": 0
+				},
+				{
+					"id": "56238492128182158",
+					"platform_id": "test",
+					"external_id": "9019eb831403940365bda1c85d2e26e5dd79c70a",
+					"release_per_platform_id": "test_9019eb831403940365bda1c85d2e26e5dd79c70a",
+					"availability": 0
+				},
+				{
+					"id": "58262644246340094",
+					"platform_id": "xboxone",
+					"external_id": "2053080068",
+					"release_per_platform_id": "xboxone_2053080068",
+					"availability": 0
+				},
+				{
+					"id": "52345189095797757",
+					"platform_id": "generic",
+					"external_id": "52345189095797757",
+					"release_per_platform_id": "generic_52345189095797757",
+					"availability": 1
+				}
+			],
+			"title": {
+				"*": "Genshin Impact",
+				"en-US": "Genshin Impact"
+			},
+			"sorting_title": {
+				"*": "Genshin Impact",
+				"en-US": "Genshin Impact"
+			},
+			"type": "game",
+			"developers_ids": [
+				"52345676024628164",
+				"55199811342289874",
+				"55562586906739307"
+			],
+			"developers": [
+				{
+					"id": "52345676024628164",
+					"name": "miHoYo",
+					"slug": "mihoyo"
+				},
+				{
+					"id": "55199811342289874",
+					"name": "Cognosphere",
+					"slug": "cognosphere"
+				},
+				{
+					"id": "55562586906739307",
+					"name": "HoYoverse",
+					"slug": "hoyoverse"
+				}
+			],
+			"publishers_ids": [
+				"52345676024628164",
+				"55199811342289874",
+				"55562586906739307"
+			],
+			"publishers": [
+				{
+					"id": "52345676024628164",
+					"name": "miHoYo",
+					"slug": "mihoyo"
+				},
+				{
+					"id": "55199811342289874",
+					"name": "Cognosphere",
+					"slug": "cognosphere"
+				},
+				{
+					"id": "55562586906739307",
+					"name": "HoYoverse",
+					"slug": "hoyoverse"
+				}
+			],
+			"genres_ids": [
+				"51071842242881003",
+				"51071842251704278"
+			],
+			"genres": [
+				{
+					"id": "51071842242881003",
+					"name": {
+						"*": "Role-playing (RPG)",
+						"en-US": "Role-playing (RPG)"
+					},
+					"slug": "role-playing-rpg"
+				},
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				}
+			],
+			"themes_ids": [
+				"51071842227872529",
+				"51071842231533391",
+				"51071842246739768"
+			],
+			"themes": [
+				{
+					"id": "51071842227872529",
+					"name": {
+						"*": "Open world",
+						"en-US": "Open world"
+					},
+					"slug": "open-world"
+				},
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51071842246739768",
+					"name": {
+						"*": "Fantasy",
+						"en-US": "Fantasy"
+					},
+					"slug": "fantasy"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/0977bd95c10921bf7e19d1094761625e9af1c725174b07b73be7bc9e9fa8dde1{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/730bcf02c2251f2edbc7323b631a62ee4a2b0c536c5a38307fe904ead6d1fc56{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1bb2ae04e7b4d96ce13b9290fe561a4993e8be388b49dcc5cdccd2608f56f06f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/65a1ce0511dc2a93361189ef696de270c2f8ef96e99c5ae27c1251eca6cac074{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/9116976488f0cb754644efa3acd15f26c2ac705ba1e61ad2a34ebfa51a630fe7{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/0779a0b1a6ffbf6927baacdb1fde305a5267dbf4b2adf9f482974847cc4f6077{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/92469c8a4b671015310a15e1950526f5d9cc0231a45494b6c670d99c7a63bf63{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f80c28ed607b182a5469ab7aa7407d8bd7a4918cb68ed3fb4b998614e83f2f75{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/267426b4c27c16aa1deac45f6beffe54a882344c25053679f570cfb8786759bb{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/930c9d4985f1843ca0ae2e2ab254f5561fe3835c16ac24f1f74ca2e1dd1c8a67{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/06a3138b1956b9f0ceae15e29036d6befa4d981e5cce547cc27cb4f6f9885c35{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ff55c219ef433831644141fd8143699c2ce25020982370b286f142aa6b8a30ea{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/2c81ec8407f3719cd7dcbbc6b1f6b84a34fda736b77df27ecbc9fa5ff3be769b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b653b3b8f5e651d784a89e5087bf744afa4babaf22c198089a7713224a9cd683{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/413ee0ea7ad0eb58849d31f3d7e926279acc6e9f98878bdee1aff32740123260{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/18d0e990e8416c998a153b26938f29951b76b9048e91628fb23900c2a5846722{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ae86438ba6ee794c2b6c468962679d2785936a7476a5997a285f899594d3003b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/6d16b31a4f3597eccdde554c71f064e89c26e1c2449e6445f28b5f0c4f9a7eaa{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f93ec05842ad8f72a0bae4a5624432d81cfdc6ca2266103426f0cbf5904e63e6{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ba9a2a0dea662e506e65bacd93adf29946e776363cb7a4e11fa060eeae83e266{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7c69e63752334c4deaa7038918332f4a095238a8bdc9eb1fe90fc41ab9c5df78{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d7126fb0094c1aa8dc1fdf67ddf0a4e2a2718f29fe65d0c4b8e3699c6b0a4373{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/6d82efe03c255cc73412ff385d94e84479ba938c8caf321b3501f3b141ee643f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/20984f90a4f85b9b106f6b2a9b86a41bb8523f4511e04e97aebb7f51b677ed7e{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/54acf10c58c6cd5ccd409576f9347fa4aa21967b6bca9ec964ad5f673af033ca{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1326bf81b193190b5610fb867baa0fb30d48576c57ad68d326497918fe35bcaa{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/23f330a257e23c028b69ffc393f2ed9f7d472e8610d7a09ca6799cdead23a622{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/da572c67ba9d4f0499261a848749f08ddf551177647e71104b092e48fe360519{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/98c813d68afa830b27b05d4916af5b8f4a41d6e142f7d280125f6d1dc98ec9a5{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/0e94945773f4cefe8b9ded02cfafcae29810765985074519ae47453ba1518279{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e4954bb72bce4b9ca22e05ddae3f08d6db047dbb3ce6fc20665b007aa26117ed{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7cebcf656f18c0f78b9919ccbd81d8b8e5329898250f738d23321247cfd01c65{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "TAlKhARUcoY",
+					"thumbnail_id": "TAlKhARUcoY",
+					"name": "Launch Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "5DuZblVxG3I",
+					"thumbnail_id": "5DuZblVxG3I",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "8BSYycuH-q8",
+					"thumbnail_id": "8BSYycuH-q8",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "YjiloHxQ5eE",
+					"thumbnail_id": "YjiloHxQ5eE",
+					"name": "TGA 2021 Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "B8197NUQ0LE",
+					"thumbnail_id": "B8197NUQ0LE",
+					"name": "Game Intro"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "SO__VQZirJ4",
+					"thumbnail_id": "SO__VQZirJ4",
+					"name": "Release Date Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "SKgab08ZFfU",
+					"thumbnail_id": "SKgab08ZFfU",
+					"name": "Release Date Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "3VtfVPCbNzk",
+					"thumbnail_id": "3VtfVPCbNzk",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "S1WmmsEXtyE",
+					"thumbnail_id": "S1WmmsEXtyE",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "C_duDk5e8yU",
+					"thumbnail_id": "C_duDk5e8yU",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "M2blSYJ6hrE",
+					"thumbnail_id": "M2blSYJ6hrE",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "TSsWsCdiiPI",
+					"thumbnail_id": "TSsWsCdiiPI",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "lMdsrZ1otlA",
+					"thumbnail_id": "lMdsrZ1otlA",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "jEp9yyhwZFE",
+					"thumbnail_id": "jEp9yyhwZFE",
+					"name": "Gameplay Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "gGMvTL9AedQ",
+					"thumbnail_id": "gGMvTL9AedQ",
+					"name": "Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/e6bc41b375b40fbc7ade20cba80a13b08018332c014d5b321f11b2e6b93188f3{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1d71a5cbdf6c2b877552a2f331da9b6cc626365eb2b209aba54ff885ca1f26a5{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/25aba062d81f02b63de2741cf8ec18f1a5047f4c1aad8dc1dcb8aabf45d24b5f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c72d0154ef2a4e3fea6f96fcac34df513a12a87c7ab42236810ce0426763392f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a3845323a083f0752c2db9258b32134a1a4ccfe8a215157f21c16d9acff16c0d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/48f0e4b93b0d296ef6267f0adb7f3f1ad52dead65da692640d184b857fa35bd4{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a456bc178c74183426851eb96edc3b35dbd1865622bdc21353aae476fc44f0b2{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/01d9d30137fcc4ef2d70dd55423a9d157e852a6256f7686e30f7b36219710391{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/384fa1f3cafb961af3a848ec5e73dc9f83898a697977dfb8ca393a12e9e0037e{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c5ca848f05135186f40bfc0aa7adeb63c8860780159a9941792b6189935512e6{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/30668662737bfa9acae7b60baaf156991342c6b0943e46a71b73440e6274edf7{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/26e0bf394bdbc14bd4bed5cf719832c880b7c9f0de26aa4c822e351c1f25edb9{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Genshin Impact is an open-world action RPG, where you embark on a journey across Teyvat to find your lost sibling and seek answers from The Seven, the gods of each element. Explore this wondrous world, join forces with a diverse range of characters, and unravel the countless mysteries that Teyvat holds...",
+				"en-US": "Genshin Impact is an open-world action RPG, where you embark on a journey across Teyvat to find your lost sibling and seek answers from The Seven, the gods of each element. Explore this wondrous world, join forces with a diverse range of characters, and unravel the countless mysteries that Teyvat holds..."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 83.2857,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				},
+				{
+					"id": "53051898010278634",
+					"name": "Co-operative",
+					"slug": "co-operative"
+				},
+				{
+					"id": "53051908711988230",
+					"name": "Multiplayer",
+					"slug": "multiplayer"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/4f898de0e28d9f458a305b6807b35dfc376948040b3f992c87e22d22d21bbee6{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/4f898de0e28d9f458a305b6807b35dfc376948040b3f992c87e22d22d21bbee6{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/b89bfab3457391749dde48eb6957d1b3e5ee08252ae652ceea50e88586204c5a{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/b89bfab3457391749dde48eb6957d1b3e5ee08252ae652ceea50e88586204c5a{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/b89bfab3457391749dde48eb6957d1b3e5ee08252ae652ceea50e88586204c5a{formatter}.{ext}?namespace=gamesdb"
+			},
+			"icon": {
+				"url_format": "https://images.gog.com/b89bfab3457391749dde48eb6957d1b3e5ee08252ae652ceea50e88586204c5a{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/1d71a5cbdf6c2b877552a2f331da9b6cc626365eb2b209aba54ff885ca1f26a5{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0,
+			"slug": "genshin-impact-2020"
+		},
+		"title": {
+			"*": "Genshin Impact",
+			"en-US": "Genshin Impact"
+		},
+		"sorting_title": {
+			"*": "Genshin Impact",
+			"en-US": "Genshin Impact"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Genshin Impact is an open-world action RPG, where you embark on a journey across Teyvat to find your lost sibling and seek answers from The Seven, the gods of each element. Explore this wondrous world, join forces with a diverse range of characters, and unravel the countless mysteries that Teyvat holds...",
+			"en-US": "Genshin Impact is an open-world action RPG, where you embark on a journey across Teyvat to find your lost sibling and seek answers from The Seven, the gods of each element. Explore this wondrous world, join forces with a diverse range of characters, and unravel the countless mysteries that Teyvat holds..."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			},
+			{
+				"id": "53051898010278634",
+				"name": "Co-operative",
+				"slug": "co-operative"
+			},
+			{
+				"id": "53051908711988230",
+				"name": "Multiplayer",
+				"slug": "multiplayer"
+			}
+		],
+		"icon": {
+			"url_format": "https://images.gog.com/b89bfab3457391749dde48eb6957d1b3e5ee08252ae652ceea50e88586204c5a{formatter}.{ext}?namespace=gamesdb"
+		},
+		"logo": {
+			"url_format": "https://images.gog.com/b89bfab3457391749dde48eb6957d1b3e5ee08252ae652ceea50e88586204c5a{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"a0dc9cac860b9d9b2641d23132836730\""
+	},
+	"__timestamp": {
+		"epic_41869934302e4b8cafac2d3c0e7c293d": "Wed Jul 30 2025 16:12:05 GMT-0500 (hora estándar oriental)"
+	}
+}

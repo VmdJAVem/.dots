@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Wombat",
       "asset_id": "Wombat",
-      "build_version": "2.41",
+      "build_version": "2.42",
       "catalog_item_id": "ec6ed5344a904ea78729113d80818d18",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -96,7 +96,6 @@
           "egstore"
         ],
         "id": "fe9e844df95d47638457645f8ed881b6",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-12-18T11:33:50.747Z",
@@ -188,7 +187,6 @@
           "egstore"
         ],
         "id": "2173836271d74fdc8c663d28fd80c79f",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-12-09T14:36:51.127Z",
@@ -288,7 +286,6 @@
           "egstore"
         ],
         "id": "ff9ff629f59744169bbe093e5bb2fb43",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-12-18T11:33:50.748Z",
@@ -421,7 +418,6 @@
           "egstore"
         ],
         "id": "d7933b221e924059a1a9454488848d15",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [
           {
@@ -1002,6 +998,120 @@
         "status": "ACTIVE",
         "title": "World War Z - Las Vegas Episode",
         "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-05T12:28:11.176Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World War Z - Chibi Kimiko Skin Pack",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "ef272ec0540f455cb90b794c8053fcd9",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ef272ec0540f455cb90b794c8053fcd9",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "edc07761515e82bb08550809d3e10a61",
+            "size": 214034,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-07-15T13:46:11.485Z",
+            "url": "https://cdn1.epicgames.com/item/wombat/EGS_WorldWarZChibiKimikoSkinPack_SaberInteractive_DLC_S2_1200x1600-edc07761515e82bb08550809d3e10a61",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-07-23T10:39:50.613Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World War Z - Chibi Kimiko Skin Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-05T12:29:11.320Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World War Z - Chibi Izzy Skin Pack",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "4c0d59b8ac76434197cdef0a1ad4508b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4c0d59b8ac76434197cdef0a1ad4508b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "fb1c62252a82301635b0f01bc0d080d2",
+            "size": 271327,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-07-15T13:31:59.705Z",
+            "url": "https://cdn1.epicgames.com/item/wombat/EGS_WorldWarZChibiIzzySkinPack_SaberInteractive_DLC_S2_1200x1600-fb1c62252a82301635b0f01bc0d080d2",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-07-23T10:39:50.605Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World War Z - Chibi Izzy Skin Pack",
+        "unsearchable": true
       }
     ],
     "endOfSupport": false,
@@ -1011,7 +1121,6 @@
       "egstore"
     ],
     "id": "ec6ed5344a904ea78729113d80818d18",
-    "installModes": [],
     "itemType": "DURABLE",
     "keyImages": [
       {
@@ -1033,7 +1142,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-02-20T17:57:42.143Z",
+    "lastModifiedDate": "2025-07-23T10:39:50.638Z",
     "mainGameItemList": [],
     "namespace": "wombat",
     "releaseInfo": [

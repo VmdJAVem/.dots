@@ -42,7 +42,9 @@
 	},
 	"__timestamp": {
 		"2fb8273dcf6f41e4899c0c881e047053": "Wed Jul 23 2025 17:19:06 GMT-0500 (hora estándar oriental)",
-		"3e02273b543f4ff0a1c24d3b534a9ac3": "Wed Jul 23 2025 17:53:31 GMT-0500 (hora estándar oriental)"
+		"3e02273b543f4ff0a1c24d3b534a9ac3": "Wed Jul 23 2025 17:53:31 GMT-0500 (hora estándar oriental)",
+		"8b6a0e1413744785a43c9f9f9547b4d6": "Wed Jul 30 2025 16:08:47 GMT-0500 (hora estándar oriental)",
+		"41869934302e4b8cafac2d3c0e7c293d": "Wed Jul 30 2025 16:11:38 GMT-0500 (hora estándar oriental)"
 	},
 	"3e02273b543f4ff0a1c24d3b534a9ac3": {
 		"game": {
@@ -91,6 +93,98 @@
 			"num_chunks": 52524,
 			"disk_size": 55824862747,
 			"download_size": 31222031004,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"8b6a0e1413744785a43c9f9f9547b4d6": {
+		"game": {
+			"app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
+			"title": "Metalstorm",
+			"version": "aircombat_store_windows_35a43fdc_2025-07-22_11-48",
+			"platform_versions": {
+				"Windows": "aircombat_store_windows_35a43fdc_2025-07-22_11-48"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": {
+			"platform": "Windows",
+			"version": "aircombat_store_windows_7c704f67_2025-06-19_13-33",
+			"disk_size": 9111753122,
+			"install_path": "/home/vmdjavem/Games/Heroic/Metalstorm",
+			"save_path": null,
+			"synced_egl_guid": "",
+			"install_tags": [],
+			"requires_ovt": false,
+			"installed_dlc": []
+		},
+		"manifest": {
+			"size": 1039563,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
+			"launch_exe": "Metalstorm.exe",
+			"launch_command": "",
+			"build_version": "aircombat_store_windows_35a43fdc_2025-07-22_11-48",
+			"build_id": "FDKCHpYstl-8_1mdTf7sWX3rVfs",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 8565,
+			"num_chunks": 9047,
+			"disk_size": 9544694515,
+			"download_size": 4505963581,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"41869934302e4b8cafac2d3c0e7c293d": {
+		"game": {
+			"app_name": "41869934302e4b8cafac2d3c0e7c293d",
+			"title": "Genshin Impact",
+			"version": "105",
+			"platform_versions": {
+				"Windows": "105"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 33038,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "41869934302e4b8cafac2d3c0e7c293d",
+			"launch_exe": "launcher_epic.exe",
+			"launch_command": "",
+			"build_version": "105",
+			"build_id": "SpT4aw251kq16hgUawMvBw",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 127,
+			"num_chunks": 368,
+			"disk_size": 397138404,
+			"download_size": 181272376,
 			"tag_disk_size": [],
 			"tag_download_size": []
 		}

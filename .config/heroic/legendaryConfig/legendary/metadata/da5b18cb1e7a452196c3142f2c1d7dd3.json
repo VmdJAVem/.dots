@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "da5b18cb1e7a452196c3142f2c1d7dd3",
       "asset_id": "da5b18cb1e7a452196c3142f2c1d7dd3",
-      "build_version": "1.16.01",
+      "build_version": "1.16.02.01",
       "catalog_item_id": "c8e3c334b682458a8489cfa06063d7f6",
       "label_name": "Live-Windows",
       "metadata": {
@@ -122,7 +122,6 @@
           "egstore"
         ],
         "id": "958165ea6ed14a76bb5017d1592079cc",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [
           {
@@ -432,7 +431,6 @@
           "egstore"
         ],
         "id": "e18d7c6340e14579b17cb51daaacaeb5",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [
           {

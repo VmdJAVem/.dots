@@ -18,6 +18,51 @@
 		"umuId": null
 	},
 	"__timestamp": {
-		"Hell Let Loose": "Wed Jul 23 2025 18:16:39 GMT-0500 (hora estándar oriental)"
+		"Hell Let Loose": "Wed Jul 23 2025 18:16:39 GMT-0500 (hora estándar oriental)",
+		"Genshin Impact": "Wed Jul 30 2025 16:12:05 GMT-0500 (hora estándar oriental)"
+	},
+	"Genshin Impact": {
+		"pcgamingwiki": {
+			"steamID": "",
+			"howLongToBeatID": "68133",
+			"metacritic": {
+				"score": "84",
+				"urlid": "genshin-impact"
+			},
+			"opencritic": {
+				"score": "80",
+				"urlid": "10217/genshin-impact"
+			},
+			"igdb": {
+				"score": "83",
+				"urlid": "genshin-impact"
+			},
+			"direct3DVersions": [
+				"11"
+			],
+			"genres": [
+				"Action",
+				"Openworld",
+				"RPG"
+			],
+			"releaseDate": [
+				"Windows: September 28, 2020"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"mainStory": 67,
+			"mainExtra": 233,
+			"completionist": 764,
+			"gameId": 68133,
+			"gameName": "Genshin Impact",
+			"gameImageUrl": "https://howlongtobeat.com/games/68133_Genshin_Impact.jpg",
+			"gameWebLink": "https://howlongtobeat.com/game/68133"
+		},
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": null,
+		"umuId": "umu-7d690c122fde4c60bed85405f343ad10"
 	}
 }

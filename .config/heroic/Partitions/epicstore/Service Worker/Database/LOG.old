@@ -1,3 +1,3 @@
-2025/06/27-18:44:00.667 154ba Reusing MANIFEST /home/vmdjavem/.config/heroic/Partitions/epicstore/Service Worker/Database/MANIFEST-000001
-2025/06/27-18:44:00.667 154ba Recovering log #3
-2025/06/27-18:44:00.668 154ba Reusing old log /home/vmdjavem/.config/heroic/Partitions/epicstore/Service Worker/Database/000003.log 
+2025/07/04-16:03:41.046 b64c Reusing MANIFEST /home/vmdjavem/.config/heroic/Partitions/epicstore/Service Worker/Database/MANIFEST-000001
+2025/07/04-16:03:41.047 b64c Recovering log #3
+2025/07/04-16:03:41.047 b64c Reusing old log /home/vmdjavem/.config/heroic/Partitions/epicstore/Service Worker/Database/000003.log 

@@ -60,7 +60,7 @@
                 (aux-info
                     (show-button-bar "true"))))
         (book
-            (position 241)
+            (position 480)
             (current-page 0)
             (dockable "gimp-layer-list"
                 (tab-style icon)
