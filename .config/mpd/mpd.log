@@ -1271,3 +1271,51 @@
 2025-08-01T13:00:58 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
 2025-08-01T13:03:53 player: played "Aphex Twin - 4.mp3"
 2025-08-01T13:05:19 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-01T19:18:26 player: played "Aphex Twin - 4.mp3"
+2025-08-01T20:49:51 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-01T20:53:19 player: played "Aphex Twin - 4.mp3"
+2025-08-01T20:53:20 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-01T21:24:46 player: played "Aphex Twin - 4.mp3"
+2025-08-01T21:25:22 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-01T21:28:04 player: played "Bolden. - Dawn in LA..mp3"
+2025-08-01T21:28:04 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-01T21:30:42 player: played "Bolden., Mauricesax - I'm here..mp3"
+2025-08-01T21:30:42 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-01T21:32:06 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-01T21:33:44 player: played "Cortex - Devil's Dance.mp3"
+2025-08-01T21:33:44 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-01T21:35:07 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-01T21:36:19 player: played "CUPIDS OPPRESSION - LIFE IMITATES ART.mp3"
+2025-08-01T21:36:19 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-01T21:37:19 player: played "the wine is ok - gamay.mp3"
+2025-08-02T11:19:32 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-02T11:19:32 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-02T11:20:12 player: played "the wine is ok - gamay.mp3"
+2025-08-05T16:39:42 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-05T16:43:09 player: played "Alcolirykoz - Aguanilé.mp3"
+2025-08-05T16:43:09 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-05T16:46:05 player: played "Alcolirykoz - Sancocho en Leña.mp3"
+2025-08-05T16:46:05 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-05T17:08:14 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-05T17:11:41 player: played "Alcolirykoz - Aguanilé.mp3"
+2025-08-05T17:11:41 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-05T17:14:37 player: played "Alcolirykoz - Sancocho en Leña.mp3"
+2025-08-05T17:14:37 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-05T17:17:43 player: played "Alcolirykoz - Suero Casero.mp3"
+2025-08-05T17:17:43 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-05T17:21:47 player: played "Alcolirykoz, Armando Hernandez - El Remate.mp3"
+2025-08-05T17:21:47 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-05T17:25:24 player: played "Aphex Twin - 4.mp3"
+2025-08-05T17:25:24 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-05T17:30:19 alsa_output: Decoder is too slow; playing silence to avoid xrun
+2025-08-05T17:30:19 player: played "Aphex Twin - Xtal.mp3"
+2025-08-07T19:17:46 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-07T19:18:44 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-07T19:20:42 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-07T19:21:31 player: played "Bolden. - Dawn in LA..mp3"
+2025-08-07T19:21:31 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-07T19:23:37 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-07T19:25:07 player: played "Bolden., Mauricesax - I'm here..mp3"
+2025-08-07T19:25:07 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-07T19:27:36 player: played "Cortex - Devil's Dance.mp3"
+2025-08-07T19:27:36 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
