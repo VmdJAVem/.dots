@@ -50,6 +50,13 @@ function zpdf
         nohup zathura "$file" >/dev/null 2>&1 &
     end
 end
+function catfetch
+    set stamp (date +%s)
+    kitget --square -o "/tmp/kitget-$stamp"
+    clear
+    fastfetch --kitty "/tmp/kitget-$stamp" $argv
+    rm -f "/tmp/kitget-$stamp"
+end
 #zoxide
 zoxide init fish | source
 #fetch
