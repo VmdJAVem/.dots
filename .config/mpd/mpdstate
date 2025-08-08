@@ -1,9 +1,9 @@
 sw_volume: 85
 audio_device_state:1:ALSA Output
 audio_device_state:1:HTTP Stream
-state: pause
-current: 3
-time: 16.598
+state: play
+current: 5
+time: 21.042
 random: 0
 repeat: 0
 single: 0
