@@ -1319,3 +1319,6 @@
 2025-08-07T19:25:07 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
 2025-08-07T19:27:36 player: played "Cortex - Devil's Dance.mp3"
 2025-08-07T19:27:36 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-07T20:27:42 player: played "CUPIDS OPPRESSION - LIFE IMITATES ART.mp3"
+2025-08-08T13:58:13 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-08T16:28:53 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use

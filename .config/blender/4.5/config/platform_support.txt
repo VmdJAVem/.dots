@@ -1,0 +1,1 @@
+{AMD/AMD Radeon RX 7700 XT (radeonsi, navi32, LLVM 20.1.8, DRM 3.63, 6.15.9-arch1-1)/4.6 (Core Profile) Mesa 25.1.7-arch1.1}=SUPPORTED

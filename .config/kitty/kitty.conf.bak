@@ -1,5 +1,9 @@
-background_opacity 0.6
+background_opacity 1
 dynamic_background_opacity yes
+cursor_trail 1
+
+
+
 cursor_text_color       background
 
 url_color               #83a598
@@ -11,7 +15,7 @@ active_border_color     #d3869b
 inactive_border_color   #665c54
 
 foreground              #ebdbb2
-background              #282828
+background              #1D2021
 selection_foreground    #928374
 selection_background    #ebdbb2
 
@@ -52,117 +56,13 @@ color14                 #8ec07c
 color7                  #a89984
 color15                 #bdae93
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#cursor
+cursor_shape beam
+shell_integration no-cursor
 
 
 # BEGIN_KITTY_FONTS
-font_family      family="RobotoMono Nerd Font Mono"
+font_family      family="Mononoki Nerd Font Mono"
 bold_font        auto
 italic_font      auto
 bold_italic_font auto
