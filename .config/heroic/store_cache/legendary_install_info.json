@@ -1,109 +1,11 @@
 {
-	"2fb8273dcf6f41e4899c0c881e047053": {
-		"game": {
-			"app_name": "2fb8273dcf6f41e4899c0c881e047053",
-			"title": "Dishonored®: Death of the Outsider™",
-			"version": "0.0.0.4",
-			"platform_versions": {
-				"Windows": "0.0.0.4"
-			},
-			"cloud_saves_supported": true,
-			"cloud_save_folder": "{UserSavedGames}/Arkane Studios/Dishonored_DO/{EpicID}/",
-			"cloud_save_folder_mac": null,
-			"is_dlc": false,
-			"external_activation": null,
-			"launch_options": [],
-			"command_line": null,
-			"owned_dlc": []
-		},
-		"install": null,
-		"manifest": {
-			"size": 2140700,
-			"type": "binary",
-			"version": 17,
-			"feature_level": 17,
-			"app_name": "51869b9dd4564b87a14fd9f6a21bf304",
-			"launch_exe": "Dishonored_DO.exe",
-			"launch_command": "",
-			"build_version": "0.0.0.4",
-			"build_id": "tsoUgwOwO53cbV-tO_VCdhfar0s",
-			"prerequisites": null,
-			"uninstaller": null,
-			"install_tags": [
-				""
-			],
-			"num_files": 261,
-			"num_chunks": 32544,
-			"disk_size": 34123883498,
-			"download_size": 31788483065,
-			"tag_disk_size": [],
-			"tag_download_size": []
-		}
-	},
-	"__timestamp": {
-		"2fb8273dcf6f41e4899c0c881e047053": "Wed Jul 23 2025 17:19:06 GMT-0500 (hora estándar oriental)",
-		"3e02273b543f4ff0a1c24d3b534a9ac3": "Wed Jul 23 2025 17:53:31 GMT-0500 (hora estándar oriental)",
-		"8b6a0e1413744785a43c9f9f9547b4d6": "Wed Jul 30 2025 16:08:47 GMT-0500 (hora estándar oriental)",
-		"41869934302e4b8cafac2d3c0e7c293d": "Wed Jul 30 2025 16:11:38 GMT-0500 (hora estándar oriental)"
-	},
-	"3e02273b543f4ff0a1c24d3b534a9ac3": {
-		"game": {
-			"app_name": "3e02273b543f4ff0a1c24d3b534a9ac3",
-			"title": "Hell Let Loose",
-			"version": "482.1000456",
-			"platform_versions": {
-				"Windows": "482.1000456"
-			},
-			"cloud_saves_supported": false,
-			"cloud_save_folder": null,
-			"cloud_save_folder_mac": null,
-			"is_dlc": false,
-			"external_activation": null,
-			"launch_options": [],
-			"command_line": null,
-			"owned_dlc": []
-		},
-		"install": null,
-		"manifest": {
-			"size": 3502524,
-			"type": "binary",
-			"version": 21,
-			"feature_level": 21,
-			"app_name": "3e02273b543f4ff0a1c24d3b534a9ac3",
-			"launch_exe": "Launch_HLL.exe",
-			"launch_command": "",
-			"build_version": "482.1000456",
-			"build_id": "BHuaBkgSCEuCaIrNtsxEEQ",
-			"prerequisites": {
-				"ids": [
-					"9AD464080DA1152438146F935DCE16B113C0EC18"
-				],
-				"name": "",
-				"path": "EasyAntiCheat/EasyAntiCheat_EOS_Setup.exe",
-				"args": "install 0fac3450d5b24587a1d25b5c94676f99"
-			},
-			"uninstaller": {
-				"path": "EasyAntiCheat/EasyAntiCheat_EOS_Setup.exe",
-				"args": "uninstall 0fac3450d5b24587a1d25b5c94676f99"
-			},
-			"install_tags": [
-				""
-			],
-			"num_files": 207,
-			"num_chunks": 52524,
-			"disk_size": 55824862747,
-			"download_size": 31222031004,
-			"tag_disk_size": [],
-			"tag_download_size": []
-		}
-	},
 	"8b6a0e1413744785a43c9f9f9547b4d6": {
 		"game": {
 			"app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
 			"title": "Metalstorm",
-			"version": "aircombat_store_windows_35a43fdc_2025-07-22_11-48",
+			"version": "aircombat_store_windows_f11df26d_2025-08-01_15-41",
 			"platform_versions": {
-				"Windows": "aircombat_store_windows_35a43fdc_2025-07-22_11-48"
+				"Windows": "aircombat_store_windows_f11df26d_2025-08-01_15-41"
 			},
 			"cloud_saves_supported": false,
 			"cloud_save_folder": null,
@@ -116,8 +18,8 @@
 		},
 		"install": {
 			"platform": "Windows",
-			"version": "aircombat_store_windows_7c704f67_2025-06-19_13-33",
-			"disk_size": 9111753122,
+			"version": "aircombat_store_windows_35a43fdc_2025-07-22_11-48",
+			"disk_size": 9544694515,
 			"install_path": "/home/vmdjavem/Games/Heroic/Metalstorm",
 			"save_path": null,
 			"synced_egl_guid": "",
@@ -126,67 +28,29 @@
 			"installed_dlc": []
 		},
 		"manifest": {
-			"size": 1039563,
+			"size": 1079463,
 			"type": "binary",
 			"version": 17,
 			"feature_level": 17,
 			"app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
 			"launch_exe": "Metalstorm.exe",
 			"launch_command": "",
-			"build_version": "aircombat_store_windows_35a43fdc_2025-07-22_11-48",
-			"build_id": "FDKCHpYstl-8_1mdTf7sWX3rVfs",
+			"build_version": "aircombat_store_windows_f11df26d_2025-08-01_15-41",
+			"build_id": "h-rAnLtY0BbhIIBv2g3xaXMv_HE",
 			"prerequisites": null,
 			"uninstaller": null,
 			"install_tags": [
 				""
 			],
-			"num_files": 8565,
-			"num_chunks": 9047,
-			"disk_size": 9544694515,
-			"download_size": 4505963581,
+			"num_files": 8629,
+			"num_chunks": 9573,
+			"disk_size": 10109435200,
+			"download_size": 4621012912,
 			"tag_disk_size": [],
 			"tag_download_size": []
 		}
 	},
-	"41869934302e4b8cafac2d3c0e7c293d": {
-		"game": {
-			"app_name": "41869934302e4b8cafac2d3c0e7c293d",
-			"title": "Genshin Impact",
-			"version": "105",
-			"platform_versions": {
-				"Windows": "105"
-			},
-			"cloud_saves_supported": false,
-			"cloud_save_folder": null,
-			"cloud_save_folder_mac": null,
-			"is_dlc": false,
-			"external_activation": null,
-			"launch_options": [],
-			"command_line": null,
-			"owned_dlc": []
-		},
-		"install": null,
-		"manifest": {
-			"size": 33038,
-			"type": "binary",
-			"version": 21,
-			"feature_level": 21,
-			"app_name": "41869934302e4b8cafac2d3c0e7c293d",
-			"launch_exe": "launcher_epic.exe",
-			"launch_command": "",
-			"build_version": "105",
-			"build_id": "SpT4aw251kq16hgUawMvBw",
-			"prerequisites": null,
-			"uninstaller": null,
-			"install_tags": [
-				""
-			],
-			"num_files": 127,
-			"num_chunks": 368,
-			"disk_size": 397138404,
-			"download_size": 181272376,
-			"tag_disk_size": [],
-			"tag_download_size": []
-		}
+	"__timestamp": {
+		"8b6a0e1413744785a43c9f9f9547b4d6": "Fri Aug 08 2025 20:43:31 GMT-0500 (hora estándar oriental)"
 	}
 }

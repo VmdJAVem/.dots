@@ -9,7 +9,8 @@ interface/theme/base_color = Color(0.21, 0.24, 0.29, 1)
 interface/theme/accent_color = Color(0.44, 0.73, 0.98, 1)
 interface/theme/use_system_accent_color = true
 interface/theme/contrast = 0.3
-text_editor/external/exec_flags = ""
+text_editor/external/exec_path = "nvim"
+text_editor/external/exec_flags = "--server /tmp/godothost --remote-send \"<C-\\><C-N>:n {file}<CR>{line}G{col}|\""
 editors/3d_gizmos/gizmo_settings/bone_axis_length = 0.1
 network/connection/network_mode = 1
 project_manager/directory_naming_convention = 3
@@ -29,9 +30,11 @@ _editor_settings_advanced_mode = true
 _project_settings_advanced_mode = false
 _export_template_download_directory = ""
 _default_feature_profile = ""
-_script_setup_templates_dictionary = {}
+_script_setup_templates_dictionary = {
+"CharacterBody2D": "0CharacterBody2DBasic Movement"
+}
 _use_favorites_root_selection = false
-_script_setup_use_script_templates = false
+_script_setup_use_script_templates = true
 shortcuts = [{
 "name": "spatial_editor/viewport_zoom_modifier_1",
 "shortcuts": [SubResource("InputEventKey_31arw")]

@@ -11,7 +11,7 @@
     "egl_guid": "",
     "executable": "Metalstorm.exe",
     "install_path": "/home/vmdjavem/Games/Heroic/Metalstorm",
-    "install_size": 9544694515,
+    "install_size": 10109435200,
     "install_tags": [],
     "is_dlc": false,
     "launch_parameters": "",
@@ -24,6 +24,6 @@
     "save_timestamp": null,
     "title": "Metalstorm",
     "uninstaller": null,
-    "version": "aircombat_store_windows_35a43fdc_2025-07-22_11-48"
+    "version": "aircombat_store_windows_f11df26d_2025-08-01_15-41"
   }
 }

@@ -742,9 +742,9 @@
 			"install": {
 				"executable": "Metalstorm.exe",
 				"install_path": "/home/vmdjavem/Games/Heroic/Metalstorm",
-				"install_size": "8.89 GiB",
+				"install_size": "9.42 GiB",
 				"is_dlc": false,
-				"version": "aircombat_store_windows_35a43fdc_2025-07-22_11-48",
+				"version": "aircombat_store_windows_f11df26d_2025-08-01_15-41",
 				"platform": "Windows"
 			},
 			"is_installed": true,
@@ -10269,8 +10269,8 @@
 		},
 		{
 			"app_name": "Fortnite",
-			"art_cover": "https://cdn1.epicgames.com/item/fn/FNECO_36-10_ForbiddenFruit_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-abce17aa0386b48069aa42c1ebf7b864",
-			"art_square": "https://cdn1.epicgames.com/item/fn/FNECO_36-10_ForbiddenFruit_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-9eb41f23a725f28a00996272bf654e8e",
+			"art_cover": "https://cdn1.epicgames.com/item/fn/FNBR_37-00_C6S4_EGS_Launcher_KeyArt_FNLogo_Carousel_PDP_2560x1440_logo_2560x1440-04348f5d3d52391f572e8c1050ddc737",
+			"art_square": "https://cdn1.epicgames.com/item/fn/FNBR_37-00_C6S4_EGS_Launcher_KeyArt_FNLogo_Blade_1200x1600_1200x1600-0924136c90b79f9006796f69f24a07f6",
 			"cloud_save_enabled": false,
 			"developer": "Epic Games",
 			"extra": {
@@ -11069,7 +11069,9 @@
 					"endOfSupport": false,
 					"entitlementName": "1e8bda5cfbb641b9a9aea8bd62285f73",
 					"entitlementType": "EXECUTABLE",
-					"eulaIds": [],
+					"eulaIds": [
+						"uefn && emporium"
+					],
 					"id": "1e8bda5cfbb641b9a9aea8bd62285f73",
 					"itemType": "DURABLE",
 					"keyImages": [
@@ -11092,7 +11094,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2025-01-17T11:21:22.610Z",
+					"lastModifiedDate": "2025-08-01T17:13:37.175Z",
 					"mainGameItem": {
 						"id": "4fe75bbc5a674f4f9b356b5c90567da5",
 						"namespace": "fn",
@@ -11243,24 +11245,24 @@
 					"keyImages": [
 						{
 							"height": 1600,
-							"md5": "60464468a96996e36b6040c131708cad",
-							"size": 188067,
+							"md5": "c7e770e6ccbe9b5cb2bd1fde681755aa",
+							"size": 387861,
 							"type": "DieselGameBoxTall",
-							"uploadedDate": "2025-05-30T23:24:29.918Z",
-							"url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFig_36-00_C1S4_EGS_Launcher_KeyArt_OG_Blade_1200x1600_1200x1600-60464468a96996e36b6040c131708cad",
+							"uploadedDate": "2025-08-06T23:23:24.638Z",
+							"url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFigment_37-00_C1S5_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-c7e770e6ccbe9b5cb2bd1fde681755aa",
 							"width": 1200
 						},
 						{
 							"height": 1440,
-							"md5": "7049b8c0993e7998e40f2446b99d00e8",
-							"size": 302092,
+							"md5": "fe3f2dbe12b91fc25495aa104db94f2a",
+							"size": 677316,
 							"type": "DieselGameBox",
-							"uploadedDate": "2025-05-30T23:24:34.670Z",
-							"url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFig_36-00_C1S4_EGS_Launcher_KeyArt_OG_Blade_2560x1440_2560x1440-7049b8c0993e7998e40f2446b99d00e8",
+							"uploadedDate": "2025-08-06T23:23:27.442Z",
+							"url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFigment_37-00_C1S5_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-fe3f2dbe12b91fc25495aa104db94f2a",
 							"width": 2560
 						}
 					],
-					"lastModifiedDate": "2025-06-07T20:52:00.854Z",
+					"lastModifiedDate": "2025-08-07T06:26:15.504Z",
 					"mainGameItem": {
 						"id": "4fe75bbc5a674f4f9b356b5c90567da5",
 						"namespace": "fn",
@@ -70048,8 +70050,8 @@
 		},
 		{
 			"app_name": "a79746038c6948558274065d24f3faa3",
-			"art_cover": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-169nr.png",
-			"art_square": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-ycr5h.png",
+			"art_cover": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-6zopb.jpg",
+			"art_square": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-gv7fs.jpg",
 			"cloud_save_enabled": true,
 			"developer": "Wargaming Group Limited",
 			"extra": {
@@ -75883,6 +75885,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Wed Jul 30 2025 16:22:12 GMT-0500 (hora estándar oriental)"
+		"library": "Fri Aug 08 2025 20:46:24 GMT-0500 (hora estándar oriental)"
 	}
 }

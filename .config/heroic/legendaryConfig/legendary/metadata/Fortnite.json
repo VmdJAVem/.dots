@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-36.30-CL-44367537-Windows",
+      "build_version": "++Fortnite+Release-37.00-CL-44501951-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {
@@ -988,7 +988,9 @@
         "endOfSupport": false,
         "entitlementName": "1e8bda5cfbb641b9a9aea8bd62285f73",
         "entitlementType": "EXECUTABLE",
-        "eulaIds": [],
+        "eulaIds": [
+          "uefn && emporium"
+        ],
         "id": "1e8bda5cfbb641b9a9aea8bd62285f73",
         "itemType": "DURABLE",
         "keyImages": [
@@ -1011,7 +1013,7 @@
             "width": 1200
           }
         ],
-        "lastModifiedDate": "2025-01-17T11:21:22.610Z",
+        "lastModifiedDate": "2025-08-01T17:13:37.175Z",
         "mainGameItem": {
           "id": "4fe75bbc5a674f4f9b356b5c90567da5",
           "namespace": "fn",
@@ -1162,24 +1164,24 @@
         "keyImages": [
           {
             "height": 1600,
-            "md5": "60464468a96996e36b6040c131708cad",
-            "size": 188067,
+            "md5": "c7e770e6ccbe9b5cb2bd1fde681755aa",
+            "size": 387861,
             "type": "DieselGameBoxTall",
-            "uploadedDate": "2025-05-30T23:24:29.918Z",
-            "url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFig_36-00_C1S4_EGS_Launcher_KeyArt_OG_Blade_1200x1600_1200x1600-60464468a96996e36b6040c131708cad",
+            "uploadedDate": "2025-08-06T23:23:24.638Z",
+            "url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFigment_37-00_C1S5_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-c7e770e6ccbe9b5cb2bd1fde681755aa",
             "width": 1200
           },
           {
             "height": 1440,
-            "md5": "7049b8c0993e7998e40f2446b99d00e8",
-            "size": 302092,
+            "md5": "fe3f2dbe12b91fc25495aa104db94f2a",
+            "size": 677316,
             "type": "DieselGameBox",
-            "uploadedDate": "2025-05-30T23:24:34.670Z",
-            "url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFig_36-00_C1S4_EGS_Launcher_KeyArt_OG_Blade_2560x1440_2560x1440-7049b8c0993e7998e40f2446b99d00e8",
+            "uploadedDate": "2025-08-06T23:23:27.442Z",
+            "url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFigment_37-00_C1S5_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-fe3f2dbe12b91fc25495aa104db94f2a",
             "width": 2560
           }
         ],
-        "lastModifiedDate": "2025-06-07T20:52:00.854Z",
+        "lastModifiedDate": "2025-08-07T06:26:15.504Z",
         "mainGameItem": {
           "id": "4fe75bbc5a674f4f9b356b5c90567da5",
           "namespace": "fn",
@@ -1497,42 +1499,42 @@
     "keyImages": [
       {
         "height": 1024,
-        "md5": "4610bfa77daba9a03dc964a41b882a86",
-        "size": 1062318,
+        "md5": "b9dda977ffa465aac535ef2507d43b75",
+        "size": 1221538,
         "type": "AndroidIcon",
-        "uploadedDate": "2025-06-18T15:51:18.688Z",
-        "url": "https://cdn1.epicgames.com/item/fn/fn_app-icon_blitz_1024x1024_1024x1024-4610bfa77daba9a03dc964a41b882a86",
+        "uploadedDate": "2025-08-06T15:35:42.548Z",
+        "url": "https://cdn1.epicgames.com/offer/fn/fn_app-icon_36_1024x1024-b9dda977ffa465aac535ef2507d43b75",
         "width": 1024
       },
       {
         "height": 1440,
-        "md5": "abce17aa0386b48069aa42c1ebf7b864",
-        "size": 2565313,
+        "md5": "04348f5d3d52391f572e8c1050ddc737",
+        "size": 1143551,
         "type": "DieselGameBox",
-        "uploadedDate": "2025-06-20T23:28:44.484Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNECO_36-10_ForbiddenFruit_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-abce17aa0386b48069aa42c1ebf7b864",
+        "uploadedDate": "2025-08-06T21:48:01.379Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNBR_37-00_C6S4_EGS_Launcher_KeyArt_FNLogo_Carousel_PDP_2560x1440_logo_2560x1440-04348f5d3d52391f572e8c1050ddc737",
         "width": 2560
       },
       {
         "height": 1600,
-        "md5": "9eb41f23a725f28a00996272bf654e8e",
-        "size": 1459577,
+        "md5": "0924136c90b79f9006796f69f24a07f6",
+        "size": 338833,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2025-06-20T23:28:50.671Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNECO_36-10_ForbiddenFruit_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-9eb41f23a725f28a00996272bf654e8e",
+        "uploadedDate": "2025-08-06T21:47:58.009Z",
+        "url": "https://cdn1.epicgames.com/item/fn/FNBR_37-00_C6S4_EGS_Launcher_KeyArt_FNLogo_Blade_1200x1600_1200x1600-0924136c90b79f9006796f69f24a07f6",
         "width": 1200
       },
       {
         "height": 800,
-        "md5": "657c2f27876c5cd475ad9a3e148587fc",
-        "size": 688946,
+        "md5": "e158bb0a064e8dc9c9a465e8f299e218",
+        "size": 218582,
         "type": "Featured",
-        "uploadedDate": "2025-06-21T00:21:42.577Z",
-        "url": "https://cdn1.epicgames.com/item/fn/FNECO_36-10_ForbiddenFruit_EGS_Launcher_FNLogo_QuickLaunch_800x800_800x800-657c2f27876c5cd475ad9a3e148587fc",
+        "uploadedDate": "2025-08-07T06:19:38.770Z",
+        "url": "https://cdn1.epicgames.com/item/fn/fnbr_37-00_c6s4_egs_800x800_800x800-e158bb0a064e8dc9c9a465e8f299e218",
         "width": 800
       }
     ],
-    "lastModifiedDate": "2025-06-21T00:23:32.025Z",
+    "lastModifiedDate": "2025-08-07T06:20:44.195Z",
     "legalFooterText": "\u00a9 2024 Epic Games, Inc. Todos los derechos reservados. Epic, Epic Games, el logotipo de Epic Games, Unreal, Unreal Engine, UE5, el logotipo de Unreal Engine, Fortnite, el logotipo de Fortnite, Fortnite Festival y Rocket Racing son marcas comerciales o marcas registradas de Epic Games, Inc. tanto en Estados Unidos de Am\u00e9rica como en el resto del mundo. Rocket League \u00a92024 Psyonix LLC. LEGO and the LEGO logo are trademarks of the LEGO Group. \u00a9 2024 The LEGO Group. El resto de las marcas comerciales pertenecen a sus respectivos propietarios.",
     "longDescription": "Fortnite para dispositivos m\u00f3viles tiene todo lo que te encanta del juego en tu dispositivo port\u00e1til favorito. \u00a1\u00danete y habla con tus amigos, sin importar la plataforma en la que se encuentren, y progresa en el pase de batalla tal y como lo har\u00edas en una PC o consola!\n\nRequiere una conexi\u00f3n a Internet.\n\nDesarrollado con Unreal Engine.",
     "mainGameItemList": [],

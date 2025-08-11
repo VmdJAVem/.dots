@@ -14,8 +14,7 @@ alias cd='z'
 alias vim='nvim'
 alias myclock='~/bin/myclock'
 alias pdf='zpdf $(fzf)'
-alias i_like_men,_thus_i_am_gay='hyfetch --june'
-
+alias gvim="nvim --listen /tmp/godothost"
 set EDITOR = nvim
 function fish_greeting
     echo "hi :3"

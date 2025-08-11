@@ -20153,8 +20153,8 @@
   },
   {
     "url": "",
-    "slug": "f1-25",
-    "name": "F1® 25",
+    "slug": "battlefield-6",
+    "name": "Battlefield 6",
     "logo": "",
     "native": false,
     "status": "Denied",
@@ -20203,5 +20203,82 @@
     "notes": [],
     "storeIds": {},
     "dateChanged": "2025-07-20T23:28:51.0000000-04:00"
+  },
+  {
+    "url": "",
+    "slug": "blade-soul-neo",
+    "name": "Blade & Soul NEO",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "Anti-Cheat Solution"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2025-07-21T23:43:03.0000000-04:00"
+  },
+  {
+    "url": "https://thefinals.qq.com",
+    "slug": "the-finals-china",
+    "name": "The Finals (CN)",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "Anti-Cheat Expert"
+    ],
+    "updates": [],
+    "notes": [
+      [
+        "Unreleased, Speculative",
+        null
+      ]
+    ],
+    "storeIds": {},
+    "dateChanged": "2025-07-23T13:02:30.0000000-04:00"
+  },
+  {
+    "url": "https://ubisoft.com/en-us/game/rainbow-six/siege",
+    "name": "Tom Clancy's Rainbow Six® Siege X",
+    "logo": "",
+    "native": false,
+    "status": "Denied",
+    "reference": "",
+    "anticheats": [
+      "FairFight",
+      "BattlEye",
+      "R6 ShieldGuard"
+    ],
+    "notes": [],
+    "updates": [],
+    "storeIds": {
+      "steam": "359550",
+      "epic": {
+        "namespace": "carnation",
+        "slug": "rainbow-six-siege"
+      }
+    },
+    "slug": "rainbow-six-siege-x",
+    "dateChanged": "2025-08-07T20:28:01.0000000-04:00"
+  },
+  {
+    "url": "",
+    "name": "Dragonheir: Silent Gods",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "Proxima Game Anti Cheat"
+    ],
+    "notes": [],
+    "updates": [],
+    "storeIds": {},
+    "slug": "dragonheir-silent-gods",
+    "dateChanged": "2025-08-08T21:35:30.0000000-04:00"
   }
 ]

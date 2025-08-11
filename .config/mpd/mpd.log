@@ -1329,3 +1329,14 @@
 2025-08-08T16:55:47 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
 2025-08-08T16:57:26 player: played "the wine is ok - gamay.mp3"
 2025-08-08T16:57:26 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-08T18:58:20 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-08T19:04:27 player: played "Alcolirykoz - Aguanilé.mp3"
+2025-08-08T20:10:41 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-08T22:01:36 player: played "Alcolirykoz - Aguanilé.mp3"
+2025-08-09T17:45:33 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-09T22:17:10 player: played "Alcolirykoz - Aguanilé.mp3"
+2025-08-10T15:36:09 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-10T18:38:23 player: played "Alcolirykoz - Aguanilé.mp3"
+2025-08-10T20:51:38 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-10T20:58:40 player: played "Alcolirykoz - Aguanilé.mp3"
+2025-08-11T15:08:26 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use

@@ -1,0 +1,14 @@
+[github]
+username = "YOUR_USERNAME"
+repo = "YOUR_REPO_NAME"
+token = "YOUR_TOKEN" # Token to prevent rate limit
+
+
+[colors]
+accent = "white"
+background = "transparent"
+foreground = "white"
+highlight = "white"
+todo_border = "white"
+
+
