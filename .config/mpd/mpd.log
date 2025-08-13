@@ -1340,3 +1340,5 @@
 2025-08-10T20:51:38 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
 2025-08-10T20:58:40 player: played "Alcolirykoz - Aguanilé.mp3"
 2025-08-11T15:08:26 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-12T14:54:24 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-12T18:51:56 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use

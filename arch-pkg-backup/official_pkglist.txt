@@ -89,6 +89,7 @@ hdparm
 hplip
 hwdetect
 hwinfo
+hyfetch
 hyprlock
 hyprpaper
 hyprpicker
