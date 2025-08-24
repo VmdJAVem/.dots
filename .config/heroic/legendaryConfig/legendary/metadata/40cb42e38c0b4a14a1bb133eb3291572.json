@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "40cb42e38c0b4a14a1bb133eb3291572",
       "asset_id": "40cb42e38c0b4a14a1bb133eb3291572",
-      "build_version": "IdleDragons630064Live",
+      "build_version": "IdleDragons632064Live",
       "catalog_item_id": "48353a502e72433298f25827e03dbff0",
       "label_name": "Live-Windows",
       "metadata": {
@@ -30726,6 +30726,138 @@
         "status": "ACTIVE",
         "title": "Paquete del familiar Guardi\u00e1n del Arco\u00edris",
         "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-12T21:57:16.921Z",
+        "description": "\u00a1Desbloquea a 6 campeones de tu elecci\u00f3n!",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "9fa3d68ef96b46b8ae8323b3d38471eb",
+        "entitlementType": "EXECUTABLE",
+        "id": "9fa3d68ef96b46b8ae8323b3d38471eb",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Idle Champions of the Forgotten Realms 6x Choose Your Champion Starter Pack Offer",
+            "height": 1440,
+            "md5": "4f787d4671aa9e9ab1e5fff674c20c59",
+            "size": 757362,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-08-06T21:23:45.923Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-qiapi.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Idle Champions of the Forgotten Realms 6x Choose Your Champion Starter Pack Offer",
+            "height": 1600,
+            "md5": "51166aa3db34f6cf14ccd288fe44fc1a",
+            "size": 854741,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-08-06T21:05:17.770Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-oq2k3.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-12T21:57:16.921Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "268753f532bc426fbdce80fc13a5d6e1",
+            "namespace": "7e508f543b05465abe3a935960eb70ac",
+            "unsearchable": false
+          },
+          {
+            "id": "48353a502e72433298f25827e03dbff0",
+            "namespace": "7e508f543b05465abe3a935960eb70ac",
+            "unsearchable": false
+          },
+          {
+            "id": "554e4c764f5f432cac68cee5f04c7750",
+            "namespace": "7e508f543b05465abe3a935960eb70ac",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "6 paquetes iniciales de Elige a tu campe\u00f3n",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-12T21:57:16.930Z",
+        "description": "Este paquete de fundador \u00c9PICO incluye mucho contenido exclusivo, detalles raros y material premium, \u00a1que te permitir\u00e1n iniciar la aventura de Forgotten Realms con mucho \u00edmpetu!",
+        "developer": "Codename Entertainment",
+        "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+        "endOfSupport": false,
+        "entitlementName": "e830620dfb014d8d91b1d37ba45af22b",
+        "entitlementType": "EXECUTABLE",
+        "id": "e830620dfb014d8d91b1d37ba45af22b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Idle Champions of the Forgotten Realms Founder's Pack VIII Offer",
+            "height": 1440,
+            "md5": "2fd70c008077b18a36971170c95b9b0d",
+            "size": 784556,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-08-08T23:18:57.554Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1jsun.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Idle Champions of the Forgotten Realms Founder's Pack VIII Offer",
+            "height": 1600,
+            "md5": "279a1d43d02c6c3be2550f077a2a019e",
+            "size": 921129,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-08-08T23:04:26.762Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-12yaj.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-12T21:57:16.930Z",
+        "mainGameItem": {
+          "id": "48353a502e72433298f25827e03dbff0",
+          "namespace": "7e508f543b05465abe3a935960eb70ac",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "268753f532bc426fbdce80fc13a5d6e1",
+            "namespace": "7e508f543b05465abe3a935960eb70ac",
+            "unsearchable": false
+          },
+          {
+            "id": "48353a502e72433298f25827e03dbff0",
+            "namespace": "7e508f543b05465abe3a935960eb70ac",
+            "unsearchable": false
+          },
+          {
+            "id": "554e4c764f5f432cac68cee5f04c7750",
+            "namespace": "7e508f543b05465abe3a935960eb70ac",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7e508f543b05465abe3a935960eb70ac",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Paquete de los fundadores VIII",
+        "unsearchable": false
       }
     ],
     "endOfSupport": false,
@@ -30758,7 +30890,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-06-23T19:07:01.988Z",
+    "lastModifiedDate": "2025-08-12T21:57:17.235Z",
     "longDescription": "<!--image-->\n![Idle Champions of the Forgotten Realms-1cuud](https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1cuud.jpg)\n<!--textBlock-->\n<!--title-->\n# SOBRE EL JUEGO\n<!--text-->\n\u00a1Recluta campeones legendarios para la aventura definitiva sin fin!\n\nIdle Champions of the Forgotten Realms es un juego de gesti\u00f3n de estrategia que re\u00fane a los campeones ic\u00f3nicos del juego de rol de mesa D&D, sus campa\u00f1as, videojuegos, novelas, partidas en vivo, historietas y programas dentro de una gran aventura. \n\nOptimiza tus formaciones usando m\u00e1s de 140 campeones, cada uno con habilidades \u00fanicas, para derrotar a innumerables monstruos en cientos de aventuras. Para alcanzar la maestr\u00eda, deber\u00e1s avanzar cada vez m\u00e1s con tus formaciones en cada aventura: solo las formaciones m\u00e1s poderosas completar\u00e1n los mayores desaf\u00edos que Idle Champions tiene para ofrecer.\n<!--image-->\n![Idle Champions of the Forgotten Realms-124ei](https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-124ei.jpg)\n<!--textBlock-->\n<!--title-->\n# COLECCIONA CAMPEONES IC\u00d3NICOS\n<!--text-->\nDesbloquea campeones \u00fanicos de todo el multiverso de Dungeons & Dragons, con sus propias habilidades de formaci\u00f3n y poderes definitivos. Entre los favoritos de los fan\u00e1ticos est\u00e1n Drizzt Do'Urden y los Compa\u00f1eros de la Sala, Minsc & B\u00fa, Astarion y Karlach de Puerta de Baldur 3\u2026 \u00a1y muchos, muchos m\u00e1s!\n<!--image-->\n![Idle Champions of the Forgotten Realms-13kio](https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-13kio.jpg)\n<!--textBlock-->\n<!--title-->\n# F\u00c1CIL DE APRENDER, DIF\u00cdCIL DE DOMINAR\n<!--text-->\nGestiona m\u00faltiples grupos de aventureros para poner a prueba el temple de tus campeones y ganar recompensas a\u00fan mayores. Tus campeones luchan autom\u00e1ticamente contra los enemigos hasta que son derrotados, incluso si cierras el juego. Los familiares automatizan acciones b\u00e1sicas del juego, como subir de nivel a los campeones y recoger oro, para que T\u00da puedas concentrarte en optimizar la estrategia de tu formaci\u00f3n. \u00a1Crea sinergias poderosas y libera todo el poder de tus campeones para completar las aventuras m\u00e1s dif\u00edciles!\n<!--image-->\n![Idle Champions of the Forgotten Realms-lezj0](https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-lezj0.jpg)\n<!--textBlock-->\n<!--title-->\n# VIAJA POR EL MULTIVERSO DE D&D\n<!--text-->\nL\u00e1nzate a la aventura en la Costa de la Espada y m\u00e1s all\u00e1. Visita ciudades legendarias como Puerta de Baldur, Aguas Profundas y Sigilo, la ciudad de las puertas. Explora las nieblas de Barovia, enfr\u00e9ntate a la interminable Guerra de la Sangre de Averno y navega por el Mar Astral.\n<!--image-->\n![Idle Champions of the Forgotten Realms-lossu](https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-lossu.jpg)\n<!--textBlock-->\n<!--title-->\n# ACTUALIZACI\u00d3N CONSTANTE DE CONTENIDOS\n<!--text-->\nHay m\u00faltiples actualizaciones de contenido todos los meses. Desde su lanzamiento en 2017, Idle Champions ha presentado a m\u00e1s de 140\u00a0campeones, m\u00e1s de 200\u00a0aventuras y 8\u00a0campa\u00f1as basadas en lanzamientos oficiales de juegos de rol de mesa, y ha incluido docenas de funciones nuevas y sistemas para el juego. \u00a1La pr\u00f3xima gran actualizaci\u00f3n siempre est\u00e1 cerca!\n",
     "mainGameItemList": [],
     "namespace": "7e508f543b05465abe3a935960eb70ac",

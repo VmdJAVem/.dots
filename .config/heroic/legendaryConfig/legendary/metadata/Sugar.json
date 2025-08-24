@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Sugar",
       "asset_id": "Sugar",
-      "build_version": "BC2_Update55.1+490872c",
+      "build_version": "BC2_Update55.1+492665",
       "catalog_item_id": "530145df28a24424923f5828cc9031a1",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -4114,6 +4114,1745 @@
         "status": "ACTIVE",
         "title": "Rocket League\u00ae - Season 20 Rocketeer Pack",
         "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-19T21:20:42.638Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x100 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "5e8b39540657478384a9fe1c9b31adac",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5e8b39540657478384a9fe1c9b31adac",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-19T21:20:42.638Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x100 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-19T23:12:28.301Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x200 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "6771bd1626ae4316a9bbaf7c69f44d8e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6771bd1626ae4316a9bbaf7c69f44d8e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-19T23:12:28.301Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x200 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-19T23:17:16.354Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x300 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "784932cd9e874f8588f9d86e88205a54",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "784932cd9e874f8588f9d86e88205a54",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-19T23:17:16.354Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x300 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-19T23:21:53.260Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x400 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "8b8634841bcc4c91b8764968726ad1a6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8b8634841bcc4c91b8764968726ad1a6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-19T23:21:53.260Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x400 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-19T23:24:11.977Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x600 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "8cc92e2f6eeb4258853aadbae4fde787",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8cc92e2f6eeb4258853aadbae4fde787",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-19T23:24:11.977Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x600 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-19T23:25:30.463Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x700 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "73ca5af537e84117b04a33629bc6d810",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "73ca5af537e84117b04a33629bc6d810",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-19T23:25:30.463Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x700 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-19T23:26:53.691Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x800 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "183adec4191b423f9e738b2f4c14846b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "183adec4191b423f9e738b2f4c14846b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-19T23:26:53.691Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x800 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-19T23:28:17.936Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x900 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "dff7663f1c5045e98a7e0b5221c4f96d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dff7663f1c5045e98a7e0b5221c4f96d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-19T23:28:17.936Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x900 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T00:26:37.207Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x1000 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "edc748c044cc4289abc14bb19654e56f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "edc748c044cc4289abc14bb19654e56f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T00:26:37.207Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x1000 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T00:28:34.941Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x1200 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "1c656f10284e4b4480f2112ad0da09e1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1c656f10284e4b4480f2112ad0da09e1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T00:28:34.941Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x1200 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T00:29:58.141Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x1300 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "d17707e3af9f46de9098ce312a7a50e0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d17707e3af9f46de9098ce312a7a50e0",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T00:29:58.141Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x1300 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T00:34:03.575Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x1400 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "a72ce6d3282f421d82b506cae5691415",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a72ce6d3282f421d82b506cae5691415",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T00:34:03.575Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x1400 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T00:36:16.994Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x1500 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "968f9c17433943bc9ed634fbfea92039",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "968f9c17433943bc9ed634fbfea92039",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T00:36:16.994Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x1500 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T00:37:46.077Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x1600 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "535a1251e0374ef2b20ea4ccfb7900c0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "535a1251e0374ef2b20ea4ccfb7900c0",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T00:37:46.077Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x1600 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T00:39:57.090Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x1700 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "a57428404cae4361ba6bdb3ed3585b2b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a57428404cae4361ba6bdb3ed3585b2b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T00:39:57.090Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x1700 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T00:41:01.466Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x1800 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "031424286d10417d9d263972367e994f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "031424286d10417d9d263972367e994f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T00:41:01.466Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x1800 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T00:42:40.049Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x1900 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "0d9a183c2a764bbeab155ac4911ef219",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0d9a183c2a764bbeab155ac4911ef219",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T00:42:40.049Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x1900 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T00:43:45.878Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x2000 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "d4cb348c57d544b4909d4fa3ac071017",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d4cb348c57d544b4909d4fa3ac071017",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T00:43:45.878Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x2000 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T00:45:58.461Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x2100 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "eda445aa67bd4d5fbd3904bdfb7d0775",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "eda445aa67bd4d5fbd3904bdfb7d0775",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T00:45:58.461Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x2100 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T00:47:10.300Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x2200 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "2dd278bee81c4b389db588146aa5ceed",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2dd278bee81c4b389db588146aa5ceed",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T00:47:10.300Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x2200 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T00:48:28.888Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x2300 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "75f34b959d0b497f9462f7271f75b989",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "75f34b959d0b497f9462f7271f75b989",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T00:48:28.888Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x2300 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T00:50:10.800Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x2400 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "641b5454213a4375bd80a42c96e0bb51",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "641b5454213a4375bd80a42c96e0bb51",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T00:50:10.800Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x2400 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T00:51:26.757Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x2500 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "273208a75ca94e90ac9c15a13c03a739",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "273208a75ca94e90ac9c15a13c03a739",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T00:51:26.757Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x2500 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T00:53:00.914Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x2600 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "acb8abe0a0c04066bae6c29aef4a8cfd",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "acb8abe0a0c04066bae6c29aef4a8cfd",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T00:53:00.914Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x2600 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T01:10:10.657Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x2700 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "12389a9b66ae484c8c8d1c7e7d1f26f9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "12389a9b66ae484c8c8d1c7e7d1f26f9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T01:10:10.657Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x2700 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T01:12:20.856Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x2800 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "2ab9196c28c54d3089184a508a39a47f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2ab9196c28c54d3089184a508a39a47f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T01:12:20.856Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x2800 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T01:14:52.159Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x2900 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "43fd3d94ec4c4a6cb16a100d29038846",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "43fd3d94ec4c4a6cb16a100d29038846",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T01:14:52.159Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x2900 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T01:25:38.755Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x3100 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "a9d023698b984ceba620ba83dc5918c4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a9d023698b984ceba620ba83dc5918c4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T01:25:38.755Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x3100 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T01:28:09.074Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x3200 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "2a79edda28344f54b0eb68095aae44d4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2a79edda28344f54b0eb68095aae44d4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T01:28:09.074Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x3200 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T01:29:27.357Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x3300 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "fbf383a398ed4858ac95787884e09fd1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fbf383a398ed4858ac95787884e09fd1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T01:29:27.357Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x3300 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T01:30:41.484Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x3400 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "32ca9035c20a4b869385d80266770f23",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "32ca9035c20a4b869385d80266770f23",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T01:30:41.484Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x3400 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T01:32:17.849Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x3500 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "dc565f88f1d847daa377e9b92bd372db",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dc565f88f1d847daa377e9b92bd372db",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T01:32:17.849Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x3500 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T01:35:53.845Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x3600 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "d1ca5ef942fc49babb4733832cd156a1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d1ca5ef942fc49babb4733832cd156a1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T01:35:53.845Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x3600 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T01:42:52.725Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x3700 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "d23a38e3f6424894933f0458b35e58eb",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d23a38e3f6424894933f0458b35e58eb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T01:42:52.725Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x3700 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T01:53:14.106Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x3800 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "0216ad06fc634bd58de3754fc5989192",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0216ad06fc634bd58de3754fc5989192",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T01:53:14.106Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x3800 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T01:54:52.573Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x3900 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "586dcd7912ba4092b199cc5eb9de25bf",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "586dcd7912ba4092b199cc5eb9de25bf",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T01:54:52.573Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x3900 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-20T01:56:28.276Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rocket League\u00ae - Credits x4000 audience",
+        "developer": "Psyonix LLC",
+        "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+        "endOfSupport": false,
+        "entitlementName": "53fba496cdca4184b34954b4b37cea37",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "53fba496cdca4184b34954b4b37cea37",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-08-20T01:56:28.276Z",
+        "mainGameItem": {
+          "id": "530145df28a24424923f5828cc9031a1",
+          "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "530145df28a24424923f5828cc9031a1",
+            "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rocket League\u00ae - Credits x4000 audience",
+        "unsearchable": true,
+        "useCount": 1
       }
     ],
     "endOfSupport": false,
@@ -4144,7 +5883,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-07-29T16:12:26.994Z",
+    "lastModifiedDate": "2025-08-20T01:56:28.288Z",
     "mainGameItemList": [],
     "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
     "releaseInfo": [

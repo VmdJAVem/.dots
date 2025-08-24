@@ -8964,7 +8964,7 @@
     "name": "SUPERVIVE",
     "logo": "",
     "native": false,
-    "status": "Denied",
+    "status": "Running",
     "reference": "",
     "anticheats": [
       "NEAC Protect",
@@ -8973,7 +8973,7 @@
     "updates": [],
     "notes": [],
     "storeIds": {},
-    "dateChanged": "2024-12-27T08:28:56.0000000-06:00"
+    "dateChanged": "2025-08-09T21:39:50.0000000-04:00"
   },
   {
     "url": "https://splitgate.com",
@@ -20280,5 +20280,201 @@
     "storeIds": {},
     "slug": "dragonheir-silent-gods",
     "dateChanged": "2025-08-08T21:35:30.0000000-04:00"
+  },
+  {
+    "slug": "the-quinfall",
+    "url": "",
+    "name": "The Quinfall",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "XIGNCODE3"
+    ],
+    "notes": [],
+    "updates": [],
+    "storeIds": {},
+    "dateChanged": "2025-08-09T21:46:27.0000000-04:00"
+  },
+  {
+    "slug": "redmatch2",
+    "url": "https://redmatchgame.com/",
+    "name": "Redmatch 2",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "Enforcer"
+    ],
+    "notes": [],
+    "updates": [],
+    "storeIds": {},
+    "dateChanged": "2025-08-09T21:48:10.0000000-04:00"
+  },
+  {
+    "slug": "blade-and-soul-heroes",
+    "url": "",
+    "name": "Blade & Soul Heroes",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "Anti-Cheat Solution"
+    ],
+    "notes": [
+      [
+        "Unreleased, Speculative",
+        null
+      ]
+    ],
+    "updates": [],
+    "storeIds": {},
+    "dateChanged": "2025-08-09T21:50:32.0000000-04:00"
+  },
+  {
+    "slug": "blue-archive",
+    "url": "",
+    "name": "Blue Archive",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "Nexon Game Security"
+    ],
+    "notes": [],
+    "updates": [],
+    "storeIds": {},
+    "dateChanged": "2025-08-09T21:52:11.0000000-04:00"
+  },
+  {
+    "slug": "midnight-murder-club",
+    "url": "",
+    "name": "Midnight Murder Club",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "PlayStation Overlay"
+    ],
+    "notes": [],
+    "updates": [],
+    "storeIds": {},
+    "dateChanged": "2025-08-09T21:58:06.0000000-04:00"
+  },
+  {
+    "slug": "dungeon-done",
+    "url": "",
+    "name": "Dungeon Done",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "notes": [],
+    "updates": [],
+    "storeIds": {},
+    "dateChanged": "2025-08-10T16:48:11.0000000-04:00"
+  },
+  {
+    "slug": "project-wraith",
+    "url": "",
+    "name": "Project Wraith",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "notes": [
+      [
+        "Unreleased, Speculative",
+        null
+      ]
+    ],
+    "updates": [],
+    "storeIds": {},
+    "dateChanged": "2025-08-10T16:49:09.0000000-04:00"
+  },
+  {
+    "slug": "solo-leveling-arise",
+    "url": "",
+    "name": "Solo Leveling: Arise",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "notes": [
+      [
+        "Unreleased, Speculative",
+        null
+      ]
+    ],
+    "updates": [],
+    "storeIds": {},
+    "dateChanged": "2025-08-10T16:49:58.0000000-04:00"
+  },
+  {
+    "slug": "freedom-wars-remastered",
+    "url": "",
+    "name": "Freedom Wars Remastered",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "notes": [],
+    "updates": [],
+    "storeIds": {},
+    "dateChanged": "2025-08-10T16:50:40.0000000-04:00"
+  },
+  {
+    "slug": "open-fortress",
+    "url": "",
+    "name": "Open Fortress",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "VAC"
+    ],
+    "notes": [
+      [
+        "Unreleased, Speculative",
+        null
+      ]
+    ],
+    "updates": [],
+    "storeIds": {},
+    "dateChanged": "2025-08-10T16:51:24.0000000-04:00"
+  },
+  {
+    "slug": "no-more-room-in-hell-2",
+    "url": "",
+    "name": "No More Room In Hell 2",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "notes": [],
+    "updates": [],
+    "storeIds": {},
+    "dateChanged": "2025-08-10T16:52:03.0000000-04:00"
   }
 ]

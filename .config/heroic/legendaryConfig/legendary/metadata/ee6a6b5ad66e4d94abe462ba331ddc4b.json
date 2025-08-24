@@ -5,11 +5,12 @@
     "Windows": {
       "app_name": "ee6a6b5ad66e4d94abe462ba331ddc4b",
       "asset_id": "ee6a6b5ad66e4d94abe462ba331ddc4b",
-      "build_version": "1.5_2",
+      "build_version": "1.6",
       "catalog_item_id": "98fccaa4f62145f295203ee8389af8c5",
       "label_name": "Live-Windows",
       "metadata": {
-        "installationPoolId": "a6765150693049d891cb74f2d87527dc"
+        "installationPoolId": "a6765150693049d891cb74f2d87527dc",
+        "update_type": "PATCH"
       },
       "namespace": "2052c58b9f64498386cbbbc85df90bbf",
       "sidecar_rev": 1

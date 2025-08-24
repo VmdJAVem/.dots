@@ -1,4 +1,31 @@
 {
+  "4656facc740742a39e265b026e13d075": {
+    "app_name": "4656facc740742a39e265b026e13d075",
+    "base_urls": [
+      "https://fastly-download.epicgames.com/Builds/Org/o-96vxnu7vgxllt7upcekuhsbj6lq23e/e35e2b0c2411423fb6cd97c1dda51e07/default",
+      "https://epicgames-download1.akamaized.net/Builds/Org/o-96vxnu7vgxllt7upcekuhsbj6lq23e/e35e2b0c2411423fb6cd97c1dda51e07/default",
+      "https://download.epicgames.com/Builds/Org/o-96vxnu7vgxllt7upcekuhsbj6lq23e/e35e2b0c2411423fb6cd97c1dda51e07/default",
+      "https://cloudflare.epicgamescdn.com/Builds/Org/o-96vxnu7vgxllt7upcekuhsbj6lq23e/e35e2b0c2411423fb6cd97c1dda51e07/default"
+    ],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "MinutesTillDawn.exe",
+    "install_path": "/home/vmdjavem/Games/Heroic/MinutesTillDawnxgosd",
+    "install_size": 133450712,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "",
+    "manifest_path": null,
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": null,
+    "requires_ot": false,
+    "save_path": null,
+    "save_timestamp": null,
+    "title": "20 Minutes Till Dawn",
+    "uninstaller": null,
+    "version": "1.0-win"
+  },
   "8b6a0e1413744785a43c9f9f9547b4d6": {
     "app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
     "base_urls": [

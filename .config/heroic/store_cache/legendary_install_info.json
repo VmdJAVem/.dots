@@ -51,6 +51,48 @@
 		}
 	},
 	"__timestamp": {
-		"8b6a0e1413744785a43c9f9f9547b4d6": "Fri Aug 08 2025 20:43:31 GMT-0500 (hora estándar oriental)"
+		"8b6a0e1413744785a43c9f9f9547b4d6": "Fri Aug 08 2025 20:43:31 GMT-0500 (hora estándar oriental)",
+		"4656facc740742a39e265b026e13d075": "Thu Aug 14 2025 18:44:45 GMT-0500 (hora estándar oriental)"
+	},
+	"4656facc740742a39e265b026e13d075": {
+		"game": {
+			"app_name": "4656facc740742a39e265b026e13d075",
+			"title": "20 Minutes Till Dawn",
+			"version": "1.0-win",
+			"platform_versions": {
+				"Windows": "1.0-win"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 12921,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "4656facc740742a39e265b026e13d075",
+			"launch_exe": "MinutesTillDawn.exe",
+			"launch_command": "",
+			"build_version": "1.0-win",
+			"build_id": "TwfNNsNg5gEXHXebdkoaXAZre90",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 142,
+			"num_chunks": 128,
+			"disk_size": 133450712,
+			"download_size": 57166307,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
 	}
 }

@@ -1,0 +1,82 @@
+    OpenRGB v0.9+ (git1290)
+    Commit: 45af044cd84032b9a9b5865cb5e12aa2cd98c47e from 2025-04-13 13:42:14 -0500
+    Launched: 20250824_172620
+====================================================================================================
+
+4     |Info:    [ProfileManager] Found file: lol.orp attempting to validate header
+7     |Info:    [ProfileManager] Valid v5 profile found for lol
+7     |Info:    [ProfileManager] Found file: Verde.orp attempting to validate header
+10    |Info:    [ProfileManager] Valid v5 profile found for Verde
+10    |Info:    [ProfileManager] Found file: blanco.orp attempting to validate header
+14    |Info:    [ProfileManager] Valid v5 profile found for blanco
+14    |Info:    [ProfileManager] Found file: Rojo.orp attempting to validate header
+18    |Info:    [ProfileManager] Valid v5 profile found for Rojo
+18    |Info:    [ProfileManager] Found file: rosa.orp attempting to validate header
+20    |Info:    [ProfileManager] Valid v5 profile found for rosa
+20    |Info:    [ProfileManager] Found file: Turquesa\.orp attempting to validate header
+23    |Info:    [ProfileManager] Valid v5 profile found for Turquesa\
+23    |Info:    [ProfileManager] Found file: free.orp attempting to validate header
+24    |Info:    [ProfileManager] Valid v5 profile found for free
+101   |Info:    [ResourceManager] Initializing HID interfaces: Success
+101   |Info:    ------------------------------------------------------
+101   |Info:    |               Start device detection               |
+101   |Info:    ------------------------------------------------------
+106   |Info:    ------------------------------------------------------
+106   |Info:    |             Detecting I2C interfaces               |
+106   |Info:    ------------------------------------------------------
+106   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-3 Device 1002:747E Subsystem: 1DA2:F475
+106   |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+106   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-10 Device 0000:0000 Subsystem: 0000:0000
+106   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-1 Device 1022:790B Subsystem: 1462:7E26
+106   |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+106   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-17 Device 0000:0000 Subsystem: 0000:0000
+106   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-8 Device 1002:747E Subsystem: 1DA2:F475
+106   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-15 Device 1002:164E Subsystem: 1462:7E26
+106   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-6 Device 1002:747E Subsystem: 1DA2:F475
+107   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-13 Device 1002:164E Subsystem: 1462:7E26
+107   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-4 Device 1002:747E Subsystem: 1DA2:F475
+107   |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+107   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-11 Device 0000:0000 Subsystem: 0000:0000
+107   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-2 Device 1022:790B Subsystem: 1462:7E26
+107   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-0 Device 1022:790B Subsystem: 1462:7E26
+107   |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+107   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-18 Device 0000:0000 Subsystem: 0000:0000
+107   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-9 Device 1002:747E Subsystem: 1DA2:F475
+107   |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+107   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-16 Device 0000:0000 Subsystem: 0000:0000
+107   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-7 Device 1002:747E Subsystem: 1DA2:F475
+107   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-14 Device 1002:164E Subsystem: 1462:7E26
+107   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-5 Device 1002:747E Subsystem: 1DA2:F475
+107   |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-12 Device 1002:164E Subsystem: 1462:7E26
+107   |Info:    ------------------------------------------------------
+107   |Info:    |               Detecting I2C devices                |
+107   |Info:    ------------------------------------------------------
+471   |Info:    [ENE DRAM] Registering RGB controller
+728   |Info:    [ENE DRAM] Registering RGB controller
+1924  |Info:    ------------------------------------------------------
+1924  |Info:    |            Detecting I2C DIMM modules              |
+1924  |Info:    ------------------------------------------------------
+2943  |Info:    [ResourceManager] Detected occupied slot 2, bus 2, type DDR5
+3951  |Info:    [ResourceManager] Detected occupied slot 4, bus 2, type DDR5
+3976  |Info:    [ResourceManager] Detected occupied slot 2, bus 10, type DDR5
+3980  |Info:    [ResourceManager] Detected occupied slot 4, bus 10, type DDR5
+4003  |Info:    [ResourceManager] Detected occupied slot 2, bus 11, type DDR5
+4008  |Info:    [ResourceManager] Detected occupied slot 4, bus 11, type DDR5
+4026  |Info:    ------------------------------------------------------
+4026  |Info:    |               Detecting I2C PCI devices            |
+4026  |Info:    ------------------------------------------------------
+4067  |Info:    [Sapphire Radeon RX 7700 XT Nitro+] Registering RGB controller
+4079  |Info:    ------------------------------------------------------
+4079  |Info:    |               Detecting HID devices                |
+4079  |Info:    ------------------------------------------------------
+4144  |Info:    [MSI B650 GAMING PLUS WIFI (MS-7E26)] Registering RGB controller
+4146  |Info:    ------------------------------------------------------
+4146  |Info:    |            Detecting libusb HID devices            |
+4146  |Info:    ------------------------------------------------------
+4226  |Info:    ------------------------------------------------------
+4226  |Info:    |              Detecting other devices               |
+4226  |Info:    ------------------------------------------------------
+4288  |Info:    [ResourceManager] Calling Post-detection callbacks
+4288  |Info:    ------------------------------------------------------
+4288  |Info:    |                Detection completed                 |
+4288  |Info:    ------------------------------------------------------
