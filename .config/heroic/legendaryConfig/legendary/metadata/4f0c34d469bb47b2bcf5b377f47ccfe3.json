@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "4f0c34d469bb47b2bcf5b377f47ccfe3",
       "asset_id": "4f0c34d469bb47b2bcf5b377f47ccfe3",
-      "build_version": "1.186.3037268",
+      "build_version": "1.207.3054373",
       "catalog_item_id": "7333ebed726f408e8f3bfa650488d32e",
       "label_name": "Live-Windows",
       "metadata": {
@@ -5150,6 +5150,62 @@
         "status": "ACTIVE",
         "title": "theHunter: Call of the Wild\u2122 - Alberta Hunting Preserve",
         "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-26T09:00:11.771Z",
+        "description": "Carga, bombea, despliega y dispara con 3 armas cuidadosamente seleccionadas para la caza: un rifle de palanca moderno, un rifle de bombeo de carga r\u00e1pida y una escopeta plegable ligera.",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "8530ce343df9498192182e05523757a6",
+        "entitlementType": "EXECUTABLE",
+        "id": "8530ce343df9498192182e05523757a6",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "theHunter: Call of the Wild theHunter: Call of the Wild\u2122 - Pump, Flip and Fire Pack Offer",
+            "height": 1440,
+            "md5": "50f431d1a73759c60c1fe59dfe356475",
+            "size": 983198,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-08-05T09:27:22.216Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/cacddb2d596043bf9678a8d00b87069e/thehunter-call-of-the-wild-5tojo.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download theHunter: Call of the Wild theHunter: Call of the Wild\u2122 - Pump, Flip and Fire Pack Offer",
+            "height": 1600,
+            "md5": "52feb6577e316466aac4a558b7d9cba9",
+            "size": 655723,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-08-05T09:27:17.916Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/cacddb2d596043bf9678a8d00b87069e/thehunter-call-of-the-wild-w8mwn.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-08-26T09:00:11.771Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7333ebed726f408e8f3bfa650488d32e",
+            "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Pump, Flip and Fire Pack",
+        "unsearchable": false
       }
     ],
     "endOfSupport": false,
@@ -5180,7 +5236,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-06-17T09:00:11.178Z",
+    "lastModifiedDate": "2025-08-26T09:00:11.987Z",
     "mainGameItemList": [],
     "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
     "releaseInfo": [

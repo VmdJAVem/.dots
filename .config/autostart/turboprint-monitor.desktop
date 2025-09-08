@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec='/usr/lib/turboprint/turboprint-startmonitor'
+Icon=turboprint-applet
+MapNotify=true
+DocPath=/usr/share/doc/turboprint/html/turboprint.html
+Comment=Monitor TurboPrint printers
+Terminal=0
+Name=TurboPrint Monitor
+Categories=System;Monitor;

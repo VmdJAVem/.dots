@@ -2122,3 +2122,669 @@
 2025-08-24T14:44:10 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
 2025-08-24T15:12:45 player: played "A Tribe Called Quest - Jazz (We've Got).mp3"
 2025-08-24T17:26:17 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-24T19:25:36 player: played "A Tribe Called Quest - Jazz (We've Got).mp3"
+2025-08-25T15:25:45 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-25T18:27:08 player: played "A Tribe Called Quest - Jazz (We've Got).mp3"
+2025-08-26T17:07:47 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-26T19:53:40 player: played "A Tribe Called Quest - Jazz (We've Got).mp3"
+2025-08-27T14:53:53 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-27T17:34:19 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-27T17:34:36 player: played "A Tribe Called Quest - Can I Kick It.mp3"
+2025-08-27T17:34:44 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-27T17:38:30 player: played "archipiélagos - furioso D.mp3"
+2025-08-27T17:38:30 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-27T17:41:59 player: played "archipiélagos - akira.mp3"
+2025-08-27T17:41:59 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-27T17:49:47 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-27T17:53:32 player: played "archipiélagos - minet.mp3"
+2025-08-27T17:53:32 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-27T17:55:19 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-27T17:59:02 player: played "Digable Planets - It's Good To Be Here.mp3"
+2025-08-27T17:59:12 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-27T18:02:58 player: played "archipiélagos - furioso D.mp3"
+2025-08-27T18:02:58 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-27T18:04:18 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-27T20:20:09 player: played "archipiélagos - akira.mp3"
+2025-08-28T14:51:41 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-28T20:18:26 player: played "archipiélagos - akira.mp3"
+2025-08-28T22:23:33 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-28T22:30:55 player: played "archipiélagos - akira.mp3"
+2025-08-28T22:32:01 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-28T22:34:10 player: played "archipiélagos - akira.mp3"
+2025-08-29T13:53:35 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:12:34 update: updating /Charli xcx - Everything is romantic.mp3
+2025-08-29T15:12:34 update: updating /菊池ひみこ - GYPSY SONG - from Carmen.mp3
+2025-08-29T15:12:34 update: updating /Vertigoaway, Schizoscriptures - Break This The Breaking Point 2.mp3
+2025-08-29T15:12:34 update: updating /Riot Propaganda - El Miedo Va a Cambiar de Bando.mp3
+2025-08-29T15:12:34 update: updating /JPEGMAFIA - it's dark and hell is hot.mp3
+2025-08-29T15:12:34 update: updating /Aphex Twin - 4.mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest, Trugoy The Dove - Award Tour (feat. Trugoy The Dove).mp3
+2025-08-29T15:12:34 update: updating /Boards of Canada - Telephasic Workshop.mp3
+2025-08-29T15:12:34 update: updating /Limp Bizkit - My Generation.mp3
+2025-08-29T15:12:34 update: updating /DANGERDOOM, MF DOOM, Danger Mouse, CeeLo Green - Benzi Box.mp3
+2025-08-29T15:12:34 update: updating /Digable Planets - Where I'm From.mp3
+2025-08-29T15:12:34 update: updating /Venetian Snares - Ultraviolent Junglist.mp3
+2025-08-29T15:12:34 update: updating /Canserbero - De Mi Muerte.mp3
+2025-08-29T15:12:34 update: updating /ooxygen - Soul.mp3
+2025-08-29T15:12:34 update: updating /Movimiento Original - Grandes Pasos.mp3
+2025-08-29T15:12:34 update: updating /Frank Ocean - Chanel.mp3
+2025-08-29T15:12:34 update: updating /Doechii - WAIT.mp3
+2025-08-29T15:12:34 update: updating /Doechii - Stressed - A COLORS SHOW.mp3
+2025-08-29T15:12:34 update: updating /Penyair, Gabylonia, La Loquera - No Somos Iguales.mp3
+2025-08-29T15:12:34 update: updating /Portavoz - Al Pueblo Le Asusta La Revolución.mp3
+2025-08-29T15:12:34 update: updating /MF DOOM - Change the Beat.mp3
+2025-08-29T15:12:34 update: updating /MF DOOM - Gas Drawls.mp3
+2025-08-29T15:12:34 update: updating /Hareton Salvanini - Quarto de Hotel.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - LIVE RIGHT.mp3
+2025-08-29T15:12:34 update: updating /Bolden. - Dawn in LA..mp3
+2025-08-29T15:12:34 update: updating /Rxnde Akozta, Rodesens - 'COSAS DEL QUERER'.mp3
+2025-08-29T15:12:34 update: updating /Digable Planets - Rebirth Of Slick (Cool Like Dat).mp3
+2025-08-29T15:12:34 update: updating /Doechii - BOILED PEANUTS.mp3
+2025-08-29T15:12:34 update: updating /Molotov - Más Vale Cholo.mp3
+2025-08-29T15:12:34 update: updating /Shaggy, Brian & Tony Gold, Sean Paul, Will Smith - Hey Sexy Lady.mp3
+2025-08-29T15:12:34 update: updating /Oblivion's Mighty Trash - Wacky.mp3
+2025-08-29T15:12:34 update: updating /Oblivion's Mighty Trash - No Me Acuerdo.mp3
+2025-08-29T15:12:34 update: added /Denzel Curry, TiaCorine, A$AP Ferg - HOT ONE (with TiaCorine & A$AP Ferg).mp3
+2025-08-29T15:12:34 update: updating /Tsuneo Imahori - PHILOSOPHY in a Tea Cup.mp3
+2025-08-29T15:12:34 update: updating /Doechii - DEATH ROLL.mp3
+2025-08-29T15:12:34 update: updating /Beastie Boys - Fight For Your Right.mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest, Busta Rhymes, Dinco D, Charlie Brown - Scenario (feat. Busta Rhymes, Dinco D & Charlie Brown) - LP Mix.mp3
+2025-08-29T15:12:34 update: updating /Canserbero, NicoJP - Buenas Noches - Instrumental.mp3
+2025-08-29T15:12:34 update: updating /JPEGMAFIA - I'll Be Right There.mp3
+2025-08-29T15:12:34 update: updating /Charli xcx - 360.mp3
+2025-08-29T15:12:34 update: updating /Kordhell, Anar - JUNBI.mp3
+2025-08-29T15:12:34 update: updating /Venetian Snares - Dollmaker.mp3
+2025-08-29T15:12:34 update: updating /Cidtronyck, Portavoz - Nuevo Comienzo.mp3
+2025-08-29T15:12:34 update: updating /Igorrr - Scarlatti 2.0.mp3
+2025-08-29T15:12:34 update: updating /El Cuarteto De Nos - Ya No Sé Que Hacer Conmigo.mp3
+2025-08-29T15:12:34 update: updating /Aphex Twin - Xtal.mp3
+2025-08-29T15:12:34 update: updating /Portavoz, Cidtronyck - Desde.mp3
+2025-08-29T15:12:34 update: updating /Nujabes - aruarian dance.mp3
+2025-08-29T15:12:34 update: updating /j1gggs - the cat from ipanema.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz - Suero Casero.mp3
+2025-08-29T15:12:34 update: updating /菊池ひみこ - PRIMAVELA.mp3
+2025-08-29T15:12:34 update: updating /Rawayana, Apache - High (feat. Apache).mp3
+2025-08-29T15:12:34 update: updating /Oblivion's Mighty Trash - Medallo Bullies.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz - Aranjuez.mp3
+2025-08-29T15:12:34 update: updating /Kordhell, ZWE1HVNDXR - Fuku.mp3
+2025-08-29T15:12:34 update: updating /Kendrick Lamar - PRIDE..mp3
+2025-08-29T15:12:34 update: updating /Rxnde Akozta, Portavoz, DJ Cidtronyck - No Van Pal Baile.mp3
+2025-08-29T15:12:34 update: updating /Penyair, Alka Produce, Realidad Mental, Eddy Mugre - Ya Verás.mp3
+2025-08-29T15:12:34 update: updating /Lil Supa - Culto.mp3
+2025-08-29T15:12:34 update: updating /MF DOOM, DJ Cucumber Slice - Rhymes Like Dimes.mp3
+2025-08-29T15:12:34 update: updating /psychoangel - neurodivergence.mp3
+2025-08-29T15:12:34 update: updating /JPEGMAFIA, Danny Brown - Burfict!.mp3
+2025-08-29T15:12:34 update: updating /Madvillain, Madlib, MF DOOM - All Caps.mp3
+2025-08-29T15:12:34 update: updating /Clipse, Tyler, The Creator, Pusha T, Malice - P.O.V..mp3
+2025-08-29T15:12:34 update: updating /Venetian Snares - This Bitter Earth.mp3
+2025-08-29T15:12:34 update: updating /Boards of Canada - Roygbiv.mp3
+2025-08-29T15:12:34 update: updating /Ska-P - La Sesera No Va.mp3
+2025-08-29T15:12:34 update: updating /Frank Sinatra - My Way Of Life.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - Underground Sound.mp3
+2025-08-29T15:12:34 update: updating /Roland Jones, Mari - GRINDIN.mp3
+2025-08-29T15:12:34 update: updating /JPEGMAFIA - loop it and leave it.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - BILLIE JEAN.mp3
+2025-08-29T15:12:34 update: updating /Ska-P - Ñapaes.mp3
+2025-08-29T15:12:34 update: updating /Charli xcx - Mean girls.mp3
+2025-08-29T15:12:34 update: updating /hkmori - anybody can find love (except you.).mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest - The Hop.mp3
+2025-08-29T15:12:34 update: updating /Proof, Trafikante de Almas - Rap de culto.mp3
+2025-08-29T15:12:34 update: updating /Caparezza - Jodellavitanonhocapitouncazzo.mp3
+2025-08-29T15:12:34 update: updating /MF DOOM, Raekwon - YESSIR!.mp3
+2025-08-29T15:12:34 update: updating /Ska-P - El Gato Lopez.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - GO HARD.mp3
+2025-08-29T15:12:34 update: updating /6ix, Joey Valence & Brae, FELIX!, Buddy, KYLE, Blu - Raw.mp3
+2025-08-29T15:12:34 update: updating /Beastie Boys - Right Right Now Now.mp3
+2025-08-29T15:12:34 update: updating /JPEGMAFIA - 1539 N. Calvert.mp3
+2025-08-29T15:12:34 update: updating /Tfwamirite - だきしめたい.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - GUMDROP.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - HOOLIGANG.mp3
+2025-08-29T15:12:34 update: updating /Sadfriendd, Towa - Pumpfake.mp3
+2025-08-29T15:12:34 update: updating /usedcvnt, Eden FM - pls tell me what is ur dream.mp3
+2025-08-29T15:12:34 update: updating /Venetian Snares - Hand Throw.mp3
+2025-08-29T15:12:34 update: updating /Hachazo - Ocho horas.mp3
+2025-08-29T15:12:34 update: updating /Molotov - Noko.mp3
+2025-08-29T15:12:34 update: updating /Ska-P - Welcome to Hell.mp3
+2025-08-29T15:12:34 update: updating /Ska-P - Jaque al Rey.mp3
+2025-08-29T15:12:34 update: updating /Almendra - A Estos Hombres Tristes.mp3
+2025-08-29T15:12:34 update: updating /Doechii - DENIAL IS A RIVER.mp3
+2025-08-29T15:12:34 update: updating /Aphex Twin - CIRCLONT6A [141.98][syrobonkus mix].mp3
+2025-08-29T15:12:34 update: updating /Vengaboys - Boom, Boom, Boom, Boom!!.mp3
+2025-08-29T15:12:34 update: updating /Canserbero, Apache - La del Estribillo.mp3
+2025-08-29T15:12:34 update: updating /Norman Sann - Dance at a Funeral.mp3
+2025-08-29T15:12:34 update: updating /PinkPantheress - Break It Off - Bonus.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - LIKE A PUNK.mp3
+2025-08-29T15:12:34 update: updating /System Of A Down - Protect The Land.mp3
+2025-08-29T15:12:34 update: updating /Riot Propaganda - Agenda Oculta.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - Like What.mp3
+2025-08-29T15:12:34 update: updating /Nujabes, Shing02 - battlecry.mp3
+2025-08-29T15:12:34 update: updating /Igorrr - Very Long Chicken.mp3
+2025-08-29T15:12:34 update: updating /Portavoz - El Mejor.mp3
+2025-08-29T15:12:34 update: updating /Canserbero - Advertencia.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz - Sancocho en Leña.mp3
+2025-08-29T15:12:34 update: updating /Limp Bizkit, Method Man - N 2 Gether Now.mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest - Find a Way.mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest - Electric Relaxation.mp3
+2025-08-29T15:12:34 update: updating /Cortex - Devil's Dance.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - THE PARTY SONG.mp3
+2025-08-29T15:12:34 update: updating /femtanyl - GIRL HELL 1999.mp3
+2025-08-29T15:12:34 update: updating /Ralph Weeks, Combo Lulo - Algo Muy Profundo.mp3
+2025-08-29T15:12:34 update: updating /Los Prisioneros - Latinoamérica Es un Pueblo al Sur de Estados Unidos.mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest - Like It Like That.mp3
+2025-08-29T15:12:34 update: updating /Beastie Boys - Flute Loop.mp3
+2025-08-29T15:12:34 update: updating /João Gilberto - Pra Que Discutir Com Madame.mp3
+2025-08-29T15:12:34 update: updating /Eddy Mugre - One two.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz, Bajo Tierra - TNT.mp3
+2025-08-29T15:12:34 update: updating /2Pac - No More Pain.mp3
+2025-08-29T15:12:34 update: updating /Galaxy 2 Galaxy - Jupiter Jazz.mp3
+2025-08-29T15:12:34 update: updating /Canserbero - Canbiate.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz, Sho-Hai - El Rey del Despecho.mp3
+2025-08-29T15:12:34 update: updating /Jimi Hendrix - All Along the Watchtower.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - WHERE U FROM.mp3
+2025-08-29T15:12:34 update: updating /Eddie Palmieri - Vámonos Pa'l Monte.mp3
+2025-08-29T15:12:34 update: updating /Eddy Mugre - Esas tentaciones.mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest - Steve Biko (Stir It Up).mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest - Keeping It Moving.mp3
+2025-08-29T15:12:34 update: updating /The Davitts - Come Out Ye Black and Tans.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz - Fruko y Sus Presos (2.018).mp3
+2025-08-29T15:12:34 update: updating /PinkPantheress - Tonight.mp3
+2025-08-29T15:12:34 update: updating /Laurindo Almeida - The Lamp Is Low.mp3
+2025-08-29T15:12:34 update: updating /Venetian Snares - twelve.mp3
+2025-08-29T15:12:34 update: updating /SERAPHINE NOIR, Nona Shipov - All Caps.mp3
+2025-08-29T15:12:34 update: updating /archipiélagos - furioso D.mp3
+2025-08-29T15:12:34 update: updating /King Geedorah, Mr Fantastik - Anti-Matter.mp3
+2025-08-29T15:12:34 update: updating /Ilkae - Cappuccino Summit.mp3
+2025-08-29T15:12:34 update: updating /Boards of Canada - The Color Of The Fire.mp3
+2025-08-29T15:12:34 update: updating /PinkPantheress - Pain.mp3
+2025-08-29T15:12:34 update: updating /Akapellah - La Vida Es un Freestyle.mp3
+2025-08-29T15:12:34 update: updating /Nujabes, Cise Starr - Lady Brown (feat. Cise Starr from CYNE).mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz, Estee Nack - Reflujo.mp3
+2025-08-29T15:12:34 update: updating /ZSK - Antifascista.mp3
+2025-08-29T15:12:34 update: updating /King Geedorah - Fazers.mp3
+2025-08-29T15:12:34 update: updating /Aerophon, Alcolirykoz - La Esquina del Mariachi.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - Ready Set.mp3
+2025-08-29T15:12:34 update: updating /rusowsky - no t dejas ver.mp3
+2025-08-29T15:12:34 update: updating /JPEGMAFIA, Danny Brown - God Loves You.mp3
+2025-08-29T15:12:34 update: updating /Charli xcx - Rewind.mp3
+2025-08-29T15:12:34 update: updating /Shaggy - Boombastic.mp3
+2025-08-29T15:12:34 update: updating /Cultura Profética - Saca, Prende y Sorprende.mp3
+2025-08-29T15:12:34 update: updating /Chihiro Yamanaka - 乙女の祈り.mp3
+2025-08-29T15:12:34 update: updating /Elis Regina, Antônio Carlos Jobim - Brigas Nunca Mais.mp3
+2025-08-29T15:12:34 update: updating /Machinedrum - Jewlea.mp3
+2025-08-29T15:12:34 update: updating /Venetian Snares - Chinaski.mp3
+2025-08-29T15:12:34 update: updating /Wu-Tang Clan, RZA, MF DOOM - Biochemical Equation.mp3
+2025-08-29T15:12:34 update: updating /Oblivion's Mighty Trash - Bastian Laurent.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz - No Está en Venta.mp3
+2025-08-29T15:12:34 update: updating /Venetian Snares - Gentleman.mp3
+2025-08-29T15:12:34 update: updating /JPEGMAFIA - i scream this in the mirror before i interact with anyone.mp3
+2025-08-29T15:12:34 update: updating /Ska-P - Romero el Madero.mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest - Jazz (We've Got).mp3
+2025-08-29T15:12:34 update: updating /Machine Girl - Krystle - URL Cyber Palace Mix.mp3
+2025-08-29T15:12:34 update: updating /Purple Posse, BACKWHEN, 6-6-6 - Cookies.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - PARTY'S OVER.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae, Z-Trip - NO HANDS (feat. Z-Trip).mp3
+2025-08-29T15:12:34 update: updating /Ahmed Malek - Maya.mp3
+2025-08-29T15:12:34 update: updating /Canserbero, NicoJP - No no - Instrumental.mp3
+2025-08-29T15:12:34 update: updating /archipiélagos - minet.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz, Armando Hernandez - El Remate.mp3
+2025-08-29T15:12:34 update: updating /berlioz, Ted Jasper - nyc in 1940.mp3
+2025-08-29T15:12:34 update: updating /MF DOOM, J Dilla - GAZZILLION EAR.mp3
+2025-08-29T15:12:34 update: updating /PinkPantheress - The aisle.mp3
+2025-08-29T15:12:34 update: updating /Oblivion's Mighty Trash - Ya Mismo.mp3
+2025-08-29T15:12:34 update: updating /Boards of Canada - An Eagle In Your Mind.mp3
+2025-08-29T15:12:34 update: updating /菊池ひみこ - Ducky Ducky.mp3
+2025-08-29T15:12:34 update: updating /Molotov - No Manches Mi Vida.mp3
+2025-08-29T15:12:34 update: updating /Molotov - Voto Latino.mp3
+2025-08-29T15:12:34 update: added /TiaCorine, Latto - FreakyT - Remix.mp3
+2025-08-29T15:12:34 update: updating /Boards of Canada - Music Is Math.mp3
+2025-08-29T15:12:34 update: updating /Shaggy, Rik Rok - It Wasn't Me.mp3
+2025-08-29T15:12:34 update: updating /Vegyn, JPEGMAFIA - Nauseous  Devilish.mp3
+2025-08-29T15:12:34 update: updating /Rage Against The Machine - Wake Up.mp3
+2025-08-29T15:12:34 update: updating /Aphex Twin - Flim.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz - Tararea.mp3
+2025-08-29T15:12:34 update: updating /Rage Against The Machine - Bulls On Parade.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae, Terror Reid - DOUGHBOY (feat. Terror Reid).mp3
+2025-08-29T15:12:34 update: updating /JPEGMAFIA - BALD!.mp3
+2025-08-29T15:12:34 update: updating /Sleepy Hallow, Doechii - ANXIETY (feat. Doechii).mp3
+2025-08-29T15:12:34 update: updating /Aphex Twin - Fingerbib.mp3
+2025-08-29T15:12:34 update: updating /JPEGMAFIA, Danny Brown - Lean Beef Patty.mp3
+2025-08-29T15:12:34 update: updating /Shaggy, Collie Buddz, Sizzla - Mad Mad World (feat. Sizzla Kalonji & Collie Buddz).mp3
+2025-08-29T15:12:34 update: updating /Los Prisioneros - Maldito Sudaca.mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest - 8 Million Stories.mp3
+2025-08-29T15:12:34 update: updating /Canserbero, Apache - Uno por Ellas.mp3
+2025-08-29T15:12:34 update: added /TiaCorine - ATE.mp3
+2025-08-29T15:12:34 update: updating /Ska-P - Ni Fu Ni Fa.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz - Baño de Ruda.mp3
+2025-08-29T15:12:34 update: updating /System Of A Down - B.Y.O.B..mp3
+2025-08-29T15:12:34 update: updating /femtanyl - PUSH UR T3MPRR.mp3
+2025-08-29T15:12:34 update: updating /Igorrr - Fryzura Konika.mp3
+2025-08-29T15:12:34 update: updating /Portavoz, Matiah Chinaski, Dj Perez - Por Si Las Moscas (En Otra Versión).mp3
+2025-08-29T15:12:34 update: updating /Control Machete - Andamos Armados.mp3
+2025-08-29T15:12:34 update: updating /Rage Against The Machine - Bombtrack.mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest, Busta Rhymes - Oh My God (feat. Busta Rhymes).mp3
+2025-08-29T15:12:34 update: updating /マドロスMERCURY - 3DS Internet Settings.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - MYSELF.mp3
+2025-08-29T15:12:34 update: updating /Anna German - Катюша.mp3
+2025-08-29T15:12:34 update: updating /wiv - bad days are coming.mp3
+2025-08-29T15:12:34 update: updating /Oblivion's Mighty Trash - Eso Está Muy Jazzudo.mp3
+2025-08-29T15:12:34 update: updating /JPEGMAFIA - HAZARD DUTY PAY!.mp3
+2025-08-29T15:12:34 update: updating /Portavoz - Dando Cara.mp3
+2025-08-29T15:12:34 update: updating /Hanumankind, Kalmi - Big Dawgs.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz - Normal.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz - Aguanilé.mp3
+2025-08-29T15:12:34 update: updating /Penyair, dj spizike - Un Pelito y Un Tamal.mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest - Youthful Expression.mp3
+2025-08-29T15:12:34 update: updating /cutkolaska - Empty Promise.mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest - Can I Kick It.mp3
+2025-08-29T15:12:34 update: updating /Gorillaz - On Melancholy Hill.mp3
+2025-08-29T15:12:34 update: updating /Science Of Sound, A Tribe Called Quest - Rhymery.mp3
+2025-08-29T15:12:34 update: updating /Sons of Aguirre, Scila - Vete a Cuba.mp3
+2025-08-29T15:12:34 update: updating /Oblivion's Mighty Trash - No me soya la playa.mp3
+2025-08-29T15:12:34 update: updating /Nehruviandoom, MF DOOM - Caskets.mp3
+2025-08-29T15:12:34 update: updating /MF DOOM, Mr. Fantastik - Rapp Snitch Knishes.mp3
+2025-08-29T15:12:34 update: updating /Björk - Hidden Place.mp3
+2025-08-29T15:12:34 update: updating /Ska-P - Paramilitar.mp3
+2025-08-29T15:12:34 update: updating /Venetian Snares - Szerencsétlen.mp3
+2025-08-29T15:12:34 update: updating /Venetian Snares - Öngyilkos Vasárnap.mp3
+2025-08-29T15:12:34 update: updating /Digable Planets - It's Good To Be Here.mp3
+2025-08-29T15:12:34 update: updating /JPEGMAFIA, Danny Brown - SCARING THE HOES.mp3
+2025-08-29T15:12:34 update: updating /Charli xcx - Club classics.mp3
+2025-08-29T15:12:34 update: updating /Selene, Tatiana Gomez Rap, Eddy Mugre, Arion - ¿Algo Que Decir.mp3
+2025-08-29T15:12:34 update: updating /Malone the Chemist - NEW CHOP.mp3
+2025-08-29T15:12:34 update: updating /Kendrick Lamar, Lefty Gunplay - tv off (feat. lefty gunplay).mp3
+2025-08-29T15:12:34 update: updating /Apache - Pasame la Yesca.mp3
+2025-08-29T15:12:34 update: updating /archipiélagos - akira.mp3
+2025-08-29T15:12:34 update: updating /Bolden., Mauricesax - I'm here..mp3
+2025-08-29T15:12:34 update: updating /Control Machete - Así Son Mis Días.mp3
+2025-08-29T15:12:34 update: updating /Charli xcx - Von dutch.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - HAVE TO CRY.mp3
+2025-08-29T15:12:34 update: updating /Venetian Snares - Abomination Street.mp3
+2025-08-29T15:12:34 update: updating /Sergio Mendes & Brasil '66 - Mas Que Nada.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae, TiaCorine - BUST DOWN feat. TiaCorine.mp3
+2025-08-29T15:12:34 update: updating /PinkPantheress - True romance.mp3
+2025-08-29T15:12:34 update: updating /Canserbero, Solo Soul, McKlopedia, IceOD, Primobeatz - El mundito del rap.mp3
+2025-08-29T15:12:34 update: updating /2Pac, Roger, Dr. Dre - California Love - Original Version.mp3
+2025-08-29T15:12:34 update: updating /Los Prisioneros - Por Qué No Se Van.mp3
+2025-08-29T15:12:34 update: updating /Lelio Luttazzi - Estate.mp3
+2025-08-29T15:12:34 update: updating /Aphex Twin - produk 29 [101].mp3
+2025-08-29T15:12:34 update: updating /Ska-P - El Vals del Obrero.mp3
+2025-08-29T15:12:34 update: updating /Ska-P - Mis Colegas.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - PUNK TACTICS.mp3
+2025-08-29T15:12:34 update: updating /Oblivion's Mighty Trash, Saygi - BluessyShit.mp3
+2025-08-29T15:12:34 update: updating /Canserbero, NicoJP - Outro Chavo - Instrumental.mp3
+2025-08-29T15:12:34 update: updating /Doechii - Nosebleeds.mp3
+2025-08-29T15:12:34 update: updating /Apache - Rompiendo el Hielo.mp3
+2025-08-29T15:12:34 update: updating /Clipse, Pusha T, Malice - So Be It.mp3
+2025-08-29T15:12:34 update: updating /Jazz Liberatorz - Loop Prisoner.mp3
+2025-08-29T15:12:34 update: updating /MF DOOM - Vomitspit.mp3
+2025-08-29T15:12:34 update: updating /Canserbero, NicoJP - RA Words - Instrumental.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz, ToteKing - El Tour de Sing Sing.mp3
+2025-08-29T15:12:34 update: updating /Garoto - Um Rosto de Mulher.mp3
+2025-08-29T15:12:34 update: updating /Eddy Mugre - Kid roy (red allen).mp3
+2025-08-29T15:12:34 update: updating /Proof - Tratos Con el Diablo.mp3
+2025-08-29T15:12:34 update: updating /Negroni's Trio, Pedro Capó - El Incomprendido (feat. Pedro Capó).mp3
+2025-08-29T15:12:34 update: updating /System Of A Down - Toxicity.mp3
+2025-08-29T15:12:34 update: updating /Macabre Plaza - Abandoned Plaza.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz - Todo Lo Bueno Tarda.mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest - Bonita Applebum.mp3
+2025-08-29T15:12:34 update: updating /Ali Primera - Techos de Cartón.mp3
+2025-08-29T15:12:34 update: updating /Towa - Move MF.mp3
+2025-08-29T15:12:34 update: updating /JPEGMAFIA - SIN MIEDO.mp3
+2025-08-29T15:12:34 update: updating /Rxnde Akozta, Marrom Fernandez - Juicio  Canserbero.mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest - Buggin' Out.mp3
+2025-08-29T15:12:34 update: updating /菊池ひみこ - Look Your Back!.mp3
+2025-08-29T15:12:34 update: updating /Molotov - Gimme Tha Power.mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest - Check the Rhime.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - DANCE NOW.mp3
+2025-08-29T15:12:34 update: updating /JJ DOOM, MF DOOM, Jneiro Jarel - Bookhead.mp3
+2025-08-29T15:12:34 update: updating /wix9s1xe, SUICIDE KIDDO, Towa - MEXICO HURRICANE.mp3
+2025-08-29T15:12:34 update: updating /JPEGMAFIA, Danny Brown, redveil - Kingdom Hearts Key (ft. redveil).mp3
+2025-08-29T15:12:34 update: updating /Oblivion's Mighty Trash - Bello.mp3
+2025-08-29T15:12:34 update: updating /Oblivion's Mighty Trash - LoveIsInTheAir.mp3
+2025-08-29T15:12:34 update: updating /Shaggy, Rayvon - Angel.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - OMNITRIX.mp3
+2025-08-29T15:12:34 update: updating /Sons of Aguirre, Scila, Dj Plan B, Guaja D - Privilegiados.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz, Jeronimo - Medellificación.mp3
+2025-08-29T15:12:34 update: updating /Sons of Aguirre, Scila - Carta al Sr.Fiscal.mp3
+2025-08-29T15:12:34 update: updating /Señor Marrano, Eddy Mugre - Sistema - Remix.mp3
+2025-08-29T15:12:34 update: updating /All That Jazz - 空から降ってきた少女.mp3
+2025-08-29T15:12:34 update: updating /João Gilberto - Meditação.mp3
+2025-08-29T15:12:34 update: updating /Igorrr - Melting Nails.mp3
+2025-08-29T15:12:34 update: updating /Canserbero - Despierta.mp3
+2025-08-29T15:12:34 update: updating /Menahan Street Band - Queens Highway.mp3
+2025-08-29T15:12:34 update: updating /Prefuse 73 - Point To B.mp3
+2025-08-29T15:12:34 update: updating /Ska-P - Cannabis.mp3
+2025-08-29T15:12:34 update: updating /PinkPantheress - I Must Apologise.mp3
+2025-08-29T15:12:34 update: updating /Proof - Rap da Rap quita.mp3
+2025-08-29T15:12:34 update: updating /Dean Martin - Everybody Loves Somebody.mp3
+2025-08-29T15:12:34 update: updating /Violadores Del Verso - Vicios y Virtudes.mp3
+2025-08-29T15:12:34 update: updating /A Tribe Called Quest - What.mp3
+2025-08-29T15:12:34 update: updating /Eddy Mugre - 3 Espinas.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - HYPERYOUTH.mp3
+2025-08-29T15:12:34 update: updating /JUNTMANE, BIG PROBLEM MAC - O' LORD.mp3
+2025-08-29T15:12:34 update: updating /Portavoz, Zonyko, Cidtronyck - Rebelarte.mp3
+2025-08-29T15:12:34 update: updating /Canserbero - Quién Eres.mp3
+2025-08-29T15:12:34 update: updating /Lil Supa, Doktor Rheal - CLOACA.mp3
+2025-08-29T15:12:34 update: updating /Charli xcx - Talk talk.mp3
+2025-08-29T15:12:34 update: updating /Shoebill - shitcorebabes.mp3
+2025-08-29T15:12:34 update: updating /Charli xcx - B2b.mp3
+2025-08-29T15:12:34 update: updating /Woodcamp - Eatin' Good.mp3
+2025-08-29T15:12:34 update: updating /Doechii - SKIPP.mp3
+2025-08-29T15:12:34 update: updating /Clipse, Ab Liva, Pusha T, Malice - Inglorious Bastards.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae, JPEGMAFIA - WASSUP (feat. JPEGMAFIA).mp3
+2025-08-29T15:12:34 update: updating /MF DOOM, Pebbles The Invisible Girl - Doomsday.mp3
+2025-08-29T15:12:34 update: updating /Granuja - De Pe a Pa.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae, Danny Brown - PACKAPUNCH (feat. Danny Brown).mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz, N. Hardem, L'Xuasma - Discos Fuentes.mp3
+2025-08-29T15:12:34 update: updating /CUPIDS OPPRESSION - LIFE IMITATES ART.mp3
+2025-08-29T15:12:34 update: updating /Boards of Canada - Sixtyten.mp3
+2025-08-29T15:12:34 update: updating /DANGERDOOM, MF DOOM, Danger Mouse - Crosshairs.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - IS THIS LOVE.mp3
+2025-08-29T15:12:34 update: updating /Oblivion's Mighty Trash - Chaíto.mp3
+2025-08-29T15:12:34 update: updating /ilysam, Mc Ster - sweet rally.mp3
+2025-08-29T15:12:34 update: updating /MF DOOM - THAT'S THAT.mp3
+2025-08-29T15:12:34 update: updating /Shaggy - That's Life.mp3
+2025-08-29T15:12:34 update: updating /Mime 871, Taxi Dee - En La Identidad.mp3
+2025-08-29T15:12:34 update: updating /JPEGMAFIA - What the hip hop hell is this .mp3
+2025-08-29T15:12:34 update: updating /Stan Getz - The Girl From Ipanema.mp3
+2025-08-29T15:12:34 update: updating /Chucho Valdés, Royal Quartet - Tatomania.mp3
+2025-08-29T15:12:34 update: updating /Shaggy, Rayvon - In The Summertime.mp3
+2025-08-29T15:12:34 update: updating /Riot Propaganda - Plata o Plomo.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz - La Típica (2.018).mp3
+2025-08-29T15:12:34 update: updating /Kendrick Lamar, SZA - luther (with sza).mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz - Baldor.mp3
+2025-08-29T15:12:34 update: updating /Sr Pablo, Eddy Mugre - Hattori Hanzo.mp3
+2025-08-29T15:12:34 update: updating /Oblivion's Mighty Trash - Piqui Blainder.mp3
+2025-08-29T15:12:34 update: updating /femtanyl - KATAMARI.mp3
+2025-08-29T15:12:34 update: updating /ZWE1HVNDXR, yatashigang - LOVELY BASTARDS.mp3
+2025-08-29T15:12:34 update: updating /Sabaton - To Hell and Back.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - BUSSIT.mp3
+2025-08-29T15:12:34 update: updating /Venetian Snares - Hajnal.mp3
+2025-08-29T15:12:34 update: updating /Joey Valence & Brae - DISCO TOMORROW.mp3
+2025-08-29T15:12:34 update: updating /2 Low Key, Lil Chucky - On That Devil Shit.mp3
+2025-08-29T15:12:34 update: updating /JPEGMAFIA, Danny Brown - HOE (Heaven on Earth).mp3
+2025-08-29T15:12:34 update: updating /JPEGMAFIA, Denzel Curry - JPEGULTRA! (feat. Denzel Curry).mp3
+2025-08-29T15:12:34 update: updating /the wine is ok - gamay.mp3
+2025-08-29T15:12:34 update: updating /Ahmed Malek - Bossa.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz, Junior Zamora - La Caza de Nariño.mp3
+2025-08-29T15:12:34 update: updating /Clipse, Nas, Pusha T, Malice - Let God Sort Em OutChandeliers.mp3
+2025-08-29T15:12:34 update: updating /Machine Girl - Ghost.mp3
+2025-08-29T15:12:34 update: updating /Charli xcx - 365.mp3
+2025-08-29T15:12:34 update: updating /Alcolirykoz - Round 40.mp3
+2025-08-29T15:13:08 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:13:39 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:16:06 player: played "TiaCorine - ATE.mp3"
+2025-08-29T15:16:06 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:18:35 player: played "TiaCorine, Latto - FreakyT - Remix.mp3"
+2025-08-29T15:18:35 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:19:11 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:21:27 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:25:12 player: played "archipiélagos - furioso D.mp3"
+2025-08-29T15:25:12 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:28:42 player: played "archipiélagos - akira.mp3"
+2025-08-29T15:28:42 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:32:27 player: played "archipiélagos - minet.mp3"
+2025-08-29T15:32:27 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:33:01 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:33:02 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:35:31 player: played "TiaCorine, Latto - FreakyT - Remix.mp3"
+2025-08-29T15:35:31 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:38:16 player: played "Joey Valence & Brae, TiaCorine - BUST DOWN feat. TiaCorine.mp3"
+2025-08-29T15:38:16 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:41:02 player: played "Denzel Curry, TiaCorine, A$AP Ferg - HOT ONE (with TiaCorine & A$AP Ferg).mp3"
+2025-08-29T15:41:38 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:44:07 player: played "TiaCorine - ATE.mp3"
+2025-08-29T15:44:07 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:45:24 player: played "Rxnde Akozta, Rodesens - 'COSAS DEL QUERER'.mp3"
+2025-08-29T15:45:24 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:48:07 player: played "Hareton Salvanini - Quarto de Hotel.mp3"
+2025-08-29T15:48:07 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:50:50 player: played "SERAPHINE NOIR, Nona Shipov - All Caps.mp3"
+2025-08-29T15:50:50 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:51:01 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:52:09 player: played "ilysam, Mc Ster - sweet rally.mp3"
+2025-08-29T15:52:09 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:54:08 player: played "JJ DOOM, MF DOOM, Jneiro Jarel - Bookhead.mp3"
+2025-08-29T15:54:08 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T15:59:56 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T16:01:38 player: played "King Geedorah - Fazers.mp3"
+2025-08-29T16:01:38 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T16:03:14 player: played "Macabre Plaza - Abandoned Plaza.mp3"
+2025-08-29T16:03:14 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T16:06:36 player: played "Nujabes, Shing02 - battlecry.mp3"
+2025-08-29T16:06:36 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T16:09:06 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T16:10:23 player: played "Oblivion's Mighty Trash - Medallo Bullies.mp3"
+2025-08-29T16:10:23 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T17:26:05 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T17:27:14 player: played "Penyair, Gabylonia, La Loquera - No Somos Iguales.mp3"
+2025-08-29T17:27:14 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T17:30:10 player: played "PinkPantheress - Tonight.mp3"
+2025-08-29T17:30:10 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T17:34:48 player: played "Portavoz, Cidtronyck - Desde.mp3"
+2025-08-29T17:34:48 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T17:37:17 player: played "TiaCorine - ATE.mp3"
+2025-08-29T17:37:17 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T17:39:46 player: played "TiaCorine, Latto - FreakyT - Remix.mp3"
+2025-08-29T17:39:46 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T17:42:32 player: played "Joey Valence & Brae, TiaCorine - BUST DOWN feat. TiaCorine.mp3"
+2025-08-29T17:42:32 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T17:45:17 player: played "Denzel Curry, TiaCorine, A$AP Ferg - HOT ONE (with TiaCorine & A$AP Ferg).mp3"
+2025-08-29T17:45:17 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T17:46:56 player: played "Canserbero, NicoJP - Outro Chavo - Instrumental.mp3"
+2025-08-29T17:54:29 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T17:54:30 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T17:59:06 player: played "Portavoz, Cidtronyck - Desde.mp3"
+2025-08-29T17:59:06 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:01:36 player: played "TiaCorine - ATE.mp3"
+2025-08-29T18:01:36 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:04:05 player: played "TiaCorine, Latto - FreakyT - Remix.mp3"
+2025-08-29T18:04:05 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:06:51 player: played "Joey Valence & Brae, TiaCorine - BUST DOWN feat. TiaCorine.mp3"
+2025-08-29T18:06:51 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:09:36 player: played "Denzel Curry, TiaCorine, A$AP Ferg - HOT ONE (with TiaCorine & A$AP Ferg).mp3"
+2025-08-29T18:09:36 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:11:14 player: played "Canserbero, NicoJP - Outro Chavo - Instrumental.mp3"
+2025-08-29T18:11:14 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:15:00 player: played "archipiélagos - furioso D.mp3"
+2025-08-29T18:15:00 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:17:48 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:19:10 player: played "archipiélagos - akira.mp3"
+2025-08-29T18:19:10 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:22:55 player: played "archipiélagos - minet.mp3"
+2025-08-29T18:22:55 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:26:23 player: played "Alcolirykoz - Aguanilé.mp3"
+2025-08-29T18:26:23 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:29:33 player: played "Alcolirykoz - Baño de Ruda.mp3"
+2025-08-29T18:29:33 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:31:14 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:31:19 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:33:48 player: played "TiaCorine, Latto - FreakyT - Remix.mp3"
+2025-08-29T18:33:48 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:36:33 player: played "Joey Valence & Brae, TiaCorine - BUST DOWN feat. TiaCorine.mp3"
+2025-08-29T18:36:33 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:39:19 player: played "Denzel Curry, TiaCorine, A$AP Ferg - HOT ONE (with TiaCorine & A$AP Ferg).mp3"
+2025-08-29T18:39:19 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:40:56 player: played "Canserbero, NicoJP - Outro Chavo - Instrumental.mp3"
+2025-08-29T18:40:56 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:41:06 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:45:42 player: played "Portavoz, Cidtronyck - Desde.mp3"
+2025-08-29T18:45:42 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:48:12 player: played "TiaCorine - ATE.mp3"
+2025-08-29T18:48:12 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T18:50:41 player: played "TiaCorine, Latto - FreakyT - Remix.mp3"
+2025-08-29T18:50:41 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T21:03:06 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T21:04:27 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T21:06:25 player: played "TiaCorine - ATE.mp3"
+2025-08-29T21:06:25 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T21:08:55 player: played "TiaCorine, Latto - FreakyT - Remix.mp3"
+2025-08-29T21:08:55 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T22:08:21 player: played "Joey Valence & Brae, TiaCorine - BUST DOWN feat. TiaCorine.mp3"
+2025-08-29T22:12:14 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T23:00:58 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T23:01:04 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-29T23:01:26 player: played "TiaCorine - ATE.mp3"
+2025-08-30T19:00:15 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-30T20:39:43 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-30T20:42:11 player: played "TiaCorine - ATE.mp3"
+2025-08-30T20:42:11 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-30T20:44:40 player: played "TiaCorine, Latto - FreakyT - Remix.mp3"
+2025-08-30T20:44:40 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-30T20:47:26 player: played "Joey Valence & Brae, TiaCorine - BUST DOWN feat. TiaCorine.mp3"
+2025-08-30T20:47:26 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-30T20:50:11 player: played "Denzel Curry, TiaCorine, A$AP Ferg - HOT ONE (with TiaCorine & A$AP Ferg).mp3"
+2025-08-30T20:50:11 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-30T20:51:49 player: played "Canserbero, NicoJP - Outro Chavo - Instrumental.mp3"
+2025-08-30T20:51:49 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-30T22:34:00 player: played "archipiélagos - furioso D.mp3"
+2025-08-31T10:25:27 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T10:33:13 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T10:37:43 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T10:38:11 player: played "Portavoz, Cidtronyck - Desde.mp3"
+2025-08-31T10:38:11 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T10:39:47 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T10:42:03 player: played "TiaCorine - ATE.mp3"
+2025-08-31T10:42:03 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T10:44:33 player: played "TiaCorine, Latto - FreakyT - Remix.mp3"
+2025-08-31T10:44:33 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T10:47:18 player: played "Joey Valence & Brae, TiaCorine - BUST DOWN feat. TiaCorine.mp3"
+2025-08-31T10:47:18 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T10:50:04 player: played "Denzel Curry, TiaCorine, A$AP Ferg - HOT ONE (with TiaCorine & A$AP Ferg).mp3"
+2025-08-31T10:50:04 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T10:51:41 player: played "Canserbero, NicoJP - Outro Chavo - Instrumental.mp3"
+2025-08-31T10:51:41 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T10:55:28 player: played "archipiélagos - furioso D.mp3"
+2025-08-31T10:55:28 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T10:58:57 player: played "archipiélagos - akira.mp3"
+2025-08-31T10:58:57 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:02:43 player: played "archipiélagos - minet.mp3"
+2025-08-31T11:02:43 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:06:11 player: played "Alcolirykoz - Aguanilé.mp3"
+2025-08-31T11:06:11 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:09:20 player: played "Alcolirykoz - Baño de Ruda.mp3"
+2025-08-31T11:09:20 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:12:17 player: played "Alcolirykoz - Sancocho en Leña.mp3"
+2025-08-31T11:12:49 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:15:33 player: played "Dean Martin - Everybody Loves Somebody.mp3"
+2025-08-31T11:15:33 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:20:14 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:20:36 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:21:53 player: played "Rxnde Akozta, Rodesens - 'COSAS DEL QUERER'.mp3"
+2025-08-31T11:21:53 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:24:35 player: played "Hareton Salvanini - Quarto de Hotel.mp3"
+2025-08-31T11:24:35 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:27:18 player: played "SERAPHINE NOIR, Nona Shipov - All Caps.mp3"
+2025-08-31T11:27:18 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:28:57 player: played "j1gggs - the cat from ipanema.mp3"
+2025-08-31T11:28:57 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:30:06 player: played "ilysam, Mc Ster - sweet rally.mp3"
+2025-08-31T11:30:06 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:32:05 player: played "JJ DOOM, MF DOOM, Jneiro Jarel - Bookhead.mp3"
+2025-08-31T11:32:05 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:35:22 player: played "King Geedorah - Fazers.mp3"
+2025-08-31T11:35:22 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:36:58 player: played "Macabre Plaza - Abandoned Plaza.mp3"
+2025-08-31T11:36:58 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:40:20 player: played "Nujabes, Shing02 - battlecry.mp3"
+2025-08-31T11:40:20 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:42:53 player: played "Oblivion's Mighty Trash - Medallo Bullies.mp3"
+2025-08-31T11:42:53 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:44:39 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:47:24 player: played "Denzel Curry, TiaCorine, A$AP Ferg - HOT ONE (with TiaCorine & A$AP Ferg).mp3"
+2025-08-31T11:47:24 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:49:02 player: played "Canserbero, NicoJP - Outro Chavo - Instrumental.mp3"
+2025-08-31T11:49:02 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:52:09 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:54:53 player: played "Denzel Curry, TiaCorine, A$AP Ferg - HOT ONE (with TiaCorine & A$AP Ferg).mp3"
+2025-08-31T11:54:53 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T11:56:31 player: played "Canserbero, NicoJP - Outro Chavo - Instrumental.mp3"
+2025-08-31T11:56:31 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T12:00:18 player: played "archipiélagos - furioso D.mp3"
+2025-08-31T12:00:18 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T12:03:47 player: played "archipiélagos - akira.mp3"
+2025-08-31T12:03:47 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T12:07:32 player: played "archipiélagos - minet.mp3"
+2025-08-31T12:07:32 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T12:11:01 player: played "Alcolirykoz - Aguanilé.mp3"
+2025-08-31T12:11:01 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T12:14:10 player: played "Alcolirykoz - Baño de Ruda.mp3"
+2025-08-31T12:14:10 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T12:17:06 player: played "Alcolirykoz - Sancocho en Leña.mp3"
+2025-08-31T12:17:06 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T12:19:51 player: played "Dean Martin - Everybody Loves Somebody.mp3"
+2025-08-31T12:19:51 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T12:22:35 player: played "Dean Martin - Everybody Loves Somebody.mp3"
+2025-08-31T12:22:35 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T12:27:41 player: played "Digable Planets - It's Good To Be Here.mp3"
+2025-08-31T12:27:41 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T12:30:45 player: played "Doechii - Stressed - A COLORS SHOW.mp3"
+2025-08-31T12:30:45 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T12:33:01 player: played "Doechii - Nosebleeds.mp3"
+2025-08-31T12:38:45 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T12:43:10 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T12:44:23 player: played "TiaCorine, Latto - FreakyT - Remix.mp3"
+2025-08-31T12:44:23 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T12:47:09 player: played "Joey Valence & Brae, TiaCorine - BUST DOWN feat. TiaCorine.mp3"
+2025-08-31T12:47:09 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T12:49:54 player: played "Denzel Curry, TiaCorine, A$AP Ferg - HOT ONE (with TiaCorine & A$AP Ferg).mp3"
+2025-08-31T12:49:54 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-08-31T18:04:28 player: played "Canserbero, NicoJP - Outro Chavo - Instrumental.mp3"
+2025-09-01T15:07:23 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-01T19:14:05 player: played "Canserbero, NicoJP - Outro Chavo - Instrumental.mp3"
+2025-09-02T15:12:47 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-02T19:44:33 player: played "Canserbero, NicoJP - Outro Chavo - Instrumental.mp3"
+2025-09-02T22:15:58 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-02T22:16:47 player: played "Canserbero, NicoJP - Outro Chavo - Instrumental.mp3"
+2025-09-03T15:06:00 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-03T20:09:37 player: played "Canserbero, NicoJP - Outro Chavo - Instrumental.mp3"
+2025-09-04T15:07:13 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T20:49:58 player: played "Canserbero, NicoJP - Outro Chavo - Instrumental.mp3"
+2025-09-04T20:51:31 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T21:08:09 player: played "Canserbero, NicoJP - Outro Chavo - Instrumental.mp3"
+2025-09-04T21:08:16 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T21:38:44 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T21:40:10 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T21:41:50 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T21:41:51 player: played "Canserbero, NicoJP - Outro Chavo - Instrumental.mp3"
+2025-09-04T21:41:51 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T21:45:38 player: played "archipiélagos - furioso D.mp3"
+2025-09-04T21:45:38 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T21:49:07 player: played "archipiélagos - akira.mp3"
+2025-09-04T21:49:07 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T21:52:52 player: played "archipiélagos - minet.mp3"
+2025-09-04T21:52:52 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T22:03:25 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T22:03:49 player: played "Alcolirykoz - Aguanilé.mp3"
+2025-09-04T22:03:49 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T22:06:45 player: played "Alcolirykoz - Sancocho en Leña.mp3"
+2025-09-04T22:06:45 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T22:07:00 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T22:12:49 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T22:17:15 player: played "Digable Planets - It's Good To Be Here.mp3"
+2025-09-04T22:17:15 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T22:20:19 player: played "Doechii - Stressed - A COLORS SHOW.mp3"
+2025-09-04T22:20:19 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T22:22:35 player: played "Doechii - Nosebleeds.mp3"
+2025-09-04T22:23:07 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T22:23:09 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T22:23:26 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T22:26:48 player: played "Nujabes, Shing02 - battlecry.mp3"
+2025-09-04T22:27:59 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-04T22:32:09 alsa_output: Decoder is too slow; playing silence to avoid xrun
+2025-09-04T22:32:09 player: played "Nujabes - aruarian dance.mp3"
+2025-09-05T18:03:41 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-05T21:52:17 player: played "MF DOOM, DJ Cucumber Slice - Rhymes Like Dimes.mp3"
+2025-09-06T13:17:59 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-06T20:02:04 player: played "MF DOOM, DJ Cucumber Slice - Rhymes Like Dimes.mp3"
+2025-09-07T11:30:43 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-07T11:33:53 player: played "MF DOOM, DJ Cucumber Slice - Rhymes Like Dimes.mp3"
+2025-09-07T11:55:15 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-07T12:07:14 player: played "MF DOOM, DJ Cucumber Slice - Rhymes Like Dimes.mp3"
+2025-09-07T13:19:43 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-07T13:24:28 player: played "MF DOOM, DJ Cucumber Slice - Rhymes Like Dimes.mp3"
+2025-09-07T13:26:15 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-07T14:28:52 player: played "MF DOOM, DJ Cucumber Slice - Rhymes Like Dimes.mp3"
+2025-09-07T18:08:46 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-07T19:02:46 player: played "MF DOOM, DJ Cucumber Slice - Rhymes Like Dimes.mp3"
+2025-09-08T12:30:27 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use

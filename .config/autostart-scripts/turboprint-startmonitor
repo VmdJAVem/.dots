@@ -1,0 +1,50 @@
+#!/bin/bash
+############################################################################
+# turboprint-startmonitor
+#
+# script to start turboprint-monitor (hidden)
+# and copy TurboPrint desktop icons after user login
+# for users that were created after TurboPrint was installed
+# (c) ZEDOnet GmbH
+# Created 21-Jun-11
+#
+############################################################################
+
+###
+# start turboprint-monitor with hidden window
+###
+
+turboprint-monitor 0 -hide &
+
+###
+# create desktop icons
+###
+if [ -e /etc/turboprint/copyicons -a ! -e ~/.turboprint/icons-copied ] ; then
+        type xdg-desktop-icon &> /dev/null
+        if [ $? -eq 0 ] ; then
+                xdg-desktop-icon install /etc/turboprint/icons/turboprint-control.desktop
+                xdg-desktop-icon install /etc/turboprint/icons/turboprint-monitor.desktop
+		# TurboPrint 2.50 new: trust icons
+		#DESKTOP_DIR=$(xdg-user-dir DESKTOP)
+		#gio set $DESKTOP_DIR/turboprint-control.desktop "metadata::trusted" true
+		#gio set $DESKTOP_DIR/turboprint-monitor.desktop "metadata::trusted" true
+	else
+           if [ -e ~/Desktop ] ; then
+                cp /etc/turboprint/icons/* ~/Desktop
+                chmod +x ~/Desktop/turboprint*.desktop
+            fi
+            if [ -e ~/KDesktop ] ; then
+                cp /etc/turboprint/icons/* ~/KDesktop
+                chmod +x ~/KDesktop/turboprint*.desktop
+            fi
+	fi
+	date > ~/.turboprint/icons-copied
+fi
+
+###
+# start Unity appindicator
+###
+eval $(cat /etc/turboprint/system.cfg)
+if [ $TPDAEMON_START -ne 0 ] ; then
+	$TPPATH_FILTERS/appindicator/tpapplet.py
+fi

@@ -16,6 +16,7 @@ alias myclock='~/bin/myclock'
 alias pdf='zpdf $(fzf)'
 alias gvim="nvim --listen /tmp/godothost"
 alias gayarch="hyfetch --preset bisexual --ascii-file /home/vmdjavem/neofetch_ascii/arch.txt"
+alias g++="g++ -std=c++23"
 set EDITOR = nvim
 function fish_greeting
     echo "hi :3"

@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-37.00-CL-44765404-Windows",
+      "build_version": "++Fortnite+Release-37.10-CL-45566377-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {
@@ -142,7 +142,7 @@
       },
       "AllowUriCmdArgsSanitized": {
         "type": "STRING",
-        "value": "^-IslandOverride=(\\d{4}-\\d{4}-\\d{4}|\\w{1,50})$|^-src=\\d{1,4}$|^-pl=[A-Za-z0-9]{1,10}$|^-v=[A-Za-z0-9]{1,10}$"
+        "value": "^-IslandOverride=(\\d{4}-\\d{4}-\\d{4}|\\w{1,50})$|^-src=\\d{1,4}$|^-pl=[A-Za-z0-9]{1,10}$|^-v=[A-Za-z0-9]{1,10}$|^-uilink=Motd.*$"
       },
       "AppAccessType": {
         "type": "STRING",
@@ -647,24 +647,24 @@
         "keyImages": [
           {
             "height": 1600,
-            "md5": "e93fe8b84be5b73fdfd885f9cce0211b",
-            "size": 357146,
+            "md5": "d6058be4b454f58f9514948da1312ec0",
+            "size": 483030,
             "type": "DieselGameBoxTall",
-            "uploadedDate": "2025-06-10T18:34:40.571Z",
-            "url": "https://cdn1.epicgames.com/item/fn/FNSP_09_DryErase_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-e93fe8b84be5b73fdfd885f9cce0211b",
+            "uploadedDate": "2025-08-12T18:13:54.819Z",
+            "url": "https://cdn1.epicgames.com/item/fn/FNSP_10_Hilarious_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-d6058be4b454f58f9514948da1312ec0",
             "width": 1200
           },
           {
             "height": 1440,
-            "md5": "a5fff9129a31aa868fd920a9ef94cb4a",
-            "size": 662388,
+            "md5": "ddd55c02a4e0851e5b4d5af1042e0354",
+            "size": 946564,
             "type": "DieselGameBox",
-            "uploadedDate": "2025-06-10T18:34:43.306Z",
-            "url": "https://cdn1.epicgames.com/item/fn/FNSP_09_DryErase_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-a5fff9129a31aa868fd920a9ef94cb4a",
+            "uploadedDate": "2025-08-12T18:13:59.614Z",
+            "url": "https://cdn1.epicgames.com/item/fn/FNSP_10_Hilarious_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-ddd55c02a4e0851e5b4d5af1042e0354",
             "width": 2560
           }
         ],
-        "lastModifiedDate": "2025-06-18T08:17:37.556Z",
+        "lastModifiedDate": "2025-08-26T08:01:13.639Z",
         "mainGameItem": {
           "id": "4fe75bbc5a674f4f9b356b5c90567da5",
           "namespace": "fn",
@@ -1534,7 +1534,7 @@
         "width": 800
       }
     ],
-    "lastModifiedDate": "2025-08-07T06:20:44.195Z",
+    "lastModifiedDate": "2025-09-04T20:47:49.361Z",
     "legalFooterText": "\u00a9 2024 Epic Games, Inc. Todos los derechos reservados. Epic, Epic Games, el logotipo de Epic Games, Unreal, Unreal Engine, UE5, el logotipo de Unreal Engine, Fortnite, el logotipo de Fortnite, Fortnite Festival y Rocket Racing son marcas comerciales o marcas registradas de Epic Games, Inc. tanto en Estados Unidos de Am\u00e9rica como en el resto del mundo. Rocket League \u00a92024 Psyonix LLC. LEGO and the LEGO logo are trademarks of the LEGO Group. \u00a9 2024 The LEGO Group. El resto de las marcas comerciales pertenecen a sus respectivos propietarios.",
     "longDescription": "Fortnite para dispositivos m\u00f3viles tiene todo lo que te encanta del juego en tu dispositivo port\u00e1til favorito. \u00a1\u00danete y habla con tus amigos, sin importar la plataforma en la que se encuentren, y progresa en el pase de batalla tal y como lo har\u00edas en una PC o consola!\n\nRequiere una conexi\u00f3n a Internet.\n\nDesarrollado con Unreal Engine.",
     "mainGameItemList": [],

@@ -14,9 +14,9 @@
 		"user": "vmdjavem"
 	},
 	"window-props": {
-		"x": 10,
-		"y": 57,
-		"width": 1900,
+		"x": 965,
+		"y": 55,
+		"width": 943,
 		"height": 1013,
 		"maximized": false
 	},
@@ -72,12 +72,16 @@
 	"games": {
 		"recent": [
 			{
-				"appName": "4656facc740742a39e265b026e13d075",
-				"title": "20 Minutes Till Dawn"
+				"appName": "6UeWpxLjFxM5HwdoSg7h8H",
+				"title": "Red Dead Redemption 2"
 			},
 			{
-				"appName": "xxovvsGyH1PxQ2g8vFdpNS",
-				"title": "HeartsOfIronIV"
+				"appName": "vAQSv9WnJz3njNcvgtbeJh",
+				"title": "Red Dead Redemption 2"
+			},
+			{
+				"appName": "4656facc740742a39e265b026e13d075",
+				"title": "20 Minutes Till Dawn"
 			},
 			{
 				"appName": "oUYEJ2myVqAHTdGAjF2Qpo",
@@ -136,6 +140,14 @@
 			{
 				"appName": "oUYEJ2myVqAHTdGAjF2Qpo",
 				"title": "HeartsOfIronIV"
+			},
+			{
+				"appName": "vAQSv9WnJz3njNcvgtbeJh",
+				"title": "Red Dead Redemption 2"
+			},
+			{
+				"appName": "o3MqKowmSbzHwcxR4u3cJx",
+				"title": "Red Dead Redemption 2"
 			}
 		]
 	},

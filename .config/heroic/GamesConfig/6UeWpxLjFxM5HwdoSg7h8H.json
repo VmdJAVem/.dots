@@ -1,0 +1,43 @@
+{
+  "6UeWpxLjFxM5HwdoSg7h8H": {
+    "autoInstallDxvk": true,
+    "autoInstallDxvkNvapi": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": false,
+    "enableMsync": false,
+    "enableFsync": true,
+    "enableWineWayland": false,
+    "enableHDR": false,
+    "enableWoW64": false,
+    "launcherArgs": "",
+    "nvidiaPrime": false,
+    "enviromentOptions": [
+      {
+        "key": "WINEDLLOVERRIDES",
+        "value": "\"EasyHook,EasyHook64,EasyLoad64,NativeInterop,version,dinput8,ScriptHookRDR2,ModManager.Core,ModManager.NativeInterop,NLog=n,b\" -vulkan -cpuLoadRebalancing"
+      }
+    ],
+    "wrapperOptions": [],
+    "showFps": true,
+    "useGameMode": false,
+    "battlEyeRuntime": true,
+    "eacRuntime": true,
+    "language": "",
+    "beforeLaunchScriptPath": "",
+    "afterLaunchScriptPath": "",
+    "verboseLogs": false,
+    "advertiseAvxForRosetta": false,
+    "wineVersion": {
+      "bin": "/usr/bin/wine",
+      "name": "Wine Default - wine-10.14",
+      "type": "wine",
+      "wineserver": "/usr/bin/wineserver"
+    },
+    "winePrefix": "/home/vmdjavem/Games/Heroic/Prefixes/default",
+    "wineCrossoverBottle": "Heroic",
+    "enableDXVKFpsLimit": false
+  },
+  "version": "v0",
+  "explicit": true
+}

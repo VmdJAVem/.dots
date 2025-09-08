@@ -745,9 +745,9 @@
 					"install": {
 						"executable": "Metalstorm.exe",
 						"install_path": "/home/vmdjavem/Games/Heroic/Metalstorm",
-						"install_size": "8.89 GiB",
+						"install_size": "9.47 GiB",
 						"is_dlc": false,
-						"version": "aircombat_store_windows_35a43fdc_2025-07-22_11-48",
+						"version": "aircombat_store_windows_87af5adc_2025-08-22_11-32",
 						"platform": "Windows"
 					},
 					"is_installed": true,
@@ -765,12 +765,12 @@
 				"runner": "legendary",
 				"path": "/home/vmdjavem/Games/Heroic/Metalstorm",
 				"platformToInstall": "Windows",
-				"size": "4.3 GiB"
+				"size": "4.33 GiB"
 			},
 			"type": "update",
-			"addToQueueTime": 1754703792186,
-			"endTime": 1754703980878,
-			"startTime": 1754703811211,
+			"addToQueueTime": 1756766357682,
+			"endTime": 1756766377773,
+			"startTime": 1756766360479,
 			"status": "done"
 		},
 		{

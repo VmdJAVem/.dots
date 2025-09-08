@@ -1,11 +1,13 @@
 {
-	"languageserver": {
-		"godot": {
-			"host": "127.0.0.1",
-			"filetypes": [
-				"gdscript"
-			],
-			"port": 6005
-		}
-	}
+	"clangd.enabled": true,
+	"clangd.arguments": [
+		"--background-index"
+	],
+	"clangd.path": "clangd",
+	"clangd.checkUpdates": false,
+	"clangd.disableCompletion": false,
+	"clangd.disableDiagnostics": false,
+	"clangd.compilationDatabasePath": "",
+	"clangd.fallbackFlags": [],
+	"inlayHint.enable": false
 }
