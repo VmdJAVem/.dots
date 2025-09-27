@@ -2788,3 +2788,4 @@
 2025-09-07T18:08:46 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
 2025-09-07T19:02:46 player: played "MF DOOM, DJ Cucumber Slice - Rhymes Like Dimes.mp3"
 2025-09-08T12:30:27 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-27T14:33:24 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use

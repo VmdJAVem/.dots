@@ -1,9 +1,9 @@
-sw_volume: 60
+sw_volume: 35
 audio_device_state:1:ALSA Output
 audio_device_state:1:HTTP Stream
 state: pause
-current: 42
-time: 156.6
+current: 2
+time: 46.59
 random: 0
 repeat: 0
 single: 0
@@ -11,49 +11,21 @@ consume: 0
 crossfade: 0
 mixrampdb: 0
 mixrampdelay: -1
-lastloadedplaylist: 
+lastloadedplaylist: chill
 playlist_begin
-0:archipiélagos - furioso D.mp3
-1:archipiélagos - akira.mp3
-2:archipiélagos - minet.mp3
-3:Digable Planets - It's Good To Be Here.mp3
-4:TiaCorine - ATE.mp3
-5:TiaCorine, Latto - FreakyT - Remix.mp3
-6:Joey Valence & Brae, TiaCorine - BUST DOWN feat. TiaCorine.mp3
-7:Denzel Curry, TiaCorine, A$AP Ferg - HOT ONE (with TiaCorine & A$AP Ferg).mp3
-8:TiaCorine - ATE.mp3
-9:Rxnde Akozta, Rodesens - 'COSAS DEL QUERER'.mp3
-10:Hareton Salvanini - Quarto de Hotel.mp3
-11:SERAPHINE NOIR, Nona Shipov - All Caps.mp3
-12:j1gggs - the cat from ipanema.mp3
-13:ilysam, Mc Ster - sweet rally.mp3
-14:JJ DOOM, MF DOOM, Jneiro Jarel - Bookhead.mp3
-15:King Geedorah - Fazers.mp3
-16:Macabre Plaza - Abandoned Plaza.mp3
-17:Nujabes, Shing02 - battlecry.mp3
-18:Oblivion's Mighty Trash - Medallo Bullies.mp3
-19:Penyair, Gabylonia, La Loquera - No Somos Iguales.mp3
-20:PinkPantheress - Tonight.mp3
-21:Portavoz, Cidtronyck - Desde.mp3
-22:TiaCorine - ATE.mp3
-23:TiaCorine, Latto - FreakyT - Remix.mp3
-24:Joey Valence & Brae, TiaCorine - BUST DOWN feat. TiaCorine.mp3
-25:Denzel Curry, TiaCorine, A$AP Ferg - HOT ONE (with TiaCorine & A$AP Ferg).mp3
-26:Canserbero, NicoJP - Outro Chavo - Instrumental.mp3
-27:archipiélagos - furioso D.mp3
-28:archipiélagos - akira.mp3
-29:archipiélagos - minet.mp3
-30:Alcolirykoz - Aguanilé.mp3
-31:Alcolirykoz - Sancocho en Leña.mp3
-32:Dean Martin - Everybody Loves Somebody.mp3
-33:Dean Martin - Everybody Loves Somebody.mp3
-34:Digable Planets - It's Good To Be Here.mp3
-35:Doechii - Stressed - A COLORS SHOW.mp3
-36:Doechii - Nosebleeds.mp3
-37:6ix, Joey Valence & Brae, FELIX!, Buddy, KYLE, Blu - Raw.mp3
-38:Alcolirykoz - Aguanilé.mp3
-39:Nujabes, Shing02 - battlecry.mp3
-40:Nujabes - aruarian dance.mp3
-41:Wu-Tang Clan, RZA, MF DOOM - Biochemical Equation.mp3
-42:MF DOOM, DJ Cucumber Slice - Rhymes Like Dimes.mp3
+0:Aphex Twin - 4.mp3
+1:Aphex Twin - Xtal.mp3
+2:berlioz, Ted Jasper - nyc in 1940.mp3
+3:Bolden., Mauricesax - I'm here..mp3
+4:Bolden. - Dawn in LA..mp3
+5:Cortex - Devil's Dance.mp3
+6:CUPIDS OPPRESSION - LIFE IMITATES ART.mp3
+7:Macabre Plaza - Abandoned Plaza.mp3
+8:Mime 871, Taxi Dee - En La Identidad.mp3
+9:Nujabes, Shing02 - battlecry.mp3
+10:Ralph Weeks, Combo Lulo - Algo Muy Profundo.mp3
+11:rusowsky - no t dejas ver.mp3
+12:Stan Getz - The Girl From Ipanema.mp3
+13:the wine is ok - gamay.mp3
+14:Venetian Snares - This Bitter Earth.mp3
 playlist_end
