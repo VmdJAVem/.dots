@@ -8,6 +8,7 @@ balena-etcher-bin
 binder_linux-dkms
 blahaj-bin
 cbonsai
+cnijfilter2
 debtap-mod
 display3d
 dualsensectl-git
@@ -23,6 +24,7 @@ helm-synth-lv2
 helm-synth-standalone
 helm-synth-vst
 heroic-games-launcher-bin
+hq
 hyprcursor-git
 hyprgraphics-git
 hyprland-git
@@ -60,7 +62,7 @@ libgbinder
 libglibutil
 libpamac-full
 matugen-bin
-mommy
+modest
 nerd-fonts-noto-sans-mono
 openrgb-git
 pamac-all
@@ -76,6 +78,7 @@ python-pywalfox
 python-screeninfo
 python-vdf
 rpcs3-latest-bin
+ryujinx-bin
 sddm-theme-greenleaf
 sitala-bin
 snapd
@@ -83,6 +86,7 @@ snapd-glib
 swengine
 tracktion-download-manager
 ttf-ms-fonts
+ttf-red-october
 tty-clock
 waveform13
 waydroid

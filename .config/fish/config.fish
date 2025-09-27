@@ -33,10 +33,6 @@ function fish_prompt
         echo -n " "
     end
 end
-function fish_right_prompt
-    # Use printf to right-align mommy's output dynamically
-    printf "%*s" $COLUMNS (mommy -1 -s $status)
-end
 # Homebrew setup
 eval (/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 
@@ -64,3 +60,5 @@ zoxide init fish | source
 fastfetch
 set -q GHCUP_INSTALL_BASE_PREFIX[1]; or set GHCUP_INSTALL_BASE_PREFIX $HOME
 set -gx PATH $HOME/.cabal/bin $PATH /home/vmdjavem/.ghcup/bin # ghcup-env
+#command Prompt
+starship init fish | source

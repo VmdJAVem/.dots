@@ -4,6 +4,7 @@ alsa-plugins
 alsa-utils
 amd-ucode
 android-tools
+apt
 aspell
 aspell-es
 b43-fwcutter
@@ -22,6 +23,7 @@ btrfs-progs
 cantarell-fonts
 cava
 chafa
+clang
 cliphist
 cmake
 cowsay
@@ -45,6 +47,7 @@ efitools
 endeavouros-branding
 endeavouros-keyring
 endeavouros-mirrorlist
+eog
 eos-apps-info
 eos-hooks
 eos-log-tool
@@ -74,6 +77,7 @@ ghostscript
 gimp
 git
 glances
+gnome-boxes
 godot
 gsfonts
 gst-libav
@@ -212,11 +216,12 @@ qemu-base
 qt5ct
 qt6-imageformats
 raylib
+reaper
 rebuild-detector
 reflector
 reflector-simple
 rmpc
-rofi-wayland
+rofi
 rsync
 rtkit
 ruby
@@ -230,9 +235,10 @@ s-nail
 sof-firmware
 soundfont-fluid
 splix
+starship
 steam
+strawberry
 sudo
-swayimg
 swaync
 swww
 syncthing
@@ -245,6 +251,7 @@ timidity++
 tldr
 tor
 torbrowser-launcher
+ttf-0xproto-nerd
 ttf-bitstream-vera
 ttf-cascadia-code-nerd
 ttf-dejavu
@@ -262,11 +269,13 @@ upower
 usb_modeswitch
 usbutils
 uwsm
+veracrypt
 vi
 virt-manager
 virt-viewer
 viu
 vlc
+vlc-plugins-all
 vulkan-radeon
 vulkan-tools
 wavpack
@@ -332,7 +341,8 @@ xorg-xwininfo
 xorg-xwud
 xsettingsd
 xwayland-satellite
-yazi
+yabridge
+yabridgectl
 yt-dlp
 zathura
 zathura-pdf-mupdf

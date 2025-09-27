@@ -1,68 +1,80 @@
-// Load with --load-config examples/2.jsonc
-// Note that you must replace the image path to an existing image to display it.
+//    ______           __  ______      __
+//   / ____/___ ______/ /_/ ____/___ _/ /_
+//  / /_  / __ `/ ___/ __/ /   / __ `/ __/
+// / __/ / /_/ (__  ) /_/ /___/ /_/ / /_
+///_/    \__,_/____/\__/\____/\__,_/\__/
+//  https://github.com/m3tozz/FastCat
+
+
 {
-	"$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
-	"logo": {
-		"type": "auto",
-		"source": "~/Images/toriel.png",
-		"width": 30,
-		"height": 14,
-		"padding": {
-			"left": 2,
-			"top": 2
-		}
-	},
-	"display": {
-		"separator": "  ",
-		"constants": [
-			"─────────────────" // {$1}, used in Custom module
-		],
-		"key": {
-			"type": "icon",
-			"paddingLeft": 2
-		}
-	},
-	"modules": [
-		{
-			"type": "custom", // HardwareStart
-			// {#1} is equivalent to `\u001b[1m`. {#} is equivalent to `\u001b[m`
-			"format": "┌{$1} {#1}Hardware Information{#} {$1}┐"
-		},
-		"host",
-		"cpu",
-		"gpu",
-		"disk",
-		"memory",
-		"swap",
-		"display",
-		{
-			"type": "custom", // SoftwareStart
-			"format": "├{$1} {#1}Software Information{#} {$1}┤"
-		},
-		{
-			"type": "title",
-			"keyIcon": "",
-			"key": "Title", // Title module has no key by default, so that icon is not displayed
-			"format": "{user-name}@{host-name}"
-		},
-		"os",
-		"de",
-		"wm",
-		"shell",
-		"terminal",
-		"terminalfont",
-		"theme",
-		"packages",
-		"uptime",
-		"media",
-		{
-			"type": "custom", // InformationEnd
-			"format": "└{$1}──────────────────────{$1}┘"
-		},
-		{
-			"type": "colors",
-			"paddingLeft": 2,
-			"symbol": "circle"
-		}
-	]
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+        "source": "$HOME/.config/fastfetch/ascii.txt",
+        "padding": {
+            "top": 1,
+        "right": 2
+        },
+                    "color": {
+        "1": "cyan"
+    }
+    },
+    "display": {
+          "separator": " ➜  "
+    },
+    "modules": [
+        "break",
+        "break",
+         {
+            "type": "os",
+            "key": "OS   ",
+            "keyColor": "31",
+        },
+        {
+            "type": "kernel",
+            "key": " ├  ",
+            "keyColor": "31",
+        },
+        {
+            "type": "packages",
+            "key": " ├ 󰏖 ",
+            "keyColor": "31",
+        },
+        {
+            "type": "shell",
+            "key": " ├  ",
+            "keyColor": "31",
+        },
+        "break",
+        {
+            "type": "wm",
+            "key": "WM   ",
+            "keyColor": "32",
+        },
+        {
+            "type": "wmtheme",
+            "key": " ├ 󰉼 ",
+            "keyColor": "32",
+        },
+        {
+            "type": "icons",
+            "key": " ├ 󰀻 ",
+            "keyColor": "32",
+        },
+        {
+            "type": "cursor",
+            "key": " ├  ",
+            "keyColor": "32",
+        },
+        {
+            "type": "terminal",
+            "key": " ├  ",
+            "keyColor": "32",
+        },
+        {
+            "type": "terminalfont",
+            "key": " ├  ",
+            "keyColor": "32",
+        },
+        "break",
+    ]
 }
