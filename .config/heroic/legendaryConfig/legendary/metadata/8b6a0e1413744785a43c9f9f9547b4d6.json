@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
       "asset_id": "8b6a0e1413744785a43c9f9f9547b4d6",
-      "build_version": "aircombat_store_windows_882efaa1_2025-08-28_15-59",
+      "build_version": "aircombat_store_windows_e75b5977_2025-09-17_19-43",
       "catalog_item_id": "37bdf2283730476b89fa027acfab7491",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -13,12 +13,7 @@
       "sidecar_rev": 0
     }
   },
-  "base_urls": [
-    "https://fastly-download.epicgames.com/Builds/Org/o-mcvmu82m6mwl5ja3he6e8mwwwsslx9/b65e5ed8fbe44d87af7cee5d1cd2cc57/default",
-    "https://epicgames-download1.akamaized.net/Builds/Org/o-mcvmu82m6mwl5ja3he6e8mwwwsslx9/b65e5ed8fbe44d87af7cee5d1cd2cc57/default",
-    "https://download.epicgames.com/Builds/Org/o-mcvmu82m6mwl5ja3he6e8mwwwsslx9/b65e5ed8fbe44d87af7cee5d1cd2cc57/default",
-    "https://cloudflare.epicgamescdn.com/Builds/Org/o-mcvmu82m6mwl5ja3he6e8mwwwsslx9/b65e5ed8fbe44d87af7cee5d1cd2cc57/default"
-  ],
+  "base_urls": [],
   "metadata": {
     "ageGatings": {},
     "applicationId": "",

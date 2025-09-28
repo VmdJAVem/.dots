@@ -1,0 +1,81 @@
+{
+	"layer": "top",
+	"position": "top",
+	"modules-left": [
+		"hyprland/workspaces",
+		"custom/media"
+	],
+	"modules-center": [
+		"clock"
+	],
+	"modules-right": [
+		"cpu",
+		"memory",
+		"network",
+		"custom/brightness",
+		"pulseaudio",
+		"custom/power"
+	],
+	"margin-left": 5,
+	"margin-right": 5,
+	"margin-bottom": 0,
+	"hyprland/workspaces": {
+		"disable-scroll": true,
+		"all-outputs": true,
+		"format": "●",
+		"persistent-workspaces": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+		}
+	},
+	"clock": {
+		"format": "{:%H:%M - %b %d}",
+	},
+	"cpu": {
+		"format": "\uf2db {usage}%",
+		// "on-click": "kitty -c 'Floating Terminal' -e htop"
+	},
+	"memory": {
+		"interval": 30,
+		"format": "\uf1b2 {percentage}%"
+	},
+	"network": {
+		"format-wifi": "\uf1eb",
+		"format-ethernet": "\uf796",
+		"format-disconnected": "\uf127 ⚠"
+	},
+	"custom/power": {
+		"format": "\uf011",
+		"tooltip": false,
+		"on-click": "~/.config/waybar/scripts/power-menu.sh"
+	},
+	"custom/brightness": {
+		"format": "\uf108 {}%",
+		"exec": "ddcutil getvcp 10 | grep -o 'current value =[ ]*[0-9]*' | grep -o '[0-9]*'",
+		"signal": 10,
+		"tooltip": false
+	},
+	"custom/media": {
+		"format": "\uf001 {}",
+		"max-length": 30,
+		"exec": "~/.config/waybar/scripts/scroll-media.sh",
+		"interval": 1,
+		"on-click": "playerctl play-pause"
+	},
+	"pulseaudio": {
+		"format": "{icon} {volume}%",
+		"format-bluetooth": "{icon} {volume}%",
+		"format-muted": "\uf026",
+		"format-icons": {
+			"muted": "\uf6a9",
+			"default": [
+				"\uf026",
+				"\uf027",
+				"\uf028"
+			]
+		},
+		"on-click": "pavucontrol"
+	},
+}

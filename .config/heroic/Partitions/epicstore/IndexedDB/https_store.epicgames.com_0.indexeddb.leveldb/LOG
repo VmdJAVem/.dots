@@ -1,3 +1,6 @@
-2025/08/24-15:07:04.177 9e37 Reusing MANIFEST /home/vmdjavem/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/08/24-15:07:04.177 9e37 Recovering log #3
-2025/08/24-15:07:04.200 9e37 Reusing old log /home/vmdjavem/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000003.log 
+2025/09/27-15:22:17.392 306e Reusing MANIFEST /home/vmdjavem/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/27-15:22:17.392 306e Recovering log #3
+2025/09/27-15:22:17.396 306e Reusing old log /home/vmdjavem/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000003.log 
+2025/09/27-15:22:28.050 306f Level-0 table #5: started
+2025/09/27-15:22:28.058 306f Level-0 table #5: 1383353 bytes OK
+2025/09/27-15:22:28.061 306f Delete type=0 #3

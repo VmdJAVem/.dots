@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "41869934302e4b8cafac2d3c0e7c293d",
       "asset_id": "41869934302e4b8cafac2d3c0e7c293d",
-      "build_version": "105",
+      "build_version": "107",
       "catalog_item_id": "7d690c122fde4c60bed85405f343ad10",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -13,12 +13,7 @@
       "sidecar_rev": 1
     }
   },
-  "base_urls": [
-    "https://download.epicgames.com/Builds/Org/o-wlaqew5gv79ufa3slnqhhsqbpjdvnb/99dc46c68ea14324964a856d18dcac5b/default",
-    "https://epicgames-download1.akamaized.net/Builds/Org/o-wlaqew5gv79ufa3slnqhhsqbpjdvnb/99dc46c68ea14324964a856d18dcac5b/default",
-    "https://fastly-download.epicgames.com/Builds/Org/o-wlaqew5gv79ufa3slnqhhsqbpjdvnb/99dc46c68ea14324964a856d18dcac5b/default",
-    "https://cloudflare.epicgamescdn.com/Builds/Org/o-wlaqew5gv79ufa3slnqhhsqbpjdvnb/99dc46c68ea14324964a856d18dcac5b/default"
-  ],
+  "base_urls": [],
   "metadata": {
     "ageGatings": {},
     "applicationId": "fghi4567wTpi8eThGK1VsSmDIRr7pcy2",
@@ -68,7 +63,7 @@
         "value": "false"
       }
     },
-    "description": "Genshin Impact",
+    "description": "Comienza tu traves\u00eda en Teyvat para buscar a tu familiar perdido y encontrar respuestas sobre los dioses elementales. Explora cada rinc\u00f3n de este mundo maravilloso, une fuerzas con un amplio repertorio de personajes, y revela los muchos misterios ocultos...",
     "developer": "COGNOSPHERE PTE. LTD.",
     "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
     "dlcItemList": [
@@ -318,6 +313,546 @@
         "title": "Acquaint Fate \u00d710_ConsumableAudience",
         "unsearchable": false,
         "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-07-08T03:02:29.608Z",
+        "customAttributes": {},
+        "description": "Gnostic Hymn_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "036f9732b9f545fb9fe18da345574a0c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "036f9732b9f545fb9fe18da345574a0c",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-07-29T21:51:29.145Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gnostic Hymn_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-25T08:36:04.904Z",
+        "description": "Arcane Keystones \u00d71,600_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "10a2c4e3b57e4d8ea887557fde631c8e",
+        "entitlementType": "AUDIENCE",
+        "id": "10a2c4e3b57e4d8ea887557fde631c8e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-25T08:36:04.904Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Arcane Keystones \u00d71,600_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-25T08:36:04.912Z",
+        "description": "980 Chronal Nexus_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "9980c34561eb46ce9bf413f7e9dc084e",
+        "entitlementType": "AUDIENCE",
+        "id": "9980c34561eb46ce9bf413f7e9dc084e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-25T08:36:04.912Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "980 Chronal Nexus_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-25T08:36:04.901Z",
+        "description": "Epic of the Realms_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "068c97ddc3304b5d8acbfec4e3aad895",
+        "entitlementType": "AUDIENCE",
+        "id": "068c97ddc3304b5d8acbfec4e3aad895",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-25T08:36:04.901Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Epic of the Realms_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-25T08:36:04.909Z",
+        "description": "60 Chronal Nexus_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "36beae3819d74fe996c7220e682f3ffb",
+        "entitlementType": "AUDIENCE",
+        "id": "36beae3819d74fe996c7220e682f3ffb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-25T08:36:04.909Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "60 Chronal Nexus_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-25T08:36:04.917Z",
+        "description": "1,980 Chronal Nexus_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "a26614a082824331a14e63a8020c0e93",
+        "entitlementType": "AUDIENCE",
+        "id": "a26614a082824331a14e63a8020c0e93",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-25T08:36:04.917Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1,980 Chronal Nexus_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-25T08:36:04.918Z",
+        "description": "3,280 Chronal Nexus_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "f2339aadc1104d668a5381bb4d31dec0",
+        "entitlementType": "AUDIENCE",
+        "id": "f2339aadc1104d668a5381bb4d31dec0",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-25T08:36:04.918Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "3,280 Chronal Nexus_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-25T08:36:04.910Z",
+        "description": "300 Chronal Nexus_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "8f5d5b8f4ae24f67b17d5dd902c85b23",
+        "entitlementType": "AUDIENCE",
+        "id": "8f5d5b8f4ae24f67b17d5dd902c85b23",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-25T08:36:04.910Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "300 Chronal Nexus_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-25T08:36:04.906Z",
+        "description": "6,480 Chronal Nexus_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "13b5296d69a04ddca8b5598fb75df7dc",
+        "entitlementType": "AUDIENCE",
+        "id": "13b5296d69a04ddca8b5598fb75df7dc",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-25T08:36:04.906Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "6,480 Chronal Nexus_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-25T08:36:04.914Z",
+        "description": "Gnostic Chorus \u2014 Special Offer_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "9a85ddabb13d46e3b4db0fa7761a9214",
+        "entitlementType": "AUDIENCE",
+        "id": "9a85ddabb13d46e3b4db0fa7761a9214",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-25T08:36:04.914Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gnostic Chorus \u2014 Special Offer_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-25T08:36:04.915Z",
+        "description": "Arcane Keystones \u00d7160_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "a10e6ee3d6434b62b89cfa3fb369af77",
+        "entitlementType": "AUDIENCE",
+        "id": "a10e6ee3d6434b62b89cfa3fb369af77",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-25T08:36:04.915Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Arcane Keystones \u00d7160_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-25T08:36:05.801Z",
+        "description": "Chronicles of the Realms_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "36f8d5d5a40b4ff68b01ae3627c49fc6",
+        "entitlementType": "AUDIENCE",
+        "id": "36f8d5d5a40b4ff68b01ae3627c49fc6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-25T08:36:05.801Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Chronicles of the Realms_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-25T08:36:05.799Z",
+        "description": "Gnostic Hymn \u2014 Special Offer_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "3069edab615749969b923467daa8fd24",
+        "entitlementType": "AUDIENCE",
+        "id": "3069edab615749969b923467daa8fd24",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-25T08:36:05.799Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gnostic Hymn \u2014 Special Offer_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-25T08:36:05.803Z",
+        "description": "Chronicle Recompilation_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "69f6ad57d94640de9b4bc1f42fdaf689",
+        "entitlementType": "AUDIENCE",
+        "id": "69f6ad57d94640de9b4bc1f42fdaf689",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-25T08:36:05.803Z",
+        "mainGameItem": {
+          "id": "7d690c122fde4c60bed85405f343ad10",
+          "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7d690c122fde4c60bed85405f343ad10",
+            "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Chronicle Recompilation_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
       }
     ],
     "endOfSupport": false,
@@ -348,7 +883,8 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-07-08T02:55:25.864Z",
+    "lastModifiedDate": "2025-09-25T08:36:06.073Z",
+    "longDescription": "<!--textBlock-->\n<!--title-->\n# \u00a1Versi\u00f3n 5.8 \u00ab\u00a1Verano, sol, un resort de vacaciones!\u00bb ya disponible!\n<!--text-->\nNueva \u00e1rea: Resort Brisapacible\nNuevo personaje: Ineffa\nNuevos eventos: evento principal \u00ab\u00a1Verano, sol, un resort de vacaciones!\u00bb, eventos temporales \u00abRecuerdos de Teyvat: Preludio del velo helado\u00bb y \u00abAl acecho de rastros ocultos\u00bb\nNuevos vestuarios: Convite sereno y Aventura ardorosa\nNueva historia: nueva misi\u00f3n de Arconte\nNueva arma: Halo Fracturado\nInvocaci\u00f3n de los Sabios: nuevas cartas de personaje y de acci\u00f3n\n<!--textBlock-->\n<!--title-->\n# \u3013Mundo abierto, libertad para explorar\u3013\n<!--text-->\nGenshin Impact es un juego de aventuras de mundo abierto, lo que significa que desde que pones el pie en el continente de Teyvat, siempre y cuando midas tu aguante adecuadamente, descubrir\u00e1s nuevos paisajes, sin importar si atraviesas monta\u00f1as o cruzas r\u00edos. Ya sea que descubres un Seelie errante o un dispositivo misterioso, siempre habr\u00e1 algo esper\u00e1ndote. \u00bfSer\u00e1 una sorpresa grata, o un accidente inesperado?\n<!--textBlock-->\n<!--title-->\n# \u3013Interacci\u00f3n elemental, estrategia de combate\u3013\n<!--text-->\nEn esta tierra donde los elementos convergen, el mundo est\u00e1 compuesto de siete elementos: Anemo, Electro, Hydro, Pyro, Cryo, Dendro y Geo. Los personajes poseedores de Visiones pueden controlar estos elementos en combate o al explorar. Al combinar Hydro y Pyro se crea la reacci\u00f3n de Vaporizaci\u00f3n; al combinar Pyro y Electro se crea la reacci\u00f3n de Sobrecarga; y cuando Electro e Hydro se combinan, se produce una reacci\u00f3n de Electrocargado... La clave de la victoria est\u00e1 en utilizar diferentes elementos contra distintos enemigos y as\u00ed tener el control de la batalla.\n<!--textBlock-->\n<!--title-->\n# \u3013Excelente banda sonora en alta definici\u00f3n\u3013\n<!--text-->\nEl dise\u00f1o de Genshin Impact es refrescante y transparente, con animaciones desbordantes en tiempo real, y movimientos de personajes mediante captura de movimiento y ajustes detallados, todo en una presentaci\u00f3n con efectos de alta calidad. Durante el transcurso de 24 horas entre el d\u00eda y la noche, el clima y la m\u00fasica cambiar\u00e1n din\u00e1micamente. No importa d\u00f3nde est\u00e9s, siempre podr\u00e1s escuchar la m\u00fasica de orquestas de clase mundial: la Orquesta Filarm\u00f3nica de Londres y la Orquesta Sinf\u00f3nica de Shangh\u00e1i.\n<!--textBlock-->\n<!--title-->\n# \u3013\u00a1Unidos en la aventura!\u3013\n<!--text-->\nEn tus traves\u00edas, tambi\u00e9n te encontrar\u00e1s con compa\u00f1eros de viaje \u00fanicos. Re\u00fane al mejor equipo y utiliza materiales recolectados en tu viaje para fortalecer a tus personajes para conquistar la magia y los dominios en los confines del continente. Desde la cima de Jueyun ver\u00e1s el paso de nubes, sol, lluvia y nieve hasta donde alcanza la vista. Pero todav\u00eda tienes que reunirte con tu familiar perdido y revelar a verdad detr\u00e1s de los Dioses Primordiales. \u00a1Vamos, viajero, la aventura apenas comienza!\n<!--textBlock-->\n<!--title-->\n# SOPORTE\n<!--text-->\nSi tienes cualquier problema, no dudes en ponerte en contacto con nuestro Servicio de Atenci\u00f3n al Cliente: genshin_cs@hoyoverse.com\n",
     "mainGameItemList": [],
     "namespace": "879b0d8776ab46a59a129983ba78f0ce",
     "releaseInfo": [

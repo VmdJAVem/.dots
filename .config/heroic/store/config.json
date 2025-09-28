@@ -8,14 +8,9 @@
 	},
 	"userHome": "/home/vmdjavem",
 	"language": "en",
-	"userInfo": {
-		"account_id": "01a9c5e894184bbda7163da634229753",
-		"displayName": "VmdJAVem",
-		"user": "vmdjavem"
-	},
 	"window-props": {
-		"x": 965,
-		"y": 55,
+		"x": 967,
+		"y": 57,
 		"width": 943,
 		"height": 1013,
 		"maximized": false
@@ -153,5 +148,10 @@
 	},
 	"zoomPercent": 100,
 	"contentFontFamily": "\"Fira Code\"",
-	"actionsFontFamily": "\"Fira Code\""
+	"actionsFontFamily": "\"Fira Code\"",
+	"userInfo": {
+		"account_id": "01a9c5e894184bbda7163da634229753",
+		"displayName": "VmdJAVem",
+		"user": "vmdjavem"
+	}
 }

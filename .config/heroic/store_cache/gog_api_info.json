@@ -1,17 +1,13 @@
 {
-	"epic_4656facc740742a39e265b026e13d075": {
-		"id": "57183841310389812",
-		"game_id": "55415887682475749",
+	"epic_1be5efb848844b1dabf9d67f8017a7ae": {
+		"id": "55444260750676121",
+		"game_id": "51154109624175831",
 		"platform_id": "epic",
-		"external_id": "4656facc740742a39e265b026e13d075",
+		"external_id": "1be5efb848844b1dabf9d67f8017a7ae",
 		"dlcs_ids": [],
 		"dlcs": [],
 		"parent_id": null,
 		"supported_operating_systems": [
-			{
-				"slug": "osx",
-				"name": "macOS"
-			},
 			{
 				"slug": "windows",
 				"name": "Windows"
@@ -24,179 +20,102 @@
 		],
 		"first_release_date": null,
 		"game": {
-			"id": "55415887682475749",
+			"id": "51154109624175831",
 			"parent_id": null,
 			"dlcs_ids": [],
-			"first_release_date": "2022-09-05T00:00:00+0000",
+			"first_release_date": "2016-09-02T00:00:00+0000",
 			"releases": [
 				{
-					"id": "55415887692658810",
+					"id": "51154109624732248",
 					"platform_id": "steam",
-					"external_id": "1966900",
-					"release_per_platform_id": "steam_1966900",
+					"external_id": "517710",
+					"release_per_platform_id": "steam_517710",
 					"availability": 0
 				},
 				{
-					"id": "56283112001486289",
+					"id": "53316653561851728",
+					"platform_id": "discord",
+					"external_id": "6439c2ab-dcbf-4d22-b9fa-71a0803a40b3",
+					"release_per_platform_id": "discord_6439c2ab-dcbf-4d22-b9fa-71a0803a40b3",
+					"availability": 0
+				},
+				{
+					"id": "55210171074710810",
 					"platform_id": "test",
-					"external_id": "9ddedde238cda0adb5e2766f380e28d8ea3d3aa7",
-					"release_per_platform_id": "test_9ddedde238cda0adb5e2766f380e28d8ea3d3aa7",
+					"external_id": "gfn_517710",
+					"release_per_platform_id": "test_gfn_517710",
 					"availability": 0
 				},
 				{
-					"id": "56283112003849912",
-					"platform_id": "test",
-					"external_id": "47e87a817d860a4db530182402992758e5e7a250",
-					"release_per_platform_id": "test_47e87a817d860a4db530182402992758e5e7a250",
-					"availability": 0
-				},
-				{
-					"id": "56283112023636263",
-					"platform_id": "test",
-					"external_id": "6d109141589cd5214b5a80fbeda4a20a11a80022",
-					"release_per_platform_id": "test_6d109141589cd5214b5a80fbeda4a20a11a80022",
-					"availability": 0
-				},
-				{
-					"id": "56283112037307201",
-					"platform_id": "test",
-					"external_id": "6c9339efe32266624726f8c87b1c1b9343d182b7",
-					"release_per_platform_id": "test_6c9339efe32266624726f8c87b1c1b9343d182b7",
-					"availability": 0
-				},
-				{
-					"id": "56283112072944308",
-					"platform_id": "test",
-					"external_id": "c041d6bd90acf61d50ca0a5456b77c67428d75f2",
-					"release_per_platform_id": "test_c041d6bd90acf61d50ca0a5456b77c67428d75f2",
-					"availability": 0
-				},
-				{
-					"id": "56283266621892295",
-					"platform_id": "test",
-					"external_id": "dce31a62ce75440b9a0674cdc1e03d0bcbb44f1b",
-					"release_per_platform_id": "test_dce31a62ce75440b9a0674cdc1e03d0bcbb44f1b",
-					"availability": 0
-				},
-				{
-					"id": "56283550273822194",
-					"platform_id": "test",
-					"external_id": "6780ff58e80923ea7b45c0d812fe0238d5c4e81c",
-					"release_per_platform_id": "test_6780ff58e80923ea7b45c0d812fe0238d5c4e81c",
-					"availability": 0
-				},
-				{
-					"id": "57183841310389812",
+					"id": "55444260750676121",
 					"platform_id": "epic",
-					"external_id": "4656facc740742a39e265b026e13d075",
-					"release_per_platform_id": "epic_4656facc740742a39e265b026e13d075",
+					"external_id": "1be5efb848844b1dabf9d67f8017a7ae",
+					"release_per_platform_id": "epic_1be5efb848844b1dabf9d67f8017a7ae",
 					"availability": 0
 				},
 				{
-					"id": "57362064187668325",
-					"platform_id": "test",
-					"external_id": "sashagame_59",
-					"release_per_platform_id": "test_sashagame_59",
+					"id": "55534766035194590",
+					"platform_id": "fanatical",
+					"external_id": "redout-enhanced-edition",
+					"release_per_platform_id": "fanatical_redout-enhanced-edition",
 					"availability": 0
 				},
 				{
-					"id": "57362076372084635",
-					"platform_id": "test",
-					"external_id": "sashagame_60",
-					"release_per_platform_id": "test_sashagame_60",
+					"id": "56207655210680867",
+					"platform_id": "itch",
+					"external_id": "1be5efb848844b1dabf9d67f8017a7ae",
+					"release_per_platform_id": "itch_1be5efb848844b1dabf9d67f8017a7ae",
 					"availability": 0
 				},
 				{
-					"id": "55415887682475749",
+					"id": "51154109624175831",
 					"platform_id": "generic",
-					"external_id": "55415887682475749",
-					"release_per_platform_id": "generic_55415887682475749",
+					"external_id": "51154109624175831",
+					"release_per_platform_id": "generic_51154109624175831",
 					"availability": 1
 				}
 			],
 			"title": {
-				"*": "20 Minutes Till Dawn",
-				"en-US": "20 Minutes Till Dawn"
+				"*": "Redout: Enhanced Edition",
+				"en-US": "Redout: Enhanced Edition"
 			},
 			"sorting_title": {
-				"*": "20 Minutes Till Dawn",
-				"en-US": "20 Minutes Till Dawn"
+				"*": "Redout Enhanced Edition",
+				"en-US": "Redout Enhanced Edition"
 			},
 			"type": "game",
 			"developers_ids": [
-				"55951418531913694"
+				"52107415287616059"
 			],
 			"developers": [
 				{
-					"id": "55951418531913694",
-					"name": "flanne",
-					"slug": "flanne"
+					"id": "52107415287616059",
+					"name": "34BigThings srl",
+					"slug": "34bigthings-srl"
 				}
 			],
 			"publishers_ids": [
-				"55524868354598240",
-				"55951418531913694"
+				"52107415287616059"
 			],
 			"publishers": [
 				{
-					"id": "55524868354598240",
-					"name": "Erabit Studios",
-					"slug": "erabit-studios"
-				},
-				{
-					"id": "55951418531913694",
-					"name": "flanne",
-					"slug": "flanne"
+					"id": "52107415287616059",
+					"name": "34BigThings srl",
+					"slug": "34bigthings-srl"
 				}
 			],
 			"genres_ids": [
-				"51071842242881003",
-				"51071842251704278",
-				"51071904337940794",
-				"51121492616405278",
-				"51141224821260861",
+				"51141224676321623",
 				"51141224840148805"
 			],
 			"genres": [
 				{
-					"id": "51071842242881003",
+					"id": "51141224676321623",
 					"name": {
-						"*": "Role-playing (RPG)",
-						"en-US": "Role-playing (RPG)"
+						"*": "Sport",
+						"en-US": "Sport"
 					},
-					"slug": "role-playing-rpg"
-				},
-				{
-					"id": "51071842251704278",
-					"name": {
-						"*": "Adventure",
-						"en-US": "Adventure"
-					},
-					"slug": "adventure"
-				},
-				{
-					"id": "51071904337940794",
-					"name": {
-						"*": "Strategy",
-						"en-US": "Strategy"
-					},
-					"slug": "strategy"
-				},
-				{
-					"id": "51121492616405278",
-					"name": {
-						"*": "Indie",
-						"en-US": "Indie"
-					},
-					"slug": "indie"
-				},
-				{
-					"id": "51141224821260861",
-					"name": {
-						"*": "Shooter",
-						"en-US": "Shooter"
-					},
-					"slug": "shooter"
+					"slug": "sport"
 				},
 				{
 					"id": "51141224840148805",
@@ -208,9 +127,7 @@
 				}
 			],
 			"themes_ids": [
-				"51071842231533391",
-				"51141224819961538",
-				"51141226418224461"
+				"51071842231533391"
 			],
 			"themes": [
 				{
@@ -220,87 +137,44 @@
 						"en-US": "Action"
 					},
 					"slug": "action"
-				},
-				{
-					"id": "51141224819961538",
-					"name": {
-						"*": "Horror",
-						"en-US": "Horror"
-					},
-					"slug": "horror"
-				},
-				{
-					"id": "51141226418224461",
-					"name": {
-						"*": "Survival",
-						"en-US": "Survival"
-					},
-					"slug": "survival"
 				}
 			],
 			"screenshots": [
 				{
-					"url_format": "https://images.gog.com/61e58f8c221d4b78fb0c22212ecdc2c6a151e49ca020b39a4dc606e046f65162{formatter}.{ext}?namespace=gamesdb"
+					"url_format": "https://images.gog.com/55602f5892ff290969d60694eeac96831d96d078e1d1cada1ead4422c8644db9{formatter}.{ext}?namespace=gamesdb"
 				},
 				{
-					"url_format": "https://images.gog.com/7f7ffedcc987bba793f5ea6f9afae32ecc809ff2aa1ca23a5cf340eff65af599{formatter}.{ext}?namespace=gamesdb"
+					"url_format": "https://images.gog.com/1f9212cd10ec2f93576995b54ecbc08e9da54dc0232e45d8e166ff7bab0f3238{formatter}.{ext}?namespace=gamesdb"
 				},
 				{
-					"url_format": "https://images.gog.com/fbd9c3c31ac653127a29825986f749a792f78a03ab7a72a748daeea2dd7c8168{formatter}.{ext}?namespace=gamesdb"
+					"url_format": "https://images.gog.com/7aaae45f52cadce4b3bb366ca88a9dbaec21fd441e2e4aa969d38907f7c9e2bc{formatter}.{ext}?namespace=gamesdb"
 				},
 				{
-					"url_format": "https://images.gog.com/8b7e7e6166435d76bdcaa2909e176e9b6658ca251117dc217156ebcfe1f205ac{formatter}.{ext}?namespace=gamesdb"
+					"url_format": "https://images.gog.com/65e81e55078ebf027547483faff2ddd92c62ca291160bc4f9eac1db705711c03{formatter}.{ext}?namespace=gamesdb"
 				},
 				{
-					"url_format": "https://images.gog.com/9c5f7d124c31493aa1cd52cc05825948a0cdc24cd9ecb9d68700233310d863bf{formatter}.{ext}?namespace=gamesdb"
+					"url_format": "https://images.gog.com/6438d025a7332ce8d404ddcb66e111972e1da2789c91fba97ca6e1ab1aef3a5b{formatter}.{ext}?namespace=gamesdb"
 				},
 				{
-					"url_format": "https://images.gog.com/c07789154662f166e84f1238bde513cfbe48f999ca4258e1f39988e006cefd1a{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/00900ac90d35a4763d93e58aa17c3e3e97da1395ece2f7672958c7e5fc045737{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/04e40792984c8ecf6c6515e2a13275be40ec1ea35b897bcea454eb2a511795fe{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/e6446220b3268375eb5bd37da0f0b18f04629d6b0fac6dcbd679e88dff82a9d0{formatter}.{ext}?namespace=gamesdb"
+					"url_format": "https://images.gog.com/760d97481a37db04b5ad92281b3c0913e9e8ba1557c2f6fdeb0858db748f2384{formatter}.{ext}?namespace=gamesdb"
 				}
 			],
 			"videos": [
 				{
 					"provider": "youtube",
-					"video_id": "yT_WR-N5s1w",
-					"thumbnail_id": "yT_WR-N5s1w",
-					"name": "Trailer"
-				},
-				{
-					"provider": "youtube",
-					"video_id": "HDmf9SBQY0I",
-					"thumbnail_id": "HDmf9SBQY0I",
-					"name": "Trailer"
-				},
-				{
-					"provider": "youtube",
-					"video_id": "Rzht7wX549c",
-					"thumbnail_id": "Rzht7wX549c",
-					"name": "Trailer"
+					"video_id": "DoXpQMwIbp4",
+					"thumbnail_id": "DoXpQMwIbp4",
+					"name": "Gameplay Trailer"
 				}
 			],
 			"artworks": [
 				{
-					"url_format": "https://images.gog.com/7a7a9f1aad41de777cd56d5d7ac272c2ed1983ec5ce8bce2c373f815dd12e6b3{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/da14f74f407c81d10fe8a8a10506a8a09100c7d7e41b2758297e1e1699374964{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/a6d35db4603a64bf275627282c40e146fa022142d6589a4f594932db4a3ff5e9{formatter}.{ext}?namespace=gamesdb"
+					"url_format": "https://images.gog.com/6ce5d21c29eb567ffa77c4f8edf1c9eadc6612158a7687ca2fbfd14224206f5d{formatter}.{ext}?namespace=gamesdb"
 				}
 			],
 			"summary": {
-				"*": "Shoot down an ever growing horde of Lovecraftian monsters to survive the night. Choose from a variety of upgrades to create unique and game-breaking builds. Unlock a diverse cast of characters and weapons with unique powers.",
-				"en-US": "Shoot down an ever growing horde of Lovecraftian monsters to survive the night. Choose from a variety of upgrades to create unique and game-breaking builds. Unlock a diverse cast of characters and weapons with unique powers."
+				"*": "Redout is a tribute to the old racing monsters such as F-Zero, WipeOut, Rollcage, and POD. It is designed to be an uncompromising, fast, tough and satisfying driving experience, soaked in that vertigo that stands at the core of the arcade racing genre.",
+				"en-US": "Redout is a tribute to the old racing monsters such as F-Zero, WipeOut, Rollcage, and POD. It is designed to be an uncompromising, fast, tough and satisfying driving experience, soaked in that vertigo that stands at the core of the arcade racing genre."
 			},
 			"visible_in_library": true,
 			"aggregated_rating": null,
@@ -309,45 +183,49 @@
 					"id": "53051895165351137",
 					"name": "Single player",
 					"slug": "single-player"
+				},
+				{
+					"id": "53051898010278634",
+					"name": "Co-operative",
+					"slug": "co-operative"
+				},
+				{
+					"id": "53051908711988230",
+					"name": "Multiplayer",
+					"slug": "multiplayer"
 				}
 			],
 			"horizontal_artwork": {
-				"url_format": "https://images.gog.com/a9496a68e60138bc54514978d4255d1bb41ccd69639cf6846fb8b52f2538ee6f{formatter}.{ext}?namespace=gamesdb"
+				"url_format": "https://images.gog.com/a42f7dae65082cd4ae7110b87cce2d2a036c1fb4a5c025876aea361f1ac7175f{formatter}.{ext}?namespace=gamesdb"
 			},
 			"background": {
-				"url_format": "https://images.gog.com/a9496a68e60138bc54514978d4255d1bb41ccd69639cf6846fb8b52f2538ee6f{formatter}.{ext}?namespace=gamesdb"
+				"url_format": "https://images.gog.com/a42f7dae65082cd4ae7110b87cce2d2a036c1fb4a5c025876aea361f1ac7175f{formatter}.{ext}?namespace=gamesdb"
 			},
 			"vertical_cover": {
-				"url_format": "https://images.gog.com/dc6e09d21833f3696ca9d9ff3f9b9758e71d669ef1f912c084a99d5f078c13dc{formatter}.{ext}?namespace=gamesdb"
+				"url_format": "https://images.gog.com/fdb6dd51ba8954c729f738926c24443b9c35f025afbe896b12df470138c59328{formatter}.{ext}?namespace=gamesdb"
 			},
 			"cover": {
-				"url_format": "https://images.gog.com/dc6e09d21833f3696ca9d9ff3f9b9758e71d669ef1f912c084a99d5f078c13dc{formatter}.{ext}?namespace=gamesdb"
-			},
-			"logo": {
-				"url_format": "https://images.gog.com/dc6e09d21833f3696ca9d9ff3f9b9758e71d669ef1f912c084a99d5f078c13dc{formatter}.{ext}?namespace=gamesdb"
-			},
-			"icon": {
-				"url_format": "https://images.gog.com/dc6e09d21833f3696ca9d9ff3f9b9758e71d669ef1f912c084a99d5f078c13dc{formatter}.{ext}?namespace=gamesdb"
+				"url_format": "https://images.gog.com/fdb6dd51ba8954c729f738926c24443b9c35f025afbe896b12df470138c59328{formatter}.{ext}?namespace=gamesdb"
 			},
 			"square_icon": {
-				"url_format": "https://images.gog.com/a6d35db4603a64bf275627282c40e146fa022142d6589a4f594932db4a3ff5e9{formatter}.{ext}?namespace=gamesdb"
+				"url_format": "https://images.gog.com/6ce5d21c29eb567ffa77c4f8edf1c9eadc6612158a7687ca2fbfd14224206f5d{formatter}.{ext}?namespace=gamesdb"
 			},
 			"global_popularity_all_time": 0,
 			"global_popularity_current": 0,
-			"slug": "20-minutes-till-dawn-2022"
+			"slug": "redout-enhanced-edition-2016"
 		},
 		"title": {
-			"*": "20 Minutes Till Dawn",
-			"en-US": "20 Minutes Till Dawn"
+			"*": "Redout: Enhanced Edition",
+			"en-US": "Redout: Enhanced Edition"
 		},
 		"sorting_title": {
-			"*": "20 Minutes Till Dawn",
-			"en-US": "20 Minutes Till Dawn"
+			"*": "Redout Enhanced Edition",
+			"en-US": "Redout Enhanced Edition"
 		},
 		"type": "game",
 		"summary": {
-			"*": "Shoot down an ever growing horde of Lovecraftian monsters to survive the night. Choose from a variety of upgrades to create unique and game-breaking builds. Unlock a diverse cast of characters and weapons with unique powers.",
-			"en-US": "Shoot down an ever growing horde of Lovecraftian monsters to survive the night. Choose from a variety of upgrades to create unique and game-breaking builds. Unlock a diverse cast of characters and weapons with unique powers."
+			"*": "Redout is a tribute to the old racing monsters such as F-Zero, WipeOut, Rollcage, and POD. It is designed to be an uncompromising, fast, tough and satisfying driving experience, soaked in that vertigo that stands at the core of the arcade racing genre.",
+			"en-US": "Redout is a tribute to the old racing monsters such as F-Zero, WipeOut, Rollcage, and POD. It is designed to be an uncompromising, fast, tough and satisfying driving experience, soaked in that vertigo that stands at the core of the arcade racing genre."
 		},
 		"videos": [],
 		"game_modes": [
@@ -355,17 +233,21 @@
 				"id": "53051895165351137",
 				"name": "Single player",
 				"slug": "single-player"
+			},
+			{
+				"id": "53051898010278634",
+				"name": "Co-operative",
+				"slug": "co-operative"
+			},
+			{
+				"id": "53051908711988230",
+				"name": "Multiplayer",
+				"slug": "multiplayer"
 			}
 		],
-		"icon": {
-			"url_format": "https://images.gog.com/dc6e09d21833f3696ca9d9ff3f9b9758e71d669ef1f912c084a99d5f078c13dc{formatter}.{ext}?namespace=gamesdb"
-		},
-		"logo": {
-			"url_format": "https://images.gog.com/dc6e09d21833f3696ca9d9ff3f9b9758e71d669ef1f912c084a99d5f078c13dc{formatter}.{ext}?namespace=gamesdb"
-		},
-		"etag": "W/\"03e6bc842c92d35c089de4b224d99ec0\""
+		"etag": "W/\"18a881b82678bb3453ef4c6422a969c8\""
 	},
 	"__timestamp": {
-		"epic_4656facc740742a39e265b026e13d075": "Thu Aug 14 2025 18:44:54 GMT-0500 (hora estándar oriental)"
+		"epic_1be5efb848844b1dabf9d67f8017a7ae": "Sat Sep 27 2025 15:21:56 GMT-0500 (hora estándar oriental)"
 	}
 }

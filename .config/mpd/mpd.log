@@ -2789,3 +2789,7 @@
 2025-09-07T19:02:46 player: played "MF DOOM, DJ Cucumber Slice - Rhymes Like Dimes.mp3"
 2025-09-08T12:30:27 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
 2025-09-27T14:33:24 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-27T18:55:58 player: played "berlioz, Ted Jasper - nyc in 1940.mp3"
+2025-09-28T12:11:43 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use
+2025-09-28T12:11:53 player: played "berlioz, Ted Jasper - nyc in 1940.mp3"
+2025-09-28T12:12:18 exception: Failed to enable output "HTTP Stream" (httpd); Failed to bind to '127.0.0.1:6600'; Failed to bind socket: Address already in use

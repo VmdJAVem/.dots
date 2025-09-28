@@ -1,0 +1,35 @@
+00:00:00.062 |I| Configuration LogValueChange: ResScale set to: 1
+00:00:00.074 |I| Configuration LogValueChange: ResScaleCustom set to: 1
+00:00:00.074 |I| Configuration LogValueChange: MaxAnisotropy set to: -1
+00:00:00.075 |I| Configuration LogValueChange: AspectRatio set to: Fixed16x9
+00:00:00.448 |I| Configuration LogValueChange: PreferredGpu set to: 
+00:00:00.450 |I| Configuration LogValueChange: Language set to: AmericanEnglish
+00:00:00.450 |I| Configuration LogValueChange: Region set to: USA
+00:00:00.450 |I| Configuration LogValueChange: TimeZone set to: UTC
+00:00:00.450 |I| Configuration LogValueChange: EnableDockedMode set to: True
+00:00:00.459 |I| Configuration LogValueChange: CustomVSyncInterval set to: 120
+00:00:00.459 |I| Configuration LogValueChange: EnableShaderCache set to: True
+00:00:00.459 |I| Configuration LogValueChange: EnableMacroHLE set to: True
+00:00:00.459 |I| Configuration LogValueChange: ScalingFilterLevel set to: 80
+00:00:00.459 |I| Configuration LogValueChange: EnablePtc set to: True
+00:00:00.459 |I| Configuration LogValueChange: EnableFsIntegrityChecks set to: True
+00:00:00.460 |I| Configuration LogValueChange: AudioBackend set to: SDL2
+00:00:00.460 |I| Configuration LogValueChange: AudioVolume set to: 1
+00:00:00.462 |I| Configuration LogValueChange: MemoryManagerMode set to: HostMappedUnsafe
+00:00:00.462 |I| Configuration LogValueChange: UseHypervisor set to: True
+00:00:00.463 |I| Configuration LogValueChange: LdnPassphrase set to: 
+00:00:00.463 |I| Configuration LogValueChange: LdnServer set to: 
+00:00:00.600 |W| Application GetActualScaleFactor: Couldn't determine monitor DPI: Wayland not yet supported
+00:00:00.600 |N| Application PrintSystemInfo: Ryujinx Version: 1.3.2
+00:00:00.600 |N| Application PrintSystemInfo: .NET Runtime: .NET 9.0.5
+00:00:00.605 |N| Application PrintSystemInfo: Operating System: EndeavourOS (X64)
+00:00:00.605 |N| Application PrintSystemInfo: CPU: AMD Ryzen 5 7600X 6-Core Processor ; 12 logical
+00:00:00.608 |N| Application PrintSystemInfo: RAM: Total 30.5 GiB ; Available 23.4 GiB
+00:00:00.611 |N| Application PrintSystemInfo: Logs Enabled: Info, Warning, Error, Guest, Stub
+00:00:00.611 |N| Application PrintSystemInfo: Launch Mode: UserProfile
+00:00:00.862 |E| .NET TP Worker ATTENTION: default value of option mesa_glthread overridden by environment.
+00:00:00.894 |E| .NET TP Worker ATTENTION: default value of option mesa_glthread overridden by environment.
+00:00:00.896 |E| .NET TP Worker ATTENTION: default value of option mesa_glthread overridden by environment.
+00:00:11.384 |E| .NET TP Worker ATTENTION: default value of option mesa_glthread overridden by environment.
+00:00:15.141 |I| Application CheckGitLabVersionAsync: Checking for updates from https://update.ryujinx.app/latest/query?os=linux&arch=amd64&rc=stable.
+00:00:16.039 |I| Application BeginUpdateAsync: Up to date.

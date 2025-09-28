@@ -1,1 +1,62 @@
-{}
+{
+	"93ea0d593cb04e62afb0741bbf894173": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-redoutenhancededition-34bigthingssrl-s2-1200x1600-822bc80e5507.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "34BigThings SRL",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "34BigThings SRL",
+			"description": "Redout is the fastest game ever made. If you can handle it. It's not about the numbers you see on screen, it's about the vibrations, the landscape and buildings flying by, the high-speed collisions, the effects, the sounds, the immersion: everything is meant to feel like you're going FAST.\n\n![Redout: Enhanced Edition Image](https://cdn2.unrealengine.com/egs-redoutenhancededition-34bigthingssrl-g2-00-1920x1080-a33c7c5ff3c1.jpg)\n\n# Dynamic Soundtrack\n\nPrepare your ears for one of the most intense dynamic soundtracks you have ever heard. Redout enhances your experience and transcends visuals, immersing yourself in a mixture of sounds and music that adapts to your playstyle and your performance on the track.\n\n# Handling\n\nControl is the most important feeling when you are racing at 800km/h. Redout features believable physics derived from quad-copters controllers and real magnetic forces. We came up with the next generation in AG handling. There's always a way to face a corner without braking, but you have to prepare for it and use everything you've got. Steer, strafe and turbo out of a corner are the basics: upgrades and powerups will grant you even more control on your ship's behaviour. You'll need to dominate your ship before you face the advanced tracks.\n\n![Redout: Enhanced Edition Image] (https://cdn2.unrealengine.com/egs-redoutenhancededition-34bigthingssrl-g2-01-1920x1080-8d1643cbeb16.jpg)",
+			"shortDescription": "NEXT GENERATION AG RACING IS HERE! Redout is a tribute to the classic racing monsters. It is designed to be an uncompromising, fast, tough and satisfying driving experience, soaked in that vertigo that stands at the core of the arcade racing genre.",
+			"title": "Speed",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Requires a 64-bit processor and operating system - Windows 7",
+				"recommended": "Windows 10-11"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "i3 2.6Ghz",
+				"recommended": "i5 2.6Ghz"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "4 GB RAM",
+				"recommended": "8 GB RAM"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "6 GB available space",
+				"recommended": "6 GB available space"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Direct X",
+				"minimum": "11",
+				"recommended": "11"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "GTX 560 or equivalent",
+				"recommended": "GTX 960 or equivalent"
+			}
+		],
+		"releaseDate": "2022-05-19T15:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/redout-enhanced-edition"
+	},
+	"__timestamp": {
+		"93ea0d593cb04e62afb0741bbf894173": "Sat Sep 27 2025 15:17:54 GMT-0500 (hora estándar oriental)"
+	}
+}

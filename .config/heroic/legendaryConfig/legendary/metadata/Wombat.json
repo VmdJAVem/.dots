@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "Wombat",
       "asset_id": "Wombat",
-      "build_version": "2.42",
+      "build_version": "2.43",
       "catalog_item_id": "ec6ed5344a904ea78729113d80818d18",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -1112,6 +1112,164 @@
         "status": "ACTIVE",
         "title": "World War Z - Chibi Izzy Skin Pack",
         "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-08T18:35:19.870Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World War Z - Raging Phoenix Skin Pack",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "584490d9ce8f4da3b00c369ab3a320af",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "584490d9ce8f4da3b00c369ab3a320af",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "d69023f1100888ca025138946df86d20",
+            "size": 683718,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-09-19T16:36:04.787Z",
+            "url": "https://cdn1.epicgames.com/item/wombat/EGS_WorldWarZRagingPhoenixSkinPack_SaberInteractive_DLC_S2_1200x1600-d69023f1100888ca025138946df86d20",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-09-25T11:53:01.618Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World War Z - Raging Phoenix Skin Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-08T18:36:39.274Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "World War Z - Vibrant Halloween Skin Pack",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "7f7b9a23bf754e5e897aa5b09657f5b6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7f7b9a23bf754e5e897aa5b09657f5b6",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "e94f86f0c356d85c74993c1f2156c2f5",
+            "size": 661373,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-09-19T16:37:33.815Z",
+            "url": "https://cdn1.epicgames.com/item/wombat/EGS_WorldWarZVibrantHalloweenSkinPack_SaberInteractive_DLC_S2_1200x1600-e94f86f0c356d85c74993c1f2156c2f5",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-09-25T11:53:01.630Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "World War Z - Vibrant Halloween Skin Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-09-26T11:43:09.078Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "WWZxTWD DLC",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "be615ac26a484bf8b0d1499a4acf075b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "be615ac26a484bf8b0d1499a4acf075b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-26T11:43:09.078Z",
+        "mainGameItem": {
+          "id": "ec6ed5344a904ea78729113d80818d18",
+          "namespace": "wombat",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ec6ed5344a904ea78729113d80818d18",
+            "namespace": "wombat",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "wombat",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "WWZxTWD DLC",
+        "unsearchable": true
       }
     ],
     "endOfSupport": false,
@@ -1142,7 +1300,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2025-07-23T10:39:50.638Z",
+    "lastModifiedDate": "2025-09-26T11:43:09.089Z",
     "mainGameItemList": [],
     "namespace": "wombat",
     "releaseInfo": [

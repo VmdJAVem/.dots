@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "bcbc03d8812a44c18f41cf7d5f849265",
       "asset_id": "bcbc03d8812a44c18f41cf7d5f849265",
-      "build_version": "1.19.2-f3-fixed",
+      "build_version": "1.20.1-f1-e8",
       "catalog_item_id": "ee3c9b2831cf4e8c9a6dc407bcb2890a",
       "label_name": "Live-Windows",
       "metadata": {
@@ -632,7 +632,6 @@
           "egstore"
         ],
         "id": "2af21efd1c084bda89f575a749053320",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-01-16T16:03:26.604Z",
@@ -973,7 +972,6 @@
           "egstore"
         ],
         "id": "dc8c6d35cb3844e78b9c83a1b37ac0b7",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2024-01-16T16:03:26.620Z",
@@ -1846,7 +1844,6 @@
           "egstore"
         ],
         "id": "3b6f54481d9848fbbf78d22bb9578d72",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2022-06-16T15:00:53.135Z",
@@ -2042,7 +2039,6 @@
           "egstore"
         ],
         "id": "1104b06cc46744888e76129ac657e443",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2022-06-16T15:00:53.132Z",
@@ -2384,7 +2380,6 @@
           "egstore"
         ],
         "id": "147e2c24d1464e4e886e079c90e066a0",
-        "installModes": [],
         "itemType": "DURABLE",
         "keyImages": [],
         "lastModifiedDate": "2022-06-16T15:00:53.133Z",
@@ -3423,6 +3418,234 @@
         "status": "ACTIVE",
         "title": "Project Cailler",
         "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-03T10:52:39.681Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Cities: Skylines - CCP: Shops of Shibuya",
+        "developer": "Paradox Interactive",
+        "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+        "endOfSupport": false,
+        "entitlementName": "8b62909950184906bf45ef321750da18",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8b62909950184906bf45ef321750da18",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "9ca6c18f62b61dd45f3b620497835a24",
+            "size": 772301,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-09-01T11:09:43.893Z",
+            "url": "https://cdn1.epicgames.com/item/6009be9994c2409099588cde6f3a5ed0/EGS_CitiesSkylinesCCPShopsofShibuya_StopitD_DLC_S2_1200x1600-9ca6c18f62b61dd45f3b620497835a24",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-09-09T14:56:20.815Z",
+        "mainGameItem": {
+          "id": "ee3c9b2831cf4e8c9a6dc407bcb2890a",
+          "namespace": "6009be9994c2409099588cde6f3a5ed0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ee3c9b2831cf4e8c9a6dc407bcb2890a",
+            "namespace": "6009be9994c2409099588cde6f3a5ed0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6009be9994c2409099588cde6f3a5ed0",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Cities: Skylines - CCP: Shops of Shibuya",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-03T11:07:35.603Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Cities: Skylines - Shops of Shibuya Bundle",
+        "developer": "Paradox Interactive",
+        "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+        "endOfSupport": false,
+        "entitlementName": "f41d812ea8bb43dd9e540010d180e5cc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f41d812ea8bb43dd9e540010d180e5cc",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "d88d9427775a15ce9a7742ac7d0231f5",
+            "size": 525707,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-09-01T11:39:08.790Z",
+            "url": "https://cdn1.epicgames.com/item/6009be9994c2409099588cde6f3a5ed0/EGS_CitiesSkylinesShopsofShibuyaBundle_StopitDUncleRonParadoxInteractive_Bundles_S2_1200x1600-d88d9427775a15ce9a7742ac7d0231f5",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-09-09T14:56:20.820Z",
+        "mainGameItem": {
+          "id": "ee3c9b2831cf4e8c9a6dc407bcb2890a",
+          "namespace": "6009be9994c2409099588cde6f3a5ed0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ee3c9b2831cf4e8c9a6dc407bcb2890a",
+            "namespace": "6009be9994c2409099588cde6f3a5ed0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6009be9994c2409099588cde6f3a5ed0",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Cities: Skylines - Shops of Shibuya Bundle",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-03T11:06:36.385Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Cities: Skylines - Harumi Nights FM",
+        "developer": "Paradox Interactive",
+        "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+        "endOfSupport": false,
+        "entitlementName": "f95365ad24974c7d8a8a91b76d6b3961",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f95365ad24974c7d8a8a91b76d6b3961",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "889ab73e1fe3904c463557b77ef4111b",
+            "size": 449460,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-09-01T11:30:53.096Z",
+            "url": "https://cdn1.epicgames.com/item/6009be9994c2409099588cde6f3a5ed0/EGS_CitiesSkylinesHarumiNightsFM_ParadoxInteractive_DLC_S2_1200x1600-889ab73e1fe3904c463557b77ef4111b",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-09-09T14:56:20.822Z",
+        "mainGameItem": {
+          "id": "ee3c9b2831cf4e8c9a6dc407bcb2890a",
+          "namespace": "6009be9994c2409099588cde6f3a5ed0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ee3c9b2831cf4e8c9a6dc407bcb2890a",
+            "namespace": "6009be9994c2409099588cde6f3a5ed0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6009be9994c2409099588cde6f3a5ed0",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Cities: Skylines - Harumi Nights FM",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-06-03T11:04:50.208Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Cities: Skylines - CCP: Map Pack 4",
+        "developer": "Paradox Interactive",
+        "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+        "endOfSupport": false,
+        "entitlementName": "d89f57cd20204959878519aff5266815",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d89f57cd20204959878519aff5266815",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "8470eeaf9f735fce634c042b22ad46be",
+            "size": 629810,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-09-01T11:23:36.326Z",
+            "url": "https://cdn1.epicgames.com/item/6009be9994c2409099588cde6f3a5ed0/EGS_CitiesSkylinesCCPMapPack4_UncleRon_DLC_S2_1200x1600-8470eeaf9f735fce634c042b22ad46be",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-09-09T14:56:20.819Z",
+        "mainGameItem": {
+          "id": "ee3c9b2831cf4e8c9a6dc407bcb2890a",
+          "namespace": "6009be9994c2409099588cde6f3a5ed0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ee3c9b2831cf4e8c9a6dc407bcb2890a",
+            "namespace": "6009be9994c2409099588cde6f3a5ed0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6009be9994c2409099588cde6f3a5ed0",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Cities: Skylines - CCP: Map Pack 4",
+        "unsearchable": true
       }
     ],
     "endOfSupport": false,
@@ -3432,7 +3655,6 @@
       "(egstore && paradoxinteractive)"
     ],
     "id": "ee3c9b2831cf4e8c9a6dc407bcb2890a",
-    "installModes": [],
     "itemType": "DURABLE",
     "keyImages": [
       {
@@ -3454,7 +3676,7 @@
         "width": 2560
       }
     ],
-    "lastModifiedDate": "2025-02-19T11:19:00.037Z",
+    "lastModifiedDate": "2025-09-09T14:56:20.894Z",
     "mainGameItemList": [],
     "namespace": "6009be9994c2409099588cde6f3a5ed0",
     "releaseInfo": [

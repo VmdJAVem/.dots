@@ -163,6 +163,7 @@ format = '[[ $symbol( $version)( $environment) ](fg:color_fg0 bg:color_bg3)]($st
 
 [time]
 disabled = false
+use_12hr = true
 time_format = "%R"
 style = "bg:color_bg1"
 format = '[[  $time ](fg:color_fg0 bg:color_bg1)]($style)'
@@ -172,9 +173,9 @@ disabled = false
 
 [character]
 disabled = false
-success_symbol = '[](bold fg:color_green)'
-error_symbol = '[](bold fg:color_red)'
-vimcmd_symbol = '[](bold fg:color_green)'
-vimcmd_replace_one_symbol = '[](bold fg:color_purple)'
-vimcmd_replace_symbol = '[](bold fg:color_purple)'
-vimcmd_visual_symbol = '[](bold fg:color_yellow)'
+success_symbol = '[❯](bold fg:color_green)'
+error_symbol = '[❯](bold fg:color_red)'
+vimcmd_symbol = '[󰅁](bold fg:color_green)'
+vimcmd_replace_one_symbol = '[󰅁](bold fg:color_purple)'
+vimcmd_replace_symbol = '[󰅁](bold fg:color_purple)'
+vimcmd_visual_symbol = '[󰅁](bold fg:color_yellow)'
