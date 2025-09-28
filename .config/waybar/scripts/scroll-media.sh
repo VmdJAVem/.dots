@@ -1,7 +1,7 @@
 #!/bin/bash
 
 MAX_LENGTH=25
-SCROLL_SPEED=0.3
+SCROLL_SPEED=2
 
 get_media_info() {
 	playerctl metadata --format '{{ artist }} - {{ title }}' 2>/dev/null || echo ""
