@@ -1,0 +1,76 @@
+    OpenRGB v0.9+ (git1660)
+    Commit: 93dd7f21226f93a7b5ddd49c1eed89ed9d535e54 from 2025-09-28 01:57:07 -0500
+    Launched: 20250928_140538
+====================================================================================================
+
+0     |Info:    [ProfileManager] Found file: lol.orp attempting to validate header
+0     |Info:    [ProfileManager] Valid v5 profile found for lol
+0     |Info:    [ProfileManager] Found file: Verde.orp attempting to validate header
+0     |Info:    [ProfileManager] Valid v5 profile found for Verde
+0     |Info:    [ProfileManager] Found file: Rojo.orp attempting to validate header
+0     |Info:    [ProfileManager] Valid v5 profile found for Rojo
+0     |Info:    [ProfileManager] Found file: rosa.orp attempting to validate header
+0     |Info:    [ProfileManager] Valid v5 profile found for rosa
+0     |Info:    [ProfileManager] Found file: Turquesa\.orp attempting to validate header
+0     |Info:    [ProfileManager] Valid v5 profile found for Turquesa\
+0     |Info:    [ProfileManager] Found file: free.orp attempting to validate header
+0     |Info:    [ProfileManager] Valid v5 profile found for free
+52    |Info:    [ResourceManager] Initializing HID interfaces: Success
+52    |Info:    ------------------------------------------------------
+52    |Info:    |               Start device detection               |
+52    |Info:    ------------------------------------------------------
+63    |Info:    ------------------------------------------------------
+63    |Info:    |             Detecting I2C interfaces               |
+63    |Info:    ------------------------------------------------------
+63    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-3 Device 1002:747E Subsystem: 1DA2:F475
+63    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+63    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-10 Device 0000:0000 Subsystem: 0000:0000
+63    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-1 Device 1022:790B Subsystem: 1462:7E26
+63    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+64    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-17 Device 0000:0000 Subsystem: 0000:0000
+64    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-8 Device 1002:747E Subsystem: 1DA2:F475
+64    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-15 Device 1002:164E Subsystem: 1462:7E26
+74    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-6 Device 1002:747E Subsystem: 1DA2:F475
+74    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-13 Device 1002:164E Subsystem: 1462:7E26
+74    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-4 Device 1002:747E Subsystem: 1DA2:F475
+74    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+74    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-11 Device 0000:0000 Subsystem: 0000:0000
+74    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-2 Device 1022:790B Subsystem: 1462:7E26
+75    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-0 Device 1022:790B Subsystem: 1462:7E26
+75    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+75    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-18 Device 0000:0000 Subsystem: 0000:0000
+75    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-9 Device 1002:747E Subsystem: 1DA2:F475
+75    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+75    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-16 Device 0000:0000 Subsystem: 0000:0000
+75    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-7 Device 1002:747E Subsystem: 1DA2:F475
+75    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-14 Device 1002:164E Subsystem: 1462:7E26
+75    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-5 Device 1002:747E Subsystem: 1DA2:F475
+75    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-12 Device 1002:164E Subsystem: 1462:7E26
+75    |Info:    ------------------------------------------------------
+75    |Info:    |               Detecting I2C devices                |
+75    |Info:    ------------------------------------------------------
+439   |Info:    [ENE DRAM] Registering RGB controller
+685   |Info:    [ENE DRAM] Registering RGB controller
+1584  |Info:    ------------------------------------------------------
+1584  |Info:    |            Detecting I2C DIMM modules              |
+1584  |Info:    ------------------------------------------------------
+1678  |Info:    [ResourceManager] Detected occupied slot 2, bus 11, type DDR5
+1683  |Info:    [ResourceManager] Detected occupied slot 4, bus 11, type DDR5
+1702  |Info:    ------------------------------------------------------
+1702  |Info:    |               Detecting I2C PCI devices            |
+1702  |Info:    ------------------------------------------------------
+1741  |Info:    [Sapphire Radeon RX 7700 XT Nitro+] Registering RGB controller
+1754  |Info:    ------------------------------------------------------
+1754  |Info:    |               Detecting HID devices                |
+1754  |Info:    ------------------------------------------------------
+1819  |Info:    [MSI B650 GAMING PLUS WIFI (MS-7E26)] Registering RGB controller
+1821  |Info:    ------------------------------------------------------
+1821  |Info:    |            Detecting libusb HID devices            |
+1821  |Info:    ------------------------------------------------------
+1904  |Info:    ------------------------------------------------------
+1904  |Info:    |              Detecting other devices               |
+1904  |Info:    ------------------------------------------------------
+1977  |Info:    [ResourceManager] Calling Post-detection callbacks
+1977  |Info:    ------------------------------------------------------
+1977  |Info:    |                Detection completed                 |
+1977  |Info:    ------------------------------------------------------

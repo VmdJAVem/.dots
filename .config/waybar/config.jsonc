@@ -27,15 +27,15 @@
 			"1": [],
 			"2": [],
 			"3": [],
-			"4": [],
+			"4": []
 		}
 	},
 	"clock": {
-		"format": "{:%H:%M - %b %d}",
+		"format": "{:%H:%M - %b %d}"
 	},
 	"cpu": {
 		"format": "\uf2db {usage}%",
-		// "on-click": "kitty -c 'Floating Terminal' -e htop"
+		"on-click": "kitty -e btop"
 	},
 	"memory": {
 		"interval": 30,
@@ -44,7 +44,8 @@
 	"network": {
 		"format-wifi": "\uf1eb",
 		"format-ethernet": "\uf796",
-		"format-disconnected": "\uf127 ⚠"
+		"format-disconnected": "\uf127 ⚠",
+		"on-click": "kitty -e nmtui"
 	},
 	"custom/power": {
 		"format": "\uf011",
