@@ -11,6 +11,7 @@
 	"modules-right": [
 		"cpu",
 		"memory",
+		"tray",
 		"network",
 		"custom/brightness",
 		"pulseaudio",
@@ -40,6 +41,10 @@
 	"memory": {
 		"interval": 30,
 		"format": "\uf1b2 {percentage}%"
+	},
+	"tray": {
+		"icon-size": 16,
+		"spacing": 8
 	},
 	"network": {
 		"format-wifi": "\uf1eb",

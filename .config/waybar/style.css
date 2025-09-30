@@ -39,7 +39,7 @@ window#waybar {
 
 #workspaces button.active label {
   background: transparent;
-  color: #458588;
+  color: #98971A;
 }
 
 #workspaces button {
@@ -49,6 +49,19 @@ window#waybar {
 #clock,
 #cpu,
 #memory,
+#tray {
+  background: rgba(40, 40, 40, 0.8);
+  border: 1px solid rgba(168, 153, 132, 0.6);
+  border-radius: 30px;
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-right: 10px;
+  padding: 0px 12px;
+}
+
+#tray:hover {
+  background: rgba(80, 80, 80, 0.8);
+}
 #network,
 #custom-power,
 #custom-brightness,

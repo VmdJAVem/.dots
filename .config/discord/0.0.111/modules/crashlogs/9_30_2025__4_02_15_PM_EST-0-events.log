@@ -1,0 +1,36 @@
+9/30/2025, 4:02:15 PM EST 0: 
+
+----------------------------------------------
+9/30/2025, 4:02:15 PM EST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.111"}, modulepath: /home/vmdjavem/.config/discord/0.0.111/modules
+9/30/2025, 4:02:15 PM EST 2: ✅ webContents.created web1 "index.html"
+9/30/2025, 4:02:15 PM EST 3: ✅ window.created win1 "discord"
+9/30/2025, 4:02:15 PM EST 4: ✅ webContents.did-finish-load web1
+9/30/2025, 4:02:23 PM EST 5: ✅ webContents.created web2 ""
+9/30/2025, 4:02:23 PM EST 6: ✅ window.created win2 "Discord"
+9/30/2025, 4:02:25 PM EST 7: window.close win1
+9/30/2025, 4:02:25 PM EST 8: webContents.destroyed web1
+9/30/2025, 4:02:25 PM EST 9: window.closed win1
+9/30/2025, 4:02:26 PM EST 10: ✅ webContents.did-finish-load web2
+9/30/2025, 4:03:02 PM EST 11: ✅ webContents.did-finish-load web2
+9/30/2025, 4:05:28 PM EST 12: ✅ webContents.did-finish-load web2
+9/30/2025, 4:07:45 PM EST 13: window.close win2
+9/30/2025, 4:15:34 PM EST 0: 
+
+----------------------------------------------
+9/30/2025, 4:15:34 PM EST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.111"}, modulepath: /home/vmdjavem/.config/discord/0.0.111/modules
+9/30/2025, 4:15:43 PM EST 14: window.close win2
+9/30/2025, 4:15:47 PM EST 0: 
+
+----------------------------------------------
+9/30/2025, 4:15:47 PM EST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.111"}, modulepath: /home/vmdjavem/.config/discord/0.0.111/modules
+9/30/2025, 4:17:41 PM EST 15: window.close win2
+9/30/2025, 4:18:24 PM EST 0: 
+
+----------------------------------------------
+9/30/2025, 4:18:24 PM EST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.111"}, modulepath: /home/vmdjavem/.config/discord/0.0.111/modules
+9/30/2025, 4:18:33 PM EST 16: window.close win2
+9/30/2025, 4:18:35 PM EST 0: 
+
+----------------------------------------------
+9/30/2025, 4:18:35 PM EST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.111"}, modulepath: /home/vmdjavem/.config/discord/0.0.111/modules
+9/30/2025, 4:26:31 PM EST 17: window.close win2
