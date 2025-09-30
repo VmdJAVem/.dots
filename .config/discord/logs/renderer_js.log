@@ -2522,3 +2522,10 @@
 [2025-09-30 16:36:50.231] [info]  [discord_protos.discord_users.v1.PreloadedUserSettings] Persisting proto
 [2025-09-30 16:36:54.352] [error] ResizeObserver loop completed with undelivered notifications.
 [2025-09-30 16:36:59.930] [error] ResizeObserver loop completed with undelivered notifications.
+[2025-09-30 17:11:21.851] [info]  [Routing/Utils] transitionTo - Transitioning to /discovery/servers
+[2025-09-30 17:11:41.891] [info]  [Routing/Utils] transitionTo - Transitioning to /discovery/servers
+[2025-09-30 17:11:56.524] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/601302800386883611/708855372961808455
+[2025-09-30 17:11:56.525] [info]  [MessageActionCreators] Fetching messages for 708855372961808455 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2025-09-30 17:11:56.840] [info]  [MessageActionCreators] Fetched 7 messages for 708855372961808455 isBefore:false isAfter:false
+[2025-09-30 17:11:56.841] [info]  [ChannelMessages] loadComplete: resetting state for channelId=708855372961808455, sending.length=0
+[2025-09-30 17:12:29.798] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/1421948197772988458/1421948198896795860
