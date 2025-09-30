@@ -1,7 +1,5 @@
-ags-hyprpanel-git
 ansilove
 appmenu-glib-translator-git
-aquamarine-git
 asciiquarium-transparent-git
 aylurs-gtk-shell-git
 balena-etcher-bin
@@ -25,16 +23,8 @@ helm-synth-standalone
 helm-synth-vst
 heroic-games-launcher-bin
 hq
-hyprcursor-git
-hyprgraphics-git
-hyprland-git
 hyprland-protocols-git
-hyprland-qt-support-git
-hyprland-qtutils-git
-hyprlang-git
-hyprsunset-git
 hyprsysteminfo
-hyprutils-git
 hyprwayland-scanner-git
 jdk-lts
 kitget
@@ -80,6 +70,7 @@ python-vdf
 rpcs3-latest-bin
 ryujinx-bin
 sddm-theme-greenleaf
+shell-color-scripts-git
 sitala-bin
 snapd
 snapd-glib
