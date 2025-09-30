@@ -2511,3 +2511,14 @@
 [2025-09-30 16:26:24.193] [info]  [MessageQueue] Draining message from queue LogId:3078 QueueLength: 0
 [2025-09-30 16:26:24.193] [info]  [MessageQueue] Draining Message Queue with:  0
 [2025-09-30 16:26:25.278] [info]  [MessageQueue] Finished draining message from queue LogId:3078 QueueLength: 0
+[2025-09-30 16:35:24.633] [error] ResizeObserver loop completed with undelivered notifications.
+[2025-09-30 16:36:33.704] [info]  [RPCServer:WSS] Socket Opened: 8
+[2025-09-30 16:36:33.710] [info]  [RPCServer:WSS] Socket Emit: 8 [object Object]
+[2025-09-30 16:36:33.712] [info]  [RPCServer:WSS] Socket Message: 8 [object Object]
+[2025-09-30 16:36:33.713] [info]  [RPCServer:WSS] Socket Emit: 8 [object Object]
+[2025-09-30 16:36:33.713] [info]  [RPCServer:WSS] Socket Closed: 8, code 1005, message 
+[2025-09-30 16:36:50.198] [info]  [discord_protos.discord_users.v1.PreloadedUserSettings] Updating userContent with delay 0
+[2025-09-30 16:36:50.202] [info]  [discord_protos.discord_users.v1.PreloadedUserSettings] Scheduling save from markDirty
+[2025-09-30 16:36:50.231] [info]  [discord_protos.discord_users.v1.PreloadedUserSettings] Persisting proto
+[2025-09-30 16:36:54.352] [error] ResizeObserver loop completed with undelivered notifications.
+[2025-09-30 16:36:59.930] [error] ResizeObserver loop completed with undelivered notifications.
