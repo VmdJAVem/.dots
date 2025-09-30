@@ -34,6 +34,7 @@ cups-browsed
 cups-filters
 device-mapper
 diffutils
+discord
 dmidecode
 dmraid
 dnsmasq
