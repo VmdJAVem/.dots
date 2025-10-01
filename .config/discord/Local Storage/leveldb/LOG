@@ -1,0 +1,6 @@
+2025/10/01-11:43:03.258 2f1d Reusing MANIFEST /home/vmdjavem/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/10/01-11:43:03.266 2f1d Recovering log #6
+2025/10/01-11:43:03.267 2f1d Reusing old log /home/vmdjavem/.config/discord/Local Storage/leveldb/000006.log 
+2025/10/01-11:48:12.843 2f1e Level-0 table #10: started
+2025/10/01-11:48:12.858 2f1e Level-0 table #10: 2051937 bytes OK
+2025/10/01-11:48:12.861 2f1e Delete type=0 #6

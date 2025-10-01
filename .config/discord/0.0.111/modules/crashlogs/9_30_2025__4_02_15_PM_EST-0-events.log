@@ -46,3 +46,38 @@
 9/30/2025, 4:45:16 PM EST 20: window.close win2
 9/30/2025, 4:54:57 PM EST 21: window.close win2
 9/30/2025, 5:12:30 PM EST 22: window.close win2
+9/30/2025, 6:44:39 PM EST 0: 
+
+----------------------------------------------
+9/30/2025, 6:44:39 PM EST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.111"}, modulepath: /home/vmdjavem/.config/discord/0.0.111/modules
+9/30/2025, 6:47:37 PM EST 23: before-quit
+9/30/2025, 6:47:37 PM EST 24: window.close win2
+9/30/2025, 6:47:37 PM EST 25: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+9/30/2025, 6:47:37 PM EST 26: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+10/1/2025, 11:43:03 AM EST 0: 
+
+----------------------------------------------
+10/1/2025, 11:43:03 AM EST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.111"}, modulepath: /home/vmdjavem/.config/discord/0.0.111/modules
+10/1/2025, 11:43:03 AM EST 2: ✅ webContents.created web1 ""
+10/1/2025, 11:43:03 AM EST 3: ✅ window.created win1 "discord"
+10/1/2025, 11:43:03 AM EST 4: ✅ webContents.did-finish-load web1
+10/1/2025, 11:43:04 AM EST 5: ✅ webContents.created web2 ""
+10/1/2025, 11:43:04 AM EST 6: ✅ window.created win2 "Discord"
+10/1/2025, 11:43:06 AM EST 7: window.close win1
+10/1/2025, 11:43:06 AM EST 8: webContents.destroyed web1
+10/1/2025, 11:43:06 AM EST 9: window.closed win1
+10/1/2025, 11:43:07 AM EST 10: ❌ webContents.did-fail-load web2" -3 
+10/1/2025, 11:43:07 AM EST 11: ✅ webContents.did-finish-load web2
+10/1/2025, 11:43:49 AM EST 12: window.close win2

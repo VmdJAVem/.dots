@@ -74655,8 +74655,8 @@
 		},
 		{
 			"app_name": "a79746038c6948558274065d24f3faa3",
-			"art_cover": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-6zopb.jpg",
-			"art_square": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-gv7fs.jpg",
+			"art_cover": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-kc2ji.jpg",
+			"art_square": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-16h83.jpg",
 			"cloud_save_enabled": true,
 			"developer": "Wargaming Group Limited",
 			"extra": {
@@ -80648,6 +80648,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Sun Sep 28 2025 14:34:31 GMT-0500 (hora estándar oriental)"
+		"library": "Wed Oct 01 2025 11:43:58 GMT-0500 (hora estándar oriental)"
 	}
 }

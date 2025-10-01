@@ -127,7 +127,7 @@
     {
       "app_name": "33030b24b1df4dd5b6bcfb0314c17f39",
       "asset_id": "33030b24b1df4dd5b6bcfb0314c17f39",
-      "build_version": "768",
+      "build_version": "769",
       "catalog_item_id": "975a3a2eca7c42ca9c610443ab0ae0bd",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -310,7 +310,7 @@
     {
       "app_name": "5f1c66366b2c4a6496d535d88c56e6cf",
       "asset_id": "5f1c66366b2c4a6496d535d88c56e6cf",
-      "build_version": "v4.52.368416",
+      "build_version": "v4.52.369083",
       "catalog_item_id": "32bee0727be540b39de0ef46bcc7451d",
       "label_name": "Live-Windows",
       "metadata": {
@@ -322,7 +322,7 @@
     {
       "app_name": "8931f79300d04c5889799bffc8ef70bd",
       "asset_id": "8931f79300d04c5889799bffc8ef70bd",
-      "build_version": "v4.52.368416",
+      "build_version": "v4.52.369083",
       "catalog_item_id": "e4a26034afd849728f0afc5aeae85863",
       "label_name": "Live-Windows",
       "metadata": {
@@ -505,7 +505,7 @@
     {
       "app_name": "a79746038c6948558274065d24f3faa3",
       "asset_id": "a79746038c6948558274065d24f3faa3",
-      "build_version": "14.8.0.0.10536618-10542532-multiversion",
+      "build_version": "14.9.0.0.10695045-10716002-multiversion",
       "catalog_item_id": "b9e23e5fa8e84064b356677022beb37a",
       "label_name": "Live-Windows",
       "metadata": {
@@ -953,7 +953,7 @@
     {
       "app_name": "9361c8c6d2f34b42b5f2f61093eedf48",
       "asset_id": "9361c8c6d2f34b42b5f2f61093eedf48",
-      "build_version": "37.2.2.3",
+      "build_version": "37.2.2.7",
       "catalog_item_id": "498ff2997ac2491a9fc7c0e95991afd8",
       "label_name": "Live-Windows",
       "metadata": {
