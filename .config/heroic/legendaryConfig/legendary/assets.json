@@ -127,7 +127,7 @@
     {
       "app_name": "33030b24b1df4dd5b6bcfb0314c17f39",
       "asset_id": "33030b24b1df4dd5b6bcfb0314c17f39",
-      "build_version": "769",
+      "build_version": "770",
       "catalog_item_id": "975a3a2eca7c42ca9c610443ab0ae0bd",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -344,7 +344,7 @@
     {
       "app_name": "0a2d9f6403244d12969e11da6713137b",
       "asset_id": "0a2d9f6403244d12969e11da6713137b",
-      "build_version": "EGS_10783",
+      "build_version": "EGS_10932",
       "catalog_item_id": "38ec4849ea4f4de6aa7b6fb0f2d278e1",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -603,7 +603,7 @@
     {
       "app_name": "Sugar",
       "asset_id": "Sugar",
-      "build_version": "BC2_Update56+495700",
+      "build_version": "BC2_Update56+497573",
       "catalog_item_id": "530145df28a24424923f5828cc9031a1",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -901,7 +901,7 @@
     {
       "app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
       "asset_id": "8b6a0e1413744785a43c9f9f9547b4d6",
-      "build_version": "aircombat_store_windows_e75b5977_2025-09-17_19-43",
+      "build_version": "aircombat_store_windows_fef11d18_2025-09-30_13-53",
       "catalog_item_id": "37bdf2283730476b89fa027acfab7491",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -1035,7 +1035,7 @@
     {
       "app_name": "Fortnite",
       "asset_id": "Fortnite",
-      "build_version": "++Fortnite+Release-37.31-CL-46047957-Windows",
+      "build_version": "++Fortnite+Release-37.40-CL-46295673-Windows",
       "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
       "label_name": "Live-Windows",
       "metadata": {

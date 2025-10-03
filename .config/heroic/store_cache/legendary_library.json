@@ -10497,8 +10497,8 @@
 		},
 		{
 			"app_name": "Fortnite",
-			"art_cover": "https://cdn1.epicgames.com/item/fn/FNBR_37-00_C6S4_EGS_Launcher_KeyArt_FNLogo_Carousel_PDP_2560x1440_logo_2560x1440-04348f5d3d52391f572e8c1050ddc737",
-			"art_square": "https://cdn1.epicgames.com/item/fn/FNBR_37-00_C6S4_EGS_Launcher_KeyArt_FNLogo_Blade_1200x1600_1200x1600-0924136c90b79f9006796f69f24a07f6",
+			"art_cover": "https://cdn1.epicgames.com/item/fn/FNECO_37-40_Refrigerator_FN_EGS_Launcher_Blades_2560x1440_2560x1440-4bcb03c198aff3067eeaef2d2fea02f0",
+			"art_square": "https://cdn1.epicgames.com/item/fn/FNECO_37-40_Refrigerator_FN_EGS_Launcher_Blades_Portrait_1200x1600_1200x1600-4e3244eaf2fa7d523bab0525abbc3565",
 			"cloud_save_enabled": false,
 			"developer": "Epic Games",
 			"extra": {
@@ -11429,24 +11429,24 @@
 					"keyImages": [
 						{
 							"height": 1600,
-							"md5": "c7e770e6ccbe9b5cb2bd1fde681755aa",
-							"size": 387861,
+							"md5": "42a49dea10244800fe63de62c4fd8e33",
+							"size": 1654815,
 							"type": "DieselGameBoxTall",
-							"uploadedDate": "2025-08-06T23:23:24.638Z",
-							"url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFigment_37-00_C1S5_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-c7e770e6ccbe9b5cb2bd1fde681755aa",
+							"uploadedDate": "2025-09-25T23:34:30.816Z",
+							"url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFigment_37-00_C1S6_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-42a49dea10244800fe63de62c4fd8e33",
 							"width": 1200
 						},
 						{
 							"height": 1440,
-							"md5": "fe3f2dbe12b91fc25495aa104db94f2a",
-							"size": 677316,
+							"md5": "e41425529e9d89801941356bb1429b6b",
+							"size": 2596096,
 							"type": "DieselGameBox",
-							"uploadedDate": "2025-08-06T23:23:27.442Z",
-							"url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFigment_37-00_C1S5_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-fe3f2dbe12b91fc25495aa104db94f2a",
+							"uploadedDate": "2025-09-25T23:34:33.657Z",
+							"url": "https://cdn1.epicgames.com/item/fn/ES-MX_FNFigment_37-00_C1S6_EGS_Launcher_KeyArt_Carousel_PDP_2560x1440_logo_2560x1440-e41425529e9d89801941356bb1429b6b",
 							"width": 2560
 						}
 					],
-					"lastModifiedDate": "2025-08-07T06:26:15.504Z",
+					"lastModifiedDate": "2025-10-02T08:25:24.565Z",
 					"mainGameItem": {
 						"id": "4fe75bbc5a674f4f9b356b5c90567da5",
 						"namespace": "fn",
@@ -80648,6 +80648,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Wed Oct 01 2025 11:43:58 GMT-0500 (hora estándar oriental)"
+		"library": "Fri Oct 03 2025 14:03:54 GMT-0500 (hora estándar oriental)"
 	}
 }

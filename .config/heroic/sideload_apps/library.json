@@ -74,42 +74,6 @@
 		},
 		{
 			"runner": "sideload",
-			"app_name": "vAQSv9WnJz3njNcvgtbeJh",
-			"title": "Red Dead Redemption 2",
-			"install": {
-				"executable": "/home/vmdjavem/Games/Red Dead Redemption 2/Launcher.exe",
-				"platform": "Windows",
-				"is_dlc": false
-			},
-			"folder_name": "/home/vmdjavem/Games/Red Dead Redemption 2",
-			"art_cover": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/3940304b536796dcc176aa83203a3955.png",
-			"is_installed": true,
-			"art_square": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/3940304b536796dcc176aa83203a3955.png",
-			"canRunOffline": true,
-			"browserUrl": "",
-			"customUserAgent": "",
-			"launchFullScreen": false
-		},
-		{
-			"runner": "sideload",
-			"app_name": "o3MqKowmSbzHwcxR4u3cJx",
-			"title": "Red Dead Redemption 2",
-			"install": {
-				"executable": "/home/vmdjavem/Games/Red Dead Redemption 2/Launcher.exe",
-				"platform": "Windows",
-				"is_dlc": false
-			},
-			"folder_name": "/home/vmdjavem/Games/Red Dead Redemption 2",
-			"art_cover": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/3940304b536796dcc176aa83203a3955.png",
-			"is_installed": true,
-			"art_square": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/3940304b536796dcc176aa83203a3955.png",
-			"canRunOffline": true,
-			"browserUrl": "",
-			"customUserAgent": "",
-			"launchFullScreen": false
-		},
-		{
-			"runner": "sideload",
 			"app_name": "6UeWpxLjFxM5HwdoSg7h8H",
 			"title": "Red Dead Redemption 2",
 			"install": {

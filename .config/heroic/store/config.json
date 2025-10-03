@@ -10,9 +10,9 @@
 	"language": "en",
 	"window-props": {
 		"x": 967,
-		"y": 57,
+		"y": 51,
 		"width": 943,
-		"height": 1013,
+		"height": 1019,
 		"maximized": false
 	},
 	"theme": "gruvbox_dark",
@@ -68,10 +68,6 @@
 		"recent": [
 			{
 				"appName": "6UeWpxLjFxM5HwdoSg7h8H",
-				"title": "Red Dead Redemption 2"
-			},
-			{
-				"appName": "vAQSv9WnJz3njNcvgtbeJh",
 				"title": "Red Dead Redemption 2"
 			},
 			{

@@ -1,0 +1,18 @@
+2025/10/03-15:48:08.081 161c9 Reusing MANIFEST /home/vmdjavem/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/10/03-15:48:08.084 161c9 Recovering log #11
+2025/10/03-15:48:08.102 161c9 Level-0 table #14: started
+2025/10/03-15:48:08.115 161c9 Level-0 table #14: 2233890 bytes OK
+2025/10/03-15:48:08.117 161c9 Delete type=0 #11
+2025/10/03-15:54:58.301 161ca Level-0 table #17: started
+2025/10/03-15:54:58.315 161ca Level-0 table #17: 2230415 bytes OK
+2025/10/03-15:54:58.316 161ca Delete type=0 #15
+2025/10/03-15:54:58.316 161ca Compacting 4@0 + 1@1 files
+2025/10/03-15:54:58.347 161ca Generated table #18@0: 29 keys, 2227501 bytes
+2025/10/03-15:54:58.349 161ca Generated table #19@0: 153 keys, 19532 bytes
+2025/10/03-15:54:58.349 161ca Compacted 4@0 + 1@1 files => 2247033 bytes
+2025/10/03-15:54:58.350 161ca compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/10/03-15:54:58.350 161ca Delete type=2 #14
+2025/10/03-15:54:58.350 161ca Delete type=2 #12
+2025/10/03-15:54:58.350 161ca Delete type=2 #10
+2025/10/03-15:54:58.350 161ca Delete type=2 #17
+2025/10/03-15:54:58.350 161ca Delete type=2 #7
